@@ -1,0 +1,11 @@
+disease_query,disease_entity_id,disease_name
+breast cancer,@DISEASE_Breast_Neoplasms,Breast Neoplasms
+breast cancer,@DISEASE_Triple_Negative_Breast_Neoplasms,Triple Negative Breast Neoplasms
+breast cancer,@DISEASE_Hereditary_Breast_and_Ovarian_Cancer_Syndrome,Hereditary Breast and Ovarian Cancer Syndrome
+breast cancer,@DISEASE_Breast_Neoplasms_Male,Breast Neoplasms Male
+breast cancer,@DISEASE_Inflammatory_Breast_Neoplasms,Inflammatory Breast Neoplasms
+breast cancer,@DISEASE_Breast_Cancer_Lymphedema,Breast Cancer Lymphedema
+breast cancer,@DISEASE_Unilateral_Breast_Neoplasms,Unilateral Breast Neoplasms
+breast cancer,@DISEASE_Breast_Cancer_3,Breast Cancer 3
+breast cancer,@DISEASE_Breast_Cancer_Familial,Breast Cancer Familial
+breast cancer,@DISEASE_Breast_Cancer_Familial_Male,Breast Cancer Familial Male

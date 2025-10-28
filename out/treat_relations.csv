@@ -1,0 +1,9 @@
+disease_entity_id,disease_name,related_entity_id,related_name,related_type
+@DISEASE_Breast_Neoplasms,Breast Neoplasms,@DISEASE_Breast_Neoplasms,Breast Neoplasms,treat
+@DISEASE_Triple_Negative_Breast_Neoplasms,Triple Negative Breast Neoplasms,@DISEASE_Triple_Negative_Breast_Neoplasms,Triple Negative Breast Neoplasms,treat
+@DISEASE_Hereditary_Breast_and_Ovarian_Cancer_Syndrome,Hereditary Breast and Ovarian Cancer Syndrome,@DISEASE_Hereditary_Breast_and_Ovarian_Cancer_Syndrome,Hereditary Breast and Ovarian Cancer Syndrome,treat
+@DISEASE_Breast_Neoplasms_Male,Breast Neoplasms Male,@DISEASE_Breast_Neoplasms_Male,Breast Neoplasms Male,treat
+@DISEASE_Inflammatory_Breast_Neoplasms,Inflammatory Breast Neoplasms,@DISEASE_Inflammatory_Breast_Neoplasms,Inflammatory Breast Neoplasms,treat
+@DISEASE_Breast_Cancer_Lymphedema,Breast Cancer Lymphedema,@DISEASE_Breast_Cancer_Lymphedema,Breast Cancer Lymphedema,treat
+@DISEASE_Unilateral_Breast_Neoplasms,Unilateral Breast Neoplasms,@DISEASE_Unilateral_Breast_Neoplasms,Unilateral Breast Neoplasms,treat
+@DISEASE_Breast_Cancer_3,Breast Cancer 3,@DISEASE_Breast_Cancer_3,Breast Cancer 3,treat
