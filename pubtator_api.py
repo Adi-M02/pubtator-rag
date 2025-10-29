@@ -1,177 +1,154 @@
-#!/usr/bin/env python3
-"""
-pubtator_simple_csv.py
-
-Outputs 3 CSVs in --outdir:
-  1) disease_entities.csv        # entity IDs returned for the disease query
-  2) treat_relations.csv         # related entity IDs via type='treat' (all types)
-  3) search_results.csv          # PMIDs for CHEMICAL–DISEASE treat pairs
-
-Usage:
-  python pubtator_simple_csv.py --disease "breast cancer" --outdir out
-"""
-
-import argparse
-import csv
-import os
-import time
-from typing import Any, Dict, List, Optional, Tuple
-
-import requests
+# pubtator_api.py
+import time, requests
+from typing import Any, Dict, List, Tuple, Optional
 
 BASE = "https://www.ncbi.nlm.nih.gov/research/pubtator3-api"
-HEADERS = {"User-Agent": "adi-pubtator3-demo/mini/1.0"}
-SLEEP_SEC = 0.4  # stay under 3 req/sec
 
-def _sleep():
-    time.sleep(SLEEP_SEC)
+# --- simple 2 RPS limiter + shared session + retries ---
+_SESSION = requests.Session()
+_MIN_INTERVAL = 0.5  # 2 requests/second
+_last_ts = 0.0
 
-def _get(url: str, params: Dict[str, Any]) -> Dict[str, Any]:
-    for attempt in range(3):
+def _throttle():
+    global _last_ts
+    dt = time.time() - _last_ts
+    if dt < _MIN_INTERVAL:
+        time.sleep(_MIN_INTERVAL - dt)
+
+def _get(path: str, params: Dict[str, Any], timeout: float, retries: int = 2) -> requests.Response:
+    url = f"{BASE}{path}"
+    for i in range(retries + 1):
+        _throttle()
+        r = _SESSION.get(url, params=params, timeout=timeout)
+        _last_ts = time.time()
+        if r.status_code in (429, 500, 502, 503, 504) and i < retries:
+            time.sleep(0.5 * (2 ** i))
+            continue
+        return r  # let caller decide on raise_for_status
+    return r
+
+def pubtator_entity_autocomplete(
+    query: str,
+    concept: Optional[str] = None,
+    limit: Optional[int] = None,
+    timeout: float = 15.0,
+    strict: bool = False,
+) -> Tuple[Dict[str, str], int]:
+    """({name:id}, total_count)."""
+    def to_list(d: Any) -> list:
+        if isinstance(d, list): return d
+        if isinstance(d, dict):
+            if isinstance(d.get("results"), list): return d["results"]
+            if isinstance(d.get("data"), list):    return d["data"]
+        return []
+
+    base_params: Dict[str, Any] = {"query": query}
+    if concept: base_params["concept"] = concept
+
+    r1 = _get("/entity/autocomplete/", base_params, timeout)
+    try:
+        r1.raise_for_status()
+    except requests.HTTPError:
+        if strict: raise
+        return {}, 0
+
+    d1 = r1.json()
+    total_count = len(to_list(d1))
+
+    if limit is not None:
+        params2 = dict(base_params); params2["limit"] = int(limit)
+        r2 = _get("/entity/autocomplete/", params2, timeout)
         try:
-            r = requests.get(url, params=params, headers=HEADERS, timeout=30)
-            r.raise_for_status()
-            return r.json()
-        except Exception:
-            if attempt == 2:
-                raise
-            time.sleep(0.75 * (attempt + 1))
-    raise RuntimeError("unreachable")
+            r2.raise_for_status()
+        except requests.HTTPError:
+            if strict: raise
+            return {}, total_count
+        data = to_list(r2.json())
+    else:
+        data = to_list(d1)
 
-def nice_name(eid: Optional[str]) -> str:
-    if not eid or "@" not in eid: return eid or ""
-    tail = eid.split("@", 1)[1]
-    parts = tail.split("_", 1)
-    return (parts[1] if len(parts) == 2 else tail).replace("_", " ")
+    out: Dict[str, str] = {}
+    for it in data:
+        name = it.get("label") or it.get("name") or it.get("text")
+        ent_id = it.get("id") or it.get("identifier") or it.get("entity_id") or it.get("_id")
+        if name and ent_id: out[name] = ent_id
+    return out, total_count
 
-def etype(eid: Optional[str]) -> str:
-    if not eid or "@" not in eid: return "unknown"
-    return eid.split("@", 1)[1].split("_", 1)[0].lower()
+def treatment_drugs_for_disease(
+    disease_id: str,
+    relation_type: str = "treat",
+    limit: int = 10,
+    timeout: float = 15.0,
+    strict: bool = False,
+) -> Tuple[Dict[str, List[str]], int]:
+    """({disease_id:[@CHEMICAL_*...]}, total_unique_chemicals)."""
+    # PubTator expects lowercase entity type here
+    params = {"e1": disease_id, "type": relation_type, "e2": "chemical"}
+    r = _get("/relations", params, timeout)
+    try:
+        r.raise_for_status()
+    except requests.HTTPError:
+        if strict: raise
+        return {disease_id: []}, 0
 
-def autocomplete_diseases(query: str, limit: int) -> List[Tuple[str, str]]:
-    data = _get(f"{BASE}/entity/autocomplete/", {"query": query, "concept": "DISEASE", "limit": limit})
-    _sleep()
-    out: List[Tuple[str, str]] = []
-    if isinstance(data, list):
-        for item in data:
-            eid = item.get("_id") or item.get("entity_id") or item.get("id")
-            if eid and eid.startswith("@DISEASE_"):
-                out.append((eid, item.get("name") or nice_name(eid)))
-    # dedup keep order
-    seen = set(); uniq = []
-    for eid, nm in out:
-        if eid not in seen:
-            uniq.append((eid, nm)); seen.add(eid)
-    return uniq
+    data = r.json()
+    if not isinstance(data, list):
+        return {disease_id: []}, 0
 
-def find_related_treat(e1: str) -> List[Tuple[str, str, str]]:
-    data = _get(f"{BASE}/relations", {"e1": e1, "type": "treat"})
-    _sleep()
-    items = data.get("results") if isinstance(data, dict) else (data if isinstance(data, list) else [])
-    out: List[Tuple[str, str, str]] = []
-    for obj in (items or []):
-        if isinstance(obj, str):
-            rid = obj; out.append((rid, nice_name(rid), etype(rid)))
-        elif isinstance(obj, dict):
-            rid = obj.get("_id") or obj.get("entity_id") or obj.get("id") or obj.get("e2") or obj.get("target")
-            if rid:
-                out.append((rid, obj.get("name") or nice_name(rid), obj.get("type") or etype(rid)))
-    # dedup by id
-    seen = set(); uniq = []
-    for rid, rname, rtype in out:
-        if rid not in seen:
-            uniq.append((rid, rname, rtype)); seen.add(rid)
-    return uniq
+    items = [it for it in data if it.get("target") == disease_id and it.get("source")]
+    items.sort(key=lambda it: it.get("publications", 0), reverse=True)
 
-def search_pmids_for_treat_pair(chem_id: str, disease_id: str, page: int, cap: int) -> List[int]:
-    # try relation form first
-    q1 = f"relations:treat|{chem_id}|{disease_id}"
-    data = _get(f"{BASE}/search/", {"text": q1, "page": page})
-    _sleep()
-    results = data.get("results", data if isinstance(data, list) else [])
-    pmids: List[int] = []
-    for rec in (results or []):
-        pmid = rec.get("pmid") if isinstance(rec, dict) else None
-        if isinstance(pmid, int):
-            pmids.append(pmid)
-        elif isinstance(pmid, str) and pmid.isdigit():
-            pmids.append(int(pmid))
-        if len(pmids) >= cap: return pmids
-    if pmids:
-        return pmids
-    # fallback to AND query
-    q2 = f"{chem_id} AND {disease_id}"
-    data = _get(f"{BASE}/search/", {"text": q2, "page": page})
-    _sleep()
-    results = data.get("results", data if isinstance(data, list) else [])
-    for rec in (results or []):
-        pmid = rec.get("pmid") if isinstance(rec, dict) else None
-        if isinstance(pmid, int):
-            pmids.append(pmid)
-        elif isinstance(pmid, str) and pmid.isdigit():
-            pmids.append(int(pmid))
-        if len(pmids) >= cap: break
-    return pmids
+    seen, chem_ids = set(), []
+    for it in items:
+        src = it["source"]
+        if src not in seen:
+            seen.add(src); chem_ids.append(src)
+            if limit and len(chem_ids) >= limit: break
 
-def write_csv(path: str, header: List[str], rows: List[List[Any]]) -> None:
-    os.makedirs(os.path.dirname(path), exist_ok=True)
-    with open(path, "w", newline="", encoding="utf-8") as f:
-        w = csv.writer(f)
-        w.writerow(header)
-        for r in rows:
-            w.writerow(r)
+    count = len({it["source"] for it in items})
+    return {disease_id: chem_ids[:limit] if limit else chem_ids}, count
 
-def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--disease", default="breast cancer")
-    ap.add_argument("--outdir", default="out")
-    ap.add_argument("--candidates", type=int, default=15)
-    ap.add_argument("--pmids-per-pair", type=int, default=20)
-    ap.add_argument("--page", type=int, default=1)
-    args = ap.parse_args()
+def search_treatment_evidence(
+    disease_id: str,
+    chemical_id: str,
+    page: int = 1,
+    page_size: Optional[int] = None,
+    timeout: float = 15.0,
+    strict: bool = False,
+) -> Tuple[List[Dict], int]:
+    """(results, total_count) for relations:ANY|chemical_id|disease_id."""
+    q = f"relations:ANY|{chemical_id}|{disease_id}"
+    params: Dict[str, Any] = {"text": q, "page": page}
+    if page_size is not None: params["page_size"] = page_size
+    r = _get("/search/", params, timeout)
+    try:
+        r.raise_for_status()
+    except requests.HTTPError:
+        # common 400 causes: invalid IDs like @CHEMICAL_Steroids or too-generic disease terms
+        if strict: raise
+        return [], 0
+    j = r.json()
+    return j.get("results", []), int(j.get("count", 0))
 
-    # 1) disease entity IDs
-    diseases = autocomplete_diseases(args.disease, limit=args.candidates)
-    write_csv(
-        os.path.join(args.outdir, "disease_entities.csv"),
-        ["disease_query", "disease_entity_id", "disease_name"],
-        [[args.disease, did, dname] for did, dname in diseases],
-    )
-    if not diseases:
-        print("No disease entity IDs found.")
-        return
-    print(f"Saved disease_entities.csv with {len(diseases)} rows")
-
-    # 2) treat relations (all types)
-    rel_rows: List[List[Any]] = []
-    for did, dname in diseases:
-        related = find_related_treat(did)
-        for rid, rname, rtype in related:
-            rel_rows.append([did, dname, rid, rname, rtype])
-    write_csv(
-        os.path.join(args.outdir, "treat_relations.csv"),
-        ["disease_entity_id", "disease_name", "related_entity_id", "related_name", "related_type"],
-        rel_rows,
-    )
-    print(f"Saved treat_relations.csv with {len(rel_rows)} rows")
-
-    # 3) search results for CHEMICAL–DISEASE treat pairs
-    search_rows: List[List[Any]] = []
-    for did, dname in diseases:
-        related = find_related_treat(did)
-        for rid, rname, rtype in related:
-            if rtype != "chemical":
-                continue
-            pmids = search_pmids_for_treat_pair(rid, did, page=args.page, cap=args.pmids_per_pair)
-            for pmid in pmids:
-                search_rows.append([did, dname, rid, rname, pmid])
-    write_csv(
-        os.path.join(args.outdir, "search_results.csv"),
-        ["disease_entity_id", "disease_name", "chemical_entity_id", "chemical_name", "pmid"],
-        search_rows,
-    )
-    print(f"Saved search_results.csv with {len(search_rows)} rows")
-    print("Done.")
 
 if __name__ == "__main__":
-    main()
+    # Example 1: map disease names -> IDs
+    disease_map = pubtator_entity_autocomplete("breast cancer", concept="Disease", limit=10)
+    print("Disease name -> ID mapping:")
+    print(json.dumps(disease_map, indent=2))
+
+    # Example 2: chemicals that treat this disease (normalized + raw)
+    # for name, disease_id in disease_map.items():
+    #     print(f"\nChemicals that treat {name} ({disease_id}):")
+    #     out = treatment_drugs_for_disease(disease_id=disease_id, limit=5)
+    #     print(f"\nChemicals that treat {name} ({disease_id}):")
+    #     print(json.dumps(out, indent=2))
+    #     time.sleep(0.5)
+
+    #Example 3: evidence for a specific disease-chemical pair
+    print(json.dumps(
+        search_treatment_evidence(
+            disease_id="@DISEASE_Triple_Negative_Breast_Neoplasms",  # breast cancer
+            chemical_id="@CHEMICAL_Paclitaxel"
+        ),indent=2
+    ))
