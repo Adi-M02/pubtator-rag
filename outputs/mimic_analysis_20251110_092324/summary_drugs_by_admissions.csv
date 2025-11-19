@@ -1,0 +1,10 @@
+src,distinct_diseases,total_admissions,total_patients,drug_label
+drug:omeprazole,1299,59884,53631,omeprazole
+drug:furosemide,900,59371,52801,furosemide
+drug:lisinopril,887,38272,35076,lisinopril
+drug:amlodipine,800,31453,28390,amlodipine
+drug:simvastatin,678,26126,24081,simvastatin
+drug:warfarin,492,22169,19613,warfarin
+drug:levofloxacin,190,10039,9548,levofloxacin
+drug:atenolol,315,8802,8186,atenolol
+drug:glyburide,29,592,529,glyburide

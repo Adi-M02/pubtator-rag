@@ -1,0 +1,91 @@
+src,disease_label,dst,weight_admissions,unique_patients,p_disease_given_drug,p_drug_given_disease
+drug:amlodipine,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",icd:10:I130,714,476,0.0172210028701671,0.2155146392997283
+drug:amlodipine,Non-ST elevation (NSTEMI) myocardial infarction,icd:10:I214,554,526,0.0133619546079448,0.1696784073506891
+drug:amlodipine,Coronary atherosclerosis of native coronary artery,icd:9:41401,530,481,0.0127830973686114,0.0921578855851156
+drug:amlodipine,"Acute kidney failure, unspecified",icd:10:N179,505,456,0.0121801210776392,0.1903505465510742
+drug:amlodipine,"Acute kidney failure, unspecified",icd:9:5849,477,425,0.0115047876317503,0.1350509626274065
+drug:amlodipine,Acute on chronic diastolic heart failure,icd:9:42833,402,319,0.0096958587588336,0.1770925110132158
+drug:amlodipine,Encounter for antineoplastic chemotherapy,icd:10:Z5111,390,138,0.0094064301391669,0.1096429575484959
+drug:amlodipine,Atherosclerotic heart disease of native coronary artery with unstable angina pectoris,icd:10:I25110,374,333,0.0090205253129446,0.2239520958083832
+drug:amlodipine,Hypertensive heart disease with heart failure,icd:10:I110,372,323,0.0089722872096669,0.1512810085400569
+drug:amlodipine,Other chest pain,icd:9:78659,342,291,0.0082487156605002,0.065617805065234
+drug:atenolol,Coronary atherosclerosis of native coronary artery,icd:9:41401,363,336,0.0238721557280021,0.0631194574856546
+drug:atenolol,Atrial fibrillation,icd:9:42731,188,157,0.0123635407076154,0.06084142394822
+drug:atenolol,Other chest pain,icd:9:78659,169,160,0.0111140339339734,0.0324251726784343
+drug:atenolol,"Urinary tract infection, site not specified",icd:9:5990,169,150,0.0111140339339734,0.0569598921469497
+drug:atenolol,"Pneumonia, organism unspecified",icd:9:486,144,131,0.0094699460739181,0.038647342995169
+drug:atenolol,Syncope and collapse,icd:9:7802,122,119,0.0080231487570695,0.0461422087745839
+drug:atenolol,"Osteoarthrosis, localized, not specified whether primary or secondary, lower leg",icd:9:71536,119,113,0.0078258582138629,0.1017094017094017
+drug:atenolol,Acute pancreatitis,icd:9:5770,118,95,0.0077600946994607,0.0450381679389313
+drug:atenolol,"Subendocardial infarction, initial episode of care",icd:9:41071,115,110,0.0075628041562541,0.0400278454577097
+drug:atenolol,"Acute kidney failure, unspecified",icd:9:5849,112,108,0.0073655136130474,0.0317100792751981
+drug:furosemide,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",icd:10:I130,2995,1873,0.0432004384952688,0.9040144883791124
+drug:furosemide,Hypertensive heart disease with heart failure,icd:10:I110,2173,1695,0.0313437572120932,0.8836925579503863
+drug:furosemide,Acute on chronic diastolic heart failure,icd:9:42833,2022,1376,0.0291657050542349,0.8907488986784141
+drug:furosemide,Acute on chronic systolic heart failure,icd:9:42823,1694,1117,0.0244345718901453,0.8827514330380406
+drug:furosemide,Coronary atherosclerosis of native coronary artery,icd:9:41401,1689,1614,0.0243624509577659,0.2936880542514345
+drug:furosemide,Aortic valve disorders,icd:9:4241,1052,972,0.0151742441726286,0.645003065603924
+drug:furosemide,Non-ST elevation (NSTEMI) myocardial infarction,icd:10:I214,1008,945,0.0145395799676898,0.308728943338438
+drug:furosemide,"Subendocardial infarction, initial episode of care",icd:9:41071,913,837,0.0131692822524809,0.317786286112078
+drug:furosemide,Atrial fibrillation,icd:9:42731,899,771,0.0129673436418186,0.2909385113268608
+drug:furosemide,"Sepsis, unspecified organism",icd:10:A419,864,831,0.0124624971151627,0.1695780176643768
+drug:glyburide,Coronary atherosclerosis of native coronary artery,icd:9:41401,128,113,0.0745052386495925,0.0222569987828203
+drug:glyburide,Other chest pain,icd:9:78659,30,24,0.0174621653084982,0.0057559478127398
+drug:glyburide,"Osteoarthrosis, localized, not specified whether primary or secondary, lower leg",icd:9:71536,27,24,0.0157159487776484,0.023076923076923
+drug:glyburide,"Urinary tract infection, site not specified",icd:9:5990,24,23,0.0139697322467986,0.0080889787664307
+drug:glyburide,Other postoperative infection,icd:9:99859,22,21,0.0128055878928987,0.0100090991810737
+drug:glyburide,Occlusion and stenosis of carotid artery without mention of cerebral infarction,icd:9:43310,22,18,0.0128055878928987,0.0334855403348554
+drug:glyburide,Atherosclerosis of native arteries of the extremities with gangrene,icd:9:44024,22,15,0.0128055878928987,0.0332326283987915
+drug:glyburide,"Pneumonia, organism unspecified",icd:9:486,20,20,0.0116414435389988,0.0053676865271068
+drug:glyburide,Aortic valve disorders,icd:9:4241,20,20,0.0116414435389988,0.012262415695892
+drug:glyburide,"Cellulitis and abscess of leg, except foot",icd:9:6826,19,17,0.0110593713620488,0.0088289962825278
+drug:levofloxacin,"Pneumonia, organism unspecified",icd:9:486,1906,1745,0.132591304347826,0.5115405260332797
+drug:levofloxacin,Unspecified septicemia,icd:9:0389,611,589,0.0425043478260869,0.1943384223918575
+drug:levofloxacin,"Pneumonia, unspecified organism",icd:10:J189,507,490,0.0352695652173913,0.2394898441190363
+drug:levofloxacin,Pneumonitis due to inhalation of food or vomitus,icd:9:5070,453,415,0.0315130434782608,0.4001766784452296
+drug:levofloxacin,Obstructive chronic bronchitis with (acute) exacerbation,icd:9:49121,292,238,0.0203130434782608,0.2295597484276729
+drug:levofloxacin,"Sepsis, unspecified organism",icd:10:A419,286,281,0.019895652173913,0.0561334641805691
+drug:levofloxacin,"Bacterial pneumonia, unspecified",icd:9:4829,259,258,0.0180173913043478,0.5253549695740364
+drug:levofloxacin,Acute respiratory failure,icd:9:51881,217,207,0.015095652173913,0.2543962485345838
+drug:levofloxacin,Acute on chronic diastolic heart failure,icd:9:42833,182,171,0.0126608695652173,0.0801762114537445
+drug:levofloxacin,"Acute kidney failure, unspecified",icd:9:5849,152,151,0.0105739130434782,0.0430351075877689
+drug:lisinopril,Coronary atherosclerosis of native coronary artery,icd:9:41401,1068,980,0.0219234322077388,0.1857068335941575
+drug:lisinopril,"Subendocardial infarction, initial episode of care",icd:9:41071,818,779,0.0167915426460022,0.284719805081796
+drug:lisinopril,Other chest pain,icd:9:78659,658,572,0.0135071333264908,0.1262471220260936
+drug:lisinopril,Non-ST elevation (NSTEMI) myocardial infarction,icd:10:I214,600,569,0.0123165349481679,0.1837672281776416
+drug:lisinopril,Atrial fibrillation,icd:9:42731,564,467,0.0115775428512778,0.1825242718446601
+drug:lisinopril,Hypertensive heart disease with heart failure,icd:10:I110,527,442,0.0108180231961408,0.214314762098414
+drug:lisinopril,Acute on chronic systolic heart failure,icd:9:42823,516,385,0.0105922200554244,0.2688900468994268
+drug:lisinopril,Acute on chronic diastolic heart failure,icd:9:42833,414,343,0.0084984091142358,0.1823788546255506
+drug:lisinopril,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",icd:10:I130,408,328,0.0083752437647541,0.1231512224569876
+drug:lisinopril,"Pneumonia, organism unspecified",icd:9:486,376,352,0.0077183619008518,0.1009125067096081
+drug:omeprazole,"Sepsis, unspecified organism",icd:10:A419,876,800,0.0119711380780583,0.1719332679097154
+drug:omeprazole,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",icd:10:I130,759,512,0.0103722531977697,0.2290974947177784
+drug:omeprazole,"Acute kidney failure, unspecified",icd:9:5849,658,592,0.0089920192412812,0.1862967157417893
+drug:omeprazole,Coronary atherosclerosis of native coronary artery,icd:9:41401,632,598,0.008636711490106,0.1098939314901756
+drug:omeprazole,Hypertensive heart disease with heart failure,icd:10:I110,616,469,0.0084180605663058,0.2505083367222448
+drug:omeprazole,Atrial fibrillation,icd:9:42731,614,534,0.0083907292008308,0.1987055016181229
+drug:omeprazole,Encounter for antineoplastic chemotherapy,icd:10:Z5111,609,284,0.0083224007871433,0.1712116952488051
+drug:omeprazole,"Pneumonia, organism unspecified",icd:9:486,595,538,0.0081310812288181,0.1596886741814277
+drug:omeprazole,Non-ST elevation (NSTEMI) myocardial infarction,icd:10:I214,587,560,0.0080217557669181,0.1797856049004594
+drug:omeprazole,Other chest pain,icd:9:78659,585,533,0.007994424401443,0.1122409823484267
+drug:simvastatin,Coronary atherosclerosis of native coronary artery,icd:9:41401,866,829,0.0248094883401134,0.1505825073900191
+drug:simvastatin,Other chest pain,icd:9:78659,470,414,0.0134647338566435,0.090176515732924
+drug:simvastatin,"Acute kidney failure, unspecified",icd:9:5849,460,418,0.013178250157566,0.1302378255945639
+drug:simvastatin,Acute on chronic diastolic heart failure,icd:9:42833,394,287,0.0112874577436543,0.173568281938326
+drug:simvastatin,Atrial fibrillation,icd:9:42731,373,322,0.0106858419755915,0.1207119741100323
+drug:simvastatin,"Pneumonia, organism unspecified",icd:9:486,373,351,0.0106858419755915,0.1001073537305421
+drug:simvastatin,"Urinary tract infection, site not specified",icd:9:5990,367,329,0.010513951756145,0.1236939669700033
+drug:simvastatin,Aortic valve disorders,icd:9:4241,363,338,0.010399358276514,0.2225628448804414
+drug:simvastatin,"Cerebral artery occlusion, unspecified with cerebral infarction",icd:9:43491,301,295,0.0086231593422334,0.2355242566510172
+drug:simvastatin,"Subendocardial infarction, initial episode of care",icd:9:41071,296,290,0.0084799174926946,0.103028193525931
+drug:warfarin,Atrial fibrillation,icd:9:42731,1441,1135,0.0498788508134302,0.4663430420711974
+drug:warfarin,Acute on chronic diastolic heart failure,icd:9:42833,694,477,0.0240221529941156,0.305726872246696
+drug:warfarin,Other pulmonary embolism and infarction,icd:9:41519,646,611,0.0223606784354447,0.5282093213409648
+drug:warfarin,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",icd:10:I130,645,419,0.0223260643821391,0.1946875943253848
+drug:warfarin,Acute on chronic systolic heart failure,icd:9:42823,542,375,0.018760816891658,0.2824387701928087
+drug:warfarin,"Acute kidney failure, unspecified",icd:9:5849,355,314,0.0122879889235029,0.1005096262740656
+drug:warfarin,"Pneumonia, organism unspecified",icd:9:486,346,315,0.0119764624437521,0.0928609769189479
+drug:warfarin,Hypertensive heart disease with heart failure,icd:10:I110,345,260,0.0119418483904465,0.1403009353395689
+drug:warfarin,Coronary atherosclerosis of native coronary artery,icd:9:41401,309,284,0.0106957424714434,0.0537297861241523
+drug:warfarin,"Urinary tract infection, site not specified",icd:9:5990,301,257,0.0104188300449982,0.1014492753623188

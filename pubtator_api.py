@@ -121,7 +121,7 @@ def treatment_drugs_for_disease(
 def treatment_diseases_for_drug(
     chemical_id: str,
     relation_type: str = "treat",
-    limit: int = 25,
+    limit: Optional[int] = None,
     timeout: float = 15.0,
     strict: bool = False,
 ) -> Tuple[Dict[str, List[str]], int]:
@@ -168,14 +168,55 @@ def search_treatment_evidence(
     timeout: float = 15.0,
     strict: bool = False,
 ) -> Tuple[List[Dict], int]:
-    """Return (results, total_count) for relations:ANY|chemical_id|disease_id."""
+    """
+    Return (results, total_count) for relations:ANY|chemical_id|disease_id.
+
+    Aggregates results across up to 10 pages starting at `page`,
+    capped at 100 results total, preserving API order.
+    """
     q = f"relations:ANY|{chemical_id}|{disease_id}"
+
+    # First page (keep original error semantics)
     params: Dict[str, Any] = {"text": q, "page": page}
     r = _get("/search/", params, timeout)
     try:
         r.raise_for_status()
     except requests.HTTPError:
-        if strict: raise
+        if strict:
+            raise
         return [], 0
+
     j = r.json()
-    return j.get("results", []), int(j.get("count", 0))
+    first_results = j.get("results", []) or []
+    total_count = int(j.get("count", 0))
+
+    all_results: List[Dict] = list(first_results)
+    page_size = len(first_results)
+
+    # If nothing on the first page, nothing more to do
+    if page_size == 0 or total_count <= page_size:
+        return all_results[:100], total_count
+
+    # Compute maximum number of pages available
+    max_pages = (total_count + page_size - 1) // page_size
+    last_page = min(page + 9, max_pages)  # at most 10 pages total
+
+    # Fetch additional pages
+    for p in range(page + 1, last_page + 1):
+        if len(all_results) >= 100:
+            break
+        params = {"text": q, "page": p}
+        r = _get("/search/", params, timeout)
+        try:
+            r.raise_for_status()
+        except requests.HTTPError:
+            if strict:
+                raise
+            break
+        j = r.json()
+        results_p = j.get("results", []) or []
+        if not results_p:
+            break
+        all_results.extend(results_p)
+
+    return all_results[:100], total_count

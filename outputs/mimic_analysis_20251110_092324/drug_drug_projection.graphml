@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="jaccard" attr.type="double" />
+  <key id="d2" for="edge" attr.name="shared_diseases" attr.type="long" />
+  <key id="d1" for="node" attr.name="type" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="drug:lisinopril">
+      <data key="d0">lisinopril</data>
+      <data key="d1">drug</data>
+    </node>
+    <node id="drug:omeprazole">
+      <data key="d0">omeprazole</data>
+      <data key="d1">drug</data>
+    </node>
+    <node id="drug:furosemide">
+      <data key="d0">furosemide</data>
+      <data key="d1">drug</data>
+    </node>
+    <node id="drug:amlodipine">
+      <data key="d0">amlodipine</data>
+      <data key="d1">drug</data>
+    </node>
+    <node id="drug:simvastatin">
+      <data key="d0">simvastatin</data>
+      <data key="d1">drug</data>
+    </node>
+    <node id="drug:warfarin">
+      <data key="d0">warfarin</data>
+      <data key="d1">drug</data>
+    </node>
+    <node id="drug:atenolol">
+      <data key="d0">atenolol</data>
+      <data key="d1">drug</data>
+    </node>
+    <node id="drug:levofloxacin">
+      <data key="d0">levofloxacin</data>
+      <data key="d1">drug</data>
+    </node>
+    <node id="drug:glyburide">
+      <data key="d0">glyburide</data>
+      <data key="d1">drug</data>
+    </node>
+    <edge source="drug:lisinopril" target="drug:omeprazole">
+      <data key="d2">814</data>
+      <data key="d3">0.5932944606413995</data>
+    </edge>
+    <edge source="drug:lisinopril" target="drug:amlodipine">
+      <data key="d2">661</data>
+      <data key="d3">0.6442495126705653</data>
+    </edge>
+    <edge source="drug:lisinopril" target="drug:furosemide">
+      <data key="d2">655</data>
+      <data key="d3">0.5786219081272085</data>
+    </edge>
+    <edge source="drug:lisinopril" target="drug:simvastatin">
+      <data key="d2">618</data>
+      <data key="d3">0.6525871172122492</data>
+    </edge>
+    <edge source="drug:lisinopril" target="drug:warfarin">
+      <data key="d2">423</data>
+      <data key="d3">0.4424686192468619</data>
+    </edge>
+    <edge source="drug:lisinopril" target="drug:atenolol">
+      <data key="d2">311</data>
+      <data key="d3">0.3490460157126824</data>
+    </edge>
+    <edge source="drug:lisinopril" target="drug:levofloxacin">
+      <data key="d2">158</data>
+      <data key="d3">0.1719260065288357</data>
+    </edge>
+    <edge source="drug:lisinopril" target="drug:glyburide">
+      <data key="d2">29</data>
+      <data key="d3">0.03269447576099211</data>
+    </edge>
+    <edge source="drug:omeprazole" target="drug:furosemide">
+      <data key="d2">784</data>
+      <data key="d3">0.5540636042402827</data>
+    </edge>
+    <edge source="drug:omeprazole" target="drug:amlodipine">
+      <data key="d2">757</data>
+      <data key="d3">0.5640834575260805</data>
+    </edge>
+    <edge source="drug:omeprazole" target="drug:simvastatin">
+      <data key="d2">647</data>
+      <data key="d3">0.4864661654135338</data>
+    </edge>
+    <edge source="drug:omeprazole" target="drug:warfarin">
+      <data key="d2">449</data>
+      <data key="d3">0.334575260804769</data>
+    </edge>
+    <edge source="drug:omeprazole" target="drug:atenolol">
+      <data key="d2">312</data>
+      <data key="d3">0.23963133640552994</data>
+    </edge>
+    <edge source="drug:omeprazole" target="drug:levofloxacin">
+      <data key="d2">178</data>
+      <data key="d3">0.13577421815408086</data>
+    </edge>
+    <edge source="drug:omeprazole" target="drug:glyburide">
+      <data key="d2">29</data>
+      <data key="d3">0.022324865280985373</data>
+    </edge>
+    <edge source="drug:furosemide" target="drug:amlodipine">
+      <data key="d2">617</data>
+      <data key="d3">0.569713758079409</data>
+    </edge>
+    <edge source="drug:furosemide" target="drug:simvastatin">
+      <data key="d2">564</data>
+      <data key="d3">0.5562130177514792</data>
+    </edge>
+    <edge source="drug:furosemide" target="drug:warfarin">
+      <data key="d2">444</data>
+      <data key="d3">0.46835443037974683</data>
+    </edge>
+    <edge source="drug:furosemide" target="drug:atenolol">
+      <data key="d2">296</data>
+      <data key="d3">0.3220892274211099</data>
+    </edge>
+    <edge source="drug:furosemide" target="drug:levofloxacin">
+      <data key="d2">172</data>
+      <data key="d3">0.18736383442265794</data>
+    </edge>
+    <edge source="drug:furosemide" target="drug:glyburide">
+      <data key="d2">29</data>
+      <data key="d3">0.03222222222222222</data>
+    </edge>
+    <edge source="drug:amlodipine" target="drug:simvastatin">
+      <data key="d2">545</data>
+      <data key="d3">0.5841371918542336</data>
+    </edge>
+    <edge source="drug:amlodipine" target="drug:warfarin">
+      <data key="d2">382</data>
+      <data key="d3">0.4197802197802198</data>
+    </edge>
+    <edge source="drug:amlodipine" target="drug:atenolol">
+      <data key="d2">294</data>
+      <data key="d3">0.35809987819732036</data>
+    </edge>
+    <edge source="drug:amlodipine" target="drug:levofloxacin">
+      <data key="d2">152</data>
+      <data key="d3">0.18138424821002386</data>
+    </edge>
+    <edge source="drug:amlodipine" target="drug:glyburide">
+      <data key="d2">29</data>
+      <data key="d3">0.03625</data>
+    </edge>
+    <edge source="drug:simvastatin" target="drug:warfarin">
+      <data key="d2">402</data>
+      <data key="d3">0.5234375</data>
+    </edge>
+    <edge source="drug:simvastatin" target="drug:atenolol">
+      <data key="d2">305</data>
+      <data key="d3">0.4433139534883721</data>
+    </edge>
+    <edge source="drug:simvastatin" target="drug:levofloxacin">
+      <data key="d2">158</data>
+      <data key="d3">0.22253521126760564</data>
+    </edge>
+    <edge source="drug:simvastatin" target="drug:glyburide">
+      <data key="d2">29</data>
+      <data key="d3">0.04277286135693215</data>
+    </edge>
+    <edge source="drug:warfarin" target="drug:atenolol">
+      <data key="d2">220</data>
+      <data key="d3">0.3747870528109029</data>
+    </edge>
+    <edge source="drug:warfarin" target="drug:levofloxacin">
+      <data key="d2">140</data>
+      <data key="d3">0.25830258302583026</data>
+    </edge>
+    <edge source="drug:warfarin" target="drug:glyburide">
+      <data key="d2">27</data>
+      <data key="d3">0.05465587044534413</data>
+    </edge>
+    <edge source="drug:atenolol" target="drug:levofloxacin">
+      <data key="d2">116</data>
+      <data key="d3">0.2982005141388175</data>
+    </edge>
+    <edge source="drug:atenolol" target="drug:glyburide">
+      <data key="d2">28</data>
+      <data key="d3">0.08860759493670886</data>
+    </edge>
+    <edge source="drug:levofloxacin" target="drug:glyburide">
+      <data key="d2">19</data>
+      <data key="d3">0.095</data>
+    </edge>
+  </graph>
+</graphml>

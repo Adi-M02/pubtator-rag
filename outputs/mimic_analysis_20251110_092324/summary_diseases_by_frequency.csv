@@ -1,0 +1,1520 @@
+dst,distinct_drugs,admissions,patients,disease_label
+icd:9:41401,9,5615,5263,Coronary atherosclerosis of native coronary artery
+icd:9:42833,9,4740,3450,Acute on chronic diastolic heart failure
+icd:9:486,9,4733,4357,"Pneumonia, organism unspecified"
+icd:9:42731,9,4360,3637,Atrial fibrillation
+icd:9:42823,9,3707,2637,Acute on chronic systolic heart failure
+icd:9:41071,9,3231,3065,"Subendocardial infarction, initial episode of care"
+icd:9:5849,9,3000,2744,"Acute kidney failure, unspecified"
+icd:9:78659,9,2896,2557,Other chest pain
+icd:9:5990,9,2536,2246,"Urinary tract infection, site not specified"
+icd:9:4241,9,2294,2130,Aortic valve disorders
+icd:9:6826,9,1711,1390,"Cellulitis and abscess of leg, except foot"
+icd:9:7802,9,1605,1540,Syncope and collapse
+icd:9:V5811,9,1577,823,Encounter for antineoplastic chemotherapy
+icd:9:49121,9,1506,1142,Obstructive chronic bronchitis with (acute) exacerbation
+icd:9:99859,9,1397,1286,Other postoperative infection
+icd:9:43491,9,1057,1031,"Cerebral artery occlusion, unspecified with cerebral infarction"
+icd:9:25080,9,724,666,"Diabetes with other specified manifestations, type II or unspecified type, not stated as uncontrolled"
+icd:9:44024,9,656,556,Atherosclerosis of native arteries of the extremities with gangrene
+icd:9:44023,9,628,564,Atherosclerosis of native arteries of the extremities with ulceration
+icd:10:I130,8,5815,3828,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+icd:10:I110,8,4289,3418,Hypertensive heart disease with heart failure
+icd:10:I214,8,3105,2952,Non-ST elevation (NSTEMI) myocardial infarction
+icd:10:A419,8,3050,2881,"Sepsis, unspecified organism"
+icd:9:0389,8,2516,2414,Unspecified septicemia
+icd:10:J189,8,2378,2229,"Pneumonia, unspecified organism"
+icd:10:N179,8,1979,1816,"Acute kidney failure, unspecified"
+icd:10:Z5111,8,1713,869,Encounter for antineoplastic chemotherapy
+icd:10:N390,8,1582,1355,"Urinary tract infection, site not specified"
+icd:10:I5033,8,1452,1210,Acute on chronic diastolic (congestive) heart failure
+icd:10:U071,8,1410,1376,COVID-19
+icd:9:41519,8,1395,1339,Other pulmonary embolism and infarction
+icd:9:5770,8,1383,1000,Acute pancreatitis
+icd:10:J441,8,1360,960,Chronic obstructive pulmonary disease with (acute) exacerbation
+icd:9:5070,8,1325,1218,Pneumonitis due to inhalation of food or vomitus
+icd:9:71536,8,1174,1056,"Osteoarthrosis, localized, not specified whether primary or secondary, lower leg"
+icd:9:43411,8,1031,1016,Cerebral embolism with cerebral infarction
+icd:9:49322,8,923,664,Chronic obstructive asthma with (acute) exacerbation
+icd:9:78650,8,850,809,"Chest pain, unspecified"
+icd:10:I4891,8,824,798,Unspecified atrial fibrillation
+icd:9:42789,8,810,782,Other specified cardiac dysrhythmias
+icd:10:I2699,8,808,791,Other pulmonary embolism without acute cor pulmonale
+icd:9:0088,8,754,727,"Intestinal infection due to other organism, not elsewhere classified"
+icd:9:4280,8,754,729,"Congestive heart failure, unspecified"
+icd:9:4829,8,739,732,"Bacterial pneumonia, unspecified"
+icd:9:431,8,736,727,Intracerebral hemorrhage
+icd:9:43310,8,735,692,Occlusion and stenosis of carotid artery without mention of cerebral infarction
+icd:9:00845,8,704,642,Intestinal infection due to Clostridium difficile
+icd:9:27651,8,680,658,Dehydration
+icd:9:78060,8,661,626,"Fever, unspecified"
+icd:9:44021,8,660,577,Atherosclerosis of native arteries of the extremities with intermittent claudication
+icd:9:4240,8,655,638,Mitral valve disorders
+icd:9:5789,8,635,595,"Hemorrhage of gastrointestinal tract, unspecified"
+icd:9:2761,8,634,582,Hyposmolality and/or hyponatremia
+icd:10:A4151,8,623,586,Sepsis due to Escherichia coli [E. coli]
+icd:9:42831,8,612,606,Acute diastolic heart failure
+icd:9:49392,8,610,495,"Asthma, unspecified type, with (acute) exacerbation"
+icd:9:03842,8,604,573,Septicemia due to escherichia coli [E. coli]
+icd:9:99674,8,600,550,"Other complications due to other vascular device, implant, and graft"
+icd:10:T814XXA,8,596,563,"Infection following a procedure, initial encounter"
+icd:9:40391,8,595,530,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease"
+icd:10:A4189,8,584,576,Other specified sepsis
+icd:9:45341,8,565,549,Acute venous embolism and thrombosis of deep vessels of proximal lower extremity
+icd:9:82021,8,557,544,Closed fracture of intertrochanteric section of neck of femur
+icd:9:56211,8,553,490,Diverticulitis of colon (without mention of hemorrhage)
+icd:9:4580,8,537,519,Orthostatic hypotension
+icd:10:G92,8,511,484,Toxic encephalopathy
+icd:9:25060,8,496,392,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+icd:9:71535,8,489,466,"Osteoarthrosis, localized, not specified whether primary or secondary, pelvic region and thigh"
+icd:9:42821,8,477,474,Acute systolic heart failure
+icd:9:1983,8,471,429,Secondary malignant neoplasm of brain and spinal cord
+icd:9:78900,8,464,430,"Abdominal pain, unspecified site"
+icd:9:5589,8,452,438,Other and unspecified noninfectious gastroenteritis and colitis
+icd:9:5119,8,448,413,Unspecified pleural effusion
+icd:9:99681,8,446,381,Complications of transplanted kidney
+icd:9:5609,8,429,366,Unspecified intestinal obstruction
+icd:9:5781,8,422,410,Blood in stool
+icd:9:34982,8,410,402,Toxic encephalopathy
+icd:9:78701,8,405,384,Nausea with vomiting
+icd:9:5761,8,399,336,Cholangitis
+icd:9:78609,8,374,366,Other respiratory abnormalities
+icd:9:55321,8,368,335,Incisional hernia without mention of obstruction or gangrene
+icd:9:57400,8,366,358,"Calculus of gallbladder with acute cholecystitis, without mention of obstruction"
+icd:9:45981,8,364,309,"Venous (peripheral) insufficiency, unspecified"
+icd:10:J159,8,353,351,Unspecified bacterial pneumonia
+icd:9:1623,8,347,336,"Malignant neoplasm of upper lobe, bronchus or lung"
+icd:9:78079,8,345,340,Other malaise and fatigue
+icd:9:99664,8,338,286,Infection and inflammatory reaction due to indwelling urinary catheter
+icd:9:4659,8,331,325,Acute upper respiratory infections of unspecified site
+icd:9:99811,8,325,323,Hemorrhage complicating a procedure
+icd:9:25082,8,314,291,"Diabetes with other specified manifestations, type II or unspecified type, uncontrolled"
+icd:9:4871,8,314,309,Influenza with other respiratory manifestations
+icd:9:57451,8,310,299,"Calculus of bile duct without mention of cholecystitis, with obstruction"
+icd:9:4660,8,303,291,Acute bronchitis
+icd:9:6827,8,302,283,"Cellulitis and abscess of foot, except toes"
+icd:9:99662,8,297,264,"Infection and inflammatory reaction due to other vascular device, implant, and graft"
+icd:9:78097,8,275,272,Altered mental status
+icd:9:4239,8,268,261,Unspecified disease of pericardium
+icd:9:7907,8,267,258,Bacteremia
+icd:9:1970,8,240,227,Secondary malignant neoplasm of lung
+icd:9:78901,8,237,219,"Abdominal pain, right upper quadrant"
+icd:9:28800,8,233,218,"Neutropenia, unspecified"
+icd:9:2536,8,224,219,Other disorders of neurohypophysis
+icd:9:07999,8,218,214,Unspecified viral infection
+icd:9:99659,8,208,197,"Mechanical complication due to other implant and internal device, not elsewhere classified"
+icd:9:5921,8,200,193,Calculus of ureter
+icd:9:20280,8,196,182,"Other malignant lymphomas, unspecified site, extranodal and solid organ sites"
+icd:9:99762,8,196,172,Infection (chronic) of amputation stump
+icd:9:5750,8,191,188,Acute cholecystitis
+icd:9:5920,8,188,182,Calculus of kidney
+icd:9:59080,8,185,180,"Pyelonephritis, unspecified"
+icd:9:51181,8,171,159,Malignant pleural effusion
+icd:9:56081,8,157,152,Intestinal or peritoneal adhesions with obstruction (postoperative) (postinfection)
+icd:9:59010,8,148,138,Acute pyelonephritis without lesion of renal medullary necrosis
+icd:9:9974,8,122,117,"Digestive system complications, not elsewhere classified"
+icd:10:I350,7,1622,1512,Nonrheumatic aortic (valve) stenosis
+icd:10:I25110,7,1586,1448,Atherosclerotic heart disease of native coronary artery with unstable angina pectoris
+icd:10:I2510,7,1585,1560,Atherosclerotic heart disease of native coronary artery without angina pectoris
+icd:10:I5023,7,1222,934,Acute on chronic systolic (congestive) heart failure
+icd:10:I480,7,1083,1005,Paroxysmal atrial fibrillation
+icd:9:42843,7,1070,923,Acute on chronic combined systolic and diastolic heart failure
+icd:10:R0789,7,997,931,Other chest pain
+icd:9:51881,7,955,902,Acute respiratory failure
+icd:10:I132,7,922,710,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+icd:10:K7031,7,837,588,Alcoholic cirrhosis of liver with ascites
+icd:10:R55,7,764,747,Syncope and collapse
+icd:10:J690,7,704,620,Pneumonitis due to inhalation of food and vomit
+icd:9:42732,7,702,667,Atrial flutter
+icd:9:4271,7,681,545,Paroxysmal ventricular tachycardia
+icd:10:J9601,7,676,660,Acute respiratory failure with hypoxia
+icd:10:I25119,7,657,653,Atherosclerotic heart disease of native coronary artery with unspecified angina pectoris
+icd:10:M1711,7,593,593,"Unilateral primary osteoarthritis, right knee"
+icd:10:I25118,7,550,531,Atherosclerotic heart disease of native coronary artery with other forms of angina pectoris
+icd:9:4019,7,550,533,Unspecified essential hypertension
+icd:10:L03116,7,541,443,Cellulitis of left lower limb
+icd:9:71596,7,535,505,"Osteoarthrosis, unspecified whether generalized or localized, lower leg"
+icd:10:I340,7,516,503,Nonrheumatic mitral (valve) insufficiency
+icd:10:M1712,7,514,514,"Unilateral primary osteoarthritis, left knee"
+icd:10:E1169,7,475,389,Type 2 diabetes mellitus with other specified complication
+icd:9:99672,7,454,428,"Other complications due to other cardiac device, implant, and graft"
+icd:9:99673,7,449,355,"Other complications due to renal dialysis device, implant, and graft"
+icd:9:29181,7,447,307,Alcohol withdrawal
+icd:10:L03115,7,446,391,Cellulitis of right lower limb
+icd:9:5722,7,439,289,Hepatic encephalopathy
+icd:10:R079,7,436,411,"Chest pain, unspecified"
+icd:9:72210,7,435,412,Displacement of lumbar intervertebral disc without myelopathy
+icd:10:A084,7,418,384,"Viral intestinal infection, unspecified"
+icd:9:42781,7,414,412,Sinoatrial node dysfunction
+icd:9:4414,7,413,407,Abdominal aneurysm without mention of rupture
+icd:10:I951,7,410,389,Orthostatic hypotension
+icd:9:4359,7,408,400,Unspecified transient cerebral ischemia
+icd:10:E871,7,402,371,Hypo-osmolality and hyponatremia
+icd:9:60001,7,401,395,Hypertrophy (benign) of prostate with urinary obstruction and other lower urinary tract symptoms (LUTS)
+icd:9:78906,7,384,353,"Abdominal pain, epigastric"
+icd:9:1550,7,376,306,"Malignant neoplasm of liver, primary"
+icd:10:E1151,7,371,319,Type 2 diabetes mellitus with diabetic peripheral angiopathy without gangrene
+icd:9:73313,7,369,349,Pathologic fracture of vertebrae
+icd:10:I714,7,366,355,"Abdominal aortic aneurysm, without rupture"
+icd:9:4373,7,366,326,"Cerebral aneurysm, nonruptured"
+icd:10:J45901,7,353,300,Unspecified asthma with (acute) exacerbation
+icd:10:J90,7,351,327,"Pleural effusion, not elsewhere classified"
+icd:10:M1611,7,347,345,"Unilateral primary osteoarthritis, right hip"
+icd:10:E222,7,345,321,Syndrome of inappropriate secretion of antidiuretic hormone
+icd:9:53081,7,333,324,Esophageal reflux
+icd:9:7804,7,311,308,Dizziness and giddiness
+icd:10:K8590,7,305,239,"Acute pancreatitis without necrosis or infection, unspecified"
+icd:10:R509,7,305,286,"Fever, unspecified"
+icd:9:56400,7,303,285,"Constipation, unspecified"
+icd:9:78791,7,303,265,Diarrhea
+icd:10:I471,7,300,285,Supraventricular tachycardia
+icd:9:72402,7,295,290,"Spinal stenosis, lumbar region, without neurogenic claudication"
+icd:9:44022,7,290,275,Atherosclerosis of native arteries of the extremities with rest pain
+icd:10:J9621,7,288,264,Acute and chronic respiratory failure with hypoxia
+icd:10:M1612,7,286,285,"Unilateral primary osteoarthritis, left hip"
+icd:9:20300,7,282,239,"Multiple myeloma, without mention of having achieved remission"
+icd:9:99812,7,282,277,Hematoma complicating a procedure
+icd:9:4260,7,281,277,"Atrioventricular block, complete"
+icd:9:78039,7,281,275,Other convulsions
+icd:9:03849,7,275,266,Other septicemia due to gram-negative organisms
+icd:10:I639,7,274,274,"Cerebral infarction, unspecified"
+icd:9:34590,7,273,254,"Epilepsy, unspecified, without mention of intractable epilepsy"
+icd:9:78909,7,270,266,"Abdominal pain, other specified site"
+icd:9:185,7,267,262,Malignant neoplasm of prostate
+icd:9:8208,7,262,259,Closed fracture of unspecified part of neck of femur
+icd:9:27401,7,260,224,Acute gouty arthropathy
+icd:10:K529,7,252,242,"Noninfective gastroenteritis and colitis, unspecified"
+icd:9:71595,7,250,243,"Osteoarthrosis, unspecified whether generalized or localized, pelvic region and thigh"
+icd:9:41400,7,249,229,"Coronary atherosclerosis of unspecified type of vessel, native or graft"
+icd:9:8054,7,249,247,Closed fracture of lumbar vertebra without mention of spinal cord injury
+icd:9:0380,7,244,239,Streptococcal septicemia
+icd:9:1985,7,244,224,Secondary malignant neoplasm of bone and bone marrow
+icd:9:44422,7,244,237,Arterial embolism and thrombosis of lower extremity
+icd:9:7840,7,242,230,Headache
+icd:10:S72141A,7,239,239,"Displaced intertrochanteric fracture of right femur, initial encounter for closed fracture"
+icd:9:51884,7,239,218,Acute and chronic respiratory failure
+icd:9:25070,7,234,217,"Diabetes with peripheral circulatory disorders, type II or unspecified type, not stated as uncontrolled"
+icd:10:J069,7,233,223,"Acute upper respiratory infection, unspecified"
+icd:10:G459,7,231,226,"Transient cerebral ischemic attack, unspecified"
+icd:9:99666,7,231,203,Infection and inflammatory reaction due to internal joint prosthesis
+icd:9:2859,7,227,224,"Anemia, unspecified"
+icd:10:M179,7,226,218,"Osteoarthritis of knee, unspecified"
+icd:10:S2242XA,7,225,222,"Multiple fractures of ribs, left side, initial encounter for closed fracture"
+icd:9:57410,7,225,224,"Calculus of gallbladder with other cholecystitis, without mention of obstruction"
+icd:9:41402,7,224,209,Coronary atherosclerosis of autologous vein bypass graft
+icd:10:I63412,7,223,222,Cerebral infarction due to embolism of left middle cerebral artery
+icd:9:99931,7,222,211,Other and unspecified infection due to central venous catheter
+icd:10:K5732,7,221,210,Diverticulitis of large intestine without perforation or abscess without bleeding
+icd:9:4589,7,221,220,"Hypotension, unspecified"
+icd:9:7242,7,219,215,Lumbago
+icd:9:78605,7,216,216,Shortness of breath
+icd:9:6823,7,215,203,Cellulitis and abscess of upper arm and forearm
+icd:10:S72142A,7,213,213,"Displaced intertrochanteric fracture of left femur, initial encounter for closed fracture"
+icd:10:C9200,7,210,197,"Acute myeloblastic leukemia, not having achieved remission"
+icd:9:51919,7,210,179,Other diseases of trachea and bronchus
+icd:9:51189,7,203,175,"Other specified forms of effusion, except tuberculous"
+icd:9:1625,7,202,195,"Malignant neoplasm of lower lobe, bronchus or lung"
+icd:9:80502,7,201,201,Closed fracture of second cervical vertebra
+icd:9:7812,7,198,194,Abnormality of gait
+icd:9:5693,7,196,195,Hemorrhage of rectum and anus
+icd:9:8052,7,190,180,Closed fracture of dorsal [thoracic] vertebra without mention of spinal cord injury
+icd:9:8082,7,190,187,Closed fracture of pubis
+icd:9:82009,7,190,190,Other closed transcervical fracture of neck of femur
+icd:9:4412,7,183,180,Thoracic aneurysm without mention of rupture
+icd:9:99667,7,183,171,"Infection and inflammatory reaction due to other internal orthopedic device, implant, and graft"
+icd:10:K5720,7,182,160,Diverticulitis of large intestine with perforation and abscess without bleeding
+icd:9:33819,7,178,169,Other acute pain
+icd:9:7295,7,177,173,Pain in limb
+icd:9:1629,7,172,163,"Malignant neoplasm of bronchus and lung, unspecified"
+icd:9:49122,7,169,162,Obstructive chronic bronchitis with acute bronchitis
+icd:10:I6340,7,168,167,Cerebral infarction due to embolism of unspecified cerebral artery
+icd:9:99749,7,167,156,Other digestive system complications
+icd:9:44031,7,165,141,Atherosclerosis of autologous vein bypass graft of the extremities
+icd:9:6822,7,164,150,Cellulitis and abscess of trunk
+icd:9:515,7,161,145,Postinflammatory pulmonary fibrosis
+icd:9:5570,7,152,148,Acute vascular insufficiency of intestine
+icd:9:38611,7,150,149,Benign paroxysmal positional vertigo
+icd:9:7245,7,148,147,"Backache, unspecified"
+icd:9:03811,7,145,145,Methicillin susceptible Staphylococcus aureus septicemia
+icd:9:7336,7,144,135,Tietze's disease
+icd:10:J111,7,143,140,Influenza due to unidentified influenza virus with other respiratory manifestations
+icd:10:T8453XA,7,143,106,"Infection and inflammatory reaction due to internal right knee prosthesis, initial encounter"
+icd:9:57420,7,133,127,"Calculus of gallbladder without mention of cholecystitis, without mention of obstruction"
+icd:9:78009,7,127,126,Other alteration of consciousness
+icd:9:6824,7,119,118,"Cellulitis and abscess of hand, except fingers and thumb"
+icd:9:34831,7,108,107,Metabolic encephalopathy
+icd:10:I472,6,640,523,Ventricular tachycardia
+icd:10:I671,6,577,493,"Cerebral aneurysm, nonruptured"
+icd:10:I481,6,557,519,Persistent atrial fibrillation
+icd:10:I442,6,535,532,"Atrioventricular block, complete"
+icd:10:C7931,6,492,415,Secondary malignant neoplasm of brain
+icd:10:M48062,6,466,456,"Spinal stenosis, lumbar region with neurogenic claudication"
+icd:9:85221,6,464,456,"Subdural hemorrhage following injury without mention of open intracranial wound, with no loss of consciousness"
+icd:10:S065X0A,6,461,444,"Traumatic subdural hemorrhage without loss of consciousness, initial encounter"
+icd:10:I495,6,458,450,Sick sinus syndrome
+icd:10:E1152,6,457,383,Type 2 diabetes mellitus with diabetic peripheral angiopathy with gangrene
+icd:10:I120,6,427,405,Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease
+icd:10:T82868A,6,423,379,"Thrombosis due to vascular prosthetic devices, implants and grafts, initial encounter"
+icd:10:K921,6,422,397,Melena
+icd:10:K7290,6,405,322,"Hepatic failure, unspecified without coma"
+icd:9:2767,6,395,334,Hyperpotassemia
+icd:10:Q231,6,388,384,Congenital insufficiency of aortic valve
+icd:10:K831,6,381,351,Obstruction of bile duct
+icd:10:C9000,6,363,299,Multiple myeloma not having achieved remission
+icd:10:I160,6,363,342,Hypertensive urgency
+icd:9:40491,6,354,315,"Hypertensive heart and chronic kidney disease, unspecified, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified"
+icd:10:I161,6,342,320,Hypertensive emergency
+icd:9:42822,6,342,336,Chronic systolic heart failure
+icd:10:I080,6,337,323,Rheumatic disorders of both mitral and aortic valves
+icd:9:7213,6,330,317,Lumbosacral spondylosis without myelopathy
+icd:9:5715,6,328,283,Cirrhosis of liver without mention of alcohol
+icd:10:T827XXA,6,325,283,"Infection and inflammatory reaction due to other cardiac and vascular devices, implants and grafts, initial encounter"
+icd:9:41011,6,322,320,"Acute myocardial infarction of other anterior wall, initial episode of care"
+icd:10:E11621,6,315,263,Type 2 diabetes mellitus with foot ulcer
+icd:10:E1165,6,310,273,Type 2 diabetes mellitus with hyperglycemia
+icd:10:C7951,6,302,279,Secondary malignant neoplasm of bone
+icd:10:N401,6,301,290,Benign prostatic hyperplasia with lower urinary tract symptoms
+icd:10:M4802,6,292,285,"Spinal stenosis, cervical region"
+icd:9:25013,6,290,180,"Diabetes with ketoacidosis, type I [juvenile type], uncontrolled"
+icd:9:3962,6,280,266,Mitral valve insufficiency and aortic valve stenosis
+icd:10:C220,6,278,224,Liver cell carcinoma
+icd:10:R109,6,275,257,Unspecified abdominal pain
+icd:10:I441,6,273,271,"Atrioventricular block, second degree"
+icd:10:K922,6,273,269,"Gastrointestinal hemorrhage, unspecified"
+icd:10:K5731,6,272,248,Diverticulosis of large intestine without perforation or abscess with bleeding
+icd:10:I4892,6,268,253,Unspecified atrial flutter
+icd:9:40390,6,268,252,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified"
+icd:10:I4819,6,262,250,Other persistent atrial fibrillation
+icd:9:41041,6,259,256,"Acute myocardial infarction of other inferior wall, initial episode of care"
+icd:10:S065X9A,6,256,252,"Traumatic subdural hemorrhage with loss of consciousness of unspecified duration, initial encounter"
+icd:9:1890,6,252,248,"Malignant neoplasm of kidney, except pelvis"
+icd:10:G893,6,250,206,Neoplasm related pain (acute) (chronic)
+icd:10:D62,6,249,234,Acute posthemorrhagic anemia
+icd:9:4321,6,248,228,Subdural hemorrhage
+icd:10:E11649,6,244,228,Type 2 diabetes mellitus with hypoglycemia without coma
+icd:10:S2241XA,6,244,244,"Multiple fractures of ribs, right side, initial encounter for closed fracture"
+icd:10:I313,6,241,226,Pericardial effusion (noninflammatory)
+icd:10:K5900,6,239,231,"Constipation, unspecified"
+icd:10:E1122,6,236,218,Type 2 diabetes mellitus with diabetic chronic kidney disease
+icd:10:R112,6,234,219,"Nausea with vomiting, unspecified"
+icd:10:C541,6,229,212,Malignant neoplasm of endometrium
+icd:9:5845,6,229,228,Acute kidney failure with lesion of tubular necrosis
+icd:9:27801,6,224,223,Morbid obesity
+icd:10:I712,6,223,215,"Thoracic aortic aneurysm, without rupture"
+icd:9:7211,6,223,222,Cervical spondylosis with myelopathy
+icd:10:I7101,6,221,211,Dissection of thoracic aorta
+icd:10:D509,6,219,211,"Iron deficiency anemia, unspecified"
+icd:9:2851,6,219,209,Acute posthemorrhagic anemia
+icd:10:G40909,6,218,198,"Epilepsy, unspecified, not intractable, without status epilepticus"
+icd:9:85201,6,218,218,"Subarachnoid hemorrhage following injury without mention of open intracranial wound, with no loss of consciousness"
+icd:9:40291,6,216,199,Unspecified hypertensive heart disease with heart failure
+icd:9:V560,6,216,210,Encounter for extracorporeal dialysis
+icd:10:E860,6,215,212,Dehydration
+icd:9:79092,6,214,202,Abnormal coagulation profile
+icd:9:9961,6,213,190,"Mechanical complication of other vascular device, implant, and graft"
+icd:9:5762,6,211,195,Obstruction of bile duct
+icd:10:S066X0A,6,205,203,"Traumatic subarachnoid hemorrhage without loss of consciousness, initial encounter"
+icd:9:1820,6,205,195,"Malignant neoplasm of corpus uteri, except isthmus"
+icd:10:K8050,6,200,200,Calculus of bile duct without cholangitis or cholecystitis without obstruction
+icd:9:99649,6,200,194,"Other mechanical complication of other internal orthopedic device, implant, and graft"
+icd:10:C61,6,199,197,Malignant neoplasm of prostate
+icd:10:J440,6,195,186,Chronic obstructive pulmonary disease with (acute) lower respiratory infection
+icd:9:4010,6,193,190,Malignant essential hypertension
+icd:10:A047,6,192,165,Enterocolitis due to Clostridium difficile
+icd:10:R42,6,191,189,Dizziness and giddiness
+icd:10:T83511A,6,191,163,"Infection and inflammatory reaction due to indwelling urethral catheter, initial encounter"
+icd:9:042,6,191,167,Human immunodeficiency virus [HIV] disease
+icd:10:K8051,6,189,182,Calculus of bile duct without cholangitis or cholecystitis with obstruction
+icd:10:K432,6,188,179,Incisional hernia without obstruction or gangrene
+icd:9:57450,6,188,183,"Calculus of bile duct without mention of cholecystitis, without mention of obstruction"
+icd:10:K9189,6,185,178,Other postprocedural complications and disorders of digestive system
+icd:10:M4806,6,184,180,"Spinal stenosis, lumbar region"
+icd:9:72403,6,184,180,"Spinal stenosis, lumbar region, with neurogenic claudication"
+icd:9:43311,6,183,180,Occlusion and stenosis of carotid artery with cerebral infarction
+icd:9:25002,6,181,180,"Diabetes mellitus without mention of complication, type II or unspecified type, uncontrolled"
+icd:10:K31811,6,180,148,Angiodysplasia of stomach and duodenum with bleeding
+icd:10:R791,6,177,146,Abnormal coagulation profile
+icd:9:2809,6,177,171,"Iron deficiency anemia, unspecified"
+icd:10:R001,6,175,174,"Bradycardia, unspecified"
+icd:10:R569,6,175,172,Unspecified convulsions
+icd:9:45342,6,175,173,Acute venous embolism and thrombosis of deep vessels of distal lower extremity
+icd:10:I6522,6,174,174,Occlusion and stenosis of left carotid artery
+icd:9:193,6,172,160,Malignant neoplasm of thyroid gland
+icd:9:5409,6,171,170,Acute appendicitis without mention of peritonitis
+icd:10:J9622,6,170,147,Acute and chronic respiratory failure with hypercapnia
+icd:9:5771,6,170,114,Chronic pancreatitis
+icd:10:K8000,6,168,168,Calculus of gallbladder with acute cholecystitis without obstruction
+icd:10:M48061,6,168,165,"Spinal stenosis, lumbar region without neurogenic claudication"
+icd:10:D6832,6,167,167,Hemorrhagic disorder due to extrinsic circulating anticoagulants
+icd:10:A4159,6,166,163,Other Gram-negative sepsis
+icd:10:D709,6,164,155,"Neutropenia, unspecified"
+icd:10:I6521,6,163,162,Occlusion and stenosis of right carotid artery
+icd:10:R0600,6,163,160,"Dyspnea, unspecified"
+icd:9:2800,6,163,153,Iron deficiency anemia secondary to blood loss (chronic)
+icd:9:7847,6,163,153,Epistaxis
+icd:9:1570,6,162,158,Malignant neoplasm of head of pancreas
+icd:9:2252,6,162,152,Benign neoplasm of cerebral meninges
+icd:10:K810,6,161,157,Acute cholecystitis
+icd:9:99769,6,160,140,Other amputation stump complication
+icd:10:I63411,6,159,158,Cerebral infarction due to embolism of right middle cerebral artery
+icd:9:3383,6,158,135,Neoplasm related pain (acute) (chronic)
+icd:9:20500,6,156,148,"Acute myeloid leukemia, without mention of having achieved remission"
+icd:9:7210,6,156,150,Cervical spondylosis without myelopathy
+icd:10:J101,6,155,155,Influenza due to other identified influenza virus with other respiratory manifestations
+icd:9:7823,6,154,149,Edema
+icd:10:N132,6,153,152,Hydronephrosis with renal and ureteral calculous obstruction
+icd:9:53140,6,153,147,"Chronic or unspecified gastric ulcer with hemorrhage, without mention of obstruction"
+icd:9:41091,6,152,152,"Acute myocardial infarction of unspecified site, initial episode of care"
+icd:10:A0472,6,151,149,"Enterocolitis due to Clostridium difficile, not specified as recurrent"
+icd:10:S72002A,6,151,151,"Fracture of unspecified part of neck of left femur, initial encounter for closed fracture"
+icd:10:A4101,6,150,150,Sepsis due to Methicillin susceptible Staphylococcus aureus
+icd:9:0090,6,150,148,"Infectious colitis, enteritis, and gastroenteritis"
+icd:10:S066X9A,6,148,148,"Traumatic subarachnoid hemorrhage with loss of consciousness of unspecified duration, initial encounter"
+icd:9:56409,6,147,142,Other constipation
+icd:10:R531,6,146,146,Weakness
+icd:9:25040,6,145,140,"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled"
+icd:9:34830,6,145,145,"Encephalopathy, unspecified"
+icd:9:4552,6,145,141,Internal hemorrhoids with other complication
+icd:9:4168,6,143,132,Other chronic pulmonary heart diseases
+icd:9:430,6,143,143,Subarachnoid hemorrhage
+icd:9:4870,6,141,141,Influenza with pneumonia
+icd:9:40301,6,139,76,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease"
+icd:10:T82898A,6,137,136,"Other specified complication of vascular prosthetic devices, implants and grafts, initial encounter"
+icd:10:K254,6,136,133,Chronic or unspecified gastric ulcer with hemorrhage
+icd:9:4210,6,135,130,Acute and subacute bacterial endocarditis
+icd:10:I6389,6,134,132,Other cerebral infarction
+icd:9:85220,6,130,123,"Subdural hemorrhage following injury without mention of open intracranial wound, unspecified state of consciousness"
+icd:9:99932,6,130,116,Bloodstream infection due to central venous catheter
+icd:9:5533,6,129,124,Diaphragmatic hernia without mention of obstruction or gangrene
+icd:10:K430,6,128,122,"Incisional hernia with obstruction, without gangrene"
+icd:10:K91840,6,128,126,Postprocedural hemorrhage of a digestive system organ or structure following a digestive system procedure
+icd:9:82101,6,128,128,Closed fracture of shaft of femur
+icd:10:T82897A,6,125,122,"Other specified complication of cardiac prosthetic devices, implants and grafts, initial encounter"
+icd:10:I82412,6,124,117,Acute embolism and thrombosis of left femoral vein
+icd:10:M7981,6,123,109,Nontraumatic hematoma of soft tissue
+icd:9:9972,6,123,122,"Peripheral vascular complications, not elsewhere classified"
+icd:10:K625,6,120,114,Hemorrhage of anus and rectum
+icd:9:45829,6,117,116,Other iatrogenic hypotension
+icd:9:71945,6,117,114,"Pain in joint, pelvic region and thigh"
+icd:10:K5521,6,116,103,Angiodysplasia of colon with hemorrhage
+icd:9:55221,6,116,113,Incisional ventral hernia with obstruction
+icd:9:29281,6,115,114,Drug-induced delirium
+icd:9:59971,6,114,114,Gross hematuria
+icd:10:N136,6,113,108,Pyonephrosis
+icd:10:D649,6,112,112,"Anemia, unspecified"
+icd:9:73382,6,112,107,Nonunion of fracture
+icd:9:79902,6,111,110,Hypoxemia
+icd:10:C642,6,110,106,"Malignant neoplasm of left kidney, except renal pelvis"
+icd:10:S270XXA,6,110,110,"Traumatic pneumothorax, initial encounter"
+icd:10:M109,6,109,97,"Gout, unspecified"
+icd:9:2113,6,109,107,Benign neoplasm of colon
+icd:9:42830,6,109,105,"Diastolic heart failure, unspecified"
+icd:9:82300,6,109,109,Closed fracture of upper end of tibia alone
+icd:9:7837,6,104,101,Adult failure to thrive
+icd:10:R040,6,103,97,Epistaxis
+icd:9:43889,6,103,100,Other late effects of cerebrovascular disease
+icd:10:G9340,6,102,101,"Encephalopathy, unspecified"
+icd:10:F0390,6,99,97,"Unspecified dementia, unspecified severity, without behavioral disturbance, psychotic disturbance, mood disturbance, and anxiety"
+icd:10:K920,6,99,96,Hematemesis
+icd:9:1830,6,99,86,Malignant neoplasm of ovary
+icd:10:C679,6,95,88,"Malignant neoplasm of bladder, unspecified"
+icd:9:490,6,95,95,"Bronchitis, not specified as acute or chronic"
+icd:9:34690,6,94,81,"Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus"
+icd:9:56969,6,94,89,Other colostomy and enterostomy complication
+icd:9:1748,6,91,90,Malignant neoplasm of other specified sites of female breast
+icd:9:56089,6,88,78,Other specified intestinal obstruction
+icd:9:9975,6,85,80,"Urinary complications, not elsewhere classified"
+icd:9:8244,6,84,82,"Bimalleolar fracture, closed"
+icd:9:4423,6,73,67,Aneurysm of artery of lower extremity
+icd:9:51889,6,73,73,"Other diseases of lung, not elsewhere classified"
+icd:10:K7469,5,416,324,Other cirrhosis of liver
+icd:10:E875,5,278,263,Hyperkalemia
+icd:9:56212,5,258,232,Diverticulosis of colon with hemorrhage
+icd:10:N170,5,240,235,Acute kidney failure with tubular necrosis
+icd:10:I2109,5,238,238,ST elevation (STEMI) myocardial infarction involving other coronary artery of anterior wall
+icd:9:25061,5,229,125,"Diabetes with neurological manifestations, type I [juvenile type], not stated as uncontrolled"
+icd:10:I081,5,218,210,Rheumatic disorders of both mitral and tricuspid valves
+icd:10:T8619,5,196,164,Other complication of kidney transplant
+icd:10:I083,5,194,191,"Combined rheumatic disorders of mitral, aortic and tricuspid valves"
+icd:10:J398,5,192,142,Other specified diseases of upper respiratory tract
+icd:10:T80211A,5,190,176,"Bloodstream infection due to central venous catheter, initial encounter"
+icd:10:E1010,5,189,142,Type 1 diabetes mellitus with ketoacidosis without coma
+icd:9:25063,5,184,88,"Diabetes with neurological manifestations, type I [juvenile type], uncontrolled"
+icd:9:99682,5,180,105,Complications of transplanted liver
+icd:10:R1013,5,179,162,Epigastric pain
+icd:10:C250,5,177,164,Malignant neoplasm of head of pancreas
+icd:9:25062,5,177,154,"Diabetes with neurological manifestations, type II or unspecified type, uncontrolled"
+icd:10:I483,5,175,172,Typical atrial flutter
+icd:10:E1143,5,173,100,Type 2 diabetes mellitus with diabetic autonomic (poly)neuropathy
+icd:10:I21A1,5,170,168,Myocardial infarction type 2
+icd:10:C3411,5,166,155,"Malignant neoplasm of upper lobe, right bronchus or lung"
+icd:9:53783,5,161,131,Angiodysplasia of stomach and duodenum with hemorrhage
+icd:9:44101,5,157,154,"Dissection of aorta, thoracic"
+icd:10:T82858A,5,156,148,"Stenosis of other vascular prosthetic devices, implants and grafts, initial encounter"
+icd:10:K8510,5,155,151,Biliary acute pancreatitis without necrosis or infection
+icd:10:I618,5,154,154,Other nontraumatic intracerebral hemorrhage
+icd:9:29633,5,154,137,"Major depressive affective disorder, recurrent episode, severe, without mention of psychotic behavior"
+icd:10:C3412,5,153,146,"Malignant neoplasm of upper lobe, left bronchus or lung"
+icd:10:C786,5,151,143,Secondary malignant neoplasm of retroperitoneum and peritoneum
+icd:10:F332,5,149,135,"Major depressive disorder, recurrent severe without psychotic features"
+icd:10:T82857A,5,149,144,"Stenosis of other cardiac prosthetic devices, implants and grafts, initial encounter"
+icd:9:9971,5,149,149,"Cardiac complications, not elsewhere classified"
+icd:9:53550,5,141,140,"Unspecified gastritis and gastroduodenitis, without mention of hemorrhage"
+icd:9:99661,5,141,138,"Infection and inflammatory reaction due to cardiac device, implant, and graft"
+icd:10:T8141XA,5,140,139,"Infection following a procedure, superficial incisional surgical site, initial encounter"
+icd:10:F329,5,138,130,"Major depressive disorder, single episode, unspecified"
+icd:10:M4712,5,138,134,"Other spondylosis with myelopathy, cervical region"
+icd:10:R7881,5,136,129,Bacteremia
+icd:10:T8131XA,5,135,131,"Disruption of external operation (surgical) wound, not elsewhere classified, initial encounter"
+icd:10:I352,5,134,134,Nonrheumatic aortic (valve) stenosis with insufficiency
+icd:10:I420,5,132,126,Dilated cardiomyopathy
+icd:9:4254,5,132,126,Other primary cardiomyopathies
+icd:10:D320,5,130,123,Benign neoplasm of cerebral meninges
+icd:10:K521,5,130,124,Toxic gastroenteritis and colitis
+icd:10:T8579XA,5,128,124,"Infection and inflammatory reaction due to other internal prosthetic devices, implants and grafts, initial encounter"
+icd:10:C3431,5,127,123,"Malignant neoplasm of lower lobe, right bronchus or lung"
+icd:9:78903,5,127,108,"Abdominal pain, right lower quadrant"
+icd:9:99604,5,127,125,Mechanical complication of automatic implantable cardiac defibrillator
+icd:10:I6201,5,125,117,Nontraumatic acute subdural hemorrhage
+icd:10:K56609,5,124,119,"Unspecified intestinal obstruction, unspecified as to partial versus complete obstruction"
+icd:9:5579,5,124,123,Unspecified vascular insufficiency of intestine
+icd:10:N200,5,123,102,Calculus of kidney
+icd:9:1977,5,122,117,"Malignant neoplasm of liver, secondary"
+icd:9:27652,5,121,119,Hypovolemia
+icd:9:42832,5,121,117,Chronic diastolic heart failure
+icd:9:99601,5,117,117,Mechanical complication due to cardiac pacemaker (electrode)
+icd:10:E1110,5,113,98,Type 2 diabetes mellitus with ketoacidosis without coma
+icd:10:C73,5,111,103,Malignant neoplasm of thyroid gland
+icd:10:K449,5,109,109,Diaphragmatic hernia without obstruction or gangrene
+icd:9:29690,5,109,95,Unspecified episodic mood disorder
+icd:10:I952,5,106,106,Hypotension due to drugs
+icd:10:T8454XA,5,106,77,"Infection and inflammatory reaction due to internal left knee prosthesis, initial encounter"
+icd:9:25083,5,105,83,"Diabetes with other specified manifestations, type I [juvenile type], uncontrolled"
+icd:10:A408,5,104,101,Other streptococcal sepsis
+icd:9:2989,5,103,100,Unspecified psychosis
+icd:10:D693,5,101,86,Immune thrombocytopenic purpura
+icd:10:I82411,5,101,97,Acute embolism and thrombosis of right femoral vein
+icd:10:I6523,5,99,96,Occlusion and stenosis of bilateral carotid arteries
+icd:10:K648,5,99,92,Other hemorrhoids
+icd:9:1628,5,99,96,Malignant neoplasm of other parts of bronchus or lung
+icd:9:7820,5,99,99,Disturbance of skin sensation
+icd:9:9951,5,99,95,"Angioneurotic edema, not elsewhere classified"
+icd:10:I959,5,98,96,"Hypotension, unspecified"
+icd:9:25081,5,98,78,"Diabetes with other specified manifestations, type I [juvenile type], not stated as uncontrolled"
+icd:10:I9789,5,97,97,"Other postprocedural complications and disorders of the circulatory system, not elsewhere classified"
+icd:10:K9186,5,96,94,Retained cholelithiasis following cholecystectomy
+icd:9:73342,5,96,84,Aseptic necrosis of head and neck of femur
+icd:10:G8929,5,95,85,Other chronic pain
+icd:9:53240,5,94,94,"Chronic or unspecified duodenal ulcer with hemorrhage, without mention of obstruction"
+icd:9:33818,5,93,93,Other acute postoperative pain
+icd:10:I2694,5,92,92,Multiple subsegmental pulmonary emboli without acute cor pulmonale
+icd:10:K5660,5,92,81,Unspecified intestinal obstruction
+icd:9:73027,5,92,90,"Unspecified osteomyelitis, ankle and foot"
+icd:9:38612,5,91,86,Vestibular neuronitis
+icd:9:27542,5,90,83,Hypercalcemia
+icd:9:2768,5,89,84,Hypopotassemia
+icd:9:34839,5,89,87,Other encephalopathy
+icd:9:42613,5,89,89,Other second degree atrioventricular block
+icd:10:K264,5,87,86,Chronic or unspecified duodenal ulcer with hemorrhage
+icd:10:M170,5,87,86,Bilateral primary osteoarthritis of knee
+icd:9:25000,5,87,87,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+icd:9:72992,5,87,86,Nontraumatic hematoma of soft tissue
+icd:9:8246,5,86,83,"Trimalleolar fracture, closed"
+icd:10:L03113,5,85,85,Cellulitis of right upper limb
+icd:9:28521,5,85,81,Anemia in chronic kidney disease
+icd:9:99642,5,85,67,Dislocation of prosthetic joint
+icd:10:T8132XA,5,83,80,"Disruption of internal operation (surgical) wound, not elsewhere classified, initial encounter"
+icd:9:72252,5,82,79,Degeneration of lumbar or lumbosacral intervertebral disc
+icd:9:5571,5,81,78,Chronic vascular insufficiency of intestine
+icd:9:55090,5,80,79,"Inguinal hernia, without mention of obstruction or gangrene, unilateral or unspecified (not specified as recurrent)"
+icd:10:C7801,5,79,77,Secondary malignant neoplasm of right lung
+icd:10:G9341,5,79,77,Metabolic encephalopathy
+icd:9:7862,5,79,79,Cough
+icd:9:1976,5,78,73,Secondary malignant neoplasm of retroperitoneum and peritoneum
+icd:9:4139,5,78,78,Other and unspecified angina pectoris
+icd:10:T8142XA,5,76,74,"Infection following a procedure, deep incisional surgical site, initial encounter"
+icd:9:7384,5,76,76,Acquired spondylolisthesis
+icd:9:9623,5,76,72,Poisoning by insulins and antidiabetic agents
+icd:9:4270,5,75,75,Paroxysmal supraventricular tachycardia
+icd:10:I743,5,74,70,Embolism and thrombosis of arteries of the lower extremities
+icd:10:S271XXA,5,73,69,"Traumatic hemothorax, initial encounter"
+icd:9:34510,5,73,71,"Generalized convulsive epilepsy, without mention of intractable epilepsy"
+icd:9:99832,5,73,72,Disruption of external operation (surgical) wound
+icd:10:I69398,5,72,72,Other sequelae of cerebral infarction
+icd:9:3310,5,72,72,Alzheimer's disease
+icd:9:5691,5,72,61,Rectal prolapse
+icd:9:8080,5,72,72,Closed fracture of acetabulum
+icd:9:99813,5,72,71,Seroma complicating a procedure
+icd:9:85301,5,71,71,"Other and unspecified intracranial hemorrhage following injury without mention of open intracranial wound, with no loss of consciousness"
+icd:10:I724,5,70,62,Aneurysm of artery of lower extremity
+icd:10:L7632,5,70,69,Postprocedural hematoma of skin and subcutaneous tissue following other procedure
+icd:9:70715,5,70,70,Ulcer of other part of foot
+icd:9:0383,5,68,68,Septicemia due to anaerobes
+icd:9:99883,5,68,67,Non-healing surgical wound
+icd:9:99678,5,67,67,"Other complications due to other internal orthopedic device, implant, and graft"
+icd:9:71531,5,66,62,"Osteoarthrosis, localized, not specified whether primary or secondary, shoulder region"
+icd:9:80501,5,63,60,Closed fracture of first cervical vertebra
+icd:9:42612,5,62,62,Mobitz (type) II atrioventricular block
+icd:10:T82110A,5,60,60,"Breakdown (mechanical) of cardiac electrode, initial encounter"
+icd:9:5712,4,380,310,Alcoholic cirrhosis of liver
+icd:10:I2119,4,216,215,ST elevation (STEMI) myocardial infarction involving other coronary artery of inferior wall
+icd:10:F10239,4,206,165,"Alcohol dependence with withdrawal, unspecified"
+icd:10:T82855A,4,162,146,"Stenosis of coronary artery stent, initial encounter"
+icd:9:29620,4,143,134,"Major depressive affective disorder, single episode, unspecified"
+icd:10:C787,4,138,134,Secondary malignant neoplasm of liver and intrahepatic bile duct
+icd:10:K219,4,135,135,Gastro-esophageal reflux disease without esophagitis
+icd:10:A09,4,131,131,"Infectious gastroenteritis and colitis, unspecified"
+icd:9:25012,4,129,116,"Diabetes with ketoacidosis, type II or unspecified type, uncontrolled"
+icd:10:E6601,4,127,127,Morbid (severe) obesity due to excess calories
+icd:10:I5031,4,127,127,Acute diastolic (congestive) heart failure
+icd:10:I5043,4,123,111,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+icd:10:A4181,4,122,119,Sepsis due to Enterococcus
+icd:10:I611,4,122,121,"Nontraumatic intracerebral hemorrhage in hemisphere, cortical"
+icd:9:78959,4,122,114,Other ascites
+icd:10:R197,4,120,115,"Diarrhea, unspecified"
+icd:9:5711,4,119,108,Acute alcoholic hepatitis
+icd:10:M5116,4,112,109,"Intervertebral disc disorders with radiculopathy, lumbar region"
+icd:9:2189,4,111,110,"Leiomyoma of uterus, unspecified"
+icd:10:T826XXA,4,109,99,"Infection and inflammatory reaction due to cardiac valve prosthesis, initial encounter"
+icd:10:K861,4,107,76,Other chronic pancreatitis
+icd:10:R1011,4,107,96,Right upper quadrant pain
+icd:10:K8010,4,105,105,Calculus of gallbladder with chronic cholecystitis without obstruction
+icd:10:E8770,4,104,101,"Fluid overload, unspecified"
+icd:10:N12,4,103,96,"Tubulo-interstitial nephritis, not specified as acute or chronic"
+icd:10:K830,4,101,81,Cholangitis
+icd:9:5780,4,100,96,Hematemesis
+icd:10:K8012,4,99,99,Calculus of gallbladder with acute and chronic cholecystitis without obstruction
+icd:10:E1043,4,98,44,Type 1 diabetes mellitus with diabetic autonomic (poly)neuropathy
+icd:9:311,4,98,94,"Depressive disorder, not elsewhere classified"
+icd:9:40300,4,97,93,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage I through stage IV, or unspecified"
+icd:9:29570,4,96,83,"Schizoaffective disorder, unspecified"
+icd:10:K3580,4,94,91,Unspecified acute appendicitis
+icd:10:B349,4,93,92,"Viral infection, unspecified"
+icd:10:R0602,4,93,92,Shortness of breath
+icd:10:J9602,4,91,91,Acute respiratory failure with hypercapnia
+icd:10:I484,4,89,84,Atypical atrial flutter
+icd:10:G20,4,88,87,Parkinson's disease
+icd:10:I5022,4,88,87,Chronic systolic (congestive) heart failure
+icd:10:T8189XA,4,88,86,"Other complications of procedures, not elsewhere classified, initial encounter"
+icd:9:33829,4,88,84,Other chronic pain
+icd:10:A4102,4,87,85,Sepsis due to Methicillin resistant Staphylococcus aureus
+icd:10:E1100,4,85,83,Type 2 diabetes mellitus with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC)
+icd:10:G8918,4,85,83,Other acute postprocedural pain
+icd:10:N10,4,84,80,Acute pyelonephritis
+icd:9:82022,4,84,84,Closed fracture of subtrochanteric section of neck of femur
+icd:10:I10,4,83,83,Essential (primary) hypertension
+icd:10:I482,4,83,81,Chronic atrial fibrillation
+icd:10:I213,4,82,82,ST elevation (STEMI) myocardial infarction of unspecified site
+icd:10:T8143XA,4,82,81,"Infection following a procedure, organ and space surgical site, initial encounter"
+icd:10:C3432,4,81,77,"Malignant neoplasm of lower lobe, left bronchus or lung"
+icd:10:D500,4,81,77,Iron deficiency anemia secondary to blood loss (chronic)
+icd:10:I255,4,81,80,Ischemic cardiomyopathy
+icd:10:S72001A,4,81,81,"Fracture of unspecified part of neck of right femur, initial encounter for closed fracture"
+icd:9:56985,4,81,72,Angiodysplasia of intestine with hemorrhage
+icd:9:03812,4,79,77,Methicillin resistant Staphylococcus aureus septicemia
+icd:10:I610,4,78,78,"Nontraumatic intracerebral hemorrhage in hemisphere, subcortical"
+icd:10:J439,4,78,71,"Emphysema, unspecified"
+icd:10:T8149XA,4,77,76,"Infection following a procedure, other surgical site, initial encounter"
+icd:9:28803,4,77,74,Drug induced neutropenia
+icd:10:C8339,4,76,72,"Diffuse large B-cell lymphoma, extranodal and solid organ sites"
+icd:9:5559,4,76,55,Regional enteritis of unspecified site
+icd:9:78907,4,76,76,"Abdominal pain, generalized"
+icd:10:C711,4,75,64,Malignant neoplasm of frontal lobe
+icd:9:4821,4,75,70,Pneumonia due to Pseudomonas
+icd:9:72271,4,75,75,"Intervertebral disc disorder with myelopathy, cervical region"
+icd:10:I319,4,74,74,"Disease of pericardium, unspecified"
+icd:9:5601,4,74,70,Paralytic ileus
+icd:9:7140,4,74,60,Rheumatoid arthritis
+icd:10:C3490,4,73,69,Malignant neoplasm of unspecified part of unspecified bronchus or lung
+icd:10:I129,4,73,72,"Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+icd:9:2411,4,73,73,Nontoxic multinodular goiter
+icd:9:5768,4,73,72,Other specified disorders of biliary tract
+icd:9:78904,4,72,68,"Abdominal pain, left lower quadrant"
+icd:10:I638,4,71,70,Other cerebral infarction
+icd:10:M19012,4,71,71,"Primary osteoarthritis, left shoulder"
+icd:10:R4182,4,71,70,"Altered mental status, unspecified"
+icd:9:514,4,71,71,Pulmonary congestion and hypostasis
+icd:10:T8743,4,70,61,"Infection of amputation stump, right lower extremity"
+icd:9:19889,4,70,68,Secondary malignant neoplasm of other specified sites
+icd:9:27669,4,68,67,Other fluid overload
+icd:9:42741,4,68,66,Ventricular fibrillation
+icd:9:7100,4,68,53,Systemic lupus erythematosus
+icd:10:E861,4,67,66,Hypovolemia
+icd:10:I70261,4,67,64,"Atherosclerosis of native arteries of extremities with gangrene, right leg"
+icd:10:J9589,4,67,67,"Other postprocedural complications and disorders of respiratory system, not elsewhere classified"
+icd:9:29630,4,67,64,"Major depressive affective disorder, recurrent episode, unspecified"
+icd:9:3320,4,67,58,Paralysis agitans
+icd:9:42091,4,67,66,Acute idiopathic pericarditis
+icd:9:53019,4,67,64,Other esophagitis
+icd:9:78720,4,67,65,"Dysphagia, unspecified"
+icd:9:25072,4,66,64,"Diabetes with peripheral circulatory disorders, type II or unspecified type, uncontrolled"
+icd:9:80703,4,66,66,Closed fracture of three ribs
+icd:10:T82856A,4,65,60,"Stenosis of peripheral vascular stent, initial encounter"
+icd:9:5856,4,65,62,End stage renal disease
+icd:9:82123,4,65,65,Closed supracondylar fracture of femur
+icd:9:9351,4,65,62,Foreign body in esophagus
+icd:10:I615,4,64,64,"Nontraumatic intracerebral hemorrhage, intraventricular"
+icd:9:3315,4,64,54,Idiopathic normal pressure hydrocephalus (INPH)
+icd:9:4111,4,64,64,Intermediate coronary syndrome
+icd:9:60784,4,64,63,Impotence of organic origin
+icd:10:C7802,4,63,59,Secondary malignant neoplasm of left lung
+icd:10:K559,4,63,60,"Vascular disorder of intestine, unspecified"
+icd:9:0388,4,63,63,Other specified septicemias
+icd:9:72888,4,63,63,Rhabdomyolysis
+icd:9:7851,4,63,61,Palpitations
+icd:10:C221,4,62,60,Intrahepatic bile duct carcinoma
+icd:10:E854,4,62,58,Organ-limited amyloidosis
+icd:10:G40109,4,62,60,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, not intractable, without status epilepticus"
+icd:10:M8458XA,4,62,60,"Pathological fracture in neoplastic disease, other specified site, initial encounter for fracture"
+icd:9:99644,4,62,62,Peri-prosthetic fracture around prosthetic joint
+icd:9:99669,4,62,59,"Infection and inflammatory reaction due to other internal prosthetic device, implant, and graft"
+icd:10:C7989,4,61,61,Secondary malignant neoplasm of other specified sites
+icd:10:K5289,4,61,61,Other specified noninfective gastroenteritis and colitis
+icd:9:5521,4,61,61,Umbilical hernia with obstruction
+icd:9:72989,4,61,61,Other musculoskeletal symptoms referable to limbs
+icd:10:C712,4,60,52,Malignant neoplasm of temporal lobe
+icd:10:G4089,4,60,60,Other seizures
+icd:10:H8110,4,60,60,"Benign paroxysmal vertigo, unspecified ear"
+icd:10:L03114,4,60,58,Cellulitis of left upper limb
+icd:9:566,4,60,55,Abscess of anal and rectal regions
+icd:9:6184,4,60,60,"Uterovaginal prolapse, unspecified"
+icd:10:E11628,4,59,56,Type 2 diabetes mellitus with other skin complications
+icd:10:I739,4,59,59,"Peripheral vascular disease, unspecified"
+icd:9:3241,4,59,54,Intraspinal abscess
+icd:10:I609,4,58,58,"Nontraumatic subarachnoid hemorrhage, unspecified"
+icd:10:J188,4,58,58,"Other pneumonia, unspecified organism"
+icd:10:T8744,4,57,46,"Infection of amputation stump, left lower extremity"
+icd:9:99639,4,57,50,"Other mechanical complication of genitourinary device, implant, and graft"
+icd:10:T81718A,4,56,55,"Complication of other artery following a procedure, not elsewhere classified, initial encounter"
+icd:10:I70245,4,55,51,Atherosclerosis of native arteries of left leg with ulceration of other part of foot
+icd:9:28731,4,54,47,Immune thrombocytopenic purpura
+icd:9:33182,4,54,54,Dementia with lewy bodies
+icd:9:34550,4,54,54,"Localization-related (focal) (partial) epilepsy and epileptic syndromes with simple partial seizures, without mention of intractable epilepsy"
+icd:9:51289,4,54,46,Other pneumothorax
+icd:9:73314,4,54,53,Pathologic fracture of neck of femur
+icd:10:B20,4,53,46,Human immunodeficiency virus [HIV] disease
+icd:10:C182,4,53,52,Malignant neoplasm of ascending colon
+icd:9:99851,4,53,53,Infected postoperative seroma
+icd:9:5772,4,52,44,Cyst and pseudocyst of pancreas
+icd:10:I70222,4,51,47,"Atherosclerosis of native arteries of extremities with rest pain, left leg"
+icd:10:J208,4,51,50,Acute bronchitis due to other specified organisms
+icd:10:K2971,4,51,48,"Gastritis, unspecified, with bleeding"
+icd:10:Q211,4,51,50,Atrial septal defect
+icd:9:51909,4,51,48,Other tracheostomy complications
+icd:9:V552,4,50,50,Attention to ileostomy
+icd:9:45821,4,49,41,Hypotension of hemodialysis
+icd:9:78062,4,49,49,Postprocedural fever
+icd:10:J869,4,48,47,Pyothorax without fistula
+icd:9:0539,4,48,48,Herpes zoster without mention of complication
+icd:9:32723,4,48,48,Obstructive sleep apnea (adult)(pediatric)
+icd:9:71591,4,48,45,"Osteoarthrosis, unspecified whether generalized or localized, shoulder region"
+icd:9:99889,4,46,46,Other specified complications of procedures not elsewhere classified
+icd:9:25201,4,45,44,Primary hyperparathyroidism
+icd:9:4408,4,45,44,Atherosclerosis of other specified arteries
+icd:9:920,4,45,45,"Contusion of face, scalp, and neck except eye(s)"
+icd:9:4439,4,44,43,"Peripheral vascular disease, unspecified"
+icd:10:G3183,4,43,40,Neurocognitive disorder with Lewy bodies
+icd:10:K7200,3,238,186,Acute and subacute hepatic failure without coma
+icd:9:07044,3,192,139,Chronic hepatitis C with hepatic coma
+icd:10:I5021,3,170,170,Acute systolic (congestive) heart failure
+icd:9:56723,3,133,126,Spontaneous bacterial peritonitis
+icd:10:E43,3,110,105,Unspecified severe protein-calorie malnutrition
+icd:10:K8309,3,106,77,Other cholangitis
+icd:10:K8520,3,89,71,Alcohol induced acute pancreatitis without necrosis or infection
+icd:9:41001,3,89,89,"Acute myocardial infarction of anterolateral wall, initial episode of care"
+icd:9:41511,3,88,87,Iatrogenic pulmonary embolism and infarction
+icd:10:K2970,3,85,81,"Gastritis, unspecified, without bleeding"
+icd:9:7464,3,81,81,Congenital insufficiency of aortic valve
+icd:9:48242,3,80,78,Methicillin resistant pneumonia due to Staphylococcus aureus
+icd:10:I2102,3,79,79,ST elevation (STEMI) myocardial infarction involving left anterior descending coronary artery
+icd:10:T8613,3,78,64,Kidney transplant infection
+icd:10:E8352,3,75,66,Hypercalcemia
+icd:9:340,3,75,50,Multiple sclerosis
+icd:10:C641,3,74,71,"Malignant neoplasm of right kidney, except renal pelvis"
+icd:10:I5181,3,73,72,Takotsubo syndrome
+icd:10:J849,3,72,67,"Interstitial pulmonary disease, unspecified"
+icd:10:G40409,3,70,67,"Other generalized epilepsy and epileptic syndromes, not intractable, without status epilepticus"
+icd:10:M545,3,70,70,Low back pain
+icd:10:I2111,3,68,68,ST elevation (STEMI) myocardial infarction involving right coronary artery
+icd:10:I330,3,67,64,Acute and subacute infective endocarditis
+icd:10:I81,3,67,66,Portal vein thrombosis
+icd:10:D701,3,66,62,Agranulocytosis secondary to cancer chemotherapy
+icd:10:R627,3,66,66,Adult failure to thrive
+icd:10:T8612,3,66,57,Kidney transplant failure
+icd:10:E8779,3,64,62,Other fluid overload
+icd:10:I614,3,64,63,Nontraumatic intracerebral hemorrhage in cerebellum
+icd:9:3968,3,64,62,Multiple involvement of mitral and aortic valves
+icd:10:J95811,3,63,61,Postprocedural pneumothorax
+icd:10:K56600,3,63,59,"Partial intestinal obstruction, unspecified as to cause"
+icd:10:R911,3,63,62,Solitary pulmonary nodule
+icd:9:41031,3,63,63,"Acute myocardial infarction of inferoposterior wall, initial episode of care"
+icd:9:452,3,63,60,Portal vein thrombosis
+icd:10:T8649,3,61,49,Other complications of liver transplant
+icd:9:3963,3,61,60,Mitral valve insufficiency and aortic valve insufficiency
+icd:9:29634,3,60,51,"Major depressive affective disorder, recurrent episode, severe, specified as with psychotic behavior"
+icd:10:I309,3,58,58,"Acute pericarditis, unspecified"
+icd:10:J9503,3,58,48,Malfunction of tracheostomy stoma
+icd:10:J810,3,57,54,Acute pulmonary edema
+icd:10:Z5112,3,57,47,Encounter for antineoplastic immunotherapy
+icd:10:E1069,3,56,50,Type 1 diabetes mellitus with other specified complication
+icd:9:25042,3,56,54,"Diabetes with renal manifestations, type II or unspecified type, uncontrolled"
+icd:9:42820,3,55,55,"Systolic heart failure, unspecified"
+icd:9:1749,3,54,50,"Malignant neoplasm of breast (female), unspecified"
+icd:9:42983,3,54,54,Takotsubo syndrome
+icd:9:4941,3,54,48,Bronchiectasis with acute exacerbation
+icd:10:I872,3,53,49,Venous insufficiency (chronic) (peripheral)
+icd:10:K551,3,53,49,Chronic vascular disorders of intestine
+icd:9:29574,3,53,46,"Schizoaffective disorder, chronic with acute exacerbation"
+icd:10:R310,3,52,52,Gross hematuria
+icd:9:03843,3,52,52,Septicemia due to pseudomonas
+icd:10:G43909,3,51,51,"Migraine, unspecified, not intractable, without status migrainosus"
+icd:10:R51,3,51,51,Headache
+icd:10:C259,3,50,46,"Malignant neoplasm of pancreas, unspecified"
+icd:9:1911,3,50,44,Malignant neoplasm of frontal lobe
+icd:9:2181,3,50,50,Intramural leiomyoma of uterus
+icd:10:D352,3,49,45,Benign neoplasm of pituitary gland
+icd:10:I301,3,49,46,Infective pericarditis
+icd:9:5109,3,49,49,Empyema without mention of fistula
+icd:9:5641,3,49,44,Irritable bowel syndrome
+icd:10:E1022,3,48,45,Type 1 diabetes mellitus with diabetic chronic kidney disease
+icd:10:E10649,3,48,40,Type 1 diabetes mellitus with hypoglycemia without coma
+icd:10:E876,3,48,48,Hypokalemia
+icd:10:G309,3,48,47,"Alzheimer's disease, unspecified"
+icd:10:M19011,3,48,47,"Primary osteoarthritis, right shoulder"
+icd:10:T783XXA,3,48,46,"Angioneurotic edema, initial encounter"
+icd:10:T865,3,48,39,Complications of stem cell transplant
+icd:9:0479,3,48,47,Unspecified viral meningitis
+icd:9:5184,3,48,48,"Acute edema of lung, unspecified"
+icd:9:8248,3,48,46,"Unspecified fracture of ankle, closed"
+icd:10:G610,3,47,42,Guillain-Barre syndrome
+icd:10:N186,3,47,46,End stage renal disease
+icd:9:6820,3,47,46,Cellulitis and abscess of face
+icd:10:D61818,3,46,46,Other pancytopenia
+icd:10:I70211,3,46,43,"Atherosclerosis of native arteries of extremities with intermittent claudication, right leg"
+icd:10:I70221,3,46,41,"Atherosclerosis of native arteries of extremities with rest pain, right leg"
+icd:10:K838,3,46,44,Other specified diseases of biliary tract
+icd:9:78702,3,46,46,Nausea alone
+icd:10:A401,3,45,45,"Sepsis due to streptococcus, group B"
+icd:10:D259,3,45,44,"Leiomyoma of uterus, unspecified"
+icd:10:F319,3,45,39,"Bipolar disorder, unspecified"
+icd:10:I890,3,45,25,"Lymphedema, not elsewhere classified"
+icd:10:K5909,3,45,43,Other constipation
+icd:10:Z1211,3,45,41,Encounter for screening for malignant neoplasm of colon
+icd:9:7231,3,45,45,Cervicalgia
+icd:10:K436,3,44,44,"Other and unspecified ventral hernia with obstruction, without gangrene"
+icd:10:T82838A,3,44,37,"Hemorrhage due to vascular prosthetic devices, implants and grafts, initial encounter"
+icd:10:E1065,3,43,34,Type 1 diabetes mellitus with hyperglycemia
+icd:10:G939,3,43,41,"Disorder of brain, unspecified"
+icd:10:I25111,3,43,33,Atherosclerotic heart disease of native coronary artery with angina pectoris with documented spasm
+icd:10:I428,3,43,43,Other cardiomyopathies
+icd:9:2273,3,43,39,Benign neoplasm of pituitary gland and craniopharyngeal duct
+icd:9:73028,3,43,40,"Unspecified osteomyelitis, other specified sites"
+icd:9:85202,3,43,43,"Subarachnoid hemorrhage following injury without mention of open intracranial wound, with brief [less than one hour] loss of consciousness"
+icd:10:F209,3,42,31,"Schizophrenia, unspecified"
+icd:10:I70262,3,42,39,"Atherosclerosis of native arteries of extremities with gangrene, left leg"
+icd:10:M3214,3,42,34,Glomerular disease in systemic lupus erythematosus
+icd:10:M6282,3,42,42,Rhabdomyolysis
+icd:9:1972,3,42,41,Secondary malignant neoplasm of pleura
+icd:9:27549,3,42,37,Other disorders of calcium metabolism
+icd:9:68110,3,42,42,"Cellulitis and abscess of toe, unspecified"
+icd:9:7230,3,42,41,Spinal stenosis in cervical region
+icd:9:78652,3,42,42,Painful respiration
+icd:9:V7281,3,42,42,Pre-operative cardiovascular examination
+icd:10:E210,3,41,38,Primary hyperparathyroidism
+icd:10:J1100,3,41,41,Influenza due to unidentified influenza virus with unspecified type of pneumonia
+icd:10:M5117,3,41,41,"Intervertebral disc disorders with radiculopathy, lumbosacral region"
+icd:10:S2243XA,3,41,40,"Multiple fractures of ribs, bilateral, initial encounter for closed fracture"
+icd:9:53551,3,41,41,"Unspecified gastritis and gastroduodenitis, with hemorrhage"
+icd:10:C20,3,40,34,Malignant neoplasm of rectum
+icd:10:D61810,3,40,39,Antineoplastic chemotherapy induced pancytopenia
+icd:10:F0391,3,40,37,"Unspecified dementia, unspecified severity, with behavioral disturbance"
+icd:10:K222,3,40,37,Esophageal obstruction
+icd:10:M4316,3,40,40,"Spondylolisthesis, lumbar region"
+icd:10:Z4502,3,40,40,Encounter for adjustment and management of automatic implantable cardiac defibrillator
+icd:9:73007,3,40,40,"Acute osteomyelitis, ankle and foot"
+icd:9:80702,3,40,40,Closed fracture of two ribs
+icd:9:V5332,3,40,39,Fitting and adjustment of automatic implantable cardiac defibrillator
+icd:10:C9202,3,39,30,"Acute myeloblastic leukemia, in relapse"
+icd:10:D469,3,39,36,"Myelodysplastic syndrome, unspecified"
+icd:10:I2609,3,39,39,Other pulmonary embolism with acute cor pulmonale
+icd:10:J449,3,39,36,"Chronic obstructive pulmonary disease, unspecified"
+icd:9:1534,3,39,39,Malignant neoplasm of cecum
+icd:10:F259,3,38,33,"Schizoaffective disorder, unspecified"
+icd:9:2749,3,38,37,"Gout, unspecified"
+icd:9:4148,3,38,38,Other specified forms of chronic ischemic heart disease
+icd:9:6930,3,38,38,Dermatitis due to drugs and medicines taken internally
+icd:9:71941,3,38,37,"Pain in joint, shoulder region"
+icd:9:78651,3,38,38,Precordial pain
+icd:9:80704,3,38,38,Closed fracture of four ribs
+icd:10:I6202,3,37,37,Nontraumatic subacute subdural hemorrhage
+icd:10:K122,3,37,37,Cellulitis and abscess of mouth
+icd:10:T8469XA,3,37,34,"Infection and inflammatory reaction due to internal fixation device of other site, initial encounter"
+icd:9:1541,3,37,35,Malignant neoplasm of rectum
+icd:9:28262,3,37,20,Hb-SS disease with crisis
+icd:9:78820,3,37,37,"Retention of urine, unspecified"
+icd:9:80705,3,37,37,Closed fracture of five ribs
+icd:10:A411,3,36,36,Sepsis due to other specified staphylococcus
+icd:10:J1000,3,36,36,Influenza due to other identified influenza virus with unspecified type of pneumonia
+icd:9:1912,3,36,33,Malignant neoplasm of temporal lobe
+icd:9:5950,3,36,35,Acute cystitis
+icd:9:7243,3,36,36,Sciatica
+icd:9:79311,3,36,36,Solitary pulmonary nodule
+icd:9:80121,3,36,36,"Closed fracture of base of skull with subarachnoid, subdural, and extradural hemorrhage, with no loss of consciousness"
+icd:10:I70212,3,35,35,"Atherosclerosis of native arteries of extremities with intermittent claudication, left leg"
+icd:9:80701,3,35,34,Closed fracture of one rib
+icd:9:85206,3,35,35,"Subarachnoid hemorrhage following injury without mention of open intracranial wound, with loss of consciousness of unspecified duration"
+icd:9:85226,3,35,35,"Subdural hemorrhage following injury without mention of open intracranial wound, with loss of consciousness of unspecified duration"
+icd:10:E10621,3,34,26,Type 1 diabetes mellitus with foot ulcer
+icd:10:H81399,3,34,33,"Other peripheral vertigo, unspecified ear"
+icd:9:55010,3,34,34,"Inguinal hernia, with obstruction, without mention of gangrene, unilateral or unspecified (not specified as recurrent)"
+icd:10:I70213,3,33,32,"Atherosclerosis of native arteries of extremities with intermittent claudication, bilateral legs"
+icd:9:8600,3,33,33,Traumatic pneumothorax without mention of open wound into thorax
+icd:10:I70235,3,31,30,Atherosclerosis of native arteries of right leg with ulceration of other part of foot
+icd:10:S72011A,3,30,30,"Unspecified intracapsular fracture of right femur, initial encounter for closed fracture"
+icd:10:K7040,2,170,138,Alcoholic hepatic failure without coma
+icd:10:K7011,2,126,119,Alcoholic hepatitis with ascites
+icd:10:K7030,2,111,98,Alcoholic cirrhosis of liver without ascites
+icd:9:07071,2,111,90,Unspecified viral hepatitis C with hepatic coma
+icd:10:K652,2,99,94,Spontaneous bacterial peritonitis
+icd:10:K7460,2,96,91,Unspecified cirrhosis of liver
+icd:10:K3184,2,93,41,Gastroparesis
+icd:10:K7010,2,90,79,Alcoholic hepatitis without ascites
+icd:10:J948,2,77,64,Other specified pleural conditions
+icd:10:T8641,2,72,57,Liver transplant rejection
+icd:10:I351,2,68,68,Nonrheumatic aortic (valve) insufficiency
+icd:9:07054,2,60,47,Chronic hepatitis C without mention of hepatic coma
+icd:10:J8489,2,59,56,Other specified interstitial pulmonary diseases
+icd:9:5363,2,56,34,Gastroparesis
+icd:10:I341,2,55,54,Nonrheumatic mitral (valve) prolapse
+icd:9:0382,2,55,55,Pneumococcal septicemia [Streptococcus pneumoniae septicemia]
+icd:9:99671,2,55,52,Other complications due to heart valve prosthesis
+icd:10:K420,2,54,52,"Umbilical hernia with obstruction, without gangrene"
+icd:10:Z432,2,54,54,Encounter for attention to ileostomy
+icd:10:K7581,2,51,48,Nonalcoholic steatohepatitis (NASH)
+icd:9:570,2,51,51,Acute and subacute necrosis of liver
+icd:9:40493,2,50,49,"Hypertensive heart and chronic kidney disease, unspecified, with heart failure and chronic kidney disease stage V or end stage renal disease"
+icd:10:K859,2,48,45,"Acute pancreatitis, unspecified"
+icd:10:A0811,2,47,43,Acute gastroenteropathy due to Norwalk agent
+icd:10:K766,2,47,47,Portal hypertension
+icd:10:N3090,2,47,47,"Cystitis, unspecified without hematuria"
+icd:9:99602,2,47,42,Mechanical complication due to heart valve prosthesis
+icd:10:K8020,2,45,45,Calculus of gallbladder without cholecystitis without obstruction
+icd:9:41021,2,45,45,"Acute myocardial infarction of inferolateral wall, initial episode of care"
+icd:9:45340,2,44,44,Acute venous embolism and thrombosis of unspecified deep vessels of lower extremity
+icd:9:7455,2,44,43,Ostium secundum type atrial septal defect
+icd:9:07070,2,43,43,Unspecified viral hepatitis C without hepatic coma
+icd:9:27739,2,43,30,Other amyloidosis
+icd:10:K8070,2,42,42,Calculus of gallbladder and bile duct without cholecystitis without obstruction
+icd:9:42841,2,42,42,Acute combined systolic and diastolic heart failure
+icd:10:I4901,2,41,40,Ventricular fibrillation
+icd:10:I7103,2,41,38,Dissection of thoracoabdominal aorta
+icd:10:K8031,2,41,41,"Calculus of bile duct with cholangitis, unspecified, with obstruction"
+icd:10:T8611,2,41,35,Kidney transplant rejection
+icd:9:3942,2,41,40,Mitral stenosis with insufficiency
+icd:9:5531,2,41,41,Umbilical hernia without mention of obstruction or gangrene
+icd:9:9982,2,41,41,"Accidental puncture or laceration during a procedure, not elsewhere classified"
+icd:9:44103,2,40,39,"Dissection of aorta, thoracoabdominal"
+icd:9:5550,2,40,34,Regional enteritis of small intestine
+icd:10:C8338,2,39,36,"Diffuse large B-cell lymphoma, lymph nodes of multiple sites"
+icd:9:39891,2,39,34,Rheumatic heart failure (congestive)
+icd:9:51902,2,39,31,Mechanical complication of tracheostomy
+icd:10:R1031,2,38,35,Right lower quadrant pain
+icd:10:K567,2,37,36,"Ileus, unspecified"
+icd:10:M8088XA,2,37,35,"Other osteoporosis with current pathological fracture, vertebra(e), initial encounter for fracture"
+icd:9:1561,2,37,33,Malignant neoplasm of extrahepatic bile ducts
+icd:10:K8689,2,36,32,Other specified diseases of pancreas
+icd:10:T83518A,2,36,33,"Infection and inflammatory reaction due to other urinary catheter, initial encounter"
+icd:9:5569,2,36,31,"Ulcerative colitis, unspecified"
+icd:10:I052,2,35,32,Rheumatic mitral stenosis with insufficiency
+icd:10:I201,2,35,33,Angina pectoris with documented spasm
+icd:10:I421,2,35,33,Obstructive hypertrophic cardiomyopathy
+icd:10:J9691,2,35,35,"Respiratory failure, unspecified with hypoxia"
+icd:10:K8580,2,35,30,Other acute pancreatitis without necrosis or infection
+icd:9:2639,2,35,34,Unspecified protein-calorie malnutrition
+icd:9:34540,2,35,32,"Localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures, without mention of intractable epilepsy"
+icd:9:43401,2,35,35,Cerebral thrombosis with cerebral infarction
+icd:10:J9809,2,34,32,"Other diseases of bronchus, not elsewhere classified"
+icd:10:K580,2,34,24,Irritable bowel syndrome with diarrhea
+icd:10:K5903,2,34,34,Drug induced constipation
+icd:10:K750,2,34,34,Abscess of liver
+icd:10:M4626,2,34,26,"Osteomyelitis of vertebra, lumbar region"
+icd:10:R042,2,34,34,Hemoptysis
+icd:9:57491,2,34,34,"Calculus of gallbladder and bile duct without cholecystitis, with obstruction"
+icd:10:I2129,2,33,33,ST elevation (STEMI) myocardial infarction involving other sites
+icd:10:I2692,2,33,32,Saddle embolus of pulmonary artery without acute cor pulmonale
+icd:10:I4820,2,33,32,"Chronic atrial fibrillation, unspecified"
+icd:10:S82852A,2,33,30,"Displaced trimalleolar fracture of left lower leg, initial encounter for closed fracture"
+icd:9:2762,2,33,32,Acidosis
+icd:9:4372,2,33,31,Hypertensive encephalopathy
+icd:9:5130,2,33,31,Abscess of lung
+icd:9:V5812,2,33,22,Encounter for antineoplastic immunotherapy
+icd:10:A0471,2,32,30,"Enterocolitis due to Clostridium difficile, recurrent"
+icd:10:A4150,2,32,32,"Gram-negative sepsis, unspecified"
+icd:10:A4152,2,32,32,Sepsis due to Pseudomonas
+icd:10:I050,2,32,32,Rheumatic mitral stenosis
+icd:10:J704,2,32,30,"Drug-induced interstitial lung disorders, unspecified"
+icd:9:2910,2,32,29,Alcohol withdrawal delirium
+icd:10:F250,2,31,25,"Schizoaffective disorder, bipolar type"
+icd:10:K4090,2,31,31,"Unilateral inguinal hernia, without obstruction or gangrene, not specified as recurrent"
+icd:10:K8071,2,31,31,Calculus of gallbladder and bile duct without cholecystitis with obstruction
+icd:10:R600,2,31,31,Localized edema
+icd:10:S7222XA,2,31,31,"Displaced subtrochanteric fracture of left femur, initial encounter for closed fracture"
+icd:10:T85628A,2,31,31,"Displacement of other specified internal prosthetic devices, implants and grafts, initial encounter"
+icd:9:42090,2,31,31,"Acute pericarditis, unspecified"
+icd:9:57490,2,31,31,"Calculus of gallbladder and bile duct without cholecystitis, without mention of obstruction"
+icd:9:71946,2,31,29,"Pain in joint, lower leg"
+icd:10:C50911,2,30,29,Malignant neoplasm of unspecified site of right female breast
+icd:10:I2720,2,30,26,"Pulmonary hypertension, unspecified"
+icd:10:K429,2,30,29,Umbilical hernia without obstruction or gangrene
+icd:10:K5650,2,30,29,"Intestinal adhesions [bands], unspecified as to partial versus complete obstruction"
+icd:10:K5791,2,30,25,"Diverticulosis of intestine, part unspecified, without perforation or abscess with bleeding"
+icd:10:K863,2,30,28,Pseudocyst of pancreas
+icd:10:R000,2,30,29,"Tachycardia, unspecified"
+icd:10:T402X1A,2,30,30,"Poisoning by other opioids, accidental (unintentional), initial encounter"
+icd:9:29650,2,30,29,"Bipolar I disorder, most recent episode (or current) depressed, unspecified"
+icd:10:D5700,2,29,8,"Hb-SS disease with crisis, unspecified"
+icd:10:G7001,2,29,27,Myasthenia gravis with (acute) exacerbation
+icd:10:G9349,2,29,29,Other encephalopathy
+icd:10:I25710,2,29,27,Atherosclerosis of autologous vein coronary artery bypass graft(s) with unstable angina pectoris
+icd:10:J8410,2,29,28,"Pulmonary fibrosis, unspecified"
+icd:10:K5792,2,29,27,"Diverticulitis of intestine, part unspecified, without perforation or abscess without bleeding"
+icd:10:N3000,2,29,28,Acute cystitis without hematuria
+icd:10:Z515,2,29,29,Encounter for palliative care
+icd:9:20410,2,29,24,"Chronic lymphoid leukemia, without mention of having achieved remission"
+icd:9:81201,2,29,28,Closed fracture of surgical neck of humerus
+icd:9:99663,2,29,21,"Infection and inflammatory reaction due to nervous system device, implant, and graft"
+icd:9:99831,2,29,29,Disruption of internal operation (surgical) wound
+icd:10:C562,2,28,27,Malignant neoplasm of left ovary
+icd:10:C7949,2,28,27,Secondary malignant neoplasm of other parts of nervous system
+icd:10:F419,2,28,26,"Anxiety disorder, unspecified"
+icd:10:J84112,2,28,25,Idiopathic pulmonary fibrosis
+icd:10:M4856XA,2,28,27,"Collapsed vertebra, not elsewhere classified, lumbar region, initial encounter for fracture"
+icd:10:M86171,2,28,26,"Other acute osteomyelitis, right ankle and foot"
+icd:10:R188,2,28,26,Other ascites
+icd:9:1551,2,28,28,Malignant neoplasm of intrahepatic bile ducts
+icd:9:2920,2,28,28,Drug withdrawal
+icd:9:3453,2,28,28,Grand mal status
+icd:9:34680,2,28,26,"Other forms of migraine, without mention of intractable migraine without mention of status migrainosus"
+icd:9:3940,2,28,26,Mitral stenosis
+icd:9:5368,2,28,27,Dyspepsia and other specified disorders of function of stomach
+icd:9:68100,2,28,28,"Cellulitis and abscess of finger, unspecified"
+icd:9:72981,2,28,26,Swelling of limb
+icd:9:8026,2,28,26,Closed fracture of orbital floor (blow-out)
+icd:9:99685,2,28,26,Complications of transplanted bone marrow
+icd:9:V5331,2,28,28,Fitting and adjustment of cardiac pacemaker
+icd:10:I272,2,27,27,Other secondary pulmonary hypertension
+icd:10:K4030,2,27,27,"Unilateral inguinal hernia, with obstruction, without gangrene, not specified as recurrent"
+icd:10:R918,2,27,27,Other nonspecific abnormal finding of lung field
+icd:10:S82851A,2,27,27,"Displaced trimalleolar fracture of right lower leg, initial encounter for closed fracture"
+icd:10:T82867A,2,27,26,"Thrombosis due to cardiac prosthetic devices, implants and grafts, initial encounter"
+icd:9:1913,2,27,23,Malignant neoplasm of parietal lobe
+icd:9:30000,2,27,27,"Anxiety state, unspecified"
+icd:9:43321,2,27,27,Occlusion and stenosis of vertebral artery with cerebral infarction
+icd:9:53010,2,27,27,"Esophagitis, unspecified"
+icd:9:57142,2,27,20,Autoimmune hepatitis
+icd:9:71106,2,27,22,"Pyogenic arthritis, lower leg"
+icd:9:7244,2,27,27,"Thoracic or lumbosacral neuritis or radiculitis, unspecified"
+icd:10:E11610,2,26,21,Type 2 diabetes mellitus with diabetic neuropathic arthropathy
+icd:10:I953,2,26,25,Hypotension of hemodialysis
+icd:10:J9383,2,26,26,Other pneumothorax
+icd:10:K220,2,26,22,Achalasia of cardia
+icd:10:K8030,2,26,25,"Calculus of bile duct with cholangitis, unspecified, without obstruction"
+icd:10:S7221XA,2,26,26,"Displaced subtrochanteric fracture of right femur, initial encounter for closed fracture"
+icd:10:T82330A,2,26,25,"Leakage of aortic (bifurcation) graft (replacement), initial encounter"
+icd:9:08881,2,26,26,Lyme Disease
+icd:9:25041,2,26,25,"Diabetes with renal manifestations, type I [juvenile type], not stated as uncontrolled"
+icd:9:2830,2,26,20,Autoimmune hemolytic anemias
+icd:9:29420,2,26,26,"Dementia, unspecified, without behavioral disturbance"
+icd:9:4592,2,26,22,Compression of vein
+icd:9:48241,2,26,25,Methicillin susceptible pneumonia due to Staphylococcus aureus
+icd:9:78630,2,26,26,"Hemoptysis, unspecified"
+icd:10:C713,2,25,20,Malignant neoplasm of parietal lobe
+icd:10:C782,2,25,24,Secondary malignant neoplasm of pleura
+icd:10:C9110,2,25,19,Chronic lymphocytic leukemia of B-cell type not having achieved remission
+icd:10:I619,2,25,25,"Nontraumatic intracerebral hemorrhage, unspecified"
+icd:10:K5669,2,25,25,Other intestinal obstruction
+icd:10:K767,2,25,24,Hepatorenal syndrome
+icd:10:M4807,2,25,25,"Spinal stenosis, lumbosacral region"
+icd:10:M549,2,25,23,"Dorsalgia, unspecified"
+icd:10:M868X7,2,25,23,"Other osteomyelitis, ankle and foot"
+icd:10:Q282,2,25,19,Arteriovenous malformation of cerebral vessels
+icd:10:S272XXA,2,25,25,"Traumatic hemopneumothorax, initial encounter"
+icd:9:28529,2,25,23,Anemia of other chronic disease
+icd:9:4294,2,25,14,Functional disturbances following cardiac surgery
+icd:9:73319,2,25,23,Pathologic fracture of other specified site
+icd:9:96509,2,25,24,Poisoning by other opiates and related narcotics
+icd:9:V580,2,25,12,Encounter for radiotherapy
+icd:10:C9002,2,24,20,Multiple myeloma in relapse
+icd:10:F312,2,24,20,"Bipolar disorder, current episode manic severe with psychotic features"
+icd:10:I6203,2,24,23,Nontraumatic chronic subdural hemorrhage
+icd:10:I728,2,24,24,Aneurysm of other specified arteries
+icd:10:J471,2,24,23,Bronchiectasis with (acute) exacerbation
+icd:10:L03213,2,24,22,Periorbital cellulitis
+icd:10:L88,2,24,10,Pyoderma gangrenosum
+icd:10:M4722,2,24,24,"Other spondylosis with radiculopathy, cervical region"
+icd:10:M47816,2,24,23,"Spondylosis without myelopathy or radiculopathy, lumbar region"
+icd:10:T8203XA,2,24,23,"Leakage of heart valve prosthesis, initial encounter"
+icd:10:T83022A,2,24,17,"Displacement of nephrostomy catheter, initial encounter"
+icd:9:44102,2,24,24,"Dissection of aorta, abdominal"
+icd:9:5401,2,24,23,Acute appendicitis with peritoneal abscess
+icd:9:72887,2,24,24,Muscle weakness (generalized)
+icd:10:E042,2,23,23,Nontoxic multinodular goiter
+icd:10:F333,2,23,20,"Major depressive disorder, recurrent, severe with psychotic symptoms"
+icd:10:G061,2,23,22,Intraspinal abscess and granuloma
+icd:10:G9389,2,23,22,Other specified disorders of brain
+icd:10:J09X2,2,23,22,Influenza due to identified novel influenza A virus with other respiratory manifestations
+icd:10:M316,2,23,21,Other giant cell arteritis
+icd:10:N202,2,23,23,Calculus of kidney with calculus of ureter
+icd:10:S72402A,2,23,23,"Unspecified fracture of lower end of left femur, initial encounter for closed fracture"
+icd:10:T84021A,2,23,17,"Dislocation of internal left hip prosthesis, initial encounter"
+icd:10:T886XXA,2,23,23,"Anaphylactic reaction due to adverse effect of correct drug or medicament properly administered, initial encounter"
+icd:10:Z01810,2,23,23,Encounter for preprocedural cardiovascular examination
+icd:9:29689,2,23,23,Other bipolar disorders
+icd:9:44020,2,23,23,"Atherosclerosis of native arteries of the extremities, unspecified"
+icd:9:56881,2,23,23,Hemoperitoneum (nontraumatic)
+icd:9:5779,2,23,23,Unspecified disease of pancreas
+icd:9:60000,2,23,23,Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS)
+icd:9:8024,2,23,22,Closed fracture of malar and maxillary bones
+icd:9:85181,2,23,23,"Other and unspecified cerebral laceration and contusion, without mention of open intracranial wound, with no loss of consciousness"
+icd:9:8730,2,23,23,"Open wound of scalp, without mention of complication"
+icd:9:92400,2,23,23,Contusion of thigh
+icd:10:C50912,2,22,22,Malignant neoplasm of unspecified site of left female breast
+icd:10:G912,2,22,22,(Idiopathic) normal pressure hydrocephalus
+icd:10:I200,2,22,22,Unstable angina
+icd:10:K226,2,22,22,Gastro-esophageal laceration-hemorrhage syndrome
+icd:10:K661,2,22,22,Hemoperitoneum
+icd:10:M952,2,22,22,Other acquired deformity of head
+icd:10:T85898A,2,22,21,"Other specified complication of other internal prosthetic devices, implants and grafts, initial encounter"
+icd:9:1533,2,22,21,Malignant neoplasm of sigmoid colon
+icd:9:2930,2,22,22,Delirium due to conditions classified elsewhere
+icd:9:35801,2,22,20,Myasthenia gravis with (acute) exacerbation
+icd:9:4588,2,22,22,Other specified hypotension
+icd:9:7810,2,22,21,Abnormal involuntary movements
+icd:9:8220,2,22,21,Closed fracture of patella
+icd:9:85222,2,22,22,"Subdural hemorrhage following injury without mention of open intracranial wound, with brief [less than one hour] loss of consciousness"
+icd:9:92410,2,22,22,Contusion of lower leg
+icd:9:99688,2,22,14,"Complications of transplanted organ, stem cell"
+icd:10:E870,2,21,18,Hyperosmolality and hypernatremia
+icd:10:G40209,2,21,19,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, not intractable, without status epilepticus"
+icd:10:G629,2,21,20,"Polyneuropathy, unspecified"
+icd:10:G9782,2,21,19,Other postprocedural complications and disorders of nervous system
+icd:10:I493,2,21,21,Ventricular premature depolarization
+icd:10:I723,2,21,19,Aneurysm of iliac artery
+icd:10:J129,2,21,21,"Viral pneumonia, unspecified"
+icd:10:J9509,2,21,17,Other tracheostomy complication
+icd:10:M86172,2,21,20,"Other acute osteomyelitis, left ankle and foot"
+icd:10:N201,2,21,21,Calculus of ureter
+icd:10:N813,2,21,21,Complete uterovaginal prolapse
+icd:10:R0902,2,21,21,Hypoxemia
+icd:9:1622,2,21,20,Malignant neoplasm of main bronchus
+icd:9:20400,2,21,20,"Acute lymphoid leukemia, without mention of having achieved remission"
+icd:9:23875,2,21,20,"Myelodysplastic syndrome, unspecified"
+icd:9:70714,2,21,20,Ulcer of heel and midfoot
+icd:9:81209,2,21,21,Other closed fracture of upper end of humerus
+icd:10:A414,2,20,20,Sepsis due to anaerobes
+icd:10:C9100,2,20,18,Acute lymphoblastic leukemia not having achieved remission
+icd:10:I7102,2,20,20,Dissection of abdominal aorta
+icd:10:N131,2,20,20,"Hydronephrosis with ureteral stricture, not elsewhere classified"
+icd:10:N812,2,20,19,Incomplete uterovaginal prolapse
+icd:9:1578,2,20,20,Malignant neoplasm of other specified sites of pancreas
+icd:9:44481,2,20,19,Embolism and thrombosis of iliac artery
+icd:9:5718,2,20,20,Other chronic nonalcoholic liver disease
+icd:9:8072,2,20,20,Closed fracture of sternum
+icd:9:V714,2,20,20,Observation following other accident
+icd:10:G35,1,44,38,Multiple sclerosis
+icd:10:R1310,1,32,32,"Dysphagia, unspecified"
+icd:9:3071,1,30,14,Anorexia nervosa
+icd:9:44321,1,30,29,Dissection of carotid artery
+icd:9:44421,1,29,27,Arterial embolism and thrombosis of upper extremity
+icd:9:481,1,27,27,Pneumococcal pneumonia [Streptococcus pneumoniae pneumonia]
+icd:10:T85590A,1,26,24,"Other mechanical complication of bile duct prosthesis, initial encounter"
+icd:10:R1032,1,25,25,Left lower quadrant pain
+icd:10:R502,1,25,22,Drug induced fever
+icd:9:V5883,1,25,21,Encounter for therapeutic drug monitoring
+icd:10:F39,1,24,23,Unspecified mood [affective] disorder
+icd:10:J4551,1,24,22,Severe persistent asthma with (acute) exacerbation
+icd:10:R1012,1,24,19,Left upper quadrant pain
+icd:9:41513,1,23,23,Saddle embolus of pulmonary artery
+icd:9:4413,1,23,23,"Abdominal aneurysm, ruptured"
+icd:10:I509,1,22,22,"Heart failure, unspecified"
+icd:10:T8351XA,1,22,18,"Infection and inflammatory reaction due to indwelling urinary catheter, initial encounter"
+icd:9:3960,1,22,21,Mitral valve stenosis and aortic valve stenosis
+icd:9:4809,1,22,22,"Viral pneumonia, unspecified"
+icd:9:5307,1,22,22,Gastroesophageal laceration-hemorrhage syndrome
+icd:9:78902,1,22,22,"Abdominal pain, left upper quadrant"
+icd:9:25541,1,21,18,Glucocorticoid deficiency
+icd:9:2798,1,21,1,Other specified disorders involving the immune mechanism
+icd:9:325,1,21,18,Phlebitis and thrombophlebitis of intracranial venous sinuses
+icd:9:5362,1,21,14,Persistent vomiting
+icd:9:99739,1,21,21,Other respiratory complications
+icd:10:J80,1,20,20,Acute respiratory distress syndrome
+icd:10:K50012,1,20,19,Crohn's disease of small intestine with intestinal obstruction
+icd:10:M960,1,20,20,Pseudarthrosis after fusion or arthrodesis
+icd:9:44324,1,20,19,Dissection of vertebral artery
+icd:9:48284,1,20,20,Pneumonia due to Legionnaires' disease
+icd:9:5552,1,20,15,Regional enteritis of small intestine with large intestine
+icd:9:5723,1,20,19,Portal hypertension
+icd:9:7220,1,20,20,Displacement of cervical intervertebral disc without myelopathy
+icd:9:81342,1,20,19,Other closed fractures of distal end of radius (alone)
+icd:10:C252,1,19,18,Malignant neoplasm of tail of pancreas
+icd:10:G43109,1,19,18,"Migraine with aura, not intractable, without status migrainosus"
+icd:10:I0981,1,19,19,Rheumatic heart failure
+icd:10:K311,1,19,16,Adult hypertrophic pyloric stenosis
+icd:10:K8500,1,19,14,Idiopathic acute pancreatitis without necrosis or infection
+icd:10:M940,1,19,17,Chondrocostal junction syndrome [Tietze]
+icd:10:T8451XA,1,19,16,"Infection and inflammatory reaction due to internal right hip prosthesis, initial encounter"
+icd:9:4131,1,19,17,Prinzmetal angina
+icd:9:5551,1,19,17,Regional enteritis of large intestine
+icd:9:5720,1,19,16,Abscess of liver
+icd:9:5724,1,19,17,Hepatorenal syndrome
+icd:9:7291,1,19,19,"Myalgia and myositis, unspecified"
+icd:9:7806,1,19,18,Fever
+icd:10:B3781,1,18,18,Candidal esophagitis
+icd:10:C569,1,18,15,Malignant neoplasm of unspecified ovary
+icd:10:C7800,1,18,18,Secondary malignant neoplasm of unspecified lung
+icd:10:E1310,1,18,17,Other specified diabetes mellitus with ketoacidosis without coma
+icd:10:I9589,1,18,15,Other hypotension
+icd:10:J40,1,18,18,"Bronchitis, not specified as acute or chronic"
+icd:10:K208,1,18,18,Other esophagitis
+icd:10:K5190,1,18,16,"Ulcerative colitis, unspecified, without complications"
+icd:10:K623,1,18,16,Rectal prolapse
+icd:10:K8043,1,18,18,Calculus of bile duct with acute cholecystitis with obstruction
+icd:10:R410,1,18,18,"Disorientation, unspecified"
+icd:10:T18128A,1,18,18,"Food in esophagus causing other injury, initial encounter"
+icd:9:28419,1,18,18,Other pancytopenia
+icd:9:30301,1,18,17,"Acute alcoholic intoxication in alcoholism, continuous"
+icd:10:C7932,1,17,16,Secondary malignant neoplasm of cerebral meninges
+icd:10:G360,1,17,7,Neuromyelitis optica [Devic]
+icd:10:J1008,1,17,17,Influenza due to other identified influenza virus with other specified pneumonia
+icd:10:K743,1,17,14,Primary biliary cirrhosis
+icd:10:N3041,1,17,8,Irradiation cystitis with hematuria
+icd:10:T83512A,1,17,14,"Infection and inflammatory reaction due to nephrostomy catheter, initial encounter"
+icd:9:42842,1,17,16,Chronic combined systolic and diastolic heart failure
+icd:9:5303,1,17,16,Stricture and stenosis of esophagus
+icd:9:5305,1,17,15,Dyskinesia of esophagus
+icd:9:64893,1,17,17,"Other current conditions classifiable elsewhere of mother, antepartum condition or complication"
+icd:9:65421,1,17,17,"Previous cesarean delivery, delivered, with or without mention of antepartum condition"
+icd:10:E0500,1,16,14,Thyrotoxicosis with diffuse goiter without thyrotoxic crisis or storm
+icd:10:K5090,1,16,13,"Crohn's disease, unspecified, without complications"
+icd:10:K852,1,16,15,Alcohol induced acute pancreatitis
+icd:10:K8591,1,16,15,"Acute pancreatitis with uninfected necrosis, unspecified"
+icd:10:K860,1,16,13,Alcohol-induced chronic pancreatitis
+icd:10:M4726,1,16,16,"Other spondylosis with radiculopathy, lumbar region"
+icd:10:T85520A,1,16,16,"Displacement of bile duct prosthesis, initial encounter"
+icd:9:1363,1,16,16,Pneumocystosis
+icd:9:1984,1,16,16,Secondary malignant neoplasm of other parts of nervous system
+icd:9:2766,1,16,16,Fluid overload disorder
+icd:9:4232,1,16,16,Constrictive pericarditis
+icd:9:4401,1,16,15,Atherosclerosis of renal artery
+icd:9:53540,1,16,16,"Other specified gastritis, without mention of hemorrhage"
+icd:9:60490,1,16,15,"Orchitis and epididymitis, unspecified"
+icd:9:9654,1,16,15,"Poisoning by aromatic analgesics, not elsewhere classified"
+icd:10:C160,1,15,13,Malignant neoplasm of cardia
+icd:10:C719,1,15,15,"Malignant neoplasm of brain, unspecified"
+icd:10:F200,1,15,12,Paranoid schizophrenia
+icd:10:F445,1,15,15,Conversion disorder with seizures or convulsions
+icd:10:G928,1,15,15,Other toxic encephalopathy
+icd:10:I082,1,15,14,Rheumatic disorders of both aortic and tricuspid valves
+icd:10:I469,1,15,15,"Cardiac arrest, cause unspecified"
+icd:10:I6381,1,15,15,Other cerebral infarction due to occlusion or stenosis of small artery
+icd:10:I878,1,15,15,Other specified disorders of veins
+icd:10:I97191,1,15,15,Other postprocedural cardiac functional disturbances following other surgery
+icd:10:J0410,1,15,4,Acute tracheitis without obstruction
+icd:10:K224,1,15,15,Dyskinesia of esophagus
+icd:10:K7041,1,15,11,Alcoholic hepatic failure with coma
+icd:10:L7634,1,15,15,Postprocedural seroma of skin and subcutaneous tissue following other procedure
+icd:10:M542,1,15,15,Cervicalgia
+icd:10:M8008XA,1,15,14,"Age-related osteoporosis with current pathological fracture, vertebra(e), initial encounter for fracture"
+icd:10:Q2543,1,15,15,Congenital aneurysm of aorta
+icd:10:R200,1,15,15,Anesthesia of skin
+icd:9:1510,1,15,15,Malignant neoplasm of cardia
+icd:9:1536,1,15,14,Malignant neoplasm of ascending colon
+icd:9:1579,1,15,14,"Malignant neoplasm of pancreas, part unspecified"
+icd:9:1888,1,15,15,Malignant neoplasm of other specified sites of bladder
+icd:9:34889,1,15,15,Other conditions of brain
+icd:9:4571,1,15,11,Other lymphedema
+icd:9:5300,1,15,12,Achalasia and cardiospasm
+icd:9:53510,1,15,15,"Atrophic gastritis, without mention of hemorrhage"
+icd:10:C155,1,14,12,Malignant neoplasm of lower third of esophagus
+icd:10:C19,1,14,10,Malignant neoplasm of rectosigmoid junction
+icd:10:C342,1,14,13,"Malignant neoplasm of middle lobe, bronchus or lung"
+icd:10:C784,1,14,13,Secondary malignant neoplasm of small intestine
+icd:10:F29,1,14,13,Unspecified psychosis not due to a substance or known physiological condition
+icd:10:I222,1,14,13,Subsequent non-ST elevation (NSTEMI) myocardial infarction
+icd:10:I300,1,14,14,Acute nonspecific idiopathic pericarditis
+icd:10:I713,1,14,13,"Abdominal aortic aneurysm, ruptured"
+icd:10:I871,1,14,13,Compression of vein
+icd:10:J4541,1,14,12,Moderate persistent asthma with (acute) exacerbation
+icd:10:K30,1,14,13,Functional dyspepsia
+icd:10:K439,1,14,14,Ventral hernia without obstruction or gangrene
+icd:10:K581,1,14,12,Irritable bowel syndrome with constipation
+icd:10:K754,1,14,10,Autoimmune hepatitis
+icd:10:K8033,1,14,14,Calculus of bile duct with acute cholangitis with obstruction
+icd:10:L270,1,14,14,Generalized skin eruption due to drugs and medicaments taken internally
+icd:10:M4854XA,1,14,14,"Collapsed vertebra, not elsewhere classified, thoracic region, initial encounter for fracture"
+icd:10:R1084,1,14,14,Generalized abdominal pain
+icd:10:R740,1,14,13,Nonspecific elevation of levels of transaminase and lactic acid dehydrogenase [LDH]
+icd:10:S32019A,1,14,14,"Unspecified fracture of first lumbar vertebra, initial encounter for closed fracture"
+icd:10:Z433,1,14,14,Encounter for attention to colostomy
+icd:9:11284,1,14,13,Candidal esophagitis
+icd:9:1963,1,14,14,Secondary and unspecified malignant neoplasm of lymph nodes of axilla and upper limb
+icd:9:2330,1,14,13,Carcinoma in situ of breast
+icd:9:4160,1,14,13,Primary pulmonary hypertension
+icd:9:45385,1,14,14,Acute venous embolism and thrombosis of subclavian veins
+icd:9:47874,1,14,9,Stenosis of larynx
+icd:9:53190,1,14,14,"Gastric ulcer, unspecified as acute or chronic, without mention of hemorrhage or perforation, without mention of obstruction"
+icd:9:53541,1,14,14,"Other specified gastritis, with hemorrhage"
+icd:9:5400,1,14,14,Acute appendicitis with generalized peritonitis
+icd:9:59381,1,14,14,Vascular disorders of kidney
+icd:9:9694,1,14,13,Poisoning by benzodiazepine-based tranquilizers
+icd:10:B029,1,13,12,Zoster without complications
+icd:10:C3401,1,13,13,Malignant neoplasm of right main bronchus
+icd:10:D251,1,13,13,Intramural leiomyoma of uterus
+icd:10:D735,1,13,12,Infarction of spleen
+icd:10:F10229,1,13,13,"Alcohol dependence with intoxication, unspecified"
+icd:10:F5001,1,13,13,"Anorexia nervosa, restricting type"
+icd:10:G936,1,13,13,Cerebral edema
+icd:10:I2729,1,13,13,Other secondary pulmonary hypertension
+icd:10:I4811,1,13,13,Longstanding persistent atrial fibrillation
+icd:10:I4821,1,13,13,Permanent atrial fibrillation
+icd:10:I63512,1,13,13,Cerebral infarction due to unspecified occlusion or stenosis of left middle cerebral artery
+icd:10:I9751,1,13,13,Accidental puncture and laceration of a circulatory system organ or structure during a circulatory system procedure
+icd:10:J470,1,13,10,Bronchiectasis with acute lower respiratory infection
+icd:10:K2211,1,13,13,Ulcer of esophagus with bleeding
+icd:10:K6289,1,13,12,Other specified diseases of anus and rectum
+icd:10:K8063,1,13,13,Calculus of gallbladder and bile duct with acute cholecystitis with obstruction
+icd:10:K851,1,13,12,Biliary acute pancreatitis
+icd:10:M869,1,13,13,"Osteomyelitis, unspecified"
+icd:10:N99820,1,13,12,Postprocedural hemorrhage of a genitourinary system organ or structure following a genitourinary system procedure
+icd:10:Q230,1,13,13,Congenital stenosis of aortic valve
+icd:10:R1030,1,13,13,"Lower abdominal pain, unspecified"
+icd:10:T8140XA,1,13,13,"Infection following a procedure, unspecified, initial encounter"
+icd:10:T84020A,1,13,9,"Dislocation of internal right hip prosthesis, initial encounter"
+icd:10:Z5181,1,13,12,Encounter for therapeutic drug level monitoring
+icd:9:2127,1,13,13,Benign neoplasm of heart
+icd:9:25022,1,13,13,"Diabetes with hyperosmolarity, type II or unspecified type, uncontrolled"
+icd:9:27541,1,13,12,Hypocalcemia
+icd:9:29534,1,13,12,"Paranoid type schizophrenia, chronic with acute exacerbation"
+icd:9:29624,1,13,12,"Major depressive affective disorder, single episode, severe, specified as with psychotic behavior"
+icd:9:29680,1,13,13,"Bipolar disorder, unspecified"
+icd:9:3379,1,13,11,Unspecified disorder of autonomic nervous system
+icd:9:34541,1,13,10,"Localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures, with intractable epilepsy"
+icd:9:3570,1,13,12,Acute infective polyneuritis
+icd:9:38610,1,13,12,"Peripheral vertigo, unspecified"
+icd:9:4238,1,13,13,Other specified diseases of pericardium
+icd:9:4290,1,13,11,"Myocarditis, unspecified"
+icd:9:4538,1,13,13,Venous thrombosis nec
+icd:9:4558,1,13,13,Unspecified hemorrhoids with other complication
+icd:9:4568,1,13,11,Varices of other sites
+icd:9:4578,1,13,12,Other noninfectious disorders of lymphatic channels
+icd:9:5168,1,13,13,Other specified alveolar and parietoalveolar pneumonopathies
+icd:9:5370,1,13,10,Acquired hypertrophic pyloric stenosis
+icd:9:56722,1,13,11,Peritoneal abscess
+icd:9:6262,1,13,13,Excessive or frequent menstruation
+icd:9:97081,1,13,11,Poisoning by cocaine
+icd:9:99656,1,13,12,Mechanical complication due to peritoneal dialysis catheter
+icd:9:99679,1,13,13,"Other complications due to other internal prosthetic device, implant, and graft"
+icd:10:A481,1,12,12,Legionnaires' disease
+icd:10:C169,1,12,12,"Malignant neoplasm of stomach, unspecified"
+icd:10:C180,1,12,12,Malignant neoplasm of cecum
+icd:10:C187,1,12,12,Malignant neoplasm of sigmoid colon
+icd:10:C3492,1,12,12,Malignant neoplasm of unspecified part of left bronchus or lung
+icd:10:C561,1,12,11,Malignant neoplasm of right ovary
+icd:10:C678,1,12,10,Malignant neoplasm of overlapping sites of bladder
+icd:10:D151,1,12,12,Benign neoplasm of heart
+icd:10:D702,1,12,12,Other drug-induced agranulocytosis
+icd:10:D703,1,12,12,Neutropenia due to infection
+icd:10:F10231,1,12,11,Alcohol dependence with withdrawal delirium
+icd:10:G43809,1,12,12,"Other migraine, not intractable, without status migrainosus"
+icd:10:G720,1,12,12,Drug-induced myopathy
+icd:10:I2723,1,12,10,Pulmonary hypertension due to lung diseases and hypoxia
+icd:10:J84116,1,12,11,Cryptogenic organizing pneumonia
+icd:10:J9811,1,12,12,Atelectasis
+icd:10:K2920,1,12,12,Alcoholic gastritis without bleeding
+icd:10:K5080,1,12,10,Crohn's disease of both small and large intestine without complications
+icd:10:K7689,1,12,10,Other specified diseases of liver
+icd:10:K8044,1,12,12,Calculus of bile duct with chronic cholecystitis without obstruction
+icd:10:K9423,1,12,11,Gastrostomy malfunction
+icd:10:L89154,1,12,12,"Pressure ulcer of sacral region, stage 4"
+icd:10:M47896,1,12,12,"Other spondylosis, lumbar region"
+icd:10:N178,1,12,12,Other acute kidney failure
+icd:10:S72401A,1,12,12,"Unspecified fracture of lower end of right femur, initial encounter for closed fracture"
+icd:10:S82142A,1,12,12,"Displaced bicondylar fracture of left tibia, initial encounter for closed fracture"
+icd:10:T8209XA,1,12,12,"Other mechanical complication of heart valve prosthesis, initial encounter"
+icd:10:Z510,1,12,7,Encounter for antineoplastic radiation therapy
+icd:9:0091,1,12,12,"Colitis, enteritis, and gastroenteritis of presumed infectious origin"
+icd:9:2180,1,12,12,Submucous leiomyoma of uterus
+icd:9:261,1,12,12,Nutritional marasmus
+icd:9:27650,1,12,12,"Volume depletion, unspecified"
+icd:9:3314,1,12,12,Obstructive hydrocephalus
+icd:9:3489,1,12,12,Unspecified condition of brain
+icd:9:41051,1,12,12,"Acute myocardial infarction of other lateral wall, initial episode of care"
+icd:9:4801,1,12,12,Pneumonia due to respiratory syncytial virus
+icd:9:5733,1,12,12,"Hepatitis, unspecified"
+icd:9:57512,1,12,12,Acute and chronic cholecystitis
+icd:9:78905,1,12,12,"Abdominal pain, periumbilic"
+icd:9:7904,1,12,10,Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH]
+icd:9:82302,1,12,12,Closed fracture of upper end of fibula with tibia
+icd:9:99939,1,12,12,"Infection following other infusion, injection, transfusion, or vaccination"
+icd:9:V7651,1,12,12,Special screening for malignant neoplasms of colon
+icd:10:A045,1,11,11,Campylobacter enteritis
+icd:10:B59,1,11,11,Pneumocystosis
+icd:10:C240,1,11,11,Malignant neoplasm of extrahepatic bile duct
+icd:10:C801,1,11,11,"Malignant (primary) neoplasm, unspecified"
+icd:10:D120,1,11,9,Benign neoplasm of cecum
+icd:10:D333,1,11,11,Benign neoplasm of cranial nerves
+icd:10:D72829,1,11,11,"Elevated white blood cell count, unspecified"
+icd:10:E1121,1,11,11,Type 2 diabetes mellitus with diabetic nephropathy
+icd:10:E872,1,11,11,Acidosis
+icd:10:F339,1,11,11,"Major depressive disorder, recurrent, unspecified"
+icd:10:G0481,1,11,4,Other encephalitis and encephalomyelitis
+icd:10:G08,1,11,9,Intracranial and intraspinal phlebitis and thrombophlebitis
+icd:10:H8120,1,11,11,"Vestibular neuronitis, unspecified ear"
+icd:10:I63132,1,11,11,Cerebral infarction due to embolism of left carotid artery
+icd:10:J156,1,11,11,Pneumonia due to other Gram-negative bacteria
+icd:10:J811,1,11,11,Chronic pulmonary edema
+icd:10:K209,1,11,11,"Esophagitis, unspecified"
+icd:10:K5100,1,11,11,Ulcerative (chronic) pancolitis without complications
+icd:10:K5641,1,11,11,Fecal impaction
+icd:10:K565,1,11,11,Intestinal adhesions [bands] with obstruction (postinfection)
+icd:10:K632,1,11,10,Fistula of intestine
+icd:10:K651,1,11,11,Peritoneal abscess
+icd:10:K8001,1,11,11,Calculus of gallbladder with acute cholecystitis with obstruction
+icd:10:K8521,1,11,10,Alcohol induced acute pancreatitis with uninfected necrosis
+icd:10:L02211,1,11,9,Cutaneous abscess of abdominal wall
+icd:10:M009,1,11,11,"Pyogenic arthritis, unspecified"
+icd:10:M069,1,11,11,"Rheumatoid arthritis, unspecified"
+icd:10:M459,1,11,1,Ankylosing spondylitis of unspecified sites in spine
+icd:10:M7989,1,11,11,Other specified soft tissue disorders
+icd:10:N028,1,11,11,Recurrent and persistent hematuria with other morphologic changes
+icd:10:N3080,1,11,9,Other cystitis without hematuria
+icd:10:N529,1,11,11,"Male erectile dysfunction, unspecified"
+icd:10:N62,1,11,11,Hypertrophy of breast
+icd:10:N939,1,11,11,"Abnormal uterine and vaginal bleeding, unspecified"
+icd:10:N99521,1,11,8,Infection of incontinent external stoma of urinary tract
+icd:10:Q2733,1,11,11,Arteriovenous malformation of digestive system vessel
+icd:10:R002,1,11,9,Palpitations
+icd:10:R0781,1,11,11,Pleurodynia
+icd:10:S2220XA,1,11,11,"Unspecified fracture of sternum, initial encounter for closed fracture"
+icd:10:S2232XA,1,11,11,"Fracture of one rib, left side, initial encounter for closed fracture"
+icd:10:T796XXA,1,11,11,"Traumatic ischemia of muscle, initial encounter"
+icd:10:T80212A,1,11,10,"Local infection due to central venous catheter, initial encounter"
+icd:10:T8029XA,1,11,11,"Infection following other infusion, transfusion and therapeutic injection, initial encounter"
+icd:10:T8144XA,1,11,11,"Sepsis following a procedure, initial encounter"
+icd:10:T8571XA,1,11,11,"Infection and inflammatory reaction due to peritoneal dialysis catheter, initial encounter"
+icd:10:Z481,1,11,11,Encounter for planned postprocedural wound closure
+icd:9:00843,1,11,11,Intestinal infection due to campylobacter
+icd:9:1624,1,11,11,"Malignant neoplasm of middle lobe, bronchus or lung"
+icd:9:1744,1,11,11,Malignant neoplasm of upper-outer quadrant of female breast
+icd:9:20050,1,11,7,"Primary central nervous system lymphoma, unspecified site, extranodal and solid organ sites"
+icd:9:20972,1,11,10,Secondary neuroendocrine tumor of liver
+icd:9:2182,1,11,11,Subserous leiomyoma of uterus
+icd:9:25043,1,11,9,"Diabetes with renal manifestations, type I [juvenile type], uncontrolled"
+icd:9:30011,1,11,11,Conversion disorder
+icd:9:30981,1,11,11,Posttraumatic stress disorder
+icd:9:34511,1,11,10,"Generalized convulsive epilepsy, with intractable epilepsy"
+icd:9:3510,1,11,11,Bell's palsy
+icd:9:40401,1,11,11,"Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified"
+icd:9:4417,1,11,11,"Thoracoabdominal aneurysm, without mention of rupture"
+icd:9:4532,1,11,11,Other venous embolism and thrombosis of inferior vena cava
+icd:9:45351,1,11,11,Chronic venous embolism and thrombosis of deep vessels of proximal lower extremity
+icd:9:5110,1,11,10,Pleurisy without mention of effusion or current tuberculosis
+icd:9:53490,1,11,8,"Gastrojejunal ulcer, unspecified as acute or chronic, without mention of hemorrhage or perforation, without mention of obstruction"
+icd:9:56213,1,11,11,Diverticulitis of colon with hemorrhage
+icd:9:56949,1,11,11,Other specified disorders of rectum and anus
+icd:9:59582,1,11,10,Irradiation cystitis
+icd:9:73819,1,11,11,Other specified acquired deformity of head
+icd:9:7866,1,11,11,"Swelling, mass, or lump in chest"
+icd:9:81301,1,11,11,Closed fracture of olecranon process of ulna
+icd:9:85200,1,11,11,"Subarachnoid hemorrhage following injury without mention of open intracranial wound, unspecified state of consciousness"
+icd:9:99702,1,11,11,Iatrogenic cerebrovascular infarction or hemorrhage
+icd:9:99709,1,11,7,Other nervous system complications
+icd:10:A400,1,10,10,"Sepsis due to streptococcus, group A"
+icd:10:A403,1,10,10,Sepsis due to Streptococcus pneumoniae
+icd:10:B1921,1,10,10,Unspecified viral hepatitis C with hepatic coma
+icd:10:C184,1,10,10,Malignant neoplasm of transverse colon
+icd:10:C710,1,10,10,"Malignant neoplasm of cerebrum, except lobes and ventricles"
+icd:10:C7A1,1,10,10,Malignant poorly differentiated neuroendocrine tumors
+icd:10:C7B8,1,10,8,Other secondary neuroendocrine tumors
+icd:10:C8331,1,10,9,"Diffuse large B-cell lymphoma, lymph nodes of head, face, and neck"
+icd:10:D110,1,10,10,Benign neoplasm of parotid gland
+icd:10:D3502,1,10,10,Benign neoplasm of left adrenal gland
+icd:10:E1051,1,10,8,Type 1 diabetes mellitus with diabetic peripheral angiopathy without gangrene
+icd:10:E1052,1,10,9,Type 1 diabetes mellitus with diabetic peripheral angiopathy with gangrene
+icd:10:E2740,1,10,10,Unspecified adrenocortical insufficiency
+icd:10:E662,1,10,10,Morbid (severe) obesity with alveolar hypoventilation
+icd:10:F0150,1,10,10,"Vascular dementia, unspecified severity, without behavioral disturbance, psychotic disturbance, mood disturbance, and anxiety"
+icd:10:F202,1,10,4,Catatonic schizophrenia
+icd:10:F603,1,10,9,Borderline personality disorder
+icd:10:G40802,1,10,8,"Other epilepsy, not intractable, without status epilepticus"
+icd:10:I2121,1,10,10,ST elevation (STEMI) myocardial infarction involving left circumflex coronary artery
+icd:10:I50813,1,10,10,Acute on chronic right heart failure
+icd:10:I63311,1,10,10,Cerebral infarction due to thrombosis of right middle cerebral artery
+icd:10:I6349,1,10,10,Cerebral infarction due to embolism of other cerebral artery
+icd:10:I716,1,10,10,"Thoracoabdominal aortic aneurysm, without rupture"
+icd:10:I82432,1,10,10,Acute embolism and thrombosis of left popliteal vein
+icd:10:J029,1,10,10,"Acute pharyngitis, unspecified"
+icd:10:J1289,1,10,10,Other viral pneumonia
+icd:10:J15212,1,10,10,Pneumonia due to Methicillin resistant Staphylococcus aureus
+icd:10:J386,1,10,10,Stenosis of larynx
+icd:10:J82,1,10,5,"Pulmonary eosinophilia, not elsewhere classified"
+icd:10:K2210,1,10,9,Ulcer of esophagus without bleeding
+icd:10:K259,1,10,10,"Gastric ulcer, unspecified as acute or chronic, without hemorrhage or perforation"
+icd:10:K315,1,10,9,Obstruction of duodenum
+icd:10:K627,1,10,7,Radiation proctitis
+icd:10:K6389,1,10,10,Other specified diseases of intestine
+icd:10:K8042,1,10,10,Calculus of bile duct with acute cholecystitis without obstruction
+icd:10:K8301,1,10,9,Primary sclerosing cholangitis
+icd:10:K913,1,10,10,Postprocedural intestinal obstruction
+icd:10:L7622,1,10,10,Postprocedural hemorrhage of skin and subcutaneous tissue following other procedure
+icd:10:M25551,1,10,10,Pain in right hip
+icd:10:N2889,1,10,9,Other specified disorders of kidney and ureter
+icd:10:N9989,1,10,10,Other postprocedural complications and disorders of genitourinary system
+icd:10:R05,1,10,10,Cough
+icd:10:R102,1,10,10,Pelvic and perineal pain
+icd:10:R5383,1,10,10,Other fatigue
+icd:10:S72012A,1,10,10,"Unspecified intracapsular fracture of left femur, initial encounter for closed fracture"
+icd:10:T182XXA,1,10,8,"Foreign body in stomach, initial encounter"
+icd:10:T8183XA,1,10,10,"Persistent postprocedural fistula, initial encounter"
+icd:10:T8452XA,1,10,8,"Infection and inflammatory reaction due to internal left hip prosthesis, initial encounter"
+icd:10:T8463XA,1,10,10,"Infection and inflammatory reaction due to internal fixation device of spine, initial encounter"
+icd:10:T8789,1,10,9,Other complications of amputation stump
+icd:10:Z430,1,10,9,Encounter for attention to tracheostomy
+icd:9:0785,1,10,9,Cytomegaloviral disease
+icd:9:135,1,10,8,Sarcoidosis
+icd:9:20283,1,10,9,"Other malignant lymphomas, intra-abdominal lymph nodes"
+icd:9:2740,1,10,10,Gouty arthropathy
+icd:9:29530,1,10,10,"Paranoid type schizophrenia, unspecified"
+icd:9:30300,1,10,9,"Acute alcoholic intoxication in alcoholism, unspecified"
+icd:9:3410,1,10,5,Neuromyelitis optica
+icd:9:34580,1,10,9,"Other forms of epilepsy and recurrent seizures, without mention of intractable epilepsy"
+icd:9:3950,1,10,10,Rheumatic aortic stenosis
+icd:9:40201,1,10,10,Malignant hypertensive heart disease with heart failure
+icd:9:41072,1,10,10,"Subendocardial infarction, subsequent episode of care"
+icd:9:43330,1,10,10,Occlusion and stenosis of multiple and bilateral precerebral arteries without mention of cerebral infarction
+icd:9:4377,1,10,10,Transient global amnesia
+icd:9:4465,1,10,10,Giant cell arteritis
+icd:9:49302,1,10,9,Extrinsic asthma with (acute) exacerbation
+icd:9:49390,1,10,9,"Asthma, unspecified type, unspecified"
+icd:9:496,1,10,10,"Chronic airway obstruction, not elsewhere classified"
+icd:9:53530,1,10,10,"Alcoholic gastritis, without mention of hemorrhage"
+icd:9:55220,1,10,10,"Ventral, unspecified, hernia with obstruction"
+icd:9:5568,1,10,8,Other ulcerative colitis
+icd:9:5602,1,10,8,Volvulus
+icd:9:5728,1,10,10,Other sequelae of chronic liver disease
+icd:9:5819,1,10,10,Nephrotic syndrome with unspecified pathological lesion in kidney
+icd:9:5959,1,10,10,"Cystitis, unspecified"
+icd:9:59970,1,10,10,"Hematuria, unspecified"
+icd:9:6084,1,10,10,Other inflammatory disorders of male genital organs
+icd:9:6110,1,10,8,Inflammatory disease of breast
+icd:9:61801,1,10,10,"Cystocele, midline"
+icd:9:61804,1,10,10,Rectocele
+icd:9:70719,1,10,10,Ulcer of other part of lower limb
+icd:9:72610,1,10,10,"Disorders of bursae and tendons in shoulder region, unspecified"
+icd:9:7850,1,10,10,"Tachycardia, unspecified"
+icd:9:81200,1,10,10,Closed fracture of unspecified part of upper end of humerus
+icd:9:81344,1,10,9,Closed fracture of lower end of radius with ulna
+icd:9:82322,1,10,10,Closed fracture of shaft of fibula with tibia
+icd:9:96501,1,10,10,Poisoning by heroin
+icd:9:9693,1,10,9,"Poisoning by other antipsychotics, neuroleptics, and major tranquilizers"
+icd:9:99741,1,10,10,Retained cholelithiasis following cholecystectomy
