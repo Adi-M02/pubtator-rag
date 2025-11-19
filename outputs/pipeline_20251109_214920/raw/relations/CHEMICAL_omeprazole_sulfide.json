@@ -1,0 +1,1 @@
+[{"type": "treat", "source": "@CHEMICAL_omeprazole_sulfide", "target": "@DISEASE_Carcinoma_Hepatocellular", "publications": 1}, {"type": "treat", "source": "@CHEMICAL_omeprazole_sulfide", "target": "@DISEASE_Dyspepsia", "publications": 1}]

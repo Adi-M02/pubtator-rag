@@ -1,0 +1,5977 @@
+{
+  "run_id": "20251109_190930",
+  "drugs": [
+    "metformin",
+    "atenolol",
+    "simvastatin",
+    "lisinopril",
+    "amlodipine",
+    "omeprazole",
+    "furosemide",
+    "warfarin",
+    "levofloxacin",
+    "glyburide"
+  ],
+  "drug_entities": [
+    {
+      "drug_name": "metformin",
+      "example_disease": "",
+      "entity_ids": [
+        "@CHEMICAL_Metformin",
+        "@CHEMICAL_rosiglitazone_metformin_combination",
+        "@CHEMICAL_Sitagliptin_Phosphate_Metformin_Hydrochloride_Drug_Combination",
+        "@CHEMICAL_Glucovance",
+        "@CHEMICAL_TP_113"
+      ],
+      "total_entity_ids": 5
+    },
+    {
+      "drug_name": "atenolol",
+      "example_disease": "",
+      "entity_ids": [
+        "@CHEMICAL_Atenolol",
+        "@CHEMICAL_atenolol_chlortalidone_drug_combinations"
+      ],
+      "total_entity_ids": 2
+    },
+    {
+      "drug_name": "simvastatin",
+      "example_disease": "",
+      "entity_ids": [
+        "@CHEMICAL_Simvastatin",
+        "@CHEMICAL_simvastatin_acid",
+        "@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination",
+        "@CHEMICAL_simvastatin_hydroxyacid",
+        "@CHEMICAL_beta_hydroxy_simvastatin_acid"
+      ],
+      "total_entity_ids": 5
+    },
+    {
+      "drug_name": "lisinopril",
+      "example_disease": "",
+      "entity_ids": [
+        "@CHEMICAL_Lisinopril",
+        "@CHEMICAL_hydrochlorothiazide_lisinopril_drug_combination",
+        "@CHEMICAL_18F_fluorobenzoyl_lisinopril",
+        "@CHEMICAL_BL_11",
+        "@CHEMICAL_BL_19"
+      ],
+      "total_entity_ids": 5
+    },
+    {
+      "drug_name": "amlodipine",
+      "example_disease": "",
+      "entity_ids": [
+        "@CHEMICAL_Amlodipine",
+        "@CHEMICAL_Amlodipine_Valsartan_Drug_Combination",
+        "@CHEMICAL_Amlodipine_Besylate_Olmesartan_Medoxomil_Drug_Combination",
+        "@CHEMICAL_amlodipine_atorvastatin_drug_combination",
+        "@CHEMICAL_amlodipine_perindopril_drug_combination",
+        "@CHEMICAL_amlodipine_nicotinate",
+        "@CHEMICAL_amlodipine_losartan_drug_combination",
+        "@CHEMICAL_telmisartan_amlodipine_combination",
+        "@CHEMICAL_Viacoram"
+      ],
+      "total_entity_ids": 5
+    },
+    {
+      "drug_name": "omeprazole",
+      "example_disease": "",
+      "entity_ids": [
+        "@CHEMICAL_Omeprazole",
+        "@CHEMICAL_omeprazole_sulfide",
+        "@CHEMICAL_omeprazole_sodium_bicarbonate_drug_combination",
+        "@CHEMICAL_omeprazole_acid",
+        "@CHEMICAL_omeprazole_cyclic_sulfenamide",
+        "@CHEMICAL_omeprazole_sulfone",
+        "@CHEMICAL_5_hydroxymethylomeprazole",
+        "@CHEMICAL_omeprazole_N_oxide"
+      ],
+      "total_entity_ids": 5
+    },
+    {
+      "drug_name": "furosemide",
+      "example_disease": "",
+      "entity_ids": [
+        "@CHEMICAL_Furosemide",
+        "@CHEMICAL_furosemide_glucuronide",
+        "@CHEMICAL_butoxymethylene_furosemide"
+      ],
+      "total_entity_ids": 3
+    },
+    {
+      "drug_name": "warfarin",
+      "example_disease": "",
+      "entity_ids": [
+        "@CHEMICAL_Warfarin",
+        "@CHEMICAL_Warfarin_syndrome",
+        "@CHEMICAL_6_hydroxywarfarin",
+        "@CHEMICAL_methylsulfinylwarfarin"
+      ],
+      "total_entity_ids": 4
+    },
+    {
+      "drug_name": "levofloxacin",
+      "example_disease": "",
+      "entity_ids": [
+        "@CHEMICAL_Levofloxacin",
+        "@CHEMICAL_levofloxacin_ethoxycarbonyl_1_ethyl_hemiacetal_ester"
+      ],
+      "total_entity_ids": 2
+    },
+    {
+      "drug_name": "glyburide",
+      "example_disease": "",
+      "entity_ids": [
+        "@CHEMICAL_Glyburide",
+        "@CHEMICAL_Glucovance",
+        "@CHEMICAL_4_transhydroxy_glyburide"
+      ],
+      "total_entity_ids": 3
+    }
+  ],
+  "indications": [
+    {
+      "drug_name": "metformin",
+      "example_disease": "",
+      "drug_id": "@CHEMICAL_Metformin",
+      "disease_ids": [
+        "@DISEASE_Diabetes_Mellitus_Type_2",
+        "@DISEASE_Diabetes_Mellitus",
+        "@DISEASE_Neoplasms",
+        "@DISEASE_Polycystic_Ovary_Syndrome",
+        "@DISEASE_Obesity",
+        "@DISEASE_Inflammation",
+        "@DISEASE_Insulin_Resistance",
+        "@DISEASE_Breast_Neoplasms",
+        "@DISEASE_Diabetes_Gestational",
+        "@DISEASE_Hyperglycemia",
+        "@DISEASE_Overweight",
+        "@DISEASE_Metabolic_Syndrome",
+        "@DISEASE_Weight_Gain",
+        "@DISEASE_Cardiovascular_Diseases",
+        "@DISEASE_Colorectal_Neoplasms",
+        "@DISEASE_Glucose_Intolerance",
+        "@DISEASE_Non_alcoholic_Fatty_Liver_Disease",
+        "@DISEASE_Weight_Loss",
+        "@DISEASE_Carcinoma_Hepatocellular",
+        "@DISEASE_Prediabetic_State",
+        "@DISEASE_Prostatic_Neoplasms",
+        "@DISEASE_Hyperglycemic_Hyperosmolar_Nonketotic_Coma",
+        "@DISEASE_Fibrosis",
+        "@DISEASE_Diabetes_Mellitus_Type_1",
+        "@DISEASE_Pancreatic_Neoplasms"
+      ],
+      "total_disease_entities": 1489,
+      "evidence": [
+        {
+          "disease_id": "@DISEASE_Diabetes_Mellitus_Type_2",
+          "disease_name": "Diabetes Mellitus Type 2",
+          "pmids": [
+            "36619226",
+            "34904090",
+            "36145361",
+            "33310173",
+            "36355535",
+            "33442187",
+            "36407271",
+            "33668426",
+            "32377525",
+            "33664666"
+          ],
+          "total_articles": 8188
+        },
+        {
+          "disease_id": "@DISEASE_Diabetes_Mellitus",
+          "disease_name": "Diabetes Mellitus",
+          "pmids": [
+            "35926099",
+            "34645617",
+            "33312159",
+            "35903672",
+            "38053839",
+            "37834839",
+            "36732827",
+            "35309393",
+            "37900422",
+            "39208454"
+          ],
+          "total_articles": 5049
+        },
+        {
+          "disease_id": "@DISEASE_Neoplasms",
+          "disease_name": "Neoplasms",
+          "pmids": [
+            "34429626",
+            "35720480",
+            "32868904",
+            "35267644",
+            "32399389",
+            "35724834",
+            "33849540",
+            "33553880",
+            "36823364",
+            "37364322"
+          ],
+          "total_articles": 2388
+        },
+        {
+          "disease_id": "@DISEASE_Polycystic_Ovary_Syndrome",
+          "disease_name": "Polycystic Ovary Syndrome",
+          "pmids": [
+            "37736515",
+            "36176868",
+            "32490533",
+            "35251851",
+            "33014044",
+            "37974132",
+            "36523331",
+            "37347114",
+            "34053455",
+            "37791160"
+          ],
+          "total_articles": 1746
+        },
+        {
+          "disease_id": "@DISEASE_Obesity",
+          "disease_name": "Obesity",
+          "pmids": [
+            "33664666",
+            "33608414",
+            "37401946",
+            "32499908",
+            "37409227",
+            "35720680",
+            "34218420",
+            "34514769",
+            "35574481",
+            "35130922"
+          ],
+          "total_articles": 1399
+        },
+        {
+          "disease_id": "@DISEASE_Inflammation",
+          "disease_name": "Inflammation",
+          "pmids": [
+            "33584319",
+            "38026260",
+            "33689478",
+            "36319785",
+            "32156291",
+            "32964062",
+            "38311861",
+            "34463292",
+            "35802672",
+            "35156512"
+          ],
+          "total_articles": 1175
+        },
+        {
+          "disease_id": "@DISEASE_Insulin_Resistance",
+          "disease_name": "Insulin Resistance",
+          "pmids": [
+            "34053175",
+            "34512303",
+            "32606605",
+            "32454819",
+            "37736515",
+            "34907435",
+            "35163187",
+            "37901890",
+            "38131036",
+            "37635987"
+          ],
+          "total_articles": 1228
+        },
+        {
+          "disease_id": "@DISEASE_Breast_Neoplasms",
+          "disease_name": "Breast Neoplasms",
+          "pmids": [
+            "35269852",
+            "36766896",
+            "35538143",
+            "36562831",
+            "34408607",
+            "32883003",
+            "31819193",
+            "36233373",
+            "35852878",
+            "38057926"
+          ],
+          "total_articles": 568
+        },
+        {
+          "disease_id": "@DISEASE_Diabetes_Gestational",
+          "disease_name": "Diabetes Gestational",
+          "pmids": [
+            "34589334",
+            "34804675",
+            "35399802",
+            "36460329",
+            "34349484",
+            "34071182",
+            "36131291",
+            "37794119",
+            "37765126",
+            "33429755"
+          ],
+          "total_articles": 504
+        },
+        {
+          "disease_id": "@DISEASE_Hyperglycemia",
+          "disease_name": "Hyperglycemia",
+          "pmids": [
+            "37378329",
+            "32841254",
+            "35860311",
+            "38324763",
+            "33588801",
+            "35693534",
+            "36187136",
+            "38311294",
+            "35044756",
+            "37929731"
+          ],
+          "total_articles": 391
+        },
+        {
+          "disease_id": "@DISEASE_Overweight",
+          "disease_name": "Overweight",
+          "pmids": [
+            "32490533",
+            "33014044",
+            "38155665",
+            "31829964",
+            "34764661",
+            "33580540",
+            "33760905",
+            "34957166",
+            "36060969",
+            "34514769"
+          ],
+          "total_articles": 361
+        },
+        {
+          "disease_id": "@DISEASE_Metabolic_Syndrome",
+          "disease_name": "Metabolic Syndrome",
+          "pmids": [
+            "32456272",
+            "33808460",
+            "38028405",
+            "37502816",
+            "35743280",
+            "35326230",
+            "34930986",
+            "37760893",
+            "32190918",
+            "35492738"
+          ],
+          "total_articles": 351
+        },
+        {
+          "disease_id": "@DISEASE_Weight_Gain",
+          "disease_name": "Weight Gain",
+          "pmids": [
+            "35272547",
+            "36458118",
+            "35686187",
+            "37401946",
+            "37502816",
+            "37323046",
+            "35010394",
+            "35195193",
+            "36530712",
+            "35684088"
+          ],
+          "total_articles": 396
+        },
+        {
+          "disease_id": "@DISEASE_Cardiovascular_Diseases",
+          "disease_name": "Cardiovascular Diseases",
+          "pmids": [
+            "36187122",
+            "38048543",
+            "35337110",
+            "37051071",
+            "36077136",
+            "35032305",
+            "37307806",
+            "34053175",
+            "32606866",
+            "34332584"
+          ],
+          "total_articles": 429
+        },
+        {
+          "disease_id": "@DISEASE_Colorectal_Neoplasms",
+          "disease_name": "Colorectal Neoplasms",
+          "pmids": [
+            "35190587",
+            "32911743",
+            "32523353",
+            "35267590",
+            "32533543",
+            "32664279",
+            "37268905",
+            "36979711",
+            "33392303",
+            "33911461"
+          ],
+          "total_articles": 305
+        },
+        {
+          "disease_id": "@DISEASE_Glucose_Intolerance",
+          "disease_name": "Glucose Intolerance",
+          "pmids": [
+            "33758265",
+            "33888772",
+            "35743280",
+            "34452739",
+            "33854039",
+            "37690370",
+            "39196872",
+            "40436121",
+            "34505282",
+            "34131048"
+          ],
+          "total_articles": 289
+        },
+        {
+          "disease_id": "@DISEASE_Non_alcoholic_Fatty_Liver_Disease",
+          "disease_name": "Non alcoholic Fatty Liver Disease",
+          "pmids": [
+            "34065108",
+            "36316840",
+            "36531446",
+            "33841337",
+            "35379885",
+            "36077467",
+            "36551216",
+            "33981216",
+            "35326230",
+            "36039840"
+          ],
+          "total_articles": 284
+        },
+        {
+          "disease_id": "@DISEASE_Weight_Loss",
+          "disease_name": "Weight Loss",
+          "pmids": [
+            "32499908",
+            "39660840",
+            "37466599",
+            "34514769",
+            "36806755",
+            "37990710",
+            "33716960",
+            "37744021",
+            "33312159",
+            "37347114"
+          ],
+          "total_articles": 493
+        },
+        {
+          "disease_id": "@DISEASE_Carcinoma_Hepatocellular",
+          "disease_name": "Carcinoma Hepatocellular",
+          "pmids": [
+            "34065108",
+            "37370771",
+            "37997519",
+            "32974191",
+            "35747976",
+            "37740172",
+            "35897659",
+            "38192642",
+            "35545330",
+            "36572351"
+          ],
+          "total_articles": 276
+        },
+        {
+          "disease_id": "@DISEASE_Prediabetic_State",
+          "disease_name": "Prediabetic State",
+          "pmids": [
+            "32936780",
+            "35926099",
+            "35651475",
+            "36159298",
+            "32964858",
+            "34083618",
+            "32601731",
+            "40736496",
+            "35896449",
+            "37668313"
+          ],
+          "total_articles": 245
+        },
+        {
+          "disease_id": "@DISEASE_Prostatic_Neoplasms",
+          "disease_name": "Prostatic Neoplasms",
+          "pmids": [
+            "33198356",
+            "40639382",
+            "36175875",
+            "37409095",
+            "36178848",
+            "32035002",
+            "34399755",
+            "36744171",
+            "33831975",
+            "34660791"
+          ],
+          "total_articles": 250
+        },
+        {
+          "disease_id": "@DISEASE_Hyperglycemic_Hyperosmolar_Nonketotic_Coma",
+          "disease_name": "Hyperglycemic Hyperosmolar Nonketotic Coma",
+          "pmids": [
+            "39786492",
+            "31936070",
+            "33588801",
+            "33071980",
+            "36982317",
+            "38084128",
+            "36386794",
+            "35965421",
+            "32020414",
+            "32841254"
+          ],
+          "total_articles": 218
+        },
+        {
+          "disease_id": "@DISEASE_Fibrosis",
+          "disease_name": "Fibrosis",
+          "pmids": [
+            "36552855",
+            "34007848",
+            "38114915",
+            "34502314",
+            "34434111",
+            "34381133",
+            "38185658",
+            "33835703",
+            "38003450",
+            "32798709"
+          ],
+          "total_articles": 217
+        },
+        {
+          "disease_id": "@DISEASE_Diabetes_Mellitus_Type_1",
+          "disease_name": "Diabetes Mellitus Type 1",
+          "pmids": [
+            "34343108",
+            "33457425",
+            "35707462",
+            "33598651",
+            "32606605",
+            "33981216",
+            "37387358",
+            "36992735",
+            "35620570",
+            "31670618"
+          ],
+          "total_articles": 196
+        },
+        {
+          "disease_id": "@DISEASE_Pancreatic_Neoplasms",
+          "disease_name": "Pancreatic Neoplasms",
+          "pmids": [
+            "34367843",
+            "35454306",
+            "34485159",
+            "32850872",
+            "35898377",
+            "35800820",
+            "36829129",
+            "36678613",
+            "34142285",
+            "32824907"
+          ],
+          "total_articles": 202
+        }
+      ]
+    },
+    {
+      "drug_name": "metformin",
+      "example_disease": "",
+      "drug_id": "@CHEMICAL_rosiglitazone_metformin_combination",
+      "disease_ids": [
+        "@DISEASE_Diabetes_Mellitus_Type_2",
+        "@DISEASE_Carcinoma_Hepatocellular",
+        "@DISEASE_Cardiovascular_Diseases",
+        "@DISEASE_Diabetes_Mellitus",
+        "@DISEASE_Drug_Related_Side_Effects_and_Adverse_Reactions",
+        "@DISEASE_Glucose_Intolerance",
+        "@DISEASE_Insulin_Resistance",
+        "@DISEASE_Intracranial_Arteriovenous_Malformations",
+        "@DISEASE_Metabolic_Diseases",
+        "@DISEASE_Obesity"
+      ],
+      "total_disease_entities": 10,
+      "evidence": [
+        {
+          "disease_id": "@DISEASE_Diabetes_Mellitus_Type_2",
+          "disease_name": "Diabetes Mellitus Type 2",
+          "pmids": [
+            "25963345",
+            "17563269",
+            "15529521",
+            "21682834",
+            "20840734"
+          ],
+          "total_articles": 5
+        },
+        {
+          "disease_id": "@DISEASE_Carcinoma_Hepatocellular",
+          "disease_name": "Carcinoma Hepatocellular",
+          "pmids": [
+            "30651718"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Cardiovascular_Diseases",
+          "disease_name": "Cardiovascular Diseases",
+          "pmids": [
+            "17563269",
+            "21595121"
+          ],
+          "total_articles": 2
+        },
+        {
+          "disease_id": "@DISEASE_Diabetes_Mellitus",
+          "disease_name": "Diabetes Mellitus",
+          "pmids": [
+            "17563269"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Drug_Related_Side_Effects_and_Adverse_Reactions",
+          "disease_name": "Drug Related Side Effects and Adverse Reactions",
+          "pmids": [
+            "21595121"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Glucose_Intolerance",
+          "disease_name": "Glucose Intolerance",
+          "pmids": [
+            "21812893"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Insulin_Resistance",
+          "disease_name": "Insulin Resistance",
+          "pmids": [
+            "15529521"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Intracranial_Arteriovenous_Malformations",
+          "disease_name": "Intracranial Arteriovenous Malformations",
+          "pmids": [
+            "21682834"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Metabolic_Diseases",
+          "disease_name": "Metabolic Diseases",
+          "pmids": [
+            "24485303"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Obesity",
+          "disease_name": "Obesity",
+          "pmids": [
+            "24485303"
+          ],
+          "total_articles": 1
+        }
+      ]
+    },
+    {
+      "drug_name": "metformin",
+      "example_disease": "",
+      "drug_id": "@CHEMICAL_Sitagliptin_Phosphate_Metformin_Hydrochloride_Drug_Combination",
+      "disease_ids": [
+        "@DISEASE_Diabetes_Mellitus_Type_2",
+        "@DISEASE_Diabetes_Mellitus",
+        "@DISEASE_Hyperglycemia"
+      ],
+      "total_disease_entities": 3,
+      "evidence": [
+        {
+          "disease_id": "@DISEASE_Diabetes_Mellitus_Type_2",
+          "disease_name": "Diabetes Mellitus Type 2",
+          "pmids": [
+            "17541377",
+            "21189532",
+            "23319848",
+            "30743780"
+          ],
+          "total_articles": 4
+        },
+        {
+          "disease_id": "@DISEASE_Diabetes_Mellitus",
+          "disease_name": "Diabetes Mellitus",
+          "pmids": [
+            "37033652"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Hyperglycemia",
+          "disease_name": "Hyperglycemia",
+          "pmids": [
+            "28485557"
+          ],
+          "total_articles": 1
+        }
+      ]
+    },
+    {
+      "drug_name": "metformin",
+      "example_disease": "",
+      "drug_id": "@CHEMICAL_Glucovance",
+      "disease_ids": [
+        "@DISEASE_Diabetes_Mellitus_Type_2",
+        "@DISEASE_Diabetes_Mellitus",
+        "@DISEASE_Metabolic_Diseases"
+      ],
+      "total_disease_entities": 3,
+      "evidence": [
+        {
+          "disease_id": "@DISEASE_Diabetes_Mellitus_Type_2",
+          "disease_name": "Diabetes Mellitus Type 2",
+          "pmids": [
+            "11077467",
+            "12945247",
+            "16846398",
+            "15588116",
+            "12147149",
+            "12452739",
+            "15529514",
+            "12877648"
+          ],
+          "total_articles": 8
+        },
+        {
+          "disease_id": "@DISEASE_Diabetes_Mellitus",
+          "disease_name": "Diabetes Mellitus",
+          "pmids": [
+            "32010347"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Metabolic_Diseases",
+          "disease_name": "Metabolic Diseases",
+          "pmids": [
+            "12945247"
+          ],
+          "total_articles": 1
+        }
+      ]
+    },
+    {
+      "drug_name": "metformin",
+      "example_disease": "",
+      "drug_id": "@CHEMICAL_TP_113",
+      "disease_ids": [
+        "@DISEASE_Insulin_Resistance",
+        "@DISEASE_Obesity"
+      ],
+      "total_disease_entities": 2,
+      "evidence": [
+        {
+          "disease_id": "@DISEASE_Insulin_Resistance",
+          "disease_name": "Insulin Resistance",
+          "pmids": [
+            "27800648"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Obesity",
+          "disease_name": "Obesity",
+          "pmids": [
+            "27800648"
+          ],
+          "total_articles": 1
+        }
+      ]
+    },
+    {
+      "drug_name": "atenolol",
+      "example_disease": "",
+      "drug_id": "@CHEMICAL_Atenolol",
+      "disease_ids": [
+        "@DISEASE_Hypertension",
+        "@DISEASE_Essential_Hypertension",
+        "@DISEASE_Hypertrophy_Left_Ventricular",
+        "@DISEASE_Angina_Pectoris",
+        "@DISEASE_Tachycardia",
+        "@DISEASE_Angina_Stable",
+        "@DISEASE_Myocardial_Infarction",
+        "@DISEASE_Coronary_Artery_Disease",
+        "@DISEASE_Cardiovascular_Diseases",
+        "@DISEASE_Stroke",
+        "@DISEASE_Arrhythmias_Cardiac",
+        "@DISEASE_Hypotension",
+        "@DISEASE_Heart_Failure",
+        "@DISEASE_Pulmonary_Arterial_Hypertension",
+        "@DISEASE_Heart_Diseases",
+        "@DISEASE_Ischemia",
+        "@DISEASE_Diabetes_Mellitus",
+        "@DISEASE_Atrial_Fibrillation",
+        "@DISEASE_Diabetes_Mellitus_Type_2",
+        "@DISEASE_Isolated_Systolic_Hypertension",
+        "@DISEASE_Myocardial_Ischemia",
+        "@DISEASE_Pressure_Ulcer",
+        "@DISEASE_Coronary_Disease",
+        "@DISEASE_Brain_Ischemia",
+        "@DISEASE_Death"
+      ],
+      "total_disease_entities": 538,
+      "evidence": [
+        {
+          "disease_id": "@DISEASE_Hypertension",
+          "disease_name": "Hypertension",
+          "pmids": [
+            "36015255",
+            "32801703",
+            "34684021",
+            "32785480",
+            "34964660",
+            "36859481",
+            "37864972",
+            "33224491",
+            "39505564",
+            "32215501"
+          ],
+          "total_articles": 1474
+        },
+        {
+          "disease_id": "@DISEASE_Essential_Hypertension",
+          "disease_name": "Essential Hypertension",
+          "pmids": [
+            "35383773",
+            "35058422",
+            "776487",
+            "799562",
+            "2249083",
+            "2242456",
+            "21267286",
+            "7104179",
+            "1604286",
+            "6704301"
+          ],
+          "total_articles": 367
+        },
+        {
+          "disease_id": "@DISEASE_Hypertrophy_Left_Ventricular",
+          "disease_name": "Hypertrophy Left Ventricular",
+          "pmids": [
+            "35567886",
+            "2967752",
+            "20668631",
+            "12160492",
+            "12423712",
+            "1833800",
+            "10150325",
+            "15039810",
+            "15035257",
+            "12614122"
+          ],
+          "total_articles": 163
+        },
+        {
+          "disease_id": "@DISEASE_Angina_Pectoris",
+          "disease_name": "Angina Pectoris",
+          "pmids": [
+            "39505564",
+            "7003873",
+            "337273",
+            "110212",
+            "17996",
+            "531563",
+            "4499921",
+            "3903709",
+            "381009",
+            "6343259"
+          ],
+          "total_articles": 143
+        },
+        {
+          "disease_id": "@DISEASE_Tachycardia",
+          "disease_name": "Tachycardia",
+          "pmids": [
+            "35743350",
+            "33224491",
+            "31939847",
+            "39959329",
+            "37251972",
+            "40960072",
+            "37267820",
+            "37438479",
+            "39423603",
+            "21712869"
+          ],
+          "total_articles": 136
+        },
+        {
+          "disease_id": "@DISEASE_Angina_Stable",
+          "disease_name": "Angina Stable",
+          "pmids": [
+            "8262084",
+            "2893533",
+            "2897780",
+            "2144705",
+            "1462277",
+            "2076397",
+            "2662743",
+            "1970300",
+            "6852987",
+            "10523477"
+          ],
+          "total_articles": 116
+        },
+        {
+          "disease_id": "@DISEASE_Myocardial_Infarction",
+          "disease_name": "Myocardial Infarction",
+          "pmids": [
+            "17488499",
+            "1462277",
+            "7743529",
+            "1688977",
+            "90965",
+            "23110919",
+            "7034474",
+            "3421513",
+            "1678916",
+            "101223"
+          ],
+          "total_articles": 127
+        },
+        {
+          "disease_id": "@DISEASE_Coronary_Artery_Disease",
+          "disease_name": "Coronary Artery Disease",
+          "pmids": [
+            "34012683",
+            "33914047",
+            "341928",
+            "1304016",
+            "26811165",
+            "2248757",
+            "11101199",
+            "2801572",
+            "8176095",
+            "1764953"
+          ],
+          "total_articles": 83
+        },
+        {
+          "disease_id": "@DISEASE_Cardiovascular_Diseases",
+          "disease_name": "Cardiovascular Diseases",
+          "pmids": [
+            "33710319",
+            "35482263",
+            "31640931",
+            "33186492",
+            "32403073",
+            "36962886",
+            "36662714",
+            "33708114",
+            "36029011",
+            "32310006"
+          ],
+          "total_articles": 89
+        },
+        {
+          "disease_id": "@DISEASE_Stroke",
+          "disease_name": "Stroke",
+          "pmids": [
+            "34192893",
+            "32802081",
+            "31898196",
+            "2387213",
+            "12585945",
+            "12585946",
+            "15530629",
+            "2429095",
+            "17959026",
+            "24750981"
+          ],
+          "total_articles": 111
+        },
+        {
+          "disease_id": "@DISEASE_Arrhythmias_Cardiac",
+          "disease_name": "Arrhythmias Cardiac",
+          "pmids": [
+            "35302255",
+            "40384969",
+            "37438479",
+            "32124390",
+            "32310006",
+            "4003239",
+            "3529912",
+            "2353617",
+            "6517730",
+            "28982831"
+          ],
+          "total_articles": 78
+        },
+        {
+          "disease_id": "@DISEASE_Hypotension",
+          "disease_name": "Hypotension",
+          "pmids": [
+            "34554869",
+            "40461358",
+            "34112223",
+            "37722017",
+            "32026368",
+            "37873673",
+            "1880116",
+            "393889",
+            "335383",
+            "2778713"
+          ],
+          "total_articles": 139
+        },
+        {
+          "disease_id": "@DISEASE_Heart_Failure",
+          "disease_name": "Heart Failure",
+          "pmids": [
+            "39355694",
+            "37267820",
+            "15941137",
+            "9141231",
+            "16392280",
+            "9623012",
+            "19751421",
+            "2285633",
+            "11076422",
+            "19064823"
+          ],
+          "total_articles": 66
+        },
+        {
+          "disease_id": "@DISEASE_Pulmonary_Arterial_Hypertension",
+          "disease_name": "Pulmonary Arterial Hypertension",
+          "pmids": [
+            "32547128",
+            "34564506",
+            "6755910",
+            "7438801",
+            "392492",
+            "6821048",
+            "6866841",
+            "6872478",
+            "553637",
+            "3555425"
+          ],
+          "total_articles": 59
+        },
+        {
+          "disease_id": "@DISEASE_Heart_Diseases",
+          "disease_name": "Heart Diseases",
+          "pmids": [
+            "32120430",
+            "39948180",
+            "34245378",
+            "35154785",
+            "1764953",
+            "1462277",
+            "8276498",
+            "8686195",
+            "29236801",
+            "6882193"
+          ],
+          "total_articles": 62
+        },
+        {
+          "disease_id": "@DISEASE_Ischemia",
+          "disease_name": "Ischemia",
+          "pmids": [
+            "23026582",
+            "20304162",
+            "1810681",
+            "8044945",
+            "8677870",
+            "29236801",
+            "1764953",
+            "10373241",
+            "2006616",
+            "2203562"
+          ],
+          "total_articles": 58
+        },
+        {
+          "disease_id": "@DISEASE_Diabetes_Mellitus",
+          "disease_name": "Diabetes Mellitus",
+          "pmids": [
+            "21267286",
+            "8011003",
+            "11485133",
+            "17386351",
+            "8950136",
+            "3888836",
+            "12418827",
+            "12418826",
+            "12599844",
+            "20411618"
+          ],
+          "total_articles": 69
+        },
+        {
+          "disease_id": "@DISEASE_Atrial_Fibrillation",
+          "disease_name": "Atrial Fibrillation",
+          "pmids": [
+            "32665866",
+            "32586143",
+            "32124390",
+            "7106148",
+            "25709353",
+            "8733316",
+            "12204730",
+            "14992883",
+            "7908532",
+            "17364111"
+          ],
+          "total_articles": 44
+        },
+        {
+          "disease_id": "@DISEASE_Diabetes_Mellitus_Type_2",
+          "disease_name": "Diabetes Mellitus Type 2",
+          "pmids": [
+            "34836856",
+            "3236327",
+            "8960851",
+            "12419165",
+            "8070610",
+            "17251496",
+            "11485133",
+            "9200654",
+            "9279969",
+            "23086971"
+          ],
+          "total_articles": 39
+        },
+        {
+          "disease_id": "@DISEASE_Isolated_Systolic_Hypertension",
+          "disease_name": "Isolated Systolic Hypertension",
+          "pmids": [
+            "15670330",
+            "18192850",
+            "10872566",
+            "7944835",
+            "8998247",
+            "6367371",
+            "18391094",
+            "2676266",
+            "8513303",
+            "11986893"
+          ],
+          "total_articles": 39
+        },
+        {
+          "disease_id": "@DISEASE_Myocardial_Ischemia",
+          "disease_name": "Myocardial Ischemia",
+          "pmids": [
+            "9743424",
+            "9447850",
+            "2006616",
+            "2427845",
+            "2239717",
+            "2041287",
+            "4006133",
+            "12100756",
+            "7860905",
+            "16689099"
+          ],
+          "total_articles": 39
+        },
+        {
+          "disease_id": "@DISEASE_Pressure_Ulcer",
+          "disease_name": "Pressure Ulcer",
+          "pmids": [
+            "7340890",
+            "21039760",
+            "10425617",
+            "2892458",
+            "17444886",
+            "1974506",
+            "2841053",
+            "8973753",
+            "16686086",
+            "3709638"
+          ],
+          "total_articles": 37
+        },
+        {
+          "disease_id": "@DISEASE_Coronary_Disease",
+          "disease_name": "Coronary Disease",
+          "pmids": [
+            "6416805",
+            "622059",
+            "2468927",
+            "2904753",
+            "28107561",
+            "3903709",
+            "18441705",
+            "6130595",
+            "11234138",
+            "17453746"
+          ],
+          "total_articles": 39
+        },
+        {
+          "disease_id": "@DISEASE_Brain_Ischemia",
+          "disease_name": "Brain Ischemia",
+          "pmids": [
+            "7910155",
+            "15363963",
+            "16908280",
+            "11527111",
+            "2006616",
+            "2742208",
+            "3901170",
+            "2791879",
+            "1999634",
+            "7860905"
+          ],
+          "total_articles": 32
+        },
+        {
+          "disease_id": "@DISEASE_Death",
+          "disease_name": "Death",
+          "pmids": [
+            "36552429",
+            "40991209",
+            "37267820",
+            "2387213",
+            "9447850",
+            "18642016",
+            "19751421",
+            "1893924",
+            "2924074",
+            "8998247"
+          ],
+          "total_articles": 36
+        }
+      ]
+    },
+    {
+      "drug_name": "atenolol",
+      "example_disease": "",
+      "drug_id": "@CHEMICAL_atenolol_chlortalidone_drug_combinations",
+      "disease_ids": [
+        "@DISEASE_Hypertension"
+      ],
+      "total_disease_entities": 1,
+      "evidence": [
+        {
+          "disease_id": "@DISEASE_Hypertension",
+          "disease_name": "Hypertension",
+          "pmids": [
+            "3055324"
+          ],
+          "total_articles": 1
+        }
+      ]
+    },
+    {
+      "drug_name": "simvastatin",
+      "example_disease": "",
+      "drug_id": "@CHEMICAL_Simvastatin",
+      "disease_ids": [
+        "@DISEASE_Inflammation",
+        "@DISEASE_Hypercholesterolemia",
+        "@DISEASE_Hyperlipoproteinemia_Type_II",
+        "@DISEASE_Atherosclerosis",
+        "@DISEASE_Neoplasms",
+        "@DISEASE_Hyperlipidemias",
+        "@DISEASE_Coronary_Disease",
+        "@DISEASE_Cardiovascular_Diseases",
+        "@DISEASE_Diabetes_Mellitus",
+        "@DISEASE_Dyslipidemias",
+        "@DISEASE_Diabetes_Mellitus_Type_2",
+        "@DISEASE_Coronary_Artery_Disease",
+        "@DISEASE_Myocardial_Infarction",
+        "@DISEASE_Fibrosis",
+        "@DISEASE_Ischemia",
+        "@DISEASE_Hypertension",
+        "@DISEASE_Breast_Neoplasms",
+        "@DISEASE_Acute_Coronary_Syndrome",
+        "@DISEASE_Bone_Diseases",
+        "@DISEASE_Vascular_Diseases",
+        "@DISEASE_Stroke",
+        "@DISEASE_Alzheimer_Disease",
+        "@DISEASE_Reperfusion_Injury",
+        "@DISEASE_Heart_Diseases",
+        "@DISEASE_Metabolic_Syndrome"
+      ],
+      "total_disease_entities": 1062,
+      "evidence": [
+        {
+          "disease_id": "@DISEASE_Inflammation",
+          "disease_name": "Inflammation",
+          "pmids": [
+            "36771977",
+            "35983393",
+            "35059045",
+            "35488520",
+            "34680049",
+            "37629196",
+            "35866995",
+            "36100985",
+            "35509841",
+            "37427319"
+          ],
+          "total_articles": 613
+        },
+        {
+          "disease_id": "@DISEASE_Hypercholesterolemia",
+          "disease_name": "Hypercholesterolemia",
+          "pmids": [
+            "36970211",
+            "33936284",
+            "33050310",
+            "34349106",
+            "35839255",
+            "35096942",
+            "36314075",
+            "33833966",
+            "32485345",
+            "35359432"
+          ],
+          "total_articles": 544
+        },
+        {
+          "disease_id": "@DISEASE_Hyperlipoproteinemia_Type_II",
+          "disease_name": "Hyperlipoproteinemia Type II",
+          "pmids": [
+            "35629051",
+            "33497862",
+            "34768528",
+            "38004588",
+            "33046789",
+            "35064922",
+            "33133313",
+            "32554834",
+            "35839255",
+            "36723264"
+          ],
+          "total_articles": 364
+        },
+        {
+          "disease_id": "@DISEASE_Atherosclerosis",
+          "disease_name": "Atherosclerosis",
+          "pmids": [
+            "33287831",
+            "36970211",
+            "40801072",
+            "35745836",
+            "33711324",
+            "35858474",
+            "34587943",
+            "32334199",
+            "40050920",
+            "33859959"
+          ],
+          "total_articles": 268
+        },
+        {
+          "disease_id": "@DISEASE_Neoplasms",
+          "disease_name": "Neoplasms",
+          "pmids": [
+            "32950929",
+            "34831022",
+            "33401625",
+            "37181137",
+            "36367620",
+            "36173110",
+            "34983554",
+            "35631609",
+            "37298689",
+            "34627266"
+          ],
+          "total_articles": 269
+        },
+        {
+          "disease_id": "@DISEASE_Hyperlipidemias",
+          "disease_name": "Hyperlipidemias",
+          "pmids": [
+            "39460970",
+            "34420300",
+            "32410994",
+            "35873646",
+            "33494472",
+            "36475227",
+            "34243595",
+            "34220514",
+            "34055199",
+            "34749751"
+          ],
+          "total_articles": 239
+        },
+        {
+          "disease_id": "@DISEASE_Coronary_Disease",
+          "disease_name": "Coronary Disease",
+          "pmids": [
+            "35966518",
+            "37750649",
+            "34836863",
+            "35482468",
+            "31916523",
+            "32405982",
+            "32749629",
+            "33164619",
+            "40056690",
+            "20492655"
+          ],
+          "total_articles": 215
+        },
+        {
+          "disease_id": "@DISEASE_Cardiovascular_Diseases",
+          "disease_name": "Cardiovascular Diseases",
+          "pmids": [
+            "35873646",
+            "32477689",
+            "37933122",
+            "32901573",
+            "33751411",
+            "32604984",
+            "33898117",
+            "36970211",
+            "36239913",
+            "38621556"
+          ],
+          "total_articles": 210
+        },
+        {
+          "disease_id": "@DISEASE_Diabetes_Mellitus",
+          "disease_name": "Diabetes Mellitus",
+          "pmids": [
+            "36891284",
+            "37904513",
+            "35254621",
+            "34288836",
+            "33421467",
+            "31985637",
+            "33414967",
+            "37929666",
+            "36703094",
+            "32479899"
+          ],
+          "total_articles": 211
+        },
+        {
+          "disease_id": "@DISEASE_Dyslipidemias",
+          "disease_name": "Dyslipidemias",
+          "pmids": [
+            "35685234",
+            "34495217",
+            "35983393",
+            "35966518",
+            "33898117",
+            "32277945",
+            "36346030",
+            "37986006",
+            "33049128",
+            "32405982"
+          ],
+          "total_articles": 187
+        },
+        {
+          "disease_id": "@DISEASE_Diabetes_Mellitus_Type_2",
+          "disease_name": "Diabetes Mellitus Type 2",
+          "pmids": [
+            "35243827",
+            "33061398",
+            "37335632",
+            "34836863",
+            "36891284",
+            "33295884",
+            "37111264",
+            "36557197",
+            "36520527",
+            "36426391"
+          ],
+          "total_articles": 183
+        },
+        {
+          "disease_id": "@DISEASE_Coronary_Artery_Disease",
+          "disease_name": "Coronary Artery Disease",
+          "pmids": [
+            "32767644",
+            "33497862",
+            "34785535",
+            "32468428",
+            "24684779",
+            "9480401",
+            "21334753",
+            "15238460",
+            "9860376",
+            "23739650"
+          ],
+          "total_articles": 131
+        },
+        {
+          "disease_id": "@DISEASE_Myocardial_Infarction",
+          "disease_name": "Myocardial Infarction",
+          "pmids": [
+            "34587943",
+            "36970211",
+            "32142170",
+            "39894308",
+            "37522226",
+            "36741809",
+            "36915729",
+            "33185670",
+            "34910821",
+            "11349324"
+          ],
+          "total_articles": 115
+        },
+        {
+          "disease_id": "@DISEASE_Fibrosis",
+          "disease_name": "Fibrosis",
+          "pmids": [
+            "33726685",
+            "31607676",
+            "35830548",
+            "37998719",
+            "40280446",
+            "34366626",
+            "33771685",
+            "40744817",
+            "35665590",
+            "37213003"
+          ],
+          "total_articles": 101
+        },
+        {
+          "disease_id": "@DISEASE_Ischemia",
+          "disease_name": "Ischemia",
+          "pmids": [
+            "35926590",
+            "32950929",
+            "34644264",
+            "31734315",
+            "36139129",
+            "26157709",
+            "12928648",
+            "18514858",
+            "16790524",
+            "30863219"
+          ],
+          "total_articles": 94
+        },
+        {
+          "disease_id": "@DISEASE_Hypertension",
+          "disease_name": "Hypertension",
+          "pmids": [
+            "37587704",
+            "35668935",
+            "37302617",
+            "32617140",
+            "32403073",
+            "31369604",
+            "22233179",
+            "2332814",
+            "15815879",
+            "20668455"
+          ],
+          "total_articles": 93
+        },
+        {
+          "disease_id": "@DISEASE_Breast_Neoplasms",
+          "disease_name": "Breast Neoplasms",
+          "pmids": [
+            "32950929",
+            "34934357",
+            "33824590",
+            "33313978",
+            "32849871",
+            "37050387",
+            "36094232",
+            "33939900",
+            "33250768",
+            "32351149"
+          ],
+          "total_articles": 87
+        },
+        {
+          "disease_id": "@DISEASE_Acute_Coronary_Syndrome",
+          "disease_name": "Acute Coronary Syndrome",
+          "pmids": [
+            "34396246",
+            "37335632",
+            "36763180",
+            "34620406",
+            "32720602",
+            "36260325",
+            "31426749",
+            "25731133",
+            "28796030",
+            "21558878"
+          ],
+          "total_articles": 81
+        },
+        {
+          "disease_id": "@DISEASE_Bone_Diseases",
+          "disease_name": "Bone Diseases",
+          "pmids": [
+            "38045570",
+            "36278700",
+            "36009462",
+            "36142447",
+            "33665494",
+            "36105473",
+            "34875820",
+            "33575165",
+            "40742375",
+            "36729235"
+          ],
+          "total_articles": 88
+        },
+        {
+          "disease_id": "@DISEASE_Vascular_Diseases",
+          "disease_name": "Vascular Diseases",
+          "pmids": [
+            "37237147",
+            "32199147",
+            "35926590",
+            "31816623",
+            "32702748",
+            "37693816",
+            "16231003",
+            "18622231",
+            "31071981",
+            "18622245"
+          ],
+          "total_articles": 83
+        },
+        {
+          "disease_id": "@DISEASE_Stroke",
+          "disease_name": "Stroke",
+          "pmids": [
+            "37204689",
+            "32826077",
+            "31874811",
+            "32872566",
+            "33447039",
+            "39214348",
+            "36936469",
+            "33967756",
+            "32393497",
+            "30524673"
+          ],
+          "total_articles": 82
+        },
+        {
+          "disease_id": "@DISEASE_Alzheimer_Disease",
+          "disease_name": "Alzheimer Disease",
+          "pmids": [
+            "37513826",
+            "35397630",
+            "32130251",
+            "34306309",
+            "36115980",
+            "39704877",
+            "31760027",
+            "37454825",
+            "39975163",
+            "40299221"
+          ],
+          "total_articles": 78
+        },
+        {
+          "disease_id": "@DISEASE_Reperfusion_Injury",
+          "disease_name": "Reperfusion Injury",
+          "pmids": [
+            "35059045",
+            "34165730",
+            "32572937",
+            "39190387",
+            "36097124",
+            "36139129",
+            "37099234",
+            "34039170",
+            "29587636",
+            "28408819"
+          ],
+          "total_articles": 72
+        },
+        {
+          "disease_id": "@DISEASE_Heart_Diseases",
+          "disease_name": "Heart Diseases",
+          "pmids": [
+            "38261135",
+            "36970211",
+            "32872566",
+            "36370997",
+            "39505298",
+            "39894308",
+            "32393497",
+            "32572937",
+            "33408770",
+            "35762198"
+          ],
+          "total_articles": 65
+        },
+        {
+          "disease_id": "@DISEASE_Metabolic_Syndrome",
+          "disease_name": "Metabolic Syndrome",
+          "pmids": [
+            "35691993",
+            "36005625",
+            "32173640",
+            "35268685",
+            "36902342",
+            "33608711",
+            "34365791",
+            "40427477",
+            "32335402",
+            "34039170"
+          ],
+          "total_articles": 57
+        }
+      ]
+    },
+    {
+      "drug_name": "simvastatin",
+      "example_disease": "",
+      "drug_id": "@CHEMICAL_simvastatin_acid",
+      "disease_ids": [
+        "@DISEASE_Atherosclerosis",
+        "@DISEASE_Bone_Diseases",
+        "@DISEASE_Neoplasms"
+      ],
+      "total_disease_entities": 3,
+      "evidence": [
+        {
+          "disease_id": "@DISEASE_Atherosclerosis",
+          "disease_name": "Atherosclerosis",
+          "pmids": [
+            "34842887"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Bone_Diseases",
+          "disease_name": "Bone Diseases",
+          "pmids": [
+            "35640849"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Neoplasms",
+          "disease_name": "Neoplasms",
+          "pmids": [
+            "26802130"
+          ],
+          "total_articles": 1
+        }
+      ]
+    },
+    {
+      "drug_name": "simvastatin",
+      "example_disease": "",
+      "drug_id": "@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination",
+      "disease_ids": [
+        "@DISEASE_Aortic_Valve_Stenosis",
+        "@DISEASE_Hypercholesterolemia",
+        "@DISEASE_Cardiovascular_Diseases",
+        "@DISEASE_Alopecia_Areata",
+        "@DISEASE_Acute_Coronary_Syndrome",
+        "@DISEASE_Hyperlipidemias",
+        "@DISEASE_Hyperlipoproteinemia_Type_II",
+        "@DISEASE_Renal_Insufficiency_Chronic",
+        "@DISEASE_Coronary_Disease",
+        "@DISEASE_Inflammation",
+        "@DISEASE_Metabolic_Syndrome",
+        "@DISEASE_Alopecia",
+        "@DISEASE_Alopecia_universalis",
+        "@DISEASE_Atherosclerosis",
+        "@DISEASE_Constriction_Pathologic",
+        "@DISEASE_Diabetes_Mellitus",
+        "@DISEASE_Diabetes_Mellitus_Type_2",
+        "@DISEASE_Myocardial_Infarction",
+        "@DISEASE_Stroke",
+        "@DISEASE_143890",
+        "@DISEASE_Alopecia_Areata_1",
+        "@DISEASE_Angina_Unstable",
+        "@DISEASE_Atrial_Fibrillation",
+        "@DISEASE_Brain_Ischemia",
+        "@DISEASE_Cerebral_Hemorrhage"
+      ],
+      "total_disease_entities": 43,
+      "evidence": [
+        {
+          "disease_id": "@DISEASE_Aortic_Valve_Stenosis",
+          "disease_name": "Aortic Valve Stenosis",
+          "pmids": [
+            "34426527",
+            "32737125",
+            "33146452",
+            "33461302",
+            "39467305",
+            "34396246",
+            "24903982",
+            "18359326",
+            "26602073",
+            "25048345"
+          ],
+          "total_articles": 69
+        },
+        {
+          "disease_id": "@DISEASE_Hypercholesterolemia",
+          "disease_name": "Hypercholesterolemia",
+          "pmids": [
+            "36475227",
+            "16342840",
+            "16644302",
+            "15864235",
+            "18158082",
+            "24125402",
+            "24354929",
+            "23288870",
+            "21271793",
+            "22539817"
+          ],
+          "total_articles": 13
+        },
+        {
+          "disease_id": "@DISEASE_Cardiovascular_Diseases",
+          "disease_name": "Cardiovascular Diseases",
+          "pmids": [
+            "37750649",
+            "16351680",
+            "20538134",
+            "25912112",
+            "27710803",
+            "23288881",
+            "19586799",
+            "18765433",
+            "25685360",
+            "22147903"
+          ],
+          "total_articles": 13
+        },
+        {
+          "disease_id": "@DISEASE_Alopecia_Areata",
+          "disease_name": "Alopecia Areata",
+          "pmids": [
+            "33231574",
+            "25592347",
+            "29273101",
+            "27085241",
+            "28879192",
+            "31015012",
+            "29200765"
+          ],
+          "total_articles": 7
+        },
+        {
+          "disease_id": "@DISEASE_Acute_Coronary_Syndrome",
+          "disease_name": "Acute Coronary Syndrome",
+          "pmids": [
+            "35112882",
+            "26039521",
+            "25912112",
+            "31314050",
+            "29263150",
+            "18266852"
+          ],
+          "total_articles": 6
+        },
+        {
+          "disease_id": "@DISEASE_Hyperlipidemias",
+          "disease_name": "Hyperlipidemias",
+          "pmids": [
+            "36475227",
+            "20152243",
+            "20496342",
+            "23926117",
+            "18420099"
+          ],
+          "total_articles": 5
+        },
+        {
+          "disease_id": "@DISEASE_Hyperlipoproteinemia_Type_II",
+          "disease_name": "Hyperlipoproteinemia Type II",
+          "pmids": [
+            "24267260",
+            "18420099",
+            "23926117",
+            "24125402",
+            "28922021"
+          ],
+          "total_articles": 5
+        },
+        {
+          "disease_id": "@DISEASE_Renal_Insufficiency_Chronic",
+          "disease_name": "Renal Insufficiency Chronic",
+          "pmids": [
+            "28460629",
+            "24720535",
+            "25887677",
+            "25736071",
+            "28437620"
+          ],
+          "total_articles": 5
+        },
+        {
+          "disease_id": "@DISEASE_Coronary_Disease",
+          "disease_name": "Coronary Disease",
+          "pmids": [
+            "37750649",
+            "24760119",
+            "17239888"
+          ],
+          "total_articles": 3
+        },
+        {
+          "disease_id": "@DISEASE_Inflammation",
+          "disease_name": "Inflammation",
+          "pmids": [
+            "33278834",
+            "24125402",
+            "24267260",
+            "24354929",
+            "30814085"
+          ],
+          "total_articles": 5
+        },
+        {
+          "disease_id": "@DISEASE_Metabolic_Syndrome",
+          "disease_name": "Metabolic Syndrome",
+          "pmids": [
+            "20880345",
+            "19397693",
+            "21291725",
+            "28437620"
+          ],
+          "total_articles": 4
+        },
+        {
+          "disease_id": "@DISEASE_Alopecia",
+          "disease_name": "Alopecia",
+          "pmids": [
+            "28879192",
+            "29200765"
+          ],
+          "total_articles": 2
+        },
+        {
+          "disease_id": "@DISEASE_Alopecia_universalis",
+          "disease_name": "Alopecia universalis",
+          "pmids": [
+            "31732969",
+            "29200765"
+          ],
+          "total_articles": 2
+        },
+        {
+          "disease_id": "@DISEASE_Atherosclerosis",
+          "disease_name": "Atherosclerosis",
+          "pmids": [
+            "36475227",
+            "36040917",
+            "28437620"
+          ],
+          "total_articles": 3
+        },
+        {
+          "disease_id": "@DISEASE_Constriction_Pathologic",
+          "disease_name": "Constriction Pathologic",
+          "pmids": [
+            "34555978",
+            "20436707",
+            "21321152"
+          ],
+          "total_articles": 3
+        },
+        {
+          "disease_id": "@DISEASE_Diabetes_Mellitus",
+          "disease_name": "Diabetes Mellitus",
+          "pmids": [
+            "34555978",
+            "27036394",
+            "20152243",
+            "21291725",
+            "29263150",
+            "24720535"
+          ],
+          "total_articles": 6
+        },
+        {
+          "disease_id": "@DISEASE_Diabetes_Mellitus_Type_2",
+          "disease_name": "Diabetes Mellitus Type 2",
+          "pmids": [
+            "25912112",
+            "21291712"
+          ],
+          "total_articles": 2
+        },
+        {
+          "disease_id": "@DISEASE_Myocardial_Infarction",
+          "disease_name": "Myocardial Infarction",
+          "pmids": [
+            "27710803",
+            "31314050",
+            "28437620"
+          ],
+          "total_articles": 3
+        },
+        {
+          "disease_id": "@DISEASE_Stroke",
+          "disease_name": "Stroke",
+          "pmids": [
+            "31314050",
+            "22147903"
+          ],
+          "total_articles": 2
+        },
+        {
+          "disease_id": "@DISEASE_143890",
+          "disease_name": "143890",
+          "pmids": [
+            "34768528"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Alopecia_Areata_1",
+          "disease_name": "Alopecia Areata 1",
+          "pmids": [
+            "28378336"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Angina_Unstable",
+          "disease_name": "Angina Unstable",
+          "pmids": [
+            "31314050"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Atrial_Fibrillation",
+          "disease_name": "Atrial Fibrillation",
+          "pmids": [
+            "22520536"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Brain_Ischemia",
+          "disease_name": "Brain Ischemia",
+          "pmids": [
+            "26856214"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Cerebral_Hemorrhage",
+          "disease_name": "Cerebral Hemorrhage",
+          "pmids": [
+            "33278834"
+          ],
+          "total_articles": 1
+        }
+      ]
+    },
+    {
+      "drug_name": "simvastatin",
+      "example_disease": "",
+      "drug_id": "@CHEMICAL_simvastatin_hydroxyacid",
+      "disease_ids": [
+        "@DISEASE_Bronchiectasis"
+      ],
+      "total_disease_entities": 1,
+      "evidence": [
+        {
+          "disease_id": "@DISEASE_Bronchiectasis",
+          "disease_name": "Bronchiectasis",
+          "pmids": [
+            "25244365"
+          ],
+          "total_articles": 1
+        }
+      ]
+    },
+    {
+      "drug_name": "lisinopril",
+      "example_disease": "",
+      "drug_id": "@CHEMICAL_Lisinopril",
+      "disease_ids": [
+        "@DISEASE_Hypertension",
+        "@DISEASE_Heart_Failure",
+        "@DISEASE_Essential_Hypertension",
+        "@DISEASE_Proteinuria",
+        "@DISEASE_Kidney_Diseases",
+        "@DISEASE_Myocardial_Infarction",
+        "@DISEASE_Diabetes_Mellitus",
+        "@DISEASE_Diabetes_Mellitus_Type_2",
+        "@DISEASE_Hypertrophy_Left_Ventricular",
+        "@DISEASE_Diabetic_Nephropathies",
+        "@DISEASE_Cardiovascular_Diseases",
+        "@DISEASE_Pulmonary_Arterial_Hypertension",
+        "@DISEASE_Fibrosis",
+        "@DISEASE_Hypotension",
+        "@DISEASE_Ventricular_Dysfunction_Left",
+        "@DISEASE_Diabetes_Mellitus_Type_1",
+        "@DISEASE_Albuminuria",
+        "@DISEASE_Renal_Insufficiency_Chronic",
+        "@DISEASE_Renal_Insufficiency",
+        "@DISEASE_Death",
+        "@DISEASE_Migraine_Disorders",
+        "@DISEASE_Coronary_Disease",
+        "@DISEASE_Pressure_Ulcer",
+        "@DISEASE_Inflammation",
+        "@DISEASE_Stroke"
+      ],
+      "total_disease_entities": 390,
+      "evidence": [
+        {
+          "disease_id": "@DISEASE_Hypertension",
+          "disease_name": "Hypertension",
+          "pmids": [
+            "36361252",
+            "34046276",
+            "36097516",
+            "37886137",
+            "32761160",
+            "33769277",
+            "39405564",
+            "39466390",
+            "37304386",
+            "37864281"
+          ],
+          "total_articles": 655
+        },
+        {
+          "disease_id": "@DISEASE_Heart_Failure",
+          "disease_name": "Heart Failure",
+          "pmids": [
+            "39405564",
+            "37304386",
+            "39350862",
+            "33189627",
+            "33048477",
+            "39243877",
+            "36376029",
+            "33228503",
+            "33140296",
+            "34214650"
+          ],
+          "total_articles": 175
+        },
+        {
+          "disease_id": "@DISEASE_Essential_Hypertension",
+          "disease_name": "Essential Hypertension",
+          "pmids": [
+            "2833090",
+            "2556172",
+            "2841960",
+            "2844085",
+            "2162258",
+            "8023467",
+            "10824049",
+            "28706401",
+            "2852252",
+            "22896978"
+          ],
+          "total_articles": 123
+        },
+        {
+          "disease_id": "@DISEASE_Proteinuria",
+          "disease_name": "Proteinuria",
+          "pmids": [
+            "34975523",
+            "39181397",
+            "37701005",
+            "35767209",
+            "40954329",
+            "31550726",
+            "39577983",
+            "37484797",
+            "39991197",
+            "32746791"
+          ],
+          "total_articles": 100
+        },
+        {
+          "disease_id": "@DISEASE_Kidney_Diseases",
+          "disease_name": "Kidney Diseases",
+          "pmids": [
+            "32416710",
+            "34975523",
+            "34282598",
+            "35656292",
+            "35767209",
+            "37303355",
+            "40642858",
+            "2442556",
+            "2161083",
+            "2844084"
+          ],
+          "total_articles": 86
+        },
+        {
+          "disease_id": "@DISEASE_Myocardial_Infarction",
+          "disease_name": "Myocardial Infarction",
+          "pmids": [
+            "37638270",
+            "32073735",
+            "31977576",
+            "33550755",
+            "36376029",
+            "34674811",
+            "9435355",
+            "10879622",
+            "8891468",
+            "14754654"
+          ],
+          "total_articles": 77
+        },
+        {
+          "disease_id": "@DISEASE_Diabetes_Mellitus",
+          "disease_name": "Diabetes Mellitus",
+          "pmids": [
+            "34057517",
+            "9179532",
+            "21235127",
+            "11450501",
+            "19080636",
+            "8410923",
+            "2846685",
+            "29971804",
+            "9433426",
+            "14695037"
+          ],
+          "total_articles": 58
+        },
+        {
+          "disease_id": "@DISEASE_Diabetes_Mellitus_Type_2",
+          "disease_name": "Diabetes Mellitus Type 2",
+          "pmids": [
+            "38022184",
+            "34282598",
+            "34057517",
+            "34180715",
+            "9279969",
+            "9179532",
+            "8070610",
+            "22540049",
+            "16091636",
+            "11358940"
+          ],
+          "total_articles": 49
+        },
+        {
+          "disease_id": "@DISEASE_Hypertrophy_Left_Ventricular",
+          "disease_name": "Hypertrophy Left Ventricular",
+          "pmids": [
+            "8794833",
+            "2550640",
+            "1850668",
+            "2842021",
+            "10916115",
+            "18172987",
+            "1655265",
+            "8698434",
+            "9469796",
+            "8812722"
+          ],
+          "total_articles": 45
+        },
+        {
+          "disease_id": "@DISEASE_Diabetic_Nephropathies",
+          "disease_name": "Diabetic Nephropathies",
+          "pmids": [
+            "36348831",
+            "35884965",
+            "32665926",
+            "34180715",
+            "32416710",
+            "34282598",
+            "34219205",
+            "10097934",
+            "11328901",
+            "9279969"
+          ],
+          "total_articles": 36
+        },
+        {
+          "disease_id": "@DISEASE_Cardiovascular_Diseases",
+          "disease_name": "Cardiovascular Diseases",
+          "pmids": [
+            "37886137",
+            "36376029",
+            "38262719",
+            "14754654",
+            "29276932",
+            "22702239",
+            "11492990",
+            "24398888",
+            "22144768",
+            "17519461"
+          ],
+          "total_articles": 47
+        },
+        {
+          "disease_id": "@DISEASE_Pulmonary_Arterial_Hypertension",
+          "disease_name": "Pulmonary Arterial Hypertension",
+          "pmids": [
+            "33849417",
+            "39467240",
+            "8091360",
+            "1965522",
+            "31713509",
+            "16889053",
+            "29466227",
+            "26793854",
+            "8389738",
+            "9221708"
+          ],
+          "total_articles": 32
+        },
+        {
+          "disease_id": "@DISEASE_Fibrosis",
+          "disease_name": "Fibrosis",
+          "pmids": [
+            "31953678",
+            "40240316",
+            "39592228",
+            "35656292",
+            "31550726",
+            "35767209",
+            "34144158",
+            "32684739",
+            "16458281",
+            "11474692"
+          ],
+          "total_articles": 31
+        },
+        {
+          "disease_id": "@DISEASE_Hypotension",
+          "disease_name": "Hypotension",
+          "pmids": [
+            "39938967",
+            "36925439",
+            "15383642",
+            "2442561",
+            "20852161",
+            "2550641",
+            "25653920",
+            "9038030",
+            "8117550",
+            "2547199"
+          ],
+          "total_articles": 83
+        },
+        {
+          "disease_id": "@DISEASE_Ventricular_Dysfunction_Left",
+          "disease_name": "Ventricular Dysfunction Left",
+          "pmids": [
+            "39831954",
+            "1334466",
+            "8393685",
+            "1329475",
+            "8796677",
+            "8891468",
+            "8698434",
+            "8634167",
+            "8540468",
+            "11468543"
+          ],
+          "total_articles": 26
+        },
+        {
+          "disease_id": "@DISEASE_Diabetes_Mellitus_Type_1",
+          "disease_name": "Diabetes Mellitus Type 1",
+          "pmids": [
+            "32416710",
+            "9179532",
+            "16379788",
+            "10051804",
+            "9407413",
+            "9538979",
+            "9433426",
+            "9702445",
+            "9726242",
+            "10097934"
+          ],
+          "total_articles": 26
+        },
+        {
+          "disease_id": "@DISEASE_Albuminuria",
+          "disease_name": "Albuminuria",
+          "pmids": [
+            "34180715",
+            "8857071",
+            "9702445",
+            "11350567",
+            "28002889",
+            "1847721",
+            "9032106",
+            "16021438",
+            "9061270",
+            "11128341"
+          ],
+          "total_articles": 25
+        },
+        {
+          "disease_id": "@DISEASE_Renal_Insufficiency_Chronic",
+          "disease_name": "Renal Insufficiency Chronic",
+          "pmids": [
+            "37304386",
+            "39466390",
+            "37303355",
+            "36300543",
+            "36472269",
+            "20112435",
+            "28445490",
+            "21516765",
+            "19952417",
+            "10606834"
+          ],
+          "total_articles": 23
+        },
+        {
+          "disease_id": "@DISEASE_Renal_Insufficiency",
+          "disease_name": "Renal Insufficiency",
+          "pmids": [
+            "3034622",
+            "7995322",
+            "8247923",
+            "11328901",
+            "12598508",
+            "3016431",
+            "2442555",
+            "9752892",
+            "2834209",
+            "9488243"
+          ],
+          "total_articles": 30
+        },
+        {
+          "disease_id": "@DISEASE_Death",
+          "disease_name": "Death",
+          "pmids": [
+            "2550641",
+            "2442561",
+            "8117550",
+            "7807512",
+            "12652106",
+            "10852646",
+            "2442560",
+            "18215613",
+            "8891468",
+            "7910229"
+          ],
+          "total_articles": 22
+        },
+        {
+          "disease_id": "@DISEASE_Migraine_Disorders",
+          "disease_name": "Migraine Disorders",
+          "pmids": [
+            "34048395",
+            "38307673",
+            "39899861",
+            "39467289",
+            "17539955",
+            "11141144",
+            "7591740",
+            "29971804",
+            "22614308",
+            "25618859"
+          ],
+          "total_articles": 20
+        },
+        {
+          "disease_id": "@DISEASE_Coronary_Disease",
+          "disease_name": "Coronary Disease",
+          "pmids": [
+            "35932912",
+            "31977576",
+            "24082511",
+            "26625516",
+            "28294779",
+            "23809376",
+            "25518509",
+            "28736381",
+            "22235820",
+            "12647599"
+          ],
+          "total_articles": 19
+        },
+        {
+          "disease_id": "@DISEASE_Pressure_Ulcer",
+          "disease_name": "Pressure Ulcer",
+          "pmids": [
+            "35916128",
+            "35767209",
+            "1325831",
+            "3041097",
+            "14508234",
+            "23190794",
+            "18188164",
+            "7528307",
+            "12658059",
+            "7662221"
+          ],
+          "total_articles": 18
+        },
+        {
+          "disease_id": "@DISEASE_Inflammation",
+          "disease_name": "Inflammation",
+          "pmids": [
+            "35495972",
+            "40009171",
+            "35764864",
+            "34975523",
+            "34180715",
+            "36300543",
+            "31710167",
+            "31794021",
+            "22937315",
+            "7674133"
+          ],
+          "total_articles": 23
+        },
+        {
+          "disease_id": "@DISEASE_Stroke",
+          "disease_name": "Stroke",
+          "pmids": [
+            "35932912",
+            "40642858",
+            "25455006",
+            "2537566",
+            "21676221",
+            "24078198",
+            "21183746",
+            "19352213",
+            "9140680",
+            "16864749"
+          ],
+          "total_articles": 35
+        }
+      ]
+    },
+    {
+      "drug_name": "lisinopril",
+      "example_disease": "",
+      "drug_id": "@CHEMICAL_hydrochlorothiazide_lisinopril_drug_combination",
+      "disease_ids": [
+        "@DISEASE_Hypertension"
+      ],
+      "total_disease_entities": 1,
+      "evidence": [
+        {
+          "disease_id": "@DISEASE_Hypertension",
+          "disease_name": "Hypertension",
+          "pmids": [
+            "8147677"
+          ],
+          "total_articles": 1
+        }
+      ]
+    },
+    {
+      "drug_name": "lisinopril",
+      "example_disease": "",
+      "drug_id": "@CHEMICAL_BL_11",
+      "disease_ids": [
+        "@DISEASE_Bone_Diseases",
+        "@DISEASE_Extranodal_Extension",
+        "@DISEASE_Prader_Willi_Syndrome",
+        "@DISEASE_Strabismus",
+        "@DISEASE_Vomiting"
+      ],
+      "total_disease_entities": 5,
+      "evidence": [
+        {
+          "disease_id": "@DISEASE_Bone_Diseases",
+          "disease_name": "Bone Diseases",
+          "pmids": [
+            "29354923"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Extranodal_Extension",
+          "disease_name": "Extranodal Extension",
+          "pmids": [
+            "29354923"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Prader_Willi_Syndrome",
+          "disease_name": "Prader Willi Syndrome",
+          "pmids": [],
+          "total_articles": 0
+        },
+        {
+          "disease_id": "@DISEASE_Strabismus",
+          "disease_name": "Strabismus",
+          "pmids": [
+            "9807844"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Vomiting",
+          "disease_name": "Vomiting",
+          "pmids": [
+            "9807844"
+          ],
+          "total_articles": 1
+        }
+      ]
+    },
+    {
+      "drug_name": "amlodipine",
+      "example_disease": "",
+      "drug_id": "@CHEMICAL_Amlodipine",
+      "disease_ids": [
+        "@DISEASE_Hypertension",
+        "@DISEASE_Essential_Hypertension",
+        "@DISEASE_Angina_Pectoris",
+        "@DISEASE_Diabetes_Mellitus_Type_2",
+        "@DISEASE_Cardiovascular_Diseases",
+        "@DISEASE_Heart_Failure",
+        "@DISEASE_Pulmonary_Arterial_Hypertension",
+        "@DISEASE_Diabetes_Mellitus",
+        "@DISEASE_Myocardial_Infarction",
+        "@DISEASE_Stroke",
+        "@DISEASE_Angina_Stable",
+        "@DISEASE_Kidney_Diseases",
+        "@DISEASE_Coronary_Artery_Disease",
+        "@DISEASE_Coronary_Disease",
+        "@DISEASE_Renal_Insufficiency_Chronic",
+        "@DISEASE_Hypotension",
+        "@DISEASE_Atherosclerosis",
+        "@DISEASE_Isolated_Systolic_Hypertension",
+        "@DISEASE_Ischemia",
+        "@DISEASE_Myocardial_Ischemia",
+        "@DISEASE_Heart_Diseases",
+        "@DISEASE_Hypertrophy_Left_Ventricular",
+        "@DISEASE_Inflammation",
+        "@DISEASE_Brain_Ischemia",
+        "@DISEASE_Dyslipidemias"
+      ],
+      "total_disease_entities": 582,
+      "evidence": [
+        {
+          "disease_id": "@DISEASE_Hypertension",
+          "disease_name": "Hypertension",
+          "pmids": [
+            "37638214",
+            "37551050",
+            "35132803",
+            "32116719",
+            "34941131",
+            "35337177",
+            "35438448",
+            "37433173",
+            "35188327",
+            "35928647"
+          ],
+          "total_articles": 2265
+        },
+        {
+          "disease_id": "@DISEASE_Essential_Hypertension",
+          "disease_name": "Essential Hypertension",
+          "pmids": [
+            "37492087",
+            "32901435",
+            "35188327",
+            "35227313",
+            "37255900",
+            "35251710",
+            "34115326",
+            "32267481",
+            "38557512",
+            "36737518"
+          ],
+          "total_articles": 321
+        },
+        {
+          "disease_id": "@DISEASE_Angina_Pectoris",
+          "disease_name": "Angina Pectoris",
+          "pmids": [
+            "36634997",
+            "32088938",
+            "40383067",
+            "34532799",
+            "35721193",
+            "8310973",
+            "29887996",
+            "8166777",
+            "8453866",
+            "2530877"
+          ],
+          "total_articles": 137
+        },
+        {
+          "disease_id": "@DISEASE_Diabetes_Mellitus_Type_2",
+          "disease_name": "Diabetes Mellitus Type 2",
+          "pmids": [
+            "36157468",
+            "36899369",
+            "37866351",
+            "31976814",
+            "33431541",
+            "26223257",
+            "28490725",
+            "25014057",
+            "26867060",
+            "24860622"
+          ],
+          "total_articles": 119
+        },
+        {
+          "disease_id": "@DISEASE_Cardiovascular_Diseases",
+          "disease_name": "Cardiovascular Diseases",
+          "pmids": [
+            "35674192",
+            "37138666",
+            "39589752",
+            "32638928",
+            "34934496",
+            "31382228",
+            "39330938",
+            "39989148",
+            "37814541",
+            "32246666"
+          ],
+          "total_articles": 123
+        },
+        {
+          "disease_id": "@DISEASE_Heart_Failure",
+          "disease_name": "Heart Failure",
+          "pmids": [
+            "33753958",
+            "40770295",
+            "38045912",
+            "37587697",
+            "38530625",
+            "33041135",
+            "34317003",
+            "39243877",
+            "39989148",
+            "37075940"
+          ],
+          "total_articles": 125
+        },
+        {
+          "disease_id": "@DISEASE_Pulmonary_Arterial_Hypertension",
+          "disease_name": "Pulmonary Arterial Hypertension",
+          "pmids": [
+            "37509614",
+            "38112360",
+            "39898751",
+            "38088116",
+            "36837543",
+            "33849417",
+            "33550755",
+            "35640871",
+            "34549689",
+            "35578761"
+          ],
+          "total_articles": 96
+        },
+        {
+          "disease_id": "@DISEASE_Diabetes_Mellitus",
+          "disease_name": "Diabetes Mellitus",
+          "pmids": [
+            "37551050",
+            "35928647",
+            "36157468",
+            "41006534",
+            "32862551",
+            "39323693",
+            "37861623",
+            "27243031",
+            "25484592",
+            "17272962"
+          ],
+          "total_articles": 109
+        },
+        {
+          "disease_id": "@DISEASE_Myocardial_Infarction",
+          "disease_name": "Myocardial Infarction",
+          "pmids": [
+            "34480745",
+            "37551050",
+            "33550755",
+            "31977576",
+            "34674811",
+            "27243031",
+            "19450066",
+            "11855313",
+            "1280749",
+            "7989081"
+          ],
+          "total_articles": 80
+        },
+        {
+          "disease_id": "@DISEASE_Stroke",
+          "disease_name": "Stroke",
+          "pmids": [
+            "37551050",
+            "34480745",
+            "32854138",
+            "32637107",
+            "34192893",
+            "33041135",
+            "32862551",
+            "35932912",
+            "32336236",
+            "34994269"
+          ],
+          "total_articles": 86
+        },
+        {
+          "disease_id": "@DISEASE_Angina_Stable",
+          "disease_name": "Angina Stable",
+          "pmids": [
+            "35168531",
+            "7989081",
+            "7825955",
+            "11061055",
+            "2530878",
+            "8370191",
+            "2970788",
+            "2530871",
+            "7872184",
+            "2530866"
+          ],
+          "total_articles": 71
+        },
+        {
+          "disease_id": "@DISEASE_Kidney_Diseases",
+          "disease_name": "Kidney Diseases",
+          "pmids": [
+            "37908905",
+            "33250641",
+            "37561197",
+            "33824114",
+            "22346362",
+            "7783108",
+            "24809050",
+            "31372346",
+            "17659942",
+            "2961256"
+          ],
+          "total_articles": 78
+        },
+        {
+          "disease_id": "@DISEASE_Coronary_Artery_Disease",
+          "disease_name": "Coronary Artery Disease",
+          "pmids": [
+            "38112360",
+            "34472787",
+            "19450066",
+            "16814560",
+            "2139339",
+            "12109920",
+            "22346362",
+            "29557300",
+            "12085980",
+            "7522284"
+          ],
+          "total_articles": 71
+        },
+        {
+          "disease_id": "@DISEASE_Coronary_Disease",
+          "disease_name": "Coronary Disease",
+          "pmids": [
+            "36284992",
+            "33152659",
+            "31556335",
+            "37387757",
+            "35932912",
+            "31977576",
+            "20730272",
+            "10932029",
+            "19390704",
+            "19232755"
+          ],
+          "total_articles": 59
+        },
+        {
+          "disease_id": "@DISEASE_Renal_Insufficiency_Chronic",
+          "disease_name": "Renal Insufficiency Chronic",
+          "pmids": [
+            "37551050",
+            "32116719",
+            "35337177",
+            "35733653",
+            "40370820",
+            "38003097",
+            "33001356",
+            "32215654",
+            "40816319",
+            "34202109"
+          ],
+          "total_articles": 61
+        },
+        {
+          "disease_id": "@DISEASE_Hypotension",
+          "disease_name": "Hypotension",
+          "pmids": [
+            "37637641",
+            "35251710",
+            "33981424",
+            "32728332",
+            "33152659",
+            "40486345",
+            "38286594",
+            "34912861",
+            "33839787",
+            "33879428"
+          ],
+          "total_articles": 167
+        },
+        {
+          "disease_id": "@DISEASE_Atherosclerosis",
+          "disease_name": "Atherosclerosis",
+          "pmids": [
+            "36820569",
+            "41006534",
+            "34075886",
+            "26251572",
+            "11216089",
+            "29848894",
+            "10071259",
+            "11004140",
+            "9488205",
+            "14996641"
+          ],
+          "total_articles": 58
+        },
+        {
+          "disease_id": "@DISEASE_Isolated_Systolic_Hypertension",
+          "disease_name": "Isolated Systolic Hypertension",
+          "pmids": [
+            "35246035",
+            "37470682",
+            "35932912",
+            "8243022",
+            "15327190",
+            "16296704",
+            "8512762",
+            "12637111",
+            "28030431",
+            "11824857"
+          ],
+          "total_articles": 51
+        },
+        {
+          "disease_id": "@DISEASE_Ischemia",
+          "disease_name": "Ischemia",
+          "pmids": [
+            "38129888",
+            "39210934",
+            "39229652",
+            "35449520",
+            "16296706",
+            "27243031",
+            "2147357",
+            "12796759",
+            "25610157",
+            "9047040"
+          ],
+          "total_articles": 51
+        },
+        {
+          "disease_id": "@DISEASE_Myocardial_Ischemia",
+          "disease_name": "Myocardial Ischemia",
+          "pmids": [
+            "40125748",
+            "34470455",
+            "2573266",
+            "2530887",
+            "16296713",
+            "2530891",
+            "1388115",
+            "8310973",
+            "16296714",
+            "8924058"
+          ],
+          "total_articles": 50
+        },
+        {
+          "disease_id": "@DISEASE_Heart_Diseases",
+          "disease_name": "Heart Diseases",
+          "pmids": [
+            "37551050",
+            "40383067",
+            "32495116",
+            "35092347",
+            "34987247",
+            "1836871",
+            "17304860",
+            "1836872",
+            "8146352",
+            "9825763"
+          ],
+          "total_articles": 64
+        },
+        {
+          "disease_id": "@DISEASE_Hypertrophy_Left_Ventricular",
+          "disease_name": "Hypertrophy Left Ventricular",
+          "pmids": [
+            "34763438",
+            "39694747",
+            "33907095",
+            "9019211",
+            "9300324",
+            "11574741",
+            "31627089",
+            "8583790",
+            "21591999",
+            "28352677"
+          ],
+          "total_articles": 48
+        },
+        {
+          "disease_id": "@DISEASE_Inflammation",
+          "disease_name": "Inflammation",
+          "pmids": [
+            "33250641",
+            "36737518",
+            "31941114",
+            "37071429",
+            "32141013",
+            "37587697",
+            "39941250",
+            "32147432",
+            "40782429",
+            "40089189"
+          ],
+          "total_articles": 54
+        },
+        {
+          "disease_id": "@DISEASE_Brain_Ischemia",
+          "disease_name": "Brain Ischemia",
+          "pmids": [
+            "2530882",
+            "8734182",
+            "28658108",
+            "10190530",
+            "16296714",
+            "1533534",
+            "2530887",
+            "8221740",
+            "2530891",
+            "10978473"
+          ],
+          "total_articles": 43
+        },
+        {
+          "disease_id": "@DISEASE_Dyslipidemias",
+          "disease_name": "Dyslipidemias",
+          "pmids": [
+            "32937023",
+            "32109991",
+            "36451242",
+            "35054044",
+            "37584254",
+            "32003938",
+            "32862551",
+            "39557773",
+            "37395974",
+            "35851888"
+          ],
+          "total_articles": 43
+        }
+      ]
+    },
+    {
+      "drug_name": "amlodipine",
+      "example_disease": "",
+      "drug_id": "@CHEMICAL_Amlodipine_Valsartan_Drug_Combination",
+      "disease_ids": [
+        "@DISEASE_Hypertension",
+        "@DISEASE_Diabetes_Mellitus",
+        "@DISEASE_Albuminuria",
+        "@DISEASE_Dyslipidemias",
+        "@DISEASE_Essential_Hypertension",
+        "@DISEASE_Extravasation_of_Diagnostic_and_Therapeutic_Materials",
+        "@DISEASE_Peripheral_Nervous_System_Diseases",
+        "@DISEASE_Pulmonary_Arterial_Hypertension",
+        "@DISEASE_Renal_Insufficiency_Chronic"
+      ],
+      "total_disease_entities": 9,
+      "evidence": [
+        {
+          "disease_id": "@DISEASE_Hypertension",
+          "disease_name": "Hypertension",
+          "pmids": [
+            "32566416",
+            "36734733",
+            "27747834",
+            "18257612",
+            "25653536",
+            "25007309",
+            "24562476",
+            "19791840",
+            "27129123",
+            "21592879"
+          ],
+          "total_articles": 28
+        },
+        {
+          "disease_id": "@DISEASE_Diabetes_Mellitus",
+          "disease_name": "Diabetes Mellitus",
+          "pmids": [
+            "36734733",
+            "25653536",
+            "23452532",
+            "23011292"
+          ],
+          "total_articles": 4
+        },
+        {
+          "disease_id": "@DISEASE_Albuminuria",
+          "disease_name": "Albuminuria",
+          "pmids": [
+            "31916208"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Dyslipidemias",
+          "disease_name": "Dyslipidemias",
+          "pmids": [
+            "30358547"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Essential_Hypertension",
+          "disease_name": "Essential Hypertension",
+          "pmids": [
+            "19210151"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Extravasation_of_Diagnostic_and_Therapeutic_Materials",
+          "disease_name": "Extravasation of Diagnostic and Therapeutic Materials",
+          "pmids": [
+            "23413781"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Peripheral_Nervous_System_Diseases",
+          "disease_name": "Peripheral Nervous System Diseases",
+          "pmids": [
+            "18257612",
+            "18217647",
+            "20716145"
+          ],
+          "total_articles": 3
+        },
+        {
+          "disease_id": "@DISEASE_Pulmonary_Arterial_Hypertension",
+          "disease_name": "Pulmonary Arterial Hypertension",
+          "pmids": [
+            "18217647"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Renal_Insufficiency_Chronic",
+          "disease_name": "Renal Insufficiency Chronic",
+          "pmids": [
+            "36734733"
+          ],
+          "total_articles": 1
+        }
+      ]
+    },
+    {
+      "drug_name": "amlodipine",
+      "example_disease": "",
+      "drug_id": "@CHEMICAL_Amlodipine_Besylate_Olmesartan_Medoxomil_Drug_Combination",
+      "disease_ids": [
+        "@DISEASE_Angina_Stable",
+        "@DISEASE_Tuberculosis"
+      ],
+      "total_disease_entities": 2,
+      "evidence": [
+        {
+          "disease_id": "@DISEASE_Angina_Stable",
+          "disease_name": "Angina Stable",
+          "pmids": [
+            "12785218"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Tuberculosis",
+          "disease_name": "Tuberculosis",
+          "pmids": [
+            "11785072"
+          ],
+          "total_articles": 1
+        }
+      ]
+    },
+    {
+      "drug_name": "amlodipine",
+      "example_disease": "",
+      "drug_id": "@CHEMICAL_amlodipine_atorvastatin_drug_combination",
+      "disease_ids": [
+        "@DISEASE_Hypertension",
+        "@DISEASE_Dyslipidemias",
+        "@DISEASE_Angina_Pectoris",
+        "@DISEASE_Cardiovascular_Diseases",
+        "@DISEASE_Heart_Diseases",
+        "@DISEASE_Hyperlipidemias",
+        "@DISEASE_Vascular_Remodeling"
+      ],
+      "total_disease_entities": 7,
+      "evidence": [
+        {
+          "disease_id": "@DISEASE_Hypertension",
+          "disease_name": "Hypertension",
+          "pmids": [
+            "32968437",
+            "15963213",
+            "15350169",
+            "22809114",
+            "25335530",
+            "18800143",
+            "22991979"
+          ],
+          "total_articles": 7
+        },
+        {
+          "disease_id": "@DISEASE_Dyslipidemias",
+          "disease_name": "Dyslipidemias",
+          "pmids": [
+            "18303938",
+            "15350169"
+          ],
+          "total_articles": 2
+        },
+        {
+          "disease_id": "@DISEASE_Angina_Pectoris",
+          "disease_name": "Angina Pectoris",
+          "pmids": [
+            "15350169"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Cardiovascular_Diseases",
+          "disease_name": "Cardiovascular Diseases",
+          "pmids": [
+            "15257126",
+            "21843911"
+          ],
+          "total_articles": 2
+        },
+        {
+          "disease_id": "@DISEASE_Heart_Diseases",
+          "disease_name": "Heart Diseases",
+          "pmids": [
+            "16570743"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Hyperlipidemias",
+          "disease_name": "Hyperlipidemias",
+          "pmids": [
+            "25335530"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Vascular_Remodeling",
+          "disease_name": "Vascular Remodeling",
+          "pmids": [
+            "32968437"
+          ],
+          "total_articles": 1
+        }
+      ]
+    },
+    {
+      "drug_name": "amlodipine",
+      "example_disease": "",
+      "drug_id": "@CHEMICAL_amlodipine_perindopril_drug_combination",
+      "disease_ids": [
+        "@DISEASE_Albuminuria",
+        "@DISEASE_Pulmonary_Arterial_Hypertension"
+      ],
+      "total_disease_entities": 2,
+      "evidence": [
+        {
+          "disease_id": "@DISEASE_Albuminuria",
+          "disease_name": "Albuminuria",
+          "pmids": [
+            "31916208"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Pulmonary_Arterial_Hypertension",
+          "disease_name": "Pulmonary Arterial Hypertension",
+          "pmids": [
+            "34397344"
+          ],
+          "total_articles": 1
+        }
+      ]
+    },
+    {
+      "drug_name": "amlodipine",
+      "example_disease": "",
+      "drug_id": "@CHEMICAL_amlodipine_nicotinate",
+      "disease_ids": [
+        "@DISEASE_Hypertension",
+        "@DISEASE_Brain_Ischemia",
+        "@DISEASE_Hemorrhage",
+        "@DISEASE_Intracranial_Hemorrhages"
+      ],
+      "total_disease_entities": 4,
+      "evidence": [
+        {
+          "disease_id": "@DISEASE_Hypertension",
+          "disease_name": "Hypertension",
+          "pmids": [
+            "18555932",
+            "22925988"
+          ],
+          "total_articles": 2
+        },
+        {
+          "disease_id": "@DISEASE_Brain_Ischemia",
+          "disease_name": "Brain Ischemia",
+          "pmids": [
+            "25365862"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Hemorrhage",
+          "disease_name": "Hemorrhage",
+          "pmids": [
+            "25365862"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Intracranial_Hemorrhages",
+          "disease_name": "Intracranial Hemorrhages",
+          "pmids": [
+            "25365862"
+          ],
+          "total_articles": 1
+        }
+      ]
+    },
+    {
+      "drug_name": "amlodipine",
+      "example_disease": "",
+      "drug_id": "@CHEMICAL_amlodipine_losartan_drug_combination",
+      "disease_ids": [
+        "@DISEASE_Hyperuricemia"
+      ],
+      "total_disease_entities": 1,
+      "evidence": [
+        {
+          "disease_id": "@DISEASE_Hyperuricemia",
+          "disease_name": "Hyperuricemia",
+          "pmids": [
+            "34714968"
+          ],
+          "total_articles": 1
+        }
+      ]
+    },
+    {
+      "drug_name": "amlodipine",
+      "example_disease": "",
+      "drug_id": "@CHEMICAL_telmisartan_amlodipine_combination",
+      "disease_ids": [
+        "@DISEASE_Hypertension",
+        "@DISEASE_Dyslipidemias",
+        "@DISEASE_Essential_Hypertension"
+      ],
+      "total_disease_entities": 3,
+      "evidence": [
+        {
+          "disease_id": "@DISEASE_Hypertension",
+          "disease_name": "Hypertension",
+          "pmids": [
+            "39557773",
+            "37033509"
+          ],
+          "total_articles": 2
+        },
+        {
+          "disease_id": "@DISEASE_Dyslipidemias",
+          "disease_name": "Dyslipidemias",
+          "pmids": [
+            "39557773"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Essential_Hypertension",
+          "disease_name": "Essential Hypertension",
+          "pmids": [
+            "29248384"
+          ],
+          "total_articles": 1
+        }
+      ]
+    },
+    {
+      "drug_name": "omeprazole",
+      "example_disease": "",
+      "drug_id": "@CHEMICAL_Omeprazole",
+      "disease_ids": [
+        "@DISEASE_Gastroesophageal_Reflux",
+        "@DISEASE_Ulcer",
+        "@DISEASE_Duodenal_Ulcer",
+        "@DISEASE_Peptic_Ulcer",
+        "@DISEASE_Helicobacter_Infections",
+        "@DISEASE_Stomach_Ulcer",
+        "@DISEASE_Dyspepsia",
+        "@DISEASE_Stomach_Diseases",
+        "@DISEASE_Esophagitis",
+        "@DISEASE_Heartburn",
+        "@DISEASE_Pain",
+        "@DISEASE_Gastritis",
+        "@DISEASE_Hemorrhage",
+        "@DISEASE_Zollinger_Ellison_Syndrome",
+        "@DISEASE_Esophageal_Squamous_Cell_Carcinoma",
+        "@DISEASE_Barrett_Esophagus",
+        "@DISEASE_Gastrointestinal_Hemorrhage",
+        "@DISEASE_Infections",
+        "@DISEASE_Gastrointestinal_Diseases",
+        "@DISEASE_Inflammation",
+        "@DISEASE_Neoplasms",
+        "@DISEASE_Tooth_Erosion",
+        "@DISEASE_Signs_and_Symptoms",
+        "@DISEASE_Laryngopharyngeal_Reflux",
+        "@DISEASE_Chest_Pain"
+      ],
+      "total_disease_entities": 588,
+      "evidence": [
+        {
+          "disease_id": "@DISEASE_Gastroesophageal_Reflux",
+          "disease_name": "Gastroesophageal Reflux",
+          "pmids": [
+            "32594305",
+            "35664313",
+            "37593315",
+            "33841527",
+            "34366631",
+            "35047279",
+            "37651247",
+            "39279099",
+            "37768310",
+            "33824671"
+          ],
+          "total_articles": 921
+        },
+        {
+          "disease_id": "@DISEASE_Ulcer",
+          "disease_name": "Ulcer",
+          "pmids": [
+            "37779765",
+            "37651247",
+            "39462164",
+            "37741810",
+            "33061674",
+            "35689485",
+            "37267528",
+            "33628315",
+            "33832076",
+            "40068278"
+          ],
+          "total_articles": 627
+        },
+        {
+          "disease_id": "@DISEASE_Duodenal_Ulcer",
+          "disease_name": "Duodenal Ulcer",
+          "pmids": [
+            "37593315",
+            "28520353",
+            "37206569",
+            "33586200",
+            "38101799",
+            "2557670",
+            "3320709",
+            "2574910",
+            "8194953",
+            "21218061"
+          ],
+          "total_articles": 546
+        },
+        {
+          "disease_id": "@DISEASE_Peptic_Ulcer",
+          "disease_name": "Peptic Ulcer",
+          "pmids": [
+            "37593315",
+            "32426516",
+            "37375745",
+            "33235586",
+            "37651247",
+            "36627994",
+            "39830949",
+            "32092686",
+            "36408195",
+            "39466269"
+          ],
+          "total_articles": 521
+        },
+        {
+          "disease_id": "@DISEASE_Helicobacter_Infections",
+          "disease_name": "Helicobacter Infections",
+          "pmids": [
+            "33235586",
+            "33324037",
+            "32001852",
+            "33860026",
+            "34721043",
+            "35771390",
+            "33405191",
+            "35912055",
+            "33050205",
+            "39648700"
+          ],
+          "total_articles": 490
+        },
+        {
+          "disease_id": "@DISEASE_Stomach_Ulcer",
+          "disease_name": "Stomach Ulcer",
+          "pmids": [
+            "37593315",
+            "33628315",
+            "36712695",
+            "32697849",
+            "33907169",
+            "33340169",
+            "35187877",
+            "37651247",
+            "33324037",
+            "35000402"
+          ],
+          "total_articles": 402
+        },
+        {
+          "disease_id": "@DISEASE_Dyspepsia",
+          "disease_name": "Dyspepsia",
+          "pmids": [
+            "33273914",
+            "34652861",
+            "37696679",
+            "33365132",
+            "40834017",
+            "36569610",
+            "38167521",
+            "28520353",
+            "39648700",
+            "39598468"
+          ],
+          "total_articles": 188
+        },
+        {
+          "disease_id": "@DISEASE_Stomach_Diseases",
+          "disease_name": "Stomach Diseases",
+          "pmids": [
+            "36712695",
+            "36495212",
+            "35167731",
+            "40857016",
+            "37678812",
+            "33818003",
+            "37390114",
+            "32426516",
+            "34719063",
+            "36237533"
+          ],
+          "total_articles": 178
+        },
+        {
+          "disease_id": "@DISEASE_Esophagitis",
+          "disease_name": "Esophagitis",
+          "pmids": [
+            "37837526",
+            "32556768",
+            "32115583",
+            "28520353",
+            "36451489",
+            "33586200",
+            "31197249",
+            "39446592",
+            "33790725",
+            "35100805"
+          ],
+          "total_articles": 162
+        },
+        {
+          "disease_id": "@DISEASE_Heartburn",
+          "disease_name": "Heartburn",
+          "pmids": [
+            "31950535",
+            "35664313",
+            "41026367",
+            "37307528",
+            "39598468",
+            "36896915",
+            "39940951",
+            "21655746",
+            "22361121",
+            "10463935"
+          ],
+          "total_articles": 141
+        },
+        {
+          "disease_id": "@DISEASE_Pain",
+          "disease_name": "Pain",
+          "pmids": [
+            "37768310",
+            "37779765",
+            "35000402",
+            "37307528",
+            "36204491",
+            "38296262",
+            "37696679",
+            "32954785",
+            "32115583",
+            "40725939"
+          ],
+          "total_articles": 128
+        },
+        {
+          "disease_id": "@DISEASE_Gastritis",
+          "disease_name": "Gastritis",
+          "pmids": [
+            "33860026",
+            "35436881",
+            "37449232",
+            "39799435",
+            "39350871",
+            "36909030",
+            "34628879",
+            "32426516",
+            "37233415",
+            "33815550"
+          ],
+          "total_articles": 124
+        },
+        {
+          "disease_id": "@DISEASE_Hemorrhage",
+          "disease_name": "Hemorrhage",
+          "pmids": [
+            "32426516",
+            "33832076",
+            "37482254",
+            "31279078",
+            "36772892",
+            "35892908",
+            "36951379",
+            "31482260",
+            "34840802",
+            "2564576"
+          ],
+          "total_articles": 118
+        },
+        {
+          "disease_id": "@DISEASE_Zollinger_Ellison_Syndrome",
+          "disease_name": "Zollinger Ellison Syndrome",
+          "pmids": [
+            "37651247",
+            "28520353",
+            "3715402",
+            "3984061",
+            "2288939",
+            "3460167",
+            "2007355",
+            "3972233",
+            "1426868",
+            "6129395"
+          ],
+          "total_articles": 105
+        },
+        {
+          "disease_id": "@DISEASE_Esophageal_Squamous_Cell_Carcinoma",
+          "disease_name": "Esophageal Squamous Cell Carcinoma",
+          "pmids": [
+            "34475977",
+            "40701793",
+            "32978503",
+            "37080617",
+            "27527044",
+            "1679674",
+            "8877348",
+            "2590816",
+            "2887900",
+            "11785721"
+          ],
+          "total_articles": 102
+        },
+        {
+          "disease_id": "@DISEASE_Barrett_Esophagus",
+          "disease_name": "Barrett Esophagus",
+          "pmids": [
+            "32656339",
+            "35641160",
+            "2716804",
+            "8995971",
+            "2875649",
+            "7986975",
+            "8161668",
+            "2801676",
+            "8527623",
+            "9768533"
+          ],
+          "total_articles": 79
+        },
+        {
+          "disease_id": "@DISEASE_Gastrointestinal_Hemorrhage",
+          "disease_name": "Gastrointestinal Hemorrhage",
+          "pmids": [
+            "38125091",
+            "35832530",
+            "40596836",
+            "35236645",
+            "33832076",
+            "33909794",
+            "35100805",
+            "31279078",
+            "36951379",
+            "39795143"
+          ],
+          "total_articles": 82
+        },
+        {
+          "disease_id": "@DISEASE_Infections",
+          "disease_name": "Infections",
+          "pmids": [
+            "28520353",
+            "37520212",
+            "40837630",
+            "39616854",
+            "33327272",
+            "39428427",
+            "35967995",
+            "36674704",
+            "40765099",
+            "40125488"
+          ],
+          "total_articles": 70
+        },
+        {
+          "disease_id": "@DISEASE_Gastrointestinal_Diseases",
+          "disease_name": "Gastrointestinal Diseases",
+          "pmids": [
+            "35800723",
+            "34475825",
+            "34719063",
+            "37593315",
+            "34752549",
+            "32308801",
+            "39201880",
+            "33319390",
+            "34080214",
+            "32893926"
+          ],
+          "total_articles": 60
+        },
+        {
+          "disease_id": "@DISEASE_Inflammation",
+          "disease_name": "Inflammation",
+          "pmids": [
+            "33551588",
+            "35890080",
+            "32308801",
+            "37144173",
+            "32893926",
+            "33235586",
+            "35143593",
+            "36232555",
+            "35256581",
+            "32194041"
+          ],
+          "total_articles": 69
+        },
+        {
+          "disease_id": "@DISEASE_Neoplasms",
+          "disease_name": "Neoplasms",
+          "pmids": [
+            "32731514",
+            "35265417",
+            "32308801",
+            "37520008",
+            "32092686",
+            "34729960",
+            "34785782",
+            "35447140",
+            "34337965",
+            "31663482"
+          ],
+          "total_articles": 55
+        },
+        {
+          "disease_id": "@DISEASE_Tooth_Erosion",
+          "disease_name": "Tooth Erosion",
+          "pmids": [
+            "35868653",
+            "36540484",
+            "1592340",
+            "7973903",
+            "25295267",
+            "9572324",
+            "9824569",
+            "20698216",
+            "6714055",
+            "9572322"
+          ],
+          "total_articles": 40
+        },
+        {
+          "disease_id": "@DISEASE_Signs_and_Symptoms",
+          "disease_name": "Signs and Symptoms",
+          "pmids": [
+            "34022022",
+            "37323050",
+            "21979407",
+            "9692687",
+            "8858742",
+            "15180724",
+            "22371748",
+            "11099054",
+            "15972210",
+            "12523588"
+          ],
+          "total_articles": 35
+        },
+        {
+          "disease_id": "@DISEASE_Laryngopharyngeal_Reflux",
+          "disease_name": "Laryngopharyngeal Reflux",
+          "pmids": [
+            "35032204",
+            "40727150",
+            "35836834",
+            "35502360",
+            "22379745",
+            "29771088",
+            "22010339",
+            "24390944",
+            "17334308",
+            "23483094"
+          ],
+          "total_articles": 30
+        },
+        {
+          "disease_id": "@DISEASE_Chest_Pain",
+          "disease_name": "Chest Pain",
+          "pmids": [
+            "40969410",
+            "33329957",
+            "34912440",
+            "9869626",
+            "10492314",
+            "17023970",
+            "9649457",
+            "9699931",
+            "9365149",
+            "27134590"
+          ],
+          "total_articles": 29
+        }
+      ]
+    },
+    {
+      "drug_name": "omeprazole",
+      "example_disease": "",
+      "drug_id": "@CHEMICAL_omeprazole_sulfide",
+      "disease_ids": [
+        "@DISEASE_Carcinoma_Hepatocellular",
+        "@DISEASE_Dyspepsia"
+      ],
+      "total_disease_entities": 2,
+      "evidence": [
+        {
+          "disease_id": "@DISEASE_Carcinoma_Hepatocellular",
+          "disease_name": "Carcinoma Hepatocellular",
+          "pmids": [
+            "16109480"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Dyspepsia",
+          "disease_name": "Dyspepsia",
+          "pmids": [
+            "38167521"
+          ],
+          "total_articles": 1
+        }
+      ]
+    },
+    {
+      "drug_name": "omeprazole",
+      "example_disease": "",
+      "drug_id": "@CHEMICAL_omeprazole_sodium_bicarbonate_drug_combination",
+      "disease_ids": [
+        "@DISEASE_Critical_Illness",
+        "@DISEASE_Gastroesophageal_Reflux",
+        "@DISEASE_Hemorrhage",
+        "@DISEASE_Gastrointestinal_Hemorrhage",
+        "@DISEASE_Heartburn",
+        "@DISEASE_Stomach_Ulcer"
+      ],
+      "total_disease_entities": 6,
+      "evidence": [
+        {
+          "disease_id": "@DISEASE_Critical_Illness",
+          "disease_name": "Critical Illness",
+          "pmids": [
+            "15821632",
+            "15230632",
+            "15563239"
+          ],
+          "total_articles": 3
+        },
+        {
+          "disease_id": "@DISEASE_Gastroesophageal_Reflux",
+          "disease_name": "Gastroesophageal Reflux",
+          "pmids": [
+            "25706883",
+            "16303035"
+          ],
+          "total_articles": 2
+        },
+        {
+          "disease_id": "@DISEASE_Hemorrhage",
+          "disease_name": "Hemorrhage",
+          "pmids": [
+            "15821632",
+            "15230632"
+          ],
+          "total_articles": 2
+        },
+        {
+          "disease_id": "@DISEASE_Gastrointestinal_Hemorrhage",
+          "disease_name": "Gastrointestinal Hemorrhage",
+          "pmids": [
+            "15563239"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Heartburn",
+          "disease_name": "Heartburn",
+          "pmids": [
+            "25706883"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Stomach_Ulcer",
+          "disease_name": "Stomach Ulcer",
+          "pmids": [
+            "15230632"
+          ],
+          "total_articles": 1
+        }
+      ]
+    },
+    {
+      "drug_name": "furosemide",
+      "example_disease": "",
+      "drug_id": "@CHEMICAL_Furosemide",
+      "disease_ids": [
+        "@DISEASE_Heart_Failure",
+        "@DISEASE_Hypertension",
+        "@DISEASE_Edema",
+        "@DISEASE_Acute_Kidney_Injury",
+        "@DISEASE_Pulmonary_Edema",
+        "@DISEASE_Ascites",
+        "@DISEASE_Hypercalcemia",
+        "@DISEASE_Renal_Insufficiency",
+        "@DISEASE_Iron_Overload",
+        "@DISEASE_Kidney_Diseases",
+        "@DISEASE_Nephrotic_Syndrome",
+        "@DISEASE_Dyspnea",
+        "@DISEASE_Asthma",
+        "@DISEASE_Cardiomyopathy_Dilated",
+        "@DISEASE_Essential_Hypertension",
+        "@DISEASE_Hyponatremia",
+        "@DISEASE_Kidney_Failure_Chronic",
+        "@DISEASE_Oliguria",
+        "@DISEASE_Fibrosis",
+        "@DISEASE_Respiratory_Distress_Syndrome",
+        "@DISEASE_Critical_Illness",
+        "@DISEASE_Status_Asthmaticus",
+        "@DISEASE_Myocardial_Infarction",
+        "@DISEASE_Tang_Hsi_Ryu_syndrome",
+        "@DISEASE_Heart_Diseases"
+      ],
+      "total_disease_entities": 862,
+      "evidence": [
+        {
+          "disease_id": "@DISEASE_Heart_Failure",
+          "disease_name": "Heart Failure",
+          "pmids": [
+            "34288546",
+            "34132503",
+            "37340592",
+            "33689236",
+            "34389780",
+            "36651793",
+            "34766460",
+            "32746925",
+            "37288336",
+            "37804170"
+          ],
+          "total_articles": 966
+        },
+        {
+          "disease_id": "@DISEASE_Hypertension",
+          "disease_name": "Hypertension",
+          "pmids": [
+            "37214156",
+            "33826400",
+            "37214665",
+            "39870324",
+            "37249046",
+            "31963659",
+            "38485054",
+            "38641089",
+            "33402857",
+            "39884048"
+          ],
+          "total_articles": 363
+        },
+        {
+          "disease_id": "@DISEASE_Edema",
+          "disease_name": "Edema",
+          "pmids": [
+            "37959360",
+            "35239032",
+            "37701668",
+            "32232733",
+            "32015605",
+            "36903659",
+            "34322337",
+            "35392272",
+            "35080742",
+            "37121963"
+          ],
+          "total_articles": 288
+        },
+        {
+          "disease_id": "@DISEASE_Acute_Kidney_Injury",
+          "disease_name": "Acute Kidney Injury",
+          "pmids": [
+            "37518073",
+            "32131879",
+            "33585362",
+            "33548047",
+            "37121963",
+            "33796993",
+            "33971784",
+            "35047282",
+            "32704213",
+            "36645039"
+          ],
+          "total_articles": 315
+        },
+        {
+          "disease_id": "@DISEASE_Pulmonary_Edema",
+          "disease_name": "Pulmonary Edema",
+          "pmids": [
+            "33490638",
+            "39291573",
+            "37181856",
+            "34884300",
+            "34586944",
+            "36836076",
+            "34804750",
+            "35676834",
+            "37123811",
+            "37094412"
+          ],
+          "total_articles": 182
+        },
+        {
+          "disease_id": "@DISEASE_Ascites",
+          "disease_name": "Ascites",
+          "pmids": [
+            "33457424",
+            "31216537",
+            "36046870",
+            "34427339",
+            "32969384",
+            "36433862",
+            "35926379",
+            "39291571",
+            "36072778",
+            "40379581"
+          ],
+          "total_articles": 155
+        },
+        {
+          "disease_id": "@DISEASE_Hypercalcemia",
+          "disease_name": "Hypercalcemia",
+          "pmids": [
+            "35757138",
+            "33173487",
+            "38178955",
+            "40547129",
+            "36032307",
+            "38277030",
+            "39777136",
+            "39246634",
+            "33832152",
+            "37853976"
+          ],
+          "total_articles": 106
+        },
+        {
+          "disease_id": "@DISEASE_Renal_Insufficiency",
+          "disease_name": "Renal Insufficiency",
+          "pmids": [
+            "33796993",
+            "36437201",
+            "36217511",
+            "32400746",
+            "35952569",
+            "4638226",
+            "5097303",
+            "4774522",
+            "648078",
+            "5579765"
+          ],
+          "total_articles": 142
+        },
+        {
+          "disease_id": "@DISEASE_Iron_Overload",
+          "disease_name": "Iron Overload",
+          "pmids": [
+            "33585362",
+            "33402857",
+            "36627983",
+            "34722910",
+            "37233136",
+            "34166286",
+            "34884300",
+            "36652996",
+            "37691474",
+            "37675009"
+          ],
+          "total_articles": 90
+        },
+        {
+          "disease_id": "@DISEASE_Kidney_Diseases",
+          "disease_name": "Kidney Diseases",
+          "pmids": [
+            "32349337",
+            "35509178",
+            "37121963",
+            "32671344",
+            "36898249",
+            "33879751",
+            "37929241",
+            "40453839",
+            "36254646",
+            "33253980"
+          ],
+          "total_articles": 152
+        },
+        {
+          "disease_id": "@DISEASE_Nephrotic_Syndrome",
+          "disease_name": "Nephrotic Syndrome",
+          "pmids": [
+            "32549884",
+            "37959360",
+            "32015605",
+            "38272526",
+            "35080742",
+            "37929241",
+            "40534941",
+            "35924007",
+            "35466166",
+            "32255468"
+          ],
+          "total_articles": 84
+        },
+        {
+          "disease_id": "@DISEASE_Dyspnea",
+          "disease_name": "Dyspnea",
+          "pmids": [
+            "36320682",
+            "31728632",
+            "33452045",
+            "36585222",
+            "39269392",
+            "40822465",
+            "32181697",
+            "32219807",
+            "35680319",
+            "34861639"
+          ],
+          "total_articles": 75
+        },
+        {
+          "disease_id": "@DISEASE_Asthma",
+          "disease_name": "Asthma",
+          "pmids": [
+            "37996224",
+            "8175635",
+            "9770905",
+            "7956390",
+            "9513587",
+            "8020278",
+            "9827425",
+            "11015263",
+            "16276705",
+            "16369066"
+          ],
+          "total_articles": 63
+        },
+        {
+          "disease_id": "@DISEASE_Cardiomyopathy_Dilated",
+          "disease_name": "Cardiomyopathy Dilated",
+          "pmids": [
+            "34389780",
+            "31856419",
+            "33007024",
+            "38587384",
+            "36356070",
+            "39269392",
+            "34596886",
+            "38141434",
+            "34642870",
+            "38453498"
+          ],
+          "total_articles": 65
+        },
+        {
+          "disease_id": "@DISEASE_Essential_Hypertension",
+          "disease_name": "Essential Hypertension",
+          "pmids": [
+            "7001489",
+            "414574",
+            "3519847",
+            "1053468",
+            "3999637",
+            "6160345",
+            "4934740",
+            "786684",
+            "7428185",
+            "3716880"
+          ],
+          "total_articles": 68
+        },
+        {
+          "disease_id": "@DISEASE_Hyponatremia",
+          "disease_name": "Hyponatremia",
+          "pmids": [
+            "32746925",
+            "32543020",
+            "32455079",
+            "37173194",
+            "31694388",
+            "40222594",
+            "32144493",
+            "32344245",
+            "32199708",
+            "36621379"
+          ],
+          "total_articles": 86
+        },
+        {
+          "disease_id": "@DISEASE_Kidney_Failure_Chronic",
+          "disease_name": "Kidney Failure Chronic",
+          "pmids": [
+            "35820963",
+            "35300193",
+            "36724315",
+            "39189768",
+            "34470455",
+            "4701110",
+            "4470644",
+            "4474466",
+            "935124",
+            "7301002"
+          ],
+          "total_articles": 68
+        },
+        {
+          "disease_id": "@DISEASE_Oliguria",
+          "disease_name": "Oliguria",
+          "pmids": [
+            "40364135",
+            "33848384",
+            "36645039",
+            "37581700",
+            "34006048",
+            "35313310",
+            "34635631",
+            "36403779",
+            "38163994",
+            "39535545"
+          ],
+          "total_articles": 55
+        },
+        {
+          "disease_id": "@DISEASE_Fibrosis",
+          "disease_name": "Fibrosis",
+          "pmids": [
+            "32143585",
+            "31216537",
+            "32886950",
+            "40649868",
+            "31385352",
+            "32571386",
+            "39990915",
+            "32684739",
+            "39291566",
+            "2007318"
+          ],
+          "total_articles": 52
+        },
+        {
+          "disease_id": "@DISEASE_Respiratory_Distress_Syndrome",
+          "disease_name": "Respiratory Distress Syndrome",
+          "pmids": [
+            "32843406",
+            "35775526",
+            "32571386",
+            "35756586",
+            "37878243",
+            "34422415",
+            "40658040",
+            "38186512",
+            "35232458",
+            "1103753"
+          ],
+          "total_articles": 46
+        },
+        {
+          "disease_id": "@DISEASE_Critical_Illness",
+          "disease_name": "Critical Illness",
+          "pmids": [
+            "33585362",
+            "32131879",
+            "35707182",
+            "40618563",
+            "35047282",
+            "33796993",
+            "32291620",
+            "38293664",
+            "32450912",
+            "37970140"
+          ],
+          "total_articles": 49
+        },
+        {
+          "disease_id": "@DISEASE_Status_Asthmaticus",
+          "disease_name": "Status Asthmaticus",
+          "pmids": [
+            "1543382",
+            "19517210",
+            "7957836",
+            "21729180",
+            "2797066",
+            "1643923",
+            "9615306",
+            "8726936",
+            "8497817",
+            "30193887"
+          ],
+          "total_articles": 40
+        },
+        {
+          "disease_id": "@DISEASE_Myocardial_Infarction",
+          "disease_name": "Myocardial Infarction",
+          "pmids": [
+            "36652996",
+            "37548456",
+            "3901683",
+            "7318454",
+            "23561700",
+            "1007234",
+            "3542323",
+            "3280315",
+            "4768354",
+            "31664951"
+          ],
+          "total_articles": 42
+        },
+        {
+          "disease_id": "@DISEASE_Tang_Hsi_Ryu_syndrome",
+          "disease_name": "Tang Hsi Ryu syndrome",
+          "pmids": [
+            "32549884",
+            "31955161",
+            "6036646",
+            "678930",
+            "719296",
+            "728311",
+            "3285831",
+            "7614778",
+            "5100264",
+            "5318638"
+          ],
+          "total_articles": 45
+        },
+        {
+          "disease_id": "@DISEASE_Heart_Diseases",
+          "disease_name": "Heart Diseases",
+          "pmids": [
+            "38520337",
+            "36445771",
+            "34567946",
+            "33452045",
+            "36345680",
+            "39943128",
+            "34028078",
+            "36072425",
+            "39512983",
+            "31324480"
+          ],
+          "total_articles": 50
+        }
+      ]
+    },
+    {
+      "drug_name": "furosemide",
+      "example_disease": "",
+      "drug_id": "@CHEMICAL_furosemide_glucuronide",
+      "disease_ids": [
+        "@DISEASE_Hydrocephalus"
+      ],
+      "total_disease_entities": 1,
+      "evidence": [
+        {
+          "disease_id": "@DISEASE_Hydrocephalus",
+          "disease_name": "Hydrocephalus",
+          "pmids": [
+            "30866733"
+          ],
+          "total_articles": 1
+        }
+      ]
+    },
+    {
+      "drug_name": "warfarin",
+      "example_disease": "",
+      "drug_id": "@CHEMICAL_Warfarin",
+      "disease_ids": [
+        "@DISEASE_Atrial_Fibrillation",
+        "@DISEASE_Stroke",
+        "@DISEASE_Thrombosis",
+        "@DISEASE_Venous_Thromboembolism",
+        "@DISEASE_Thromboembolism",
+        "@DISEASE_Venous_Thrombosis",
+        "@DISEASE_Hemorrhage",
+        "@DISEASE_Embolism",
+        "@DISEASE_Cerebral_Infarction",
+        "@DISEASE_Pulmonary_Embolism",
+        "@DISEASE_Antiphospholipid_Syndrome",
+        "@DISEASE_Neoplasms",
+        "@DISEASE_Heart_Failure",
+        "@DISEASE_Myocardial_Infarction",
+        "@DISEASE_Heart_Valve_Diseases",
+        "@DISEASE_Retinal_Vein_Occlusion",
+        "@DISEASE_Blood_Coagulation_Disorders",
+        "@DISEASE_Ischemic_Attack_Transient",
+        "@DISEASE_Embolic_Stroke",
+        "@DISEASE_Death",
+        "@DISEASE_Cardiovascular_Diseases",
+        "@DISEASE_Intracranial_Embolism",
+        "@DISEASE_Cerebral_Hemorrhage",
+        "@DISEASE_Hip_Injuries",
+        "@DISEASE_Heart_Diseases"
+      ],
+      "total_disease_entities": 1349,
+      "evidence": [
+        {
+          "disease_id": "@DISEASE_Atrial_Fibrillation",
+          "disease_name": "Atrial Fibrillation",
+          "pmids": [
+            "32754416",
+            "36046498",
+            "36346063",
+            "38095004",
+            "32850062",
+            "36524255",
+            "35004890",
+            "34869639",
+            "34244745",
+            "36213361"
+          ],
+          "total_articles": 5390
+        },
+        {
+          "disease_id": "@DISEASE_Stroke",
+          "disease_name": "Stroke",
+          "pmids": [
+            "32489717",
+            "34244745",
+            "36346063",
+            "35999924",
+            "34379219",
+            "31959803",
+            "36048754",
+            "35252386",
+            "38020057",
+            "33294148"
+          ],
+          "total_articles": 2541
+        },
+        {
+          "disease_id": "@DISEASE_Thrombosis",
+          "disease_name": "Thrombosis",
+          "pmids": [
+            "33517885",
+            "38249209",
+            "33932172",
+            "33208582",
+            "34317005",
+            "37259522",
+            "36378885",
+            "37533609",
+            "37342748",
+            "36106226"
+          ],
+          "total_articles": 1548
+        },
+        {
+          "disease_id": "@DISEASE_Venous_Thromboembolism",
+          "disease_name": "Venous Thromboembolism",
+          "pmids": [
+            "37533609",
+            "36891985",
+            "33171521",
+            "37159747",
+            "34570310",
+            "35562510",
+            "38268519",
+            "36200137",
+            "33651368",
+            "36811795"
+          ],
+          "total_articles": 1256
+        },
+        {
+          "disease_id": "@DISEASE_Thromboembolism",
+          "disease_name": "Thromboembolism",
+          "pmids": [
+            "33727862",
+            "33926467",
+            "36143848",
+            "34068569",
+            "38093310",
+            "34816745",
+            "37848006",
+            "36704424",
+            "32019993",
+            "35233319"
+          ],
+          "total_articles": 1326
+        },
+        {
+          "disease_id": "@DISEASE_Venous_Thrombosis",
+          "disease_name": "Venous Thrombosis",
+          "pmids": [
+            "34557006",
+            "32737096",
+            "35910053",
+            "37165510",
+            "35992565",
+            "34430789",
+            "34745781",
+            "36254211",
+            "37609533",
+            "37359384"
+          ],
+          "total_articles": 1076
+        },
+        {
+          "disease_id": "@DISEASE_Hemorrhage",
+          "disease_name": "Hemorrhage",
+          "pmids": [
+            "35962753",
+            "37159747",
+            "35252386",
+            "32754416",
+            "37629518",
+            "34106641",
+            "32277374",
+            "33732947",
+            "34244745",
+            "34222639"
+          ],
+          "total_articles": 3231
+        },
+        {
+          "disease_id": "@DISEASE_Embolism",
+          "disease_name": "Embolism",
+          "pmids": [
+            "35252386",
+            "38021689",
+            "35092000",
+            "34398204",
+            "33315930",
+            "35700183",
+            "32318577",
+            "35757350",
+            "33517885",
+            "32629725"
+          ],
+          "total_articles": 631
+        },
+        {
+          "disease_id": "@DISEASE_Cerebral_Infarction",
+          "disease_name": "Cerebral Infarction",
+          "pmids": [
+            "32754416",
+            "32250434",
+            "32677373",
+            "31757813",
+            "36793489",
+            "33315930",
+            "36582886",
+            "38035002",
+            "34531970",
+            "32478848"
+          ],
+          "total_articles": 624
+        },
+        {
+          "disease_id": "@DISEASE_Pulmonary_Embolism",
+          "disease_name": "Pulmonary Embolism",
+          "pmids": [
+            "37070473",
+            "37750044",
+            "37359384",
+            "37255216",
+            "32666864",
+            "34068569",
+            "34278193",
+            "36991222",
+            "39299242",
+            "36398035"
+          ],
+          "total_articles": 568
+        },
+        {
+          "disease_id": "@DISEASE_Antiphospholipid_Syndrome",
+          "disease_name": "Antiphospholipid Syndrome",
+          "pmids": [
+            "35593449",
+            "34527491",
+            "36398035",
+            "34414220",
+            "33212808",
+            "36504598",
+            "35547412",
+            "39644000",
+            "33128325",
+            "33496084"
+          ],
+          "total_articles": 309
+        },
+        {
+          "disease_id": "@DISEASE_Neoplasms",
+          "disease_name": "Neoplasms",
+          "pmids": [
+            "36704424",
+            "37486628",
+            "37533609",
+            "37648560",
+            "36213361",
+            "35364622",
+            "31892976",
+            "33171521",
+            "35769870",
+            "33994816"
+          ],
+          "total_articles": 312
+        },
+        {
+          "disease_id": "@DISEASE_Heart_Failure",
+          "disease_name": "Heart Failure",
+          "pmids": [
+            "35966544",
+            "33030703",
+            "36609317",
+            "35096995",
+            "36704424",
+            "40497467",
+            "35414910",
+            "34002371",
+            "32473621",
+            "31653973"
+          ],
+          "total_articles": 276
+        },
+        {
+          "disease_id": "@DISEASE_Myocardial_Infarction",
+          "disease_name": "Myocardial Infarction",
+          "pmids": [
+            "34683155",
+            "28722993",
+            "32428022",
+            "36568554",
+            "39514302",
+            "37869214",
+            "34735357",
+            "32047326",
+            "32730627",
+            "35442104"
+          ],
+          "total_articles": 242
+        },
+        {
+          "disease_id": "@DISEASE_Heart_Valve_Diseases",
+          "disease_name": "Heart Valve Diseases",
+          "pmids": [
+            "36211100",
+            "35096994",
+            "32754416",
+            "37303358",
+            "34692393",
+            "36596070",
+            "32410208",
+            "34631818",
+            "33680011",
+            "34046282"
+          ],
+          "total_articles": 219
+        },
+        {
+          "disease_id": "@DISEASE_Retinal_Vein_Occlusion",
+          "disease_name": "Retinal Vein Occlusion",
+          "pmids": [
+            "33305345",
+            "31914090",
+            "37346224",
+            "33079786",
+            "36013148",
+            "40685223",
+            "32206638",
+            "36299976",
+            "35721290",
+            "39486452"
+          ],
+          "total_articles": 198
+        },
+        {
+          "disease_id": "@DISEASE_Blood_Coagulation_Disorders",
+          "disease_name": "Blood Coagulation Disorders",
+          "pmids": [
+            "33393016",
+            "35645329",
+            "33030703",
+            "36704424",
+            "34751053",
+            "36872002",
+            "31176578",
+            "38526751",
+            "36066724",
+            "35745714"
+          ],
+          "total_articles": 343
+        },
+        {
+          "disease_id": "@DISEASE_Ischemic_Attack_Transient",
+          "disease_name": "Ischemic Attack Transient",
+          "pmids": [
+            "35440169",
+            "37720181",
+            "36690928",
+            "33040698",
+            "37838540",
+            "32277374",
+            "39547342",
+            "33224180",
+            "33305813",
+            "37918932"
+          ],
+          "total_articles": 183
+        },
+        {
+          "disease_id": "@DISEASE_Embolic_Stroke",
+          "disease_name": "Embolic Stroke",
+          "pmids": [
+            "37009629",
+            "34244745",
+            "35966544",
+            "32677373",
+            "37758192",
+            "32320043",
+            "35044128",
+            "37847442",
+            "32941455",
+            "34722686"
+          ],
+          "total_articles": 175
+        },
+        {
+          "disease_id": "@DISEASE_Death",
+          "disease_name": "Death",
+          "pmids": [
+            "34666811",
+            "35757350",
+            "32471279",
+            "34868680",
+            "32267547",
+            "37395223",
+            "37523701",
+            "38222129",
+            "40339909",
+            "38022316"
+          ],
+          "total_articles": 219
+        },
+        {
+          "disease_id": "@DISEASE_Cardiovascular_Diseases",
+          "disease_name": "Cardiovascular Diseases",
+          "pmids": [
+            "33790638",
+            "33437219",
+            "32916786",
+            "33235484",
+            "33038936",
+            "35380455",
+            "35596217",
+            "33657063",
+            "37948393",
+            "33727862"
+          ],
+          "total_articles": 149
+        },
+        {
+          "disease_id": "@DISEASE_Intracranial_Embolism",
+          "disease_name": "Intracranial Embolism",
+          "pmids": [
+            "38084104",
+            "36662497",
+            "32112872",
+            "32042529",
+            "35582509",
+            "32617244",
+            "36502790",
+            "34423246",
+            "33543854",
+            "37390524"
+          ],
+          "total_articles": 134
+        },
+        {
+          "disease_id": "@DISEASE_Cerebral_Hemorrhage",
+          "disease_name": "Cerebral Hemorrhage",
+          "pmids": [
+            "35557631",
+            "38011469",
+            "33591368",
+            "37122026",
+            "36503260",
+            "31757813",
+            "38062522",
+            "35282102",
+            "40959900",
+            "33661477"
+          ],
+          "total_articles": 281
+        },
+        {
+          "disease_id": "@DISEASE_Hip_Injuries",
+          "disease_name": "Hip Injuries",
+          "pmids": [
+            "38059214",
+            "30990095",
+            "34380108",
+            "37261550",
+            "33347014",
+            "36275928",
+            "1884058",
+            "11231726",
+            "10614892",
+            "8739697"
+          ],
+          "total_articles": 103
+        },
+        {
+          "disease_id": "@DISEASE_Heart_Diseases",
+          "disease_name": "Heart Diseases",
+          "pmids": [
+            "38490703",
+            "36991222",
+            "36568047",
+            "37611780",
+            "34480456",
+            "38222129",
+            "37599659",
+            "36037790",
+            "39713605",
+            "33776712"
+          ],
+          "total_articles": 112
+        }
+      ]
+    },
+    {
+      "drug_name": "levofloxacin",
+      "example_disease": "",
+      "drug_id": "@CHEMICAL_Levofloxacin",
+      "disease_ids": [
+        "@DISEASE_Infections",
+        "@DISEASE_Pneumonia",
+        "@DISEASE_Helicobacter_Infections",
+        "@DISEASE_Communication_Disorders",
+        "@DISEASE_Urinary_Tract_Infections",
+        "@DISEASE_Tuberculosis",
+        "@DISEASE_Fever",
+        "@DISEASE_Respiratory_Tract_Infections",
+        "@DISEASE_Tuberculosis_Multidrug_Resistant",
+        "@DISEASE_Bacterial_Infections",
+        "@DISEASE_Prostatitis",
+        "@DISEASE_Inflammation",
+        "@DISEASE_Tuberculosis_Meningeal",
+        "@DISEASE_Sepsis",
+        "@DISEASE_Bacteremia",
+        "@DISEASE_Pain",
+        "@DISEASE_Bronchitis_Chronic",
+        "@DISEASE_Keratitis",
+        "@DISEASE_Staphylococcal_Infections",
+        "@DISEASE_Pyelonephritis",
+        "@DISEASE_Abscess",
+        "@DISEASE_Cataract",
+        "@DISEASE_Endophthalmitis",
+        "@DISEASE_Tuberculosis_Pulmonary",
+        "@DISEASE_Communicable_Diseases"
+      ],
+      "total_disease_entities": 839,
+      "evidence": [
+        {
+          "disease_id": "@DISEASE_Infections",
+          "disease_name": "Infections",
+          "pmids": [
+            "37026930",
+            "37799940",
+            "35097154",
+            "35884176",
+            "32288835",
+            "34438966",
+            "34336465",
+            "35028336",
+            "32769862",
+            "32131897"
+          ],
+          "total_articles": 462
+        },
+        {
+          "disease_id": "@DISEASE_Pneumonia",
+          "disease_name": "Pneumonia",
+          "pmids": [
+            "33816031",
+            "32245452",
+            "38317382",
+            "32053078",
+            "37363547",
+            "33403672",
+            "35870190",
+            "37151111",
+            "37237741",
+            "33315182"
+          ],
+          "total_articles": 226
+        },
+        {
+          "disease_id": "@DISEASE_Helicobacter_Infections",
+          "disease_name": "Helicobacter Infections",
+          "pmids": [
+            "37675247",
+            "35668511",
+            "37547163",
+            "33725850",
+            "34218802",
+            "32769862",
+            "32351290",
+            "33078727",
+            "38225650",
+            "37419808"
+          ],
+          "total_articles": 196
+        },
+        {
+          "disease_id": "@DISEASE_Communication_Disorders",
+          "disease_name": "Communication Disorders",
+          "pmids": [
+            "35457683",
+            "36721509",
+            "37200652",
+            "40013891",
+            "33814200",
+            "34584913",
+            "40994760",
+            "33723019",
+            "35767562",
+            "33258075"
+          ],
+          "total_articles": 193
+        },
+        {
+          "disease_id": "@DISEASE_Urinary_Tract_Infections",
+          "disease_name": "Urinary Tract Infections",
+          "pmids": [
+            "33331182",
+            "33897441",
+            "32516902",
+            "33603993",
+            "37698412",
+            "36461695",
+            "32004097",
+            "34628902",
+            "37654929",
+            "32685112"
+          ],
+          "total_articles": 197
+        },
+        {
+          "disease_id": "@DISEASE_Tuberculosis",
+          "disease_name": "Tuberculosis",
+          "pmids": [
+            "40532163",
+            "40532162",
+            "40532164",
+            "35631386",
+            "40532166",
+            "39693541",
+            "40532165",
+            "35745846",
+            "33155907",
+            "36197231"
+          ],
+          "total_articles": 187
+        },
+        {
+          "disease_id": "@DISEASE_Fever",
+          "disease_name": "Fever",
+          "pmids": [
+            "33738152",
+            "36660737",
+            "36908871",
+            "35449666",
+            "32435805",
+            "32785971",
+            "36213001",
+            "37490409",
+            "36060390",
+            "32265612"
+          ],
+          "total_articles": 199
+        },
+        {
+          "disease_id": "@DISEASE_Respiratory_Tract_Infections",
+          "disease_name": "Respiratory Tract Infections",
+          "pmids": [
+            "33102193",
+            "35097154",
+            "40806586",
+            "36411822",
+            "33847144",
+            "34760280",
+            "37114513",
+            "37376022",
+            "31712215",
+            "32565928"
+          ],
+          "total_articles": 171
+        },
+        {
+          "disease_id": "@DISEASE_Tuberculosis_Multidrug_Resistant",
+          "disease_name": "Tuberculosis Multidrug Resistant",
+          "pmids": [
+            "39693549",
+            "39693542",
+            "39693627",
+            "34984005",
+            "33361023",
+            "36922787",
+            "40822287",
+            "40737628",
+            "33323657",
+            "34171989"
+          ],
+          "total_articles": 151
+        },
+        {
+          "disease_id": "@DISEASE_Bacterial_Infections",
+          "disease_name": "Bacterial Infections",
+          "pmids": [
+            "32382529",
+            "37654929",
+            "32710709",
+            "39386351",
+            "34507071",
+            "34533797",
+            "40806586",
+            "36994231",
+            "31826506",
+            "36660737"
+          ],
+          "total_articles": 134
+        },
+        {
+          "disease_id": "@DISEASE_Prostatitis",
+          "disease_name": "Prostatitis",
+          "pmids": [
+            "38272823",
+            "39910954",
+            "33897441",
+            "34898075",
+            "37692965",
+            "40688940",
+            "40788632",
+            "34115099",
+            "40898575",
+            "34703052"
+          ],
+          "total_articles": 97
+        },
+        {
+          "disease_id": "@DISEASE_Inflammation",
+          "disease_name": "Inflammation",
+          "pmids": [
+            "35516965",
+            "32288835",
+            "35028471",
+            "34413642",
+            "34725285",
+            "33675827",
+            "34936061",
+            "35532482",
+            "40826524",
+            "36730179"
+          ],
+          "total_articles": 87
+        },
+        {
+          "disease_id": "@DISEASE_Tuberculosis_Meningeal",
+          "disease_name": "Tuberculosis Meningeal",
+          "pmids": [
+            "35291004",
+            "40092520",
+            "40959785",
+            "31956998",
+            "39241956",
+            "40883889",
+            "34949730",
+            "39993523",
+            "37596982",
+            "39330900"
+          ],
+          "total_articles": 63
+        },
+        {
+          "disease_id": "@DISEASE_Sepsis",
+          "disease_name": "Sepsis",
+          "pmids": [
+            "35495784",
+            "37490409",
+            "36358024",
+            "37721551",
+            "36140048",
+            "34875405",
+            "35029328",
+            "34316142",
+            "39257423",
+            "33719724"
+          ],
+          "total_articles": 64
+        },
+        {
+          "disease_id": "@DISEASE_Bacteremia",
+          "disease_name": "Bacteremia",
+          "pmids": [
+            "33782006",
+            "36215940",
+            "35089241",
+            "35598874",
+            "32710709",
+            "39399200",
+            "32785971",
+            "40322242",
+            "38110897",
+            "39934057"
+          ],
+          "total_articles": 58
+        },
+        {
+          "disease_id": "@DISEASE_Pain",
+          "disease_name": "Pain",
+          "pmids": [
+            "34413642",
+            "39869406",
+            "37028574",
+            "37692965",
+            "33102384",
+            "39910954",
+            "39931993",
+            "32938418",
+            "35837241",
+            "36727457"
+          ],
+          "total_articles": 76
+        },
+        {
+          "disease_id": "@DISEASE_Bronchitis_Chronic",
+          "disease_name": "Bronchitis Chronic",
+          "pmids": [
+            "33258075",
+            "16236860",
+            "15319551",
+            "22594848",
+            "12148385",
+            "15687910",
+            "12973461",
+            "16904873",
+            "16504492",
+            "23430960"
+          ],
+          "total_articles": 52
+        },
+        {
+          "disease_id": "@DISEASE_Keratitis",
+          "disease_name": "Keratitis",
+          "pmids": [
+            "35028471",
+            "32714639",
+            "32233932",
+            "36358112",
+            "34156774",
+            "35639464",
+            "33802394",
+            "40553230",
+            "32500305",
+            "35545060"
+          ],
+          "total_articles": 53
+        },
+        {
+          "disease_id": "@DISEASE_Staphylococcal_Infections",
+          "disease_name": "Staphylococcal Infections",
+          "pmids": [
+            "36743309",
+            "36131351",
+            "36314364",
+            "32312076",
+            "32689948",
+            "36979857",
+            "34077387",
+            "36457891",
+            "39586338",
+            "31609097"
+          ],
+          "total_articles": 51
+        },
+        {
+          "disease_id": "@DISEASE_Pyelonephritis",
+          "disease_name": "Pyelonephritis",
+          "pmids": [
+            "32720608",
+            "32004097",
+            "33401660",
+            "32742901",
+            "35259485",
+            "39597709",
+            "32953108",
+            "23614756",
+            "19209267",
+            "16042059"
+          ],
+          "total_articles": 48
+        },
+        {
+          "disease_id": "@DISEASE_Abscess",
+          "disease_name": "Abscess",
+          "pmids": [
+            "32296009",
+            "38130855",
+            "40607459",
+            "39228956",
+            "40686512",
+            "40894833",
+            "34737584",
+            "39934057",
+            "38191305",
+            "39320237"
+          ],
+          "total_articles": 49
+        },
+        {
+          "disease_id": "@DISEASE_Cataract",
+          "disease_name": "Cataract",
+          "pmids": [
+            "34936061",
+            "35907940",
+            "35006494",
+            "39692852",
+            "32366996",
+            "39240403",
+            "32467636",
+            "36497871",
+            "33081522",
+            "39901572"
+          ],
+          "total_articles": 48
+        },
+        {
+          "disease_id": "@DISEASE_Endophthalmitis",
+          "disease_name": "Endophthalmitis",
+          "pmids": [
+            "35028471",
+            "30897300",
+            "39901572",
+            "33817426",
+            "39692852",
+            "40557410",
+            "36358112",
+            "18211926",
+            "16019684",
+            "19541783"
+          ],
+          "total_articles": 42
+        },
+        {
+          "disease_id": "@DISEASE_Tuberculosis_Pulmonary",
+          "disease_name": "Tuberculosis Pulmonary",
+          "pmids": [
+            "35457683",
+            "36197231",
+            "37415768",
+            "36950412",
+            "36147124",
+            "35631386",
+            "38607224",
+            "33155907",
+            "34273498",
+            "38144646"
+          ],
+          "total_articles": 40
+        },
+        {
+          "disease_id": "@DISEASE_Communicable_Diseases",
+          "disease_name": "Communicable Diseases",
+          "pmids": [
+            "34465309",
+            "35984577",
+            "36286031",
+            "37573150",
+            "38229795",
+            "33229700",
+            "38062399",
+            "37999321",
+            "33403672",
+            "34419964"
+          ],
+          "total_articles": 41
+        }
+      ]
+    },
+    {
+      "drug_name": "glyburide",
+      "example_disease": "",
+      "drug_id": "@CHEMICAL_Glyburide",
+      "disease_ids": [
+        "@DISEASE_Diabetes_Mellitus",
+        "@DISEASE_Diabetes_Mellitus_Type_2",
+        "@DISEASE_Diabetes_Gestational",
+        "@DISEASE_Ischemia",
+        "@DISEASE_Hypoxia",
+        "@DISEASE_Inflammation",
+        "@DISEASE_Infarction",
+        "@DISEASE_Brain_Ischemia",
+        "@DISEASE_Hyperglycemia",
+        "@DISEASE_Brain_Edema",
+        "@DISEASE_Edema",
+        "@DISEASE_Hypoxia_Brain",
+        "@DISEASE_Diabetes_Mellitus_Type_1",
+        "@DISEASE_Stroke",
+        "@DISEASE_Hyperglycemic_Hyperosmolar_Nonketotic_Coma",
+        "@DISEASE_Ventricular_Fibrillation",
+        "@DISEASE_Hypotension",
+        "@DISEASE_Obesity",
+        "@DISEASE_Arrhythmias_Cardiac",
+        "@DISEASE_Hypoglycemia",
+        "@DISEASE_hypoglycemic_encephalopathy",
+        "@DISEASE_Brain_Injuries_Traumatic",
+        "@DISEASE_Hemorrhage",
+        "@DISEASE_Hypertension",
+        "@DISEASE_Reperfusion_Injury"
+      ],
+      "total_disease_entities": 508,
+      "evidence": [
+        {
+          "disease_id": "@DISEASE_Diabetes_Mellitus",
+          "disease_name": "Diabetes Mellitus",
+          "pmids": [
+            "34440028",
+            "36555498",
+            "34305396",
+            "34959305",
+            "33261004",
+            "37513365",
+            "37034291",
+            "37513920",
+            "35620596",
+            "36077003"
+          ],
+          "total_articles": 1077
+        },
+        {
+          "disease_id": "@DISEASE_Diabetes_Mellitus_Type_2",
+          "disease_name": "Diabetes Mellitus Type 2",
+          "pmids": [
+            "32982353",
+            "35265127",
+            "34120150",
+            "38028219",
+            "34277963",
+            "35491519",
+            "34104781",
+            "36992750",
+            "34633700",
+            "32094377"
+          ],
+          "total_articles": 842
+        },
+        {
+          "disease_id": "@DISEASE_Diabetes_Gestational",
+          "disease_name": "Diabetes Gestational",
+          "pmids": [
+            "35357451",
+            "34482529",
+            "35195193",
+            "31869430",
+            "35800546",
+            "33508926",
+            "33249198",
+            "37381932",
+            "33461358",
+            "35261444"
+          ],
+          "total_articles": 185
+        },
+        {
+          "disease_id": "@DISEASE_Ischemia",
+          "disease_name": "Ischemia",
+          "pmids": [
+            "33450605",
+            "40209872",
+            "31704276",
+            "40006560",
+            "33896015",
+            "7967225",
+            "9618240",
+            "2506522",
+            "10854840",
+            "12420792"
+          ],
+          "total_articles": 160
+        },
+        {
+          "disease_id": "@DISEASE_Hypoxia",
+          "disease_name": "Hypoxia",
+          "pmids": [
+            "36602604",
+            "33026923",
+            "32463117",
+            "11896012",
+            "21380525",
+            "1906782",
+            "8975002",
+            "10471448",
+            "19292831",
+            "9263998"
+          ],
+          "total_articles": 109
+        },
+        {
+          "disease_id": "@DISEASE_Inflammation",
+          "disease_name": "Inflammation",
+          "pmids": [
+            "33994824",
+            "35185385",
+            "34349235",
+            "36418600",
+            "39519191",
+            "38004455",
+            "32202959",
+            "35963712",
+            "32721448",
+            "34037304"
+          ],
+          "total_articles": 86
+        },
+        {
+          "disease_id": "@DISEASE_Infarction",
+          "disease_name": "Infarction",
+          "pmids": [
+            "31805373",
+            "36602604",
+            "32414580",
+            "40476628",
+            "31787498",
+            "39577921",
+            "40066941",
+            "33467932",
+            "34555978",
+            "31537189"
+          ],
+          "total_articles": 79
+        },
+        {
+          "disease_id": "@DISEASE_Brain_Ischemia",
+          "disease_name": "Brain Ischemia",
+          "pmids": [
+            "34798604",
+            "40656980",
+            "34371786",
+            "37965431",
+            "32527232",
+            "35380195",
+            "35158331",
+            "31899311",
+            "37946524",
+            "24132564"
+          ],
+          "total_articles": 72
+        },
+        {
+          "disease_id": "@DISEASE_Hyperglycemia",
+          "disease_name": "Hyperglycemia",
+          "pmids": [
+            "34305396",
+            "34959305",
+            "37055870",
+            "36366849",
+            "32217610",
+            "39461241",
+            "35546464",
+            "36588726",
+            "33292127",
+            "40778834"
+          ],
+          "total_articles": 69
+        },
+        {
+          "disease_id": "@DISEASE_Brain_Edema",
+          "disease_name": "Brain Edema",
+          "pmids": [
+            "33767884",
+            "36661464",
+            "36408500",
+            "35700741",
+            "38593914",
+            "38062522",
+            "35963712",
+            "34844502",
+            "37306928",
+            "40722270"
+          ],
+          "total_articles": 65
+        },
+        {
+          "disease_id": "@DISEASE_Edema",
+          "disease_name": "Edema",
+          "pmids": [
+            "37756302",
+            "33767884",
+            "31805373",
+            "31354055",
+            "33986719",
+            "35700741",
+            "33450605",
+            "31936452",
+            "34324857",
+            "35306743"
+          ],
+          "total_articles": 60
+        },
+        {
+          "disease_id": "@DISEASE_Hypoxia_Brain",
+          "disease_name": "Hypoxia Brain",
+          "pmids": [
+            "1360355",
+            "7805779",
+            "2506521",
+            "12106103",
+            "8166293",
+            "16160592",
+            "7573469",
+            "9051315",
+            "7923296",
+            "9120578"
+          ],
+          "total_articles": 57
+        },
+        {
+          "disease_id": "@DISEASE_Diabetes_Mellitus_Type_1",
+          "disease_name": "Diabetes Mellitus Type 1",
+          "pmids": [
+            "36073946",
+            "34002324",
+            "33292127",
+            "32725585",
+            "32349166",
+            "31926479",
+            "33321632",
+            "1611155",
+            "3931465",
+            "3104218"
+          ],
+          "total_articles": 51
+        },
+        {
+          "disease_id": "@DISEASE_Stroke",
+          "disease_name": "Stroke",
+          "pmids": [
+            "38062522",
+            "33767884",
+            "33972335",
+            "40629227",
+            "40476628",
+            "35700741",
+            "33028147",
+            "39577921",
+            "40629214",
+            "33450605"
+          ],
+          "total_articles": 46
+        },
+        {
+          "disease_id": "@DISEASE_Hyperglycemic_Hyperosmolar_Nonketotic_Coma",
+          "disease_name": "Hyperglycemic Hyperosmolar Nonketotic Coma",
+          "pmids": [
+            "36077003",
+            "34233693",
+            "32013271",
+            "32673838",
+            "31655149",
+            "32318237",
+            "38004455",
+            "33553016",
+            "39197806",
+            "33553038"
+          ],
+          "total_articles": 44
+        },
+        {
+          "disease_id": "@DISEASE_Ventricular_Fibrillation",
+          "disease_name": "Ventricular Fibrillation",
+          "pmids": [
+            "36958592",
+            "12775970",
+            "21980123",
+            "2122259",
+            "7679152",
+            "7858767",
+            "8158662",
+            "1291084",
+            "7477447",
+            "22467302"
+          ],
+          "total_articles": 46
+        },
+        {
+          "disease_id": "@DISEASE_Hypotension",
+          "disease_name": "Hypotension",
+          "pmids": [
+            "36854648",
+            "26312007",
+            "9881641",
+            "7734136",
+            "9090046",
+            "9878717",
+            "1909503",
+            "2497925",
+            "9209249",
+            "24436988"
+          ],
+          "total_articles": 44
+        },
+        {
+          "disease_id": "@DISEASE_Obesity",
+          "disease_name": "Obesity",
+          "pmids": [
+            "32829287",
+            "37391066",
+            "40968594",
+            "40778834",
+            "38522485",
+            "8112376",
+            "5500517",
+            "17596474",
+            "1902411",
+            "3147830"
+          ],
+          "total_articles": 37
+        },
+        {
+          "disease_id": "@DISEASE_Arrhythmias_Cardiac",
+          "disease_name": "Arrhythmias Cardiac",
+          "pmids": [
+            "32572080",
+            "25810894",
+            "29800118",
+            "17266547",
+            "7515989",
+            "9988102",
+            "1707221",
+            "1291084",
+            "2105170",
+            "8251422"
+          ],
+          "total_articles": 41
+        },
+        {
+          "disease_id": "@DISEASE_Hypoglycemia",
+          "disease_name": "Hypoglycemia",
+          "pmids": [
+            "35357451",
+            "33253952",
+            "34482529",
+            "36530712",
+            "38593914",
+            "40629227",
+            "34798604",
+            "33341937",
+            "39923989",
+            "31989292"
+          ],
+          "total_articles": 226
+        },
+        {
+          "disease_id": "@DISEASE_hypoglycemic_encephalopathy",
+          "disease_name": "hypoglycemic encephalopathy",
+          "pmids": [
+            "32250179",
+            "37035625",
+            "32530046",
+            "32757475",
+            "37589303",
+            "35062075",
+            "36774725",
+            "33463481",
+            "35537310",
+            "5006096"
+          ],
+          "total_articles": 89
+        },
+        {
+          "disease_id": "@DISEASE_Brain_Injuries_Traumatic",
+          "disease_name": "Brain Injuries Traumatic",
+          "pmids": [
+            "36661464",
+            "37306928",
+            "33203303",
+            "40510018",
+            "31354055",
+            "31936452",
+            "33725106",
+            "34798604",
+            "33527472",
+            "40006560"
+          ],
+          "total_articles": 27
+        },
+        {
+          "disease_id": "@DISEASE_Hemorrhage",
+          "disease_name": "Hemorrhage",
+          "pmids": [
+            "37306928",
+            "33450605",
+            "31354055",
+            "31936452",
+            "23667741",
+            "24275850",
+            "25749474",
+            "29617457",
+            "22197047",
+            "20858477"
+          ],
+          "total_articles": 28
+        },
+        {
+          "disease_id": "@DISEASE_Hypertension",
+          "disease_name": "Hypertension",
+          "pmids": [
+            "37055870",
+            "32982353",
+            "36738987",
+            "35724860",
+            "26312070",
+            "3117717",
+            "27087100",
+            "19262486",
+            "21454164",
+            "23592934"
+          ],
+          "total_articles": 32
+        },
+        {
+          "disease_id": "@DISEASE_Reperfusion_Injury",
+          "disease_name": "Reperfusion Injury",
+          "pmids": [
+            "33450605",
+            "40209872",
+            "32086560",
+            "34990309",
+            "33463481",
+            "28740332",
+            "11568135",
+            "19499842",
+            "16850529",
+            "21316351"
+          ],
+          "total_articles": 25
+        }
+      ]
+    },
+    {
+      "drug_name": "glyburide",
+      "example_disease": "",
+      "drug_id": "@CHEMICAL_Glucovance",
+      "disease_ids": [
+        "@DISEASE_Diabetes_Mellitus_Type_2",
+        "@DISEASE_Diabetes_Mellitus",
+        "@DISEASE_Metabolic_Diseases"
+      ],
+      "total_disease_entities": 3,
+      "evidence": [
+        {
+          "disease_id": "@DISEASE_Diabetes_Mellitus_Type_2",
+          "disease_name": "Diabetes Mellitus Type 2",
+          "pmids": [
+            "11077467",
+            "12945247",
+            "16846398",
+            "15588116",
+            "12147149",
+            "12452739",
+            "15529514",
+            "12877648"
+          ],
+          "total_articles": 8
+        },
+        {
+          "disease_id": "@DISEASE_Diabetes_Mellitus",
+          "disease_name": "Diabetes Mellitus",
+          "pmids": [
+            "32010347"
+          ],
+          "total_articles": 1
+        },
+        {
+          "disease_id": "@DISEASE_Metabolic_Diseases",
+          "disease_name": "Metabolic Diseases",
+          "pmids": [
+            "12945247"
+          ],
+          "total_articles": 1
+        }
+      ]
+    }
+  ],
+  "dropped_no_relations": [
+    {
+      "drug_name": "simvastatin",
+      "drug_id": "@CHEMICAL_beta_hydroxy_simvastatin_acid"
+    },
+    {
+      "drug_name": "lisinopril",
+      "drug_id": "@CHEMICAL_18F_fluorobenzoyl_lisinopril"
+    },
+    {
+      "drug_name": "lisinopril",
+      "drug_id": "@CHEMICAL_BL_19"
+    },
+    {
+      "drug_name": "amlodipine",
+      "drug_id": "@CHEMICAL_Viacoram"
+    },
+    {
+      "drug_name": "omeprazole",
+      "drug_id": "@CHEMICAL_omeprazole_acid"
+    },
+    {
+      "drug_name": "omeprazole",
+      "drug_id": "@CHEMICAL_omeprazole_cyclic_sulfenamide"
+    },
+    {
+      "drug_name": "omeprazole",
+      "drug_id": "@CHEMICAL_omeprazole_sulfone"
+    },
+    {
+      "drug_name": "omeprazole",
+      "drug_id": "@CHEMICAL_5_hydroxymethylomeprazole"
+    },
+    {
+      "drug_name": "omeprazole",
+      "drug_id": "@CHEMICAL_omeprazole_N_oxide"
+    },
+    {
+      "drug_name": "furosemide",
+      "drug_id": "@CHEMICAL_butoxymethylene_furosemide"
+    },
+    {
+      "drug_name": "warfarin",
+      "drug_id": "@CHEMICAL_Warfarin_syndrome"
+    },
+    {
+      "drug_name": "warfarin",
+      "drug_id": "@CHEMICAL_6_hydroxywarfarin"
+    },
+    {
+      "drug_name": "warfarin",
+      "drug_id": "@CHEMICAL_methylsulfinylwarfarin"
+    },
+    {
+      "drug_name": "levofloxacin",
+      "drug_id": "@CHEMICAL_levofloxacin_ethoxycarbonyl_1_ethyl_hemiacetal_ester"
+    },
+    {
+      "drug_name": "glyburide",
+      "drug_id": "@CHEMICAL_4_transhydroxy_glyburide"
+    }
+  ],
+  "started_at": "2025-11-09 19:09:30",
+  "hardcoded_drugs": true
+}

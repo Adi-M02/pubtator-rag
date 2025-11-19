@@ -1,0 +1,2105 @@
+drug_name,drug_id,disease_name,disease_id,pmid_count,total_articles
+metformin,@CHEMICAL_Metformin,Diabetes Mellitus Type 2,@DISEASE_Diabetes_Mellitus_Type_2,10,8188
+metformin,@CHEMICAL_Metformin,Diabetes Mellitus,@DISEASE_Diabetes_Mellitus,10,5049
+metformin,@CHEMICAL_Metformin,Neoplasms,@DISEASE_Neoplasms,10,2388
+metformin,@CHEMICAL_Metformin,Polycystic Ovary Syndrome,@DISEASE_Polycystic_Ovary_Syndrome,10,1746
+metformin,@CHEMICAL_Metformin,Obesity,@DISEASE_Obesity,10,1399
+metformin,@CHEMICAL_Metformin,Inflammation,@DISEASE_Inflammation,10,1175
+metformin,@CHEMICAL_Metformin,Insulin Resistance,@DISEASE_Insulin_Resistance,10,1228
+metformin,@CHEMICAL_Metformin,Breast Neoplasms,@DISEASE_Breast_Neoplasms,10,568
+metformin,@CHEMICAL_Metformin,Diabetes Gestational,@DISEASE_Diabetes_Gestational,10,504
+metformin,@CHEMICAL_Metformin,Hyperglycemia,@DISEASE_Hyperglycemia,10,391
+metformin,@CHEMICAL_Metformin,Overweight,@DISEASE_Overweight,10,361
+metformin,@CHEMICAL_Metformin,Metabolic Syndrome,@DISEASE_Metabolic_Syndrome,10,351
+metformin,@CHEMICAL_Metformin,Weight Gain,@DISEASE_Weight_Gain,10,396
+metformin,@CHEMICAL_Metformin,Cardiovascular Diseases,@DISEASE_Cardiovascular_Diseases,10,429
+metformin,@CHEMICAL_Metformin,Colorectal Neoplasms,@DISEASE_Colorectal_Neoplasms,10,305
+metformin,@CHEMICAL_Metformin,Glucose Intolerance,@DISEASE_Glucose_Intolerance,10,289
+metformin,@CHEMICAL_Metformin,Non alcoholic Fatty Liver Disease,@DISEASE_Non_alcoholic_Fatty_Liver_Disease,10,284
+metformin,@CHEMICAL_Metformin,Weight Loss,@DISEASE_Weight_Loss,10,493
+metformin,@CHEMICAL_Metformin,Carcinoma Hepatocellular,@DISEASE_Carcinoma_Hepatocellular,10,276
+metformin,@CHEMICAL_Metformin,Prediabetic State,@DISEASE_Prediabetic_State,10,245
+metformin,@CHEMICAL_Metformin,Prostatic Neoplasms,@DISEASE_Prostatic_Neoplasms,10,250
+metformin,@CHEMICAL_Metformin,Hyperglycemic Hyperosmolar Nonketotic Coma,@DISEASE_Hyperglycemic_Hyperosmolar_Nonketotic_Coma,10,218
+metformin,@CHEMICAL_Metformin,Fibrosis,@DISEASE_Fibrosis,10,217
+metformin,@CHEMICAL_Metformin,Diabetes Mellitus Type 1,@DISEASE_Diabetes_Mellitus_Type_1,10,196
+metformin,@CHEMICAL_Metformin,Pancreatic Neoplasms,@DISEASE_Pancreatic_Neoplasms,10,202
+metformin,@CHEMICAL_Metformin,Heart Failure,@DISEASE_Heart_Failure,10,249
+metformin,@CHEMICAL_Metformin,Hypertension,@DISEASE_Hypertension,10,201
+metformin,@CHEMICAL_Metformin,COVID 19,@DISEASE_COVID_19,10,184
+metformin,@CHEMICAL_Metformin,Myotonic Dystrophy,@DISEASE_Myotonic_Dystrophy,10,151
+metformin,@CHEMICAL_Metformin,Metabolic Diseases,@DISEASE_Metabolic_Diseases,10,188
+metformin,@CHEMICAL_Metformin,Endometrial Neoplasms,@DISEASE_Endometrial_Neoplasms,10,167
+metformin,@CHEMICAL_Metformin,Ovarian Neoplasms,@DISEASE_Ovarian_Neoplasms,10,147
+metformin,@CHEMICAL_Metformin,Fatty Liver,@DISEASE_Fatty_Liver,10,161
+metformin,@CHEMICAL_Metformin,Kidney Diseases,@DISEASE_Kidney_Diseases,10,284
+metformin,@CHEMICAL_Metformin,Hyperinsulinism,@DISEASE_Hyperinsulinism,10,159
+metformin,@CHEMICAL_Metformin,Lung Neoplasms,@DISEASE_Lung_Neoplasms,10,154
+metformin,@CHEMICAL_Metformin,Atherosclerosis,@DISEASE_Atherosclerosis,10,162
+metformin,@CHEMICAL_Metformin,Alzheimer Disease,@DISEASE_Alzheimer_Disease,10,150
+metformin,@CHEMICAL_Metformin,Death,@DISEASE_Death,10,166
+metformin,@CHEMICAL_Metformin,Hypoglycemia,@DISEASE_Hypoglycemia,10,336
+metformin,@CHEMICAL_Metformin,Neoplasm Metastasis,@DISEASE_Neoplasm_Metastasis,10,128
+metformin,@CHEMICAL_Metformin,Cognition Disorders,@DISEASE_Cognition_Disorders,10,151
+metformin,@CHEMICAL_Metformin,Carcinoma Non Small Cell Lung,@DISEASE_Carcinoma_Non_Small_Cell_Lung,10,117
+metformin,@CHEMICAL_Metformin,Infertility,@DISEASE_Infertility,10,114
+metformin,@CHEMICAL_Metformin,Myocardial Infarction,@DISEASE_Myocardial_Infarction,10,139
+metformin,@CHEMICAL_Metformin,Hirsutism,@DISEASE_Hirsutism,10,100
+metformin,@CHEMICAL_Metformin,Diabetic Nephropathies,@DISEASE_Diabetic_Nephropathies,10,109
+metformin,@CHEMICAL_Metformin,Hyperandrogenism,@DISEASE_Hyperandrogenism,10,106
+metformin,@CHEMICAL_Metformin,Neurodegenerative Diseases,@DISEASE_Neurodegenerative_Diseases,10,99
+metformin,@CHEMICAL_Metformin,Mitochondrial Diseases,@DISEASE_Mitochondrial_Diseases,10,141
+metformin,@CHEMICAL_Metformin,Renal Insufficiency Chronic,@DISEASE_Renal_Insufficiency_Chronic,10,148
+metformin,@CHEMICAL_Metformin,Carcinogenesis,@DISEASE_Carcinogenesis,10,107
+metformin,@CHEMICAL_Metformin,Hypoxia,@DISEASE_Hypoxia,10,115
+metformin,@CHEMICAL_Metformin,Heart Diseases,@DISEASE_Heart_Diseases,10,105
+metformin,@CHEMICAL_Metformin,Drug Related Side Effects and Adverse Reactions,@DISEASE_Drug_Related_Side_Effects_and_Adverse_Reactions,10,271
+metformin,@CHEMICAL_Metformin,Stroke,@DISEASE_Stroke,10,110
+metformin,@CHEMICAL_Metformin,Reperfusion Injury,@DISEASE_Reperfusion_Injury,10,81
+metformin,@CHEMICAL_Metformin,Dyslipidemias,@DISEASE_Dyslipidemias,10,100
+metformin,@CHEMICAL_Metformin,Stomach Neoplasms,@DISEASE_Stomach_Neoplasms,10,85
+metformin,@CHEMICAL_Metformin,Osteoporosis,@DISEASE_Osteoporosis,10,80
+metformin,@CHEMICAL_Metformin,Ischemia,@DISEASE_Ischemia,10,78
+metformin,@CHEMICAL_Metformin,Pre Eclampsia,@DISEASE_Pre_Eclampsia,10,87
+metformin,@CHEMICAL_Metformin,Liver Failure,@DISEASE_Liver_Failure,10,107
+metformin,@CHEMICAL_Metformin,Depressive Disorder,@DISEASE_Depressive_Disorder,10,92
+metformin,@CHEMICAL_Metformin,Squamous Cell Carcinoma of Head and Neck,@DISEASE_Squamous_Cell_Carcinoma_of_Head_and_Neck,10,73
+metformin,@CHEMICAL_Metformin,Abortion Spontaneous,@DISEASE_Abortion_Spontaneous,10,75
+metformin,@CHEMICAL_Metformin,Dementia,@DISEASE_Dementia,10,76
+metformin,@CHEMICAL_Metformin,Glioblastoma,@DISEASE_Glioblastoma,10,68
+metformin,@CHEMICAL_Metformin,Melanoma,@DISEASE_Melanoma,10,66
+metformin,@CHEMICAL_Metformin,Osteoarthritis,@DISEASE_Osteoarthritis,10,68
+metformin,@CHEMICAL_Metformin,Vascular Diseases,@DISEASE_Vascular_Diseases,10,82
+metformin,@CHEMICAL_Metformin,Chemical and Drug Induced Liver Injury,@DISEASE_Chemical_and_Drug_Induced_Liver_Injury,10,89
+metformin,@CHEMICAL_Metformin,Acne Vulgaris,@DISEASE_Acne_Vulgaris,10,59
+metformin,@CHEMICAL_Metformin,Liver Diseases,@DISEASE_Liver_Diseases,10,78
+metformin,@CHEMICAL_Metformin,Nerve Degeneration,@DISEASE_Nerve_Degeneration,10,65
+metformin,@CHEMICAL_Metformin,Neuroinflammatory Diseases,@DISEASE_Neuroinflammatory_Diseases,10,64
+metformin,@CHEMICAL_Metformin,Tuberculosis,@DISEASE_Tuberculosis,10,62
+metformin,@CHEMICAL_Metformin,Parkinson Disease,@DISEASE_Parkinson_Disease,10,65
+metformin,@CHEMICAL_Metformin,Diabetes Complications,@DISEASE_Diabetes_Complications,10,59
+metformin,@CHEMICAL_Metformin,Pain,@DISEASE_Pain,10,65
+metformin,@CHEMICAL_Metformin,Coronary Artery Disease,@DISEASE_Coronary_Artery_Disease,10,53
+metformin,@CHEMICAL_Metformin,Triple Negative Breast Neoplasms,@DISEASE_Triple_Negative_Breast_Neoplasms,10,57
+metformin,@CHEMICAL_Metformin,Bone Diseases,@DISEASE_Bone_Diseases,10,57
+metformin,@CHEMICAL_Metformin,Endometrial Hyperplasia,@DISEASE_Endometrial_Hyperplasia,10,51
+metformin,@CHEMICAL_Metformin,Ovarian Diseases,@DISEASE_Ovarian_Diseases,10,52
+metformin,@CHEMICAL_Metformin,Schizophrenia,@DISEASE_Schizophrenia,10,54
+metformin,@CHEMICAL_Metformin,Infarction,@DISEASE_Infarction,10,54
+metformin,@CHEMICAL_Metformin,Carcinoma Pancreatic Ductal,@DISEASE_Carcinoma_Pancreatic_Ductal,10,48
+metformin,@CHEMICAL_Metformin,Urinary Bladder Neoplasms,@DISEASE_Urinary_Bladder_Neoplasms,10,50
+metformin,@CHEMICAL_Metformin,Ovarian Hyperstimulation Syndrome,@DISEASE_Ovarian_Hyperstimulation_Syndrome,10,49
+metformin,@CHEMICAL_Metformin,Aortic Aneurysm Abdominal,@DISEASE_Aortic_Aneurysm_Abdominal,10,45
+metformin,@CHEMICAL_Metformin,Carcinoma Renal Cell,@DISEASE_Carcinoma_Renal_Cell,10,41
+metformin,@CHEMICAL_Metformin,Glioma,@DISEASE_Glioma,10,45
+metformin,@CHEMICAL_Metformin,Memory Disorders,@DISEASE_Memory_Disorders,10,52
+metformin,@CHEMICAL_Metformin,Mental Disorders,@DISEASE_Mental_Disorders,10,48
+metformin,@CHEMICAL_Metformin,Neoplasms Adipose Tissue,@DISEASE_Neoplasms_Adipose_Tissue,10,49
+metformin,@CHEMICAL_Metformin,Brain Ischemia,@DISEASE_Brain_Ischemia,10,44
+metformin,@CHEMICAL_Metformin,Infections,@DISEASE_Infections,10,51
+metformin,@CHEMICAL_Metformin,Anovulation,@DISEASE_Anovulation,10,43
+metformin,@CHEMICAL_Metformin,Cardiotoxicity,@DISEASE_Cardiotoxicity,10,39
+metformin,@CHEMICAL_Metformin,Macular Degeneration,@DISEASE_Macular_Degeneration,10,41
+metformin,@CHEMICAL_Metformin,Thyroid Neoplasms,@DISEASE_Thyroid_Neoplasms,10,40
+metformin,@CHEMICAL_Metformin,Uterine Cervical Neoplasms,@DISEASE_Uterine_Cervical_Neoplasms,10,40
+metformin,@CHEMICAL_Metformin,Sepsis,@DISEASE_Sepsis,10,50
+metformin,@CHEMICAL_Metformin,HIV Infections,@DISEASE_HIV_Infections,10,38
+metformin,@CHEMICAL_Metformin,Liver Cirrhosis,@DISEASE_Liver_Cirrhosis,10,39
+metformin,@CHEMICAL_Metformin,Cardiomyopathies,@DISEASE_Cardiomyopathies,10,37
+metformin,@CHEMICAL_Metformin,Hypothyroidism,@DISEASE_Hypothyroidism,10,47
+metformin,@CHEMICAL_Metformin,Neurologic Manifestations,@DISEASE_Neurologic_Manifestations,10,50
+metformin,@CHEMICAL_Metformin,Fatty Liver Alcoholic,@DISEASE_Fatty_Liver_Alcoholic,10,36
+metformin,@CHEMICAL_Metformin,Brain Injuries,@DISEASE_Brain_Injuries,10,32
+metformin,@CHEMICAL_Metformin,Coronary Disease,@DISEASE_Coronary_Disease,10,41
+metformin,@CHEMICAL_Metformin,Fractures Bone,@DISEASE_Fractures_Bone,10,43
+metformin,@CHEMICAL_Metformin,Hyperlipidemias,@DISEASE_Hyperlipidemias,10,39
+metformin,@CHEMICAL_Metformin,Multiple Myeloma,@DISEASE_Multiple_Myeloma,10,35
+metformin,@CHEMICAL_Metformin,Renal Insufficiency,@DISEASE_Renal_Insufficiency,10,103
+metformin,@CHEMICAL_Metformin,Wounds and Injuries,@DISEASE_Wounds_and_Injuries,10,34
+metformin,@CHEMICAL_Metformin,Cerebral Infarction,@DISEASE_Cerebral_Infarction,10,43
+metformin,@CHEMICAL_Metformin,Hyperalgesia,@DISEASE_Hyperalgesia,10,34
+metformin,@CHEMICAL_Metformin,Polycystic Kidney Autosomal Dominant,@DISEASE_Polycystic_Kidney_Autosomal_Dominant,10,32
+metformin,@CHEMICAL_Metformin,Acanthosis Nigricans,@DISEASE_Acanthosis_Nigricans,10,35
+metformin,@CHEMICAL_Metformin,Embolism Fat,@DISEASE_Embolism_Fat,10,35
+metformin,@CHEMICAL_Metformin,Adenocarcinoma,@DISEASE_Adenocarcinoma,10,29
+metformin,@CHEMICAL_Metformin,Anxiety,@DISEASE_Anxiety,10,38
+metformin,@CHEMICAL_Metformin,Asthma,@DISEASE_Asthma,10,35
+metformin,@CHEMICAL_Metformin,Diabetic Cardiomyopathies,@DISEASE_Diabetic_Cardiomyopathies,10,32
+metformin,@CHEMICAL_Metformin,Head and Neck Neoplasms,@DISEASE_Head_and_Neck_Neoplasms,10,31
+metformin,@CHEMICAL_Metformin,Periodontitis,@DISEASE_Periodontitis,10,30
+metformin,@CHEMICAL_Metformin,Adenoma,@DISEASE_Adenoma,10,29
+metformin,@CHEMICAL_Metformin,Diabetic Retinopathy,@DISEASE_Diabetic_Retinopathy,10,31
+metformin,@CHEMICAL_Metformin,Neuralgia,@DISEASE_Neuralgia,10,30
+metformin,@CHEMICAL_Metformin,Pulmonary Disease Chronic Obstructive,@DISEASE_Pulmonary_Disease_Chronic_Obstructive,10,30
+metformin,@CHEMICAL_Metformin,Seizures,@DISEASE_Seizures,10,34
+metformin,@CHEMICAL_Metformin,Cholangiocarcinoma,@DISEASE_Cholangiocarcinoma,10,27
+metformin,@CHEMICAL_Metformin,Disease,@DISEASE_Disease,10,30
+metformin,@CHEMICAL_Metformin,Esophageal Squamous Cell Carcinoma,@DISEASE_Esophageal_Squamous_Cell_Carcinoma,10,28
+metformin,@CHEMICAL_Metformin,Hyperprolactinemia,@DISEASE_Hyperprolactinemia,10,27
+metformin,@CHEMICAL_Metformin,Malformations of Cortical Development Group I,@DISEASE_Malformations_of_Cortical_Development_Group_I,10,27
+metformin,@CHEMICAL_Metformin,Paroxysmal ventricular fibrillation,@DISEASE_Paroxysmal_ventricular_fibrillation,10,27
+metformin,@CHEMICAL_Metformin,Ventricular Remodeling,@DISEASE_Ventricular_Remodeling,10,32
+metformin,@CHEMICAL_Metformin,Epilepsy,@DISEASE_Epilepsy,10,26
+metformin,@CHEMICAL_Metformin,Glucose Metabolism Disorders,@DISEASE_Glucose_Metabolism_Disorders,10,29
+metformin,@CHEMICAL_Metformin,Leukemia,@DISEASE_Leukemia,10,31
+metformin,@CHEMICAL_Metformin,Myocardial Ischemia,@DISEASE_Myocardial_Ischemia,10,30
+metformin,@CHEMICAL_Metformin,Psoriasis,@DISEASE_Psoriasis,10,26
+metformin,@CHEMICAL_Metformin,Acute Kidney Injury,@DISEASE_Acute_Kidney_Injury,10,153
+metformin,@CHEMICAL_Metformin,Arthritis Rheumatoid,@DISEASE_Arthritis_Rheumatoid,10,26
+metformin,@CHEMICAL_Metformin,Chronic Disease,@DISEASE_Chronic_Disease,10,27
+metformin,@CHEMICAL_Metformin,Lung Diseases,@DISEASE_Lung_Diseases,10,33
+metformin,@CHEMICAL_Metformin,Congenital Hyperinsulinism,@DISEASE_Congenital_Hyperinsulinism,10,26
+metformin,@CHEMICAL_Metformin,Fetal Macrosomia,@DISEASE_Fetal_Macrosomia,10,28
+metformin,@CHEMICAL_Metformin,Lupus Erythematosus Systemic,@DISEASE_Lupus_Erythematosus_Systemic,10,25
+metformin,@CHEMICAL_Metformin,Virilism,@DISEASE_Virilism,10,25
+metformin,@CHEMICAL_Metformin,Carcinoma Squamous Cell,@DISEASE_Carcinoma_Squamous_Cell,10,24
+metformin,@CHEMICAL_Metformin,Hidradenitis Suppurativa,@DISEASE_Hidradenitis_Suppurativa,10,24
+metformin,@CHEMICAL_Metformin,Hypertension Pulmonary,@DISEASE_Hypertension_Pulmonary,10,23
+metformin,@CHEMICAL_Metformin,Hypertrophy,@DISEASE_Hypertrophy,10,27
+metformin,@CHEMICAL_Metformin,Multiple Sclerosis,@DISEASE_Multiple_Sclerosis,10,23
+metformin,@CHEMICAL_Metformin,Necrosis,@DISEASE_Necrosis,10,45
+metformin,@CHEMICAL_Metformin,Premature Birth,@DISEASE_Premature_Birth,10,38
+metformin,@CHEMICAL_Metformin,Prostatic Neoplasms Castration Resistant,@DISEASE_Prostatic_Neoplasms_Castration_Resistant,10,27
+metformin,@CHEMICAL_Metformin,Atrial Fibrillation,@DISEASE_Atrial_Fibrillation,10,27
+metformin,@CHEMICAL_Metformin,Autoimmune Diseases,@DISEASE_Autoimmune_Diseases,10,25
+metformin,@CHEMICAL_Metformin,Neurotoxicity Syndromes,@DISEASE_Neurotoxicity_Syndromes,10,30
+metformin,@CHEMICAL_Metformin,Proteinuria,@DISEASE_Proteinuria,10,26
+metformin,@CHEMICAL_Metformin,Pulmonary Fibrosis,@DISEASE_Pulmonary_Fibrosis,10,24
+metformin,@CHEMICAL_Metformin,Spinal Cord Injuries,@DISEASE_Spinal_Cord_Injuries,10,23
+metformin,@CHEMICAL_Metformin,Cysts,@DISEASE_Cysts,10,24
+metformin,@CHEMICAL_Metformin,Dysmenorrhea,@DISEASE_Dysmenorrhea,10,22
+metformin,@CHEMICAL_Metformin,Esophageal Neoplasms,@DISEASE_Esophageal_Neoplasms,10,25
+metformin,@CHEMICAL_Metformin,Frailty,@DISEASE_Frailty,10,24
+metformin,@CHEMICAL_Metformin,Hypertriglyceridemia,@DISEASE_Hypertriglyceridemia,10,29
+metformin,@CHEMICAL_Metformin,Pneumonia,@DISEASE_Pneumonia,10,25
+metformin,@CHEMICAL_Metformin,hypoglycemic encephalopathy,@DISEASE_hypoglycemic_encephalopathy,10,81
+metformin,@CHEMICAL_Metformin,Inflammatory Bowel Diseases,@DISEASE_Inflammatory_Bowel_Diseases,10,23
+metformin,@CHEMICAL_Metformin,Kidney Failure Chronic,@DISEASE_Kidney_Failure_Chronic,10,34
+metformin,@CHEMICAL_Metformin,Kidney Neoplasms,@DISEASE_Kidney_Neoplasms,10,25
+metformin,@CHEMICAL_Metformin,Nervous System Diseases,@DISEASE_Nervous_System_Diseases,10,47
+metformin,@CHEMICAL_Metformin,Rectal Neoplasms,@DISEASE_Rectal_Neoplasms,10,22
+metformin,@CHEMICAL_Metformin,Carcinoma Ovarian Epithelial,@DISEASE_Carcinoma_Ovarian_Epithelial,10,19
+metformin,@CHEMICAL_Metformin,Diabetic Angiopathies,@DISEASE_Diabetic_Angiopathies,10,21
+metformin,@CHEMICAL_Metformin,Diabetic Neuropathies,@DISEASE_Diabetic_Neuropathies,10,27
+metformin,@CHEMICAL_Metformin,HAIR AN syndrome,@DISEASE_HAIR_AN_syndrome,10,16
+metformin,@CHEMICAL_Metformin,Huntington Disease,@DISEASE_Huntington_Disease,10,20
+metformin,@CHEMICAL_Metformin,Hypertension Pregnancy Induced,@DISEASE_Hypertension_Pregnancy_Induced,10,20
+metformin,@CHEMICAL_Metformin,Hypoxia Brain,@DISEASE_Hypoxia_Brain,10,32
+metformin,@CHEMICAL_Metformin,Leukemia Myeloid Acute,@DISEASE_Leukemia_Myeloid_Acute,10,20
+metformin,@CHEMICAL_Metformin,Lung Injury,@DISEASE_Lung_Injury,10,19
+metformin,@CHEMICAL_Metformin,Lymphoma,@DISEASE_Lymphoma,10,21
+metformin,@CHEMICAL_Metformin,Osteoarthritis Knee,@DISEASE_Osteoarthritis_Knee,10,20
+metformin,@CHEMICAL_Metformin,Reproductive Tract Infections,@DISEASE_Reproductive_Tract_Infections,10,24
+metformin,@CHEMICAL_Metformin,Autism Spectrum Disorder,@DISEASE_Autism_Spectrum_Disorder,10,18
+metformin,@CHEMICAL_Metformin,Cell Transformation Neoplastic,@DISEASE_Cell_Transformation_Neoplastic,10,18
+metformin,@CHEMICAL_Metformin,Colitis,@DISEASE_Colitis,10,19
+metformin,@CHEMICAL_Metformin,Diabetic Ketoacidosis,@DISEASE_Diabetic_Ketoacidosis,10,31
+metformin,@CHEMICAL_Metformin,Cartilage Diseases,@DISEASE_Cartilage_Diseases,10,18
+metformin,@CHEMICAL_Metformin,Cognitive Dysfunction,@DISEASE_Cognitive_Dysfunction,10,25
+metformin,@CHEMICAL_Metformin,Endocrine System Diseases,@DISEASE_Endocrine_System_Diseases,10,31
+metformin,@CHEMICAL_Metformin,Endometriosis,@DISEASE_Endometriosis,10,20
+metformin,@CHEMICAL_Metformin,Fragile X Syndrome,@DISEASE_Fragile_X_Syndrome,10,17
+metformin,@CHEMICAL_rosiglitazone_metformin_combination,Diabetes Mellitus Type 2,@DISEASE_Diabetes_Mellitus_Type_2,5,5
+metformin,@CHEMICAL_rosiglitazone_metformin_combination,Carcinoma Hepatocellular,@DISEASE_Carcinoma_Hepatocellular,1,1
+metformin,@CHEMICAL_rosiglitazone_metformin_combination,Cardiovascular Diseases,@DISEASE_Cardiovascular_Diseases,2,2
+metformin,@CHEMICAL_rosiglitazone_metformin_combination,Diabetes Mellitus,@DISEASE_Diabetes_Mellitus,1,1
+metformin,@CHEMICAL_rosiglitazone_metformin_combination,Drug Related Side Effects and Adverse Reactions,@DISEASE_Drug_Related_Side_Effects_and_Adverse_Reactions,1,1
+metformin,@CHEMICAL_rosiglitazone_metformin_combination,Glucose Intolerance,@DISEASE_Glucose_Intolerance,1,1
+metformin,@CHEMICAL_rosiglitazone_metformin_combination,Insulin Resistance,@DISEASE_Insulin_Resistance,1,1
+metformin,@CHEMICAL_rosiglitazone_metformin_combination,Intracranial Arteriovenous Malformations,@DISEASE_Intracranial_Arteriovenous_Malformations,1,1
+metformin,@CHEMICAL_rosiglitazone_metformin_combination,Metabolic Diseases,@DISEASE_Metabolic_Diseases,1,1
+metformin,@CHEMICAL_rosiglitazone_metformin_combination,Obesity,@DISEASE_Obesity,1,1
+metformin,@CHEMICAL_Sitagliptin_Phosphate_Metformin_Hydrochloride_Drug_Combination,Diabetes Mellitus Type 2,@DISEASE_Diabetes_Mellitus_Type_2,4,4
+metformin,@CHEMICAL_Sitagliptin_Phosphate_Metformin_Hydrochloride_Drug_Combination,Diabetes Mellitus,@DISEASE_Diabetes_Mellitus,1,1
+metformin,@CHEMICAL_Sitagliptin_Phosphate_Metformin_Hydrochloride_Drug_Combination,Hyperglycemia,@DISEASE_Hyperglycemia,1,1
+metformin,@CHEMICAL_Glucovance,Diabetes Mellitus Type 2,@DISEASE_Diabetes_Mellitus_Type_2,8,8
+metformin,@CHEMICAL_Glucovance,Diabetes Mellitus,@DISEASE_Diabetes_Mellitus,1,1
+metformin,@CHEMICAL_Glucovance,Metabolic Diseases,@DISEASE_Metabolic_Diseases,1,1
+metformin,@CHEMICAL_TP_113,Insulin Resistance,@DISEASE_Insulin_Resistance,1,1
+metformin,@CHEMICAL_TP_113,Obesity,@DISEASE_Obesity,1,1
+atenolol,@CHEMICAL_Atenolol,Hypertension,@DISEASE_Hypertension,10,1474
+atenolol,@CHEMICAL_Atenolol,Essential Hypertension,@DISEASE_Essential_Hypertension,10,367
+atenolol,@CHEMICAL_Atenolol,Hypertrophy Left Ventricular,@DISEASE_Hypertrophy_Left_Ventricular,10,163
+atenolol,@CHEMICAL_Atenolol,Angina Pectoris,@DISEASE_Angina_Pectoris,10,143
+atenolol,@CHEMICAL_Atenolol,Tachycardia,@DISEASE_Tachycardia,10,136
+atenolol,@CHEMICAL_Atenolol,Angina Stable,@DISEASE_Angina_Stable,10,116
+atenolol,@CHEMICAL_Atenolol,Myocardial Infarction,@DISEASE_Myocardial_Infarction,10,127
+atenolol,@CHEMICAL_Atenolol,Coronary Artery Disease,@DISEASE_Coronary_Artery_Disease,10,83
+atenolol,@CHEMICAL_Atenolol,Cardiovascular Diseases,@DISEASE_Cardiovascular_Diseases,10,89
+atenolol,@CHEMICAL_Atenolol,Stroke,@DISEASE_Stroke,10,111
+atenolol,@CHEMICAL_Atenolol,Arrhythmias Cardiac,@DISEASE_Arrhythmias_Cardiac,10,78
+atenolol,@CHEMICAL_Atenolol,Hypotension,@DISEASE_Hypotension,10,139
+atenolol,@CHEMICAL_Atenolol,Heart Failure,@DISEASE_Heart_Failure,10,66
+atenolol,@CHEMICAL_Atenolol,Pulmonary Arterial Hypertension,@DISEASE_Pulmonary_Arterial_Hypertension,10,59
+atenolol,@CHEMICAL_Atenolol,Heart Diseases,@DISEASE_Heart_Diseases,10,62
+atenolol,@CHEMICAL_Atenolol,Ischemia,@DISEASE_Ischemia,10,58
+atenolol,@CHEMICAL_Atenolol,Diabetes Mellitus,@DISEASE_Diabetes_Mellitus,10,69
+atenolol,@CHEMICAL_Atenolol,Atrial Fibrillation,@DISEASE_Atrial_Fibrillation,10,44
+atenolol,@CHEMICAL_Atenolol,Diabetes Mellitus Type 2,@DISEASE_Diabetes_Mellitus_Type_2,10,39
+atenolol,@CHEMICAL_Atenolol,Isolated Systolic Hypertension,@DISEASE_Isolated_Systolic_Hypertension,10,39
+atenolol,@CHEMICAL_Atenolol,Myocardial Ischemia,@DISEASE_Myocardial_Ischemia,10,39
+atenolol,@CHEMICAL_Atenolol,Pressure Ulcer,@DISEASE_Pressure_Ulcer,10,37
+atenolol,@CHEMICAL_Atenolol,Coronary Disease,@DISEASE_Coronary_Disease,10,39
+atenolol,@CHEMICAL_Atenolol,Brain Ischemia,@DISEASE_Brain_Ischemia,10,32
+atenolol,@CHEMICAL_Atenolol,Death,@DISEASE_Death,10,36
+atenolol,@CHEMICAL_Atenolol,Ventricular Dysfunction Left,@DISEASE_Ventricular_Dysfunction_Left,10,35
+atenolol,@CHEMICAL_Atenolol,Migraine Disorders,@DISEASE_Migraine_Disorders,10,31
+atenolol,@CHEMICAL_Atenolol,Marfan Syndrome,@DISEASE_Marfan_Syndrome,10,30
+atenolol,@CHEMICAL_Atenolol,Depressive Disorder,@DISEASE_Depressive_Disorder,10,52
+atenolol,@CHEMICAL_Atenolol,Hemangioma capillary infantile,@DISEASE_Hemangioma_capillary_infantile,10,24
+atenolol,@CHEMICAL_Atenolol,Asthma,@DISEASE_Asthma,10,24
+atenolol,@CHEMICAL_Atenolol,Syncope,@DISEASE_Syncope,10,25
+atenolol,@CHEMICAL_Atenolol,Bradycardia,@DISEASE_Bradycardia,10,88
+atenolol,@CHEMICAL_Atenolol,Infarction,@DISEASE_Infarction,10,21
+atenolol,@CHEMICAL_Atenolol,Ventricular Premature Complexes,@DISEASE_Ventricular_Premature_Complexes,10,22
+atenolol,@CHEMICAL_Atenolol,Heart Murmurs,@DISEASE_Heart_Murmurs,10,21
+atenolol,@CHEMICAL_Atenolol,Status Asthmaticus,@DISEASE_Status_Asthmaticus,10,20
+atenolol,@CHEMICAL_Atenolol,Cardiac Output Low,@DISEASE_Cardiac_Output_Low,10,19
+atenolol,@CHEMICAL_Atenolol,Cardiomyopathy Dilated,@DISEASE_Cardiomyopathy_Dilated,10,20
+atenolol,@CHEMICAL_Atenolol,Long QT Syndrome,@DISEASE_Long_QT_Syndrome,10,21
+atenolol,@CHEMICAL_Atenolol,Pain,@DISEASE_Pain,10,18
+atenolol,@CHEMICAL_Atenolol,Tachycardia Supraventricular,@DISEASE_Tachycardia_Supraventricular,10,18
+atenolol,@CHEMICAL_Atenolol,Tachycardia Ventricular,@DISEASE_Tachycardia_Ventricular,10,18
+atenolol,@CHEMICAL_Atenolol,Hematologic Diseases,@DISEASE_Hematologic_Diseases,10,16
+atenolol,@CHEMICAL_Atenolol,Hyperthyroidism,@DISEASE_Hyperthyroidism,10,16
+atenolol,@CHEMICAL_Atenolol,Inflammation,@DISEASE_Inflammation,10,18
+atenolol,@CHEMICAL_Atenolol,Obesity,@DISEASE_Obesity,10,19
+atenolol,@CHEMICAL_Atenolol,Atherosclerosis,@DISEASE_Atherosclerosis,10,16
+atenolol,@CHEMICAL_Atenolol,Cardiomyopathy Hypertrophic,@DISEASE_Cardiomyopathy_Hypertrophic,10,16
+atenolol,@CHEMICAL_Atenolol,Kidney Diseases,@DISEASE_Kidney_Diseases,10,21
+atenolol,@CHEMICAL_Atenolol,Tremor,@DISEASE_Tremor,10,17
+atenolol,@CHEMICAL_Atenolol,Ventricular Fibrillation,@DISEASE_Ventricular_Fibrillation,10,18
+atenolol,@CHEMICAL_Atenolol,Anxiety,@DISEASE_Anxiety,10,17
+atenolol,@CHEMICAL_Atenolol,Hypertrophy,@DISEASE_Hypertrophy,10,16
+atenolol,@CHEMICAL_Atenolol,Proteinuria,@DISEASE_Proteinuria,10,14
+atenolol,@CHEMICAL_Atenolol,Ventricular Outflow Obstruction Left,@DISEASE_Ventricular_Outflow_Obstruction_Left,10,14
+atenolol,@CHEMICAL_Atenolol,Cardiomegaly,@DISEASE_Cardiomegaly,10,13
+atenolol,@CHEMICAL_Atenolol,Neurocirculatory Asthenia,@DISEASE_Neurocirculatory_Asthenia,10,13
+atenolol,@CHEMICAL_Atenolol,Optic Neuropathy Ischemic,@DISEASE_Optic_Neuropathy_Ischemic,10,15
+atenolol,@CHEMICAL_Atenolol,Pulmonary Disease Chronic Obstructive,@DISEASE_Pulmonary_Disease_Chronic_Obstructive,10,15
+atenolol,@CHEMICAL_Atenolol,Cardiomyopathies,@DISEASE_Cardiomyopathies,10,13
+atenolol,@CHEMICAL_Atenolol,Chest Pain,@DISEASE_Chest_Pain,10,14
+atenolol,@CHEMICAL_Atenolol,271245,@DISEASE_271245,10,11
+atenolol,@CHEMICAL_Atenolol,Blood Platelet Disorders,@DISEASE_Blood_Platelet_Disorders,10,12
+atenolol,@CHEMICAL_Atenolol,Metabolic Syndrome,@DISEASE_Metabolic_Syndrome,10,12
+atenolol,@CHEMICAL_Atenolol,Albuminuria,@DISEASE_Albuminuria,10,11
+atenolol,@CHEMICAL_Atenolol,Essential Tremor,@DISEASE_Essential_Tremor,10,10
+atenolol,@CHEMICAL_Atenolol,Glaucoma,@DISEASE_Glaucoma,10,11
+atenolol,@CHEMICAL_Atenolol,Hemangioma,@DISEASE_Hemangioma,10,10
+atenolol,@CHEMICAL_Atenolol,Syncope Vasovagal,@DISEASE_Syncope_Vasovagal,10,11
+atenolol,@CHEMICAL_Atenolol,Diabetic Nephropathies,@DISEASE_Diabetic_Nephropathies,9,9
+atenolol,@CHEMICAL_Atenolol,Headache,@DISEASE_Headache,10,21
+atenolol,@CHEMICAL_Atenolol,Mitral Valve Stenosis,@DISEASE_Mitral_Valve_Stenosis,10,10
+atenolol,@CHEMICAL_Atenolol,ST Elevation Myocardial Infarction,@DISEASE_ST_Elevation_Myocardial_Infarction,10,16
+atenolol,@CHEMICAL_Atenolol,Coronary Occlusion,@DISEASE_Coronary_Occlusion,8,8
+atenolol,@CHEMICAL_Atenolol,Diabetes Mellitus Type 1,@DISEASE_Diabetes_Mellitus_Type_1,8,8
+atenolol,@CHEMICAL_Atenolol,Hyperalgesia,@DISEASE_Hyperalgesia,8,8
+atenolol,@CHEMICAL_Atenolol,Hyperkinesis,@DISEASE_Hyperkinesis,8,8
+atenolol,@CHEMICAL_Atenolol,Neoplasms,@DISEASE_Neoplasms,10,15
+atenolol,@CHEMICAL_Atenolol,Seizures,@DISEASE_Seizures,9,9
+atenolol,@CHEMICAL_Atenolol,Thyroid Adenoma Hyperfunctioning,@DISEASE_Thyroid_Adenoma_Hyperfunctioning,8,8
+atenolol,@CHEMICAL_Atenolol,Dystonia 18,@DISEASE_Dystonia_18,8,8
+atenolol,@CHEMICAL_Atenolol,Fibrosis,@DISEASE_Fibrosis,10,11
+atenolol,@CHEMICAL_Atenolol,Intermittent Claudication,@DISEASE_Intermittent_Claudication,7,7
+atenolol,@CHEMICAL_Atenolol,Ocular Hypertension,@DISEASE_Ocular_Hypertension,7,7
+atenolol,@CHEMICAL_Atenolol,Phobia Social,@DISEASE_Phobia_Social,7,7
+atenolol,@CHEMICAL_Atenolol,Ventricular Remodeling,@DISEASE_Ventricular_Remodeling,9,9
+atenolol,@CHEMICAL_Atenolol,Aortic Root Aneurysm,@DISEASE_Aortic_Root_Aneurysm,7,7
+atenolol,@CHEMICAL_Atenolol,Bronchial Spasm,@DISEASE_Bronchial_Spasm,8,8
+atenolol,@CHEMICAL_Atenolol,Dyspnea,@DISEASE_Dyspnea,8,8
+atenolol,@CHEMICAL_Atenolol,Hallucinations,@DISEASE_Hallucinations,6,6
+atenolol,@CHEMICAL_Atenolol,Heart Arrest,@DISEASE_Heart_Arrest,10,11
+atenolol,@CHEMICAL_Atenolol,Hemihyperplasia Isolated,@DISEASE_Hemihyperplasia_Isolated,4,4
+atenolol,@CHEMICAL_Atenolol,Ischemic Attack Transient,@DISEASE_Ischemic_Attack_Transient,6,6
+atenolol,@CHEMICAL_Atenolol,Pre Eclampsia,@DISEASE_Pre_Eclampsia,6,6
+atenolol,@CHEMICAL_Atenolol,Renal Insufficiency,@DISEASE_Renal_Insufficiency,10,12
+atenolol,@CHEMICAL_Atenolol,Sleep Wake Disorders,@DISEASE_Sleep_Wake_Disorders,8,8
+atenolol,@CHEMICAL_Atenolol,Tachycardia Atrioventricular Nodal Reentry,@DISEASE_Tachycardia_Atrioventricular_Nodal_Reentry,7,7
+atenolol,@CHEMICAL_Atenolol,Tachycardia Sinus,@DISEASE_Tachycardia_Sinus,6,6
+atenolol,@CHEMICAL_Atenolol,212500,@DISEASE_212500,6,6
+atenolol,@CHEMICAL_Atenolol,261515,@DISEASE_261515,5,5
+atenolol,@CHEMICAL_Atenolol,Airway Obstruction,@DISEASE_Airway_Obstruction,7,7
+atenolol,@CHEMICAL_Atenolol,Angina Unstable,@DISEASE_Angina_Unstable,5,5
+atenolol,@CHEMICAL_Atenolol,Carotid Artery Diseases,@DISEASE_Carotid_Artery_Diseases,5,5
+atenolol,@CHEMICAL_Atenolol,Delayed Emergence from Anesthesia,@DISEASE_Delayed_Emergence_from_Anesthesia,9,9
+atenolol,@CHEMICAL_Atenolol,Dizziness,@DISEASE_Dizziness,10,14
+atenolol,@CHEMICAL_Atenolol,Drug Related Side Effects and Adverse Reactions,@DISEASE_Drug_Related_Side_Effects_and_Adverse_Reactions,9,9
+atenolol,@CHEMICAL_Atenolol,Glaucoma Open Angle,@DISEASE_Glaucoma_Open_Angle,5,5
+atenolol,@CHEMICAL_Atenolol,Lung Diseases,@DISEASE_Lung_Diseases,6,6
+atenolol,@CHEMICAL_Atenolol,Mental Disorders,@DISEASE_Mental_Disorders,6,6
+atenolol,@CHEMICAL_Atenolol,Necrosis,@DISEASE_Necrosis,5,5
+atenolol,@CHEMICAL_Atenolol,Organizing Pneumonia,@DISEASE_Organizing_Pneumonia,5,5
+atenolol,@CHEMICAL_Atenolol,Pheochromocytoma,@DISEASE_Pheochromocytoma,6,6
+atenolol,@CHEMICAL_Atenolol,Pulmonary Valve Stenosis,@DISEASE_Pulmonary_Valve_Stenosis,5,5
+atenolol,@CHEMICAL_Atenolol,Romano Ward Syndrome,@DISEASE_Romano_Ward_Syndrome,5,5
+atenolol,@CHEMICAL_Atenolol,Tension Type Headache,@DISEASE_Tension_Type_Headache,6,6
+atenolol,@CHEMICAL_Atenolol,Acidosis,@DISEASE_Acidosis,6,6
+atenolol,@CHEMICAL_Atenolol,Autonomic Nervous System Diseases,@DISEASE_Autonomic_Nervous_System_Diseases,4,4
+atenolol,@CHEMICAL_Atenolol,Cerebral Infarction,@DISEASE_Cerebral_Infarction,4,4
+atenolol,@CHEMICAL_Atenolol,Coronary Aneurysm,@DISEASE_Coronary_Aneurysm,6,6
+atenolol,@CHEMICAL_Atenolol,Death Sudden Cardiac,@DISEASE_Death_Sudden_Cardiac,5,5
+atenolol,@CHEMICAL_Atenolol,Drug Hypersensitivity,@DISEASE_Drug_Hypersensitivity,5,5
+atenolol,@CHEMICAL_Atenolol,Graves Disease,@DISEASE_Graves_Disease,4,4
+atenolol,@CHEMICAL_Atenolol,Horner Syndrome,@DISEASE_Horner_Syndrome,4,4
+atenolol,@CHEMICAL_Atenolol,Hypercholesterolemia,@DISEASE_Hypercholesterolemia,4,4
+atenolol,@CHEMICAL_Atenolol,Hyperlipoproteinemia Type II,@DISEASE_Hyperlipoproteinemia_Type_II,5,5
+atenolol,@CHEMICAL_Atenolol,Hypertension Portal,@DISEASE_Hypertension_Portal,4,4
+atenolol,@CHEMICAL_Atenolol,Intestinal Diseases,@DISEASE_Intestinal_Diseases,4,4
+atenolol,@CHEMICAL_Atenolol,Kidney Failure Chronic,@DISEASE_Kidney_Failure_Chronic,5,5
+atenolol,@CHEMICAL_Atenolol,MASS syndrome,@DISEASE_MASS_syndrome,4,4
+atenolol,@CHEMICAL_Atenolol,Mitral Valve Insufficiency,@DISEASE_Mitral_Valve_Insufficiency,4,4
+atenolol,@CHEMICAL_Atenolol,Myocardial Stunning,@DISEASE_Myocardial_Stunning,4,4
+atenolol,@CHEMICAL_Atenolol,Peripheral Arterial Disease,@DISEASE_Peripheral_Arterial_Disease,4,4
+atenolol,@CHEMICAL_Atenolol,Phobic Disorders,@DISEASE_Phobic_Disorders,5,5
+atenolol,@CHEMICAL_Atenolol,Renal Insufficiency Chronic,@DISEASE_Renal_Insufficiency_Chronic,5,5
+atenolol,@CHEMICAL_Atenolol,Sick Sinus Syndrome,@DISEASE_Sick_Sinus_Syndrome,8,8
+atenolol,@CHEMICAL_Atenolol,Sleep Initiation and Maintenance Disorders,@DISEASE_Sleep_Initiation_and_Maintenance_Disorders,5,5
+atenolol,@CHEMICAL_Atenolol,Stiff Skin Syndrome,@DISEASE_Stiff_Skin_Syndrome,4,4
+atenolol,@CHEMICAL_Atenolol,Weight Loss,@DISEASE_Weight_Loss,6,6
+atenolol,@CHEMICAL_Atenolol,Alcohol Withdrawal Seizures,@DISEASE_Alcohol_Withdrawal_Seizures,3,3
+atenolol,@CHEMICAL_Atenolol,Andersen Syndrome,@DISEASE_Andersen_Syndrome,3,3
+atenolol,@CHEMICAL_Atenolol,Anterior Wall Myocardial Infarction,@DISEASE_Anterior_Wall_Myocardial_Infarction,3,3
+atenolol,@CHEMICAL_Atenolol,Aortic Aneurysm Thoracic,@DISEASE_Aortic_Aneurysm_Thoracic,3,3
+atenolol,@CHEMICAL_Atenolol,Aortic Valve Stenosis,@DISEASE_Aortic_Valve_Stenosis,3,3
+atenolol,@CHEMICAL_Atenolol,Bronchitis Chronic,@DISEASE_Bronchitis_Chronic,3,3
+atenolol,@CHEMICAL_Atenolol,Cardiac Output High,@DISEASE_Cardiac_Output_High,3,3
+atenolol,@CHEMICAL_Atenolol,Collagen Diseases,@DISEASE_Collagen_Diseases,3,3
+atenolol,@CHEMICAL_Atenolol,Constriction Pathologic,@DISEASE_Constriction_Pathologic,4,4
+atenolol,@CHEMICAL_Atenolol,Coronary Stenosis,@DISEASE_Coronary_Stenosis,3,3
+atenolol,@CHEMICAL_Atenolol,Dyslipidemias,@DISEASE_Dyslipidemias,5,5
+atenolol,@CHEMICAL_Atenolol,Fatigue,@DISEASE_Fatigue,10,21
+atenolol,@CHEMICAL_Atenolol,Fever,@DISEASE_Fever,5,5
+atenolol,@CHEMICAL_Atenolol,Flushing,@DISEASE_Flushing,8,8
+atenolol,@CHEMICAL_Atenolol,Glucose Intolerance,@DISEASE_Glucose_Intolerance,5,5
+atenolol,@CHEMICAL_Atenolol,Hypertension Renovascular,@DISEASE_Hypertension_Renovascular,3,3
+atenolol,@CHEMICAL_Atenolol,Hypokalemia,@DISEASE_Hypokalemia,3,3
+atenolol,@CHEMICAL_Atenolol,Hypotension Orthostatic,@DISEASE_Hypotension_Orthostatic,5,5
+atenolol,@CHEMICAL_Atenolol,Hypoxia,@DISEASE_Hypoxia,3,3
+atenolol,@CHEMICAL_Atenolol,Hypoxia Brain,@DISEASE_Hypoxia_Brain,3,3
+atenolol,@CHEMICAL_Atenolol,Liver Cirrhosis,@DISEASE_Liver_Cirrhosis,4,4
+atenolol,@CHEMICAL_Atenolol,Liver Diseases,@DISEASE_Liver_Diseases,4,4
+atenolol,@CHEMICAL_Atenolol,Muscle Weakness,@DISEASE_Muscle_Weakness,3,3
+atenolol,@CHEMICAL_Atenolol,Nephrosclerosis,@DISEASE_Nephrosclerosis,3,3
+atenolol,@CHEMICAL_Atenolol,Nervous System Diseases,@DISEASE_Nervous_System_Diseases,3,3
+atenolol,@CHEMICAL_Atenolol,Psoriasis,@DISEASE_Psoriasis,5,5
+atenolol,@CHEMICAL_Atenolol,Sepsis,@DISEASE_Sepsis,3,3
+atenolol,@CHEMICAL_Atenolol,Status Epilepticus,@DISEASE_Status_Epilepticus,3,3
+atenolol,@CHEMICAL_Atenolol,Substance Withdrawal Syndrome,@DISEASE_Substance_Withdrawal_Syndrome,10,10
+atenolol,@CHEMICAL_Atenolol,Thrombosis,@DISEASE_Thrombosis,3,3
+atenolol,@CHEMICAL_Atenolol,Vascular Diseases,@DISEASE_Vascular_Diseases,5,5
+atenolol,@CHEMICAL_Atenolol,610141,@DISEASE_610141,3,3
+atenolol,@CHEMICAL_Atenolol,Abnormalities Drug Induced,@DISEASE_Abnormalities_Drug_Induced,2,2
+atenolol,@CHEMICAL_Atenolol,Acute Coronary Syndrome,@DISEASE_Acute_Coronary_Syndrome,2,2
+atenolol,@CHEMICAL_Atenolol,Adrenal Insufficiency,@DISEASE_Adrenal_Insufficiency,3,3
+atenolol,@CHEMICAL_Atenolol,Akathisia Drug Induced,@DISEASE_Akathisia_Drug_Induced,3,3
+atenolol,@CHEMICAL_Atenolol,Anemia,@DISEASE_Anemia,2,2
+atenolol,@CHEMICAL_Atenolol,Aneurysm,@DISEASE_Aneurysm,2,2
+atenolol,@CHEMICAL_Atenolol,Aortic Coarctation,@DISEASE_Aortic_Coarctation,2,2
+atenolol,@CHEMICAL_Atenolol,Aortic Dissection,@DISEASE_Aortic_Dissection,3,3
+atenolol,@CHEMICAL_Atenolol,Apnea,@DISEASE_Apnea,2,2
+atenolol,@CHEMICAL_Atenolol,Arrhythmia Sinus,@DISEASE_Arrhythmia_Sinus,4,4
+atenolol,@CHEMICAL_Atenolol,Arrhythmogenic Right Ventricular Dysplasia,@DISEASE_Arrhythmogenic_Right_Ventricular_Dysplasia,2,2
+atenolol,@CHEMICAL_Atenolol,Ascites,@DISEASE_Ascites,2,2
+atenolol,@CHEMICAL_Atenolol,Ataxia Telangiectasia,@DISEASE_Ataxia_Telangiectasia,2,2
+atenolol,@CHEMICAL_Atenolol,Atrioventricular Block,@DISEASE_Atrioventricular_Block,8,8
+atenolol,@CHEMICAL_Atenolol,Bacterial Infections,@DISEASE_Bacterial_Infections,2,2
+atenolol,@CHEMICAL_Atenolol,Blast Crisis,@DISEASE_Blast_Crisis,2,2
+atenolol,@CHEMICAL_Atenolol,Breast Neoplasms,@DISEASE_Breast_Neoplasms,3,3
+atenolol,@CHEMICAL_Atenolol,Brugada Syndrome,@DISEASE_Brugada_Syndrome,2,2
+atenolol,@CHEMICAL_Atenolol,Cap Myopathy,@DISEASE_Cap_Myopathy,2,2
+atenolol,@CHEMICAL_Atenolol,Cardiomyopathy Dilated with Left Ventricular Noncompaction,@DISEASE_Cardiomyopathy_Dilated_with_Left_Ventricular_Noncompaction,2,2
+atenolol,@CHEMICAL_Atenolol,Cardiomyopathy Hypertrophic Familial,@DISEASE_Cardiomyopathy_Hypertrophic_Familial,2,2
+atenolol,@CHEMICAL_Atenolol,Cardiotoxicity,@DISEASE_Cardiotoxicity,5,5
+atenolol,@CHEMICAL_Atenolol,Chronobiology Disorders,@DISEASE_Chronobiology_Disorders,2,2
+atenolol,@CHEMICAL_Atenolol,Ciuffo Syndrome,@DISEASE_Ciuffo_Syndrome,2,2
+atenolol,@CHEMICAL_Atenolol,Cognitive Dysfunction,@DISEASE_Cognitive_Dysfunction,2,2
+atenolol,@CHEMICAL_Atenolol,Conversion Disorder,@DISEASE_Conversion_Disorder,2,2
+atenolol,@CHEMICAL_Atenolol,Craniocerebral Trauma,@DISEASE_Craniocerebral_Trauma,2,2
+atenolol,@CHEMICAL_Atenolol,Discrete Subaortic Stenosis,@DISEASE_Discrete_Subaortic_Stenosis,2,2
+atenolol,@CHEMICAL_Atenolol,Disease,@DISEASE_Disease,3,3
+atenolol,@CHEMICAL_atenolol_chlortalidone_drug_combinations,Hypertension,@DISEASE_Hypertension,1,1
+simvastatin,@CHEMICAL_Simvastatin,Inflammation,@DISEASE_Inflammation,10,613
+simvastatin,@CHEMICAL_Simvastatin,Hypercholesterolemia,@DISEASE_Hypercholesterolemia,10,544
+simvastatin,@CHEMICAL_Simvastatin,Hyperlipoproteinemia Type II,@DISEASE_Hyperlipoproteinemia_Type_II,10,364
+simvastatin,@CHEMICAL_Simvastatin,Atherosclerosis,@DISEASE_Atherosclerosis,10,268
+simvastatin,@CHEMICAL_Simvastatin,Neoplasms,@DISEASE_Neoplasms,10,269
+simvastatin,@CHEMICAL_Simvastatin,Hyperlipidemias,@DISEASE_Hyperlipidemias,10,239
+simvastatin,@CHEMICAL_Simvastatin,Coronary Disease,@DISEASE_Coronary_Disease,10,215
+simvastatin,@CHEMICAL_Simvastatin,Cardiovascular Diseases,@DISEASE_Cardiovascular_Diseases,10,210
+simvastatin,@CHEMICAL_Simvastatin,Diabetes Mellitus,@DISEASE_Diabetes_Mellitus,10,211
+simvastatin,@CHEMICAL_Simvastatin,Dyslipidemias,@DISEASE_Dyslipidemias,10,187
+simvastatin,@CHEMICAL_Simvastatin,Diabetes Mellitus Type 2,@DISEASE_Diabetes_Mellitus_Type_2,10,183
+simvastatin,@CHEMICAL_Simvastatin,Coronary Artery Disease,@DISEASE_Coronary_Artery_Disease,10,131
+simvastatin,@CHEMICAL_Simvastatin,Myocardial Infarction,@DISEASE_Myocardial_Infarction,10,115
+simvastatin,@CHEMICAL_Simvastatin,Fibrosis,@DISEASE_Fibrosis,10,101
+simvastatin,@CHEMICAL_Simvastatin,Ischemia,@DISEASE_Ischemia,10,94
+simvastatin,@CHEMICAL_Simvastatin,Hypertension,@DISEASE_Hypertension,10,93
+simvastatin,@CHEMICAL_Simvastatin,Breast Neoplasms,@DISEASE_Breast_Neoplasms,10,87
+simvastatin,@CHEMICAL_Simvastatin,Acute Coronary Syndrome,@DISEASE_Acute_Coronary_Syndrome,10,81
+simvastatin,@CHEMICAL_Simvastatin,Bone Diseases,@DISEASE_Bone_Diseases,10,88
+simvastatin,@CHEMICAL_Simvastatin,Vascular Diseases,@DISEASE_Vascular_Diseases,10,83
+simvastatin,@CHEMICAL_Simvastatin,Stroke,@DISEASE_Stroke,10,82
+simvastatin,@CHEMICAL_Simvastatin,Alzheimer Disease,@DISEASE_Alzheimer_Disease,10,78
+simvastatin,@CHEMICAL_Simvastatin,Reperfusion Injury,@DISEASE_Reperfusion_Injury,10,72
+simvastatin,@CHEMICAL_Simvastatin,Heart Diseases,@DISEASE_Heart_Diseases,10,65
+simvastatin,@CHEMICAL_Simvastatin,Metabolic Syndrome,@DISEASE_Metabolic_Syndrome,10,57
+simvastatin,@CHEMICAL_Simvastatin,Heart Failure,@DISEASE_Heart_Failure,10,56
+simvastatin,@CHEMICAL_Simvastatin,Kidney Diseases,@DISEASE_Kidney_Diseases,10,57
+simvastatin,@CHEMICAL_Simvastatin,Sepsis,@DISEASE_Sepsis,10,51
+simvastatin,@CHEMICAL_Simvastatin,Brain Ischemia,@DISEASE_Brain_Ischemia,10,49
+simvastatin,@CHEMICAL_Simvastatin,Prostatic Neoplasms,@DISEASE_Prostatic_Neoplasms,10,48
+simvastatin,@CHEMICAL_Simvastatin,Colorectal Neoplasms,@DISEASE_Colorectal_Neoplasms,10,47
+simvastatin,@CHEMICAL_Simvastatin,Epileptic Syndromes,@DISEASE_Epileptic_Syndromes,10,41
+simvastatin,@CHEMICAL_Simvastatin,Osteoporosis,@DISEASE_Osteoporosis,10,43
+simvastatin,@CHEMICAL_Simvastatin,Subarachnoid Hemorrhage,@DISEASE_Subarachnoid_Hemorrhage,10,45
+simvastatin,@CHEMICAL_Simvastatin,Renal Insufficiency Chronic,@DISEASE_Renal_Insufficiency_Chronic,10,43
+simvastatin,@CHEMICAL_Simvastatin,Cognition Disorders,@DISEASE_Cognition_Disorders,10,51
+simvastatin,@CHEMICAL_Simvastatin,Hypertension Pulmonary,@DISEASE_Hypertension_Pulmonary,10,41
+simvastatin,@CHEMICAL_Simvastatin,Myocardial Ischemia,@DISEASE_Myocardial_Ischemia,10,39
+simvastatin,@CHEMICAL_Simvastatin,Infarction,@DISEASE_Infarction,10,40
+simvastatin,@CHEMICAL_Simvastatin,Obesity,@DISEASE_Obesity,10,40
+simvastatin,@CHEMICAL_Simvastatin,Death,@DISEASE_Death,10,46
+simvastatin,@CHEMICAL_Simvastatin,Brain Injuries Traumatic,@DISEASE_Brain_Injuries_Traumatic,10,35
+simvastatin,@CHEMICAL_Simvastatin,Parkinson Disease,@DISEASE_Parkinson_Disease,10,33
+simvastatin,@CHEMICAL_Simvastatin,Pulmonary Disease Chronic Obstructive,@DISEASE_Pulmonary_Disease_Chronic_Obstructive,10,43
+simvastatin,@CHEMICAL_Simvastatin,Plaque Atherosclerotic,@DISEASE_Plaque_Atherosclerotic,10,34
+simvastatin,@CHEMICAL_Simvastatin,Hypertriglyceridemia,@DISEASE_Hypertriglyceridemia,10,32
+simvastatin,@CHEMICAL_Simvastatin,Infections,@DISEASE_Infections,10,35
+simvastatin,@CHEMICAL_Simvastatin,Lung Diseases,@DISEASE_Lung_Diseases,10,34
+simvastatin,@CHEMICAL_Simvastatin,Depressive Disorder,@DISEASE_Depressive_Disorder,10,40
+simvastatin,@CHEMICAL_Simvastatin,Multiple Sclerosis,@DISEASE_Multiple_Sclerosis,10,35
+simvastatin,@CHEMICAL_Simvastatin,Acute Lung Injury,@DISEASE_Acute_Lung_Injury,10,30
+simvastatin,@CHEMICAL_Simvastatin,Aortic Valve Stenosis,@DISEASE_Aortic_Valve_Stenosis,10,28
+simvastatin,@CHEMICAL_Simvastatin,Carcinoma Hepatocellular,@DISEASE_Carcinoma_Hepatocellular,10,30
+simvastatin,@CHEMICAL_Simvastatin,Neoplasm Metastasis,@DISEASE_Neoplasm_Metastasis,10,29
+simvastatin,@CHEMICAL_Simvastatin,Nerve Degeneration,@DISEASE_Nerve_Degeneration,10,26
+simvastatin,@CHEMICAL_Simvastatin,Cardiomegaly,@DISEASE_Cardiomegaly,10,24
+simvastatin,@CHEMICAL_Simvastatin,Lung Injury,@DISEASE_Lung_Injury,10,25
+simvastatin,@CHEMICAL_Simvastatin,Periodontitis,@DISEASE_Periodontitis,10,25
+simvastatin,@CHEMICAL_Simvastatin,Pulmonary Arterial Hypertension,@DISEASE_Pulmonary_Arterial_Hypertension,10,24
+simvastatin,@CHEMICAL_Simvastatin,Ventricular Remodeling,@DISEASE_Ventricular_Remodeling,10,25
+simvastatin,@CHEMICAL_Simvastatin,Arthritis Rheumatoid,@DISEASE_Arthritis_Rheumatoid,10,25
+simvastatin,@CHEMICAL_Simvastatin,Hypertrophy,@DISEASE_Hypertrophy,10,24
+simvastatin,@CHEMICAL_Simvastatin,Lung Neoplasms,@DISEASE_Lung_Neoplasms,10,26
+simvastatin,@CHEMICAL_Simvastatin,Polycystic Ovary Syndrome,@DISEASE_Polycystic_Ovary_Syndrome,10,23
+simvastatin,@CHEMICAL_Simvastatin,Angina Pectoris,@DISEASE_Angina_Pectoris,10,23
+simvastatin,@CHEMICAL_Simvastatin,Cerebral Infarction,@DISEASE_Cerebral_Infarction,10,24
+simvastatin,@CHEMICAL_Simvastatin,Chemical and Drug Induced Liver Injury,@DISEASE_Chemical_and_Drug_Induced_Liver_Injury,10,51
+simvastatin,@CHEMICAL_Simvastatin,Edema,@DISEASE_Edema,10,29
+simvastatin,@CHEMICAL_Simvastatin,Neurologic Manifestations,@DISEASE_Neurologic_Manifestations,10,27
+simvastatin,@CHEMICAL_Simvastatin,Osteoporotic Fractures,@DISEASE_Osteoporotic_Fractures,10,23
+simvastatin,@CHEMICAL_Simvastatin,Hypoxia,@DISEASE_Hypoxia,10,26
+simvastatin,@CHEMICAL_Simvastatin,Multiple Myeloma,@DISEASE_Multiple_Myeloma,10,21
+simvastatin,@CHEMICAL_Simvastatin,Thrombosis,@DISEASE_Thrombosis,10,24
+simvastatin,@CHEMICAL_Simvastatin,Vascular System Injuries,@DISEASE_Vascular_System_Injuries,10,21
+simvastatin,@CHEMICAL_Simvastatin,Aortic Aneurysm Abdominal,@DISEASE_Aortic_Aneurysm_Abdominal,10,21
+simvastatin,@CHEMICAL_Simvastatin,Liver Failure,@DISEASE_Liver_Failure,10,47
+simvastatin,@CHEMICAL_Simvastatin,Melanoma,@DISEASE_Melanoma,10,21
+simvastatin,@CHEMICAL_Simvastatin,Pancreatic Neoplasms,@DISEASE_Pancreatic_Neoplasms,10,21
+simvastatin,@CHEMICAL_Simvastatin,Vasospasm Intracranial,@DISEASE_Vasospasm_Intracranial,10,20
+simvastatin,@CHEMICAL_Simvastatin,Wounds and Injuries,@DISEASE_Wounds_and_Injuries,10,25
+simvastatin,@CHEMICAL_Simvastatin,Blood Platelet Disorders,@DISEASE_Blood_Platelet_Disorders,10,22
+simvastatin,@CHEMICAL_Simvastatin,Brain Injuries,@DISEASE_Brain_Injuries,10,19
+simvastatin,@CHEMICAL_Simvastatin,Diabetes Mellitus Type 1,@DISEASE_Diabetes_Mellitus_Type_1,10,19
+simvastatin,@CHEMICAL_Simvastatin,Fractures Bone,@DISEASE_Fractures_Bone,10,22
+simvastatin,@CHEMICAL_Simvastatin,Neuroinflammatory Diseases,@DISEASE_Neuroinflammatory_Diseases,10,20
+simvastatin,@CHEMICAL_Simvastatin,Atrial Fibrillation,@DISEASE_Atrial_Fibrillation,10,22
+simvastatin,@CHEMICAL_Simvastatin,Dementia,@DISEASE_Dementia,10,21
+simvastatin,@CHEMICAL_Simvastatin,Liver Cirrhosis,@DISEASE_Liver_Cirrhosis,10,20
+simvastatin,@CHEMICAL_Simvastatin,Neurodegenerative Diseases,@DISEASE_Neurodegenerative_Diseases,10,21
+simvastatin,@CHEMICAL_Simvastatin,Non alcoholic Fatty Liver Disease,@DISEASE_Non_alcoholic_Fatty_Liver_Disease,10,21
+simvastatin,@CHEMICAL_Simvastatin,Pain,@DISEASE_Pain,10,27
+simvastatin,@CHEMICAL_Simvastatin,Cerebral Hemorrhage,@DISEASE_Cerebral_Hemorrhage,10,18
+simvastatin,@CHEMICAL_Simvastatin,Coronary Aneurysm,@DISEASE_Coronary_Aneurysm,10,18
+simvastatin,@CHEMICAL_Simvastatin,Infarction Middle Cerebral Artery,@DISEASE_Infarction_Middle_Cerebral_Artery,10,17
+simvastatin,@CHEMICAL_Simvastatin,Memory Disorders,@DISEASE_Memory_Disorders,10,25
+simvastatin,@CHEMICAL_Simvastatin,Pneumonia,@DISEASE_Pneumonia,10,18
+simvastatin,@CHEMICAL_Simvastatin,Soft Tissue Injuries,@DISEASE_Soft_Tissue_Injuries,10,17
+simvastatin,@CHEMICAL_Simvastatin,Calvarial hyperostosis,@DISEASE_Calvarial_hyperostosis,10,16
+simvastatin,@CHEMICAL_Simvastatin,Cardiomyopathies,@DISEASE_Cardiomyopathies,10,20
+simvastatin,@CHEMICAL_Simvastatin,Chronic Periodontitis,@DISEASE_Chronic_Periodontitis,10,16
+simvastatin,@CHEMICAL_Simvastatin,Congenital Abnormalities,@DISEASE_Congenital_Abnormalities,10,17
+simvastatin,@CHEMICAL_Simvastatin,Drug Related Side Effects and Adverse Reactions,@DISEASE_Drug_Related_Side_Effects_and_Adverse_Reactions,10,102
+simvastatin,@CHEMICAL_Simvastatin,Hemorrhage,@DISEASE_Hemorrhage,10,28
+simvastatin,@CHEMICAL_Simvastatin,Nephrotic Syndrome,@DISEASE_Nephrotic_Syndrome,10,17
+simvastatin,@CHEMICAL_Simvastatin,Triple Negative Breast Neoplasms,@DISEASE_Triple_Negative_Breast_Neoplasms,10,16
+simvastatin,@CHEMICAL_Simvastatin,Asthma,@DISEASE_Asthma,10,16
+simvastatin,@CHEMICAL_Simvastatin,Brain Edema,@DISEASE_Brain_Edema,10,15
+simvastatin,@CHEMICAL_Simvastatin,Fatty Liver,@DISEASE_Fatty_Liver,10,17
+simvastatin,@CHEMICAL_Simvastatin,Peripheral Arterial Disease,@DISEASE_Peripheral_Arterial_Disease,10,15
+simvastatin,@CHEMICAL_Simvastatin,Carcinoma Non Small Cell Lung,@DISEASE_Carcinoma_Non_Small_Cell_Lung,10,14
+simvastatin,@CHEMICAL_Simvastatin,Cerebrovascular Disorders,@DISEASE_Cerebrovascular_Disorders,10,15
+simvastatin,@CHEMICAL_Simvastatin,Diabetic Nephropathies,@DISEASE_Diabetic_Nephropathies,10,15
+simvastatin,@CHEMICAL_Simvastatin,Endometriosis,@DISEASE_Endometriosis,10,14
+simvastatin,@CHEMICAL_Simvastatin,Hypertrophy Right Ventricular,@DISEASE_Hypertrophy_Right_Ventricular,10,15
+simvastatin,@CHEMICAL_Simvastatin,Insulin Resistance,@DISEASE_Insulin_Resistance,10,28
+simvastatin,@CHEMICAL_Simvastatin,Kidney Failure Chronic,@DISEASE_Kidney_Failure_Chronic,10,16
+simvastatin,@CHEMICAL_Simvastatin,Necrosis,@DISEASE_Necrosis,10,31
+simvastatin,@CHEMICAL_Simvastatin,Neurotoxicity Syndromes,@DISEASE_Neurotoxicity_Syndromes,10,18
+simvastatin,@CHEMICAL_Simvastatin,Respiratory Distress Syndrome,@DISEASE_Respiratory_Distress_Syndrome,10,16
+simvastatin,@CHEMICAL_Simvastatin,COVID 19,@DISEASE_COVID_19,10,14
+simvastatin,@CHEMICAL_Simvastatin,Glioma,@DISEASE_Glioma,10,13
+simvastatin,@CHEMICAL_Simvastatin,Hyperplasia,@DISEASE_Hyperplasia,10,17
+simvastatin,@CHEMICAL_Simvastatin,Hypertension Portal,@DISEASE_Hypertension_Portal,10,15
+simvastatin,@CHEMICAL_Simvastatin,Hypertrophy Left Ventricular,@DISEASE_Hypertrophy_Left_Ventricular,10,14
+simvastatin,@CHEMICAL_Simvastatin,Liver Diseases,@DISEASE_Liver_Diseases,10,17
+simvastatin,@CHEMICAL_Simvastatin,Malformations of Cortical Development Group I,@DISEASE_Malformations_of_Cortical_Development_Group_I,10,15
+simvastatin,@CHEMICAL_Simvastatin,Vitiligo,@DISEASE_Vitiligo,10,13
+simvastatin,@CHEMICAL_Simvastatin,Angina Unstable,@DISEASE_Angina_Unstable,10,14
+simvastatin,@CHEMICAL_Simvastatin,Arrhythmias Cardiac,@DISEASE_Arrhythmias_Cardiac,10,12
+simvastatin,@CHEMICAL_Simvastatin,Arthritis,@DISEASE_Arthritis,10,12
+simvastatin,@CHEMICAL_Simvastatin,Glioblastoma,@DISEASE_Glioblastoma,10,12
+simvastatin,@CHEMICAL_Simvastatin,Hyperglycemia,@DISEASE_Hyperglycemia,10,17
+simvastatin,@CHEMICAL_Simvastatin,Spinal Cord Injuries,@DISEASE_Spinal_Cord_Injuries,10,12
+simvastatin,@CHEMICAL_Simvastatin,Stomach Neoplasms,@DISEASE_Stomach_Neoplasms,10,13
+simvastatin,@CHEMICAL_Simvastatin,Acute Kidney Injury,@DISEASE_Acute_Kidney_Injury,10,45
+simvastatin,@CHEMICAL_Simvastatin,Adenocarcinoma,@DISEASE_Adenocarcinoma,10,12
+simvastatin,@CHEMICAL_Simvastatin,Blood Coagulation Disorders,@DISEASE_Blood_Coagulation_Disorders,10,16
+simvastatin,@CHEMICAL_Simvastatin,Coronary Restenosis,@DISEASE_Coronary_Restenosis,10,11
+simvastatin,@CHEMICAL_Simvastatin,Dental Plaque,@DISEASE_Dental_Plaque,10,13
+simvastatin,@CHEMICAL_Simvastatin,Gallstones,@DISEASE_Gallstones,10,12
+simvastatin,@CHEMICAL_Simvastatin,Myocardial Stunning,@DISEASE_Myocardial_Stunning,10,13
+simvastatin,@CHEMICAL_Simvastatin,Proteinuria,@DISEASE_Proteinuria,10,13
+simvastatin,@CHEMICAL_Simvastatin,Schizophrenia,@DISEASE_Schizophrenia,10,11
+simvastatin,@CHEMICAL_Simvastatin,Ventricular Dysfunction Left,@DISEASE_Ventricular_Dysfunction_Left,10,11
+simvastatin,@CHEMICAL_Simvastatin,Aneurysm,@DISEASE_Aneurysm,10,13
+simvastatin,@CHEMICAL_Simvastatin,Bacterial Infections,@DISEASE_Bacterial_Infections,10,10
+simvastatin,@CHEMICAL_Simvastatin,Burns,@DISEASE_Burns,10,11
+simvastatin,@CHEMICAL_Simvastatin,Carotid Stenosis,@DISEASE_Carotid_Stenosis,10,12
+simvastatin,@CHEMICAL_Simvastatin,Erectile Dysfunction,@DISEASE_Erectile_Dysfunction,10,11
+simvastatin,@CHEMICAL_Simvastatin,Hyperlipoproteinemias,@DISEASE_Hyperlipoproteinemias,10,10
+simvastatin,@CHEMICAL_Simvastatin,Hypoglycemia,@DISEASE_Hypoglycemia,10,11
+simvastatin,@CHEMICAL_Simvastatin,Ischemic Attack Transient,@DISEASE_Ischemic_Attack_Transient,10,10
+simvastatin,@CHEMICAL_Simvastatin,Mental Disorders,@DISEASE_Mental_Disorders,10,17
+simvastatin,@CHEMICAL_Simvastatin,Mitochondrial Diseases,@DISEASE_Mitochondrial_Diseases,10,30
+simvastatin,@CHEMICAL_Simvastatin,Multiple Sclerosis Chronic Progressive,@DISEASE_Multiple_Sclerosis_Chronic_Progressive,10,10
+simvastatin,@CHEMICAL_Simvastatin,Neointima,@DISEASE_Neointima,10,10
+simvastatin,@CHEMICAL_Simvastatin,No Reflow Phenomenon,@DISEASE_No_Reflow_Phenomenon,10,10
+simvastatin,@CHEMICAL_Simvastatin,Osteoarthritis,@DISEASE_Osteoarthritis,10,12
+simvastatin,@CHEMICAL_Simvastatin,Ovarian Neoplasms,@DISEASE_Ovarian_Neoplasms,10,10
+simvastatin,@CHEMICAL_Simvastatin,Peritonitis,@DISEASE_Peritonitis,10,10
+simvastatin,@CHEMICAL_Simvastatin,Smith Lemli Opitz Syndrome,@DISEASE_Smith_Lemli_Opitz_Syndrome,10,10
+simvastatin,@CHEMICAL_Simvastatin,Xanthomatosis,@DISEASE_Xanthomatosis,10,11
+simvastatin,@CHEMICAL_Simvastatin,Alveolar Bone Loss,@DISEASE_Alveolar_Bone_Loss,9,9
+simvastatin,@CHEMICAL_Simvastatin,Arterial Occlusive Diseases,@DISEASE_Arterial_Occlusive_Diseases,9,9
+simvastatin,@CHEMICAL_Simvastatin,Bone Resorption,@DISEASE_Bone_Resorption,10,10
+simvastatin,@CHEMICAL_Simvastatin,Colitis,@DISEASE_Colitis,10,11
+simvastatin,@CHEMICAL_Simvastatin,Leiomyoma,@DISEASE_Leiomyoma,10,10
+simvastatin,@CHEMICAL_Simvastatin,Leukemia Myeloid Acute,@DISEASE_Leukemia_Myeloid_Acute,9,9
+simvastatin,@CHEMICAL_Simvastatin,Liver Cirrhosis Biliary,@DISEASE_Liver_Cirrhosis_Biliary,10,10
+simvastatin,@CHEMICAL_Simvastatin,Muscular Diseases,@DISEASE_Muscular_Diseases,10,198
+simvastatin,@CHEMICAL_Simvastatin,Nervous System Diseases,@DISEASE_Nervous_System_Diseases,10,16
+simvastatin,@CHEMICAL_Simvastatin,Osteosarcoma,@DISEASE_Osteosarcoma,10,12
+simvastatin,@CHEMICAL_Simvastatin,Pneumonia Lipid,@DISEASE_Pneumonia_Lipid,10,10
+simvastatin,@CHEMICAL_Simvastatin,Prostatic Neoplasms Castration Resistant,@DISEASE_Prostatic_Neoplasms_Castration_Resistant,9,9
+simvastatin,@CHEMICAL_Simvastatin,Renal Artery Obstruction,@DISEASE_Renal_Artery_Obstruction,10,10
+simvastatin,@CHEMICAL_Simvastatin,Skin Diseases,@DISEASE_Skin_Diseases,10,11
+simvastatin,@CHEMICAL_Simvastatin,Squamous Cell Carcinoma of Head and Neck,@DISEASE_Squamous_Cell_Carcinoma_of_Head_and_Neck,10,10
+simvastatin,@CHEMICAL_Simvastatin,143890,@DISEASE_143890,8,8
+simvastatin,@CHEMICAL_Simvastatin,Angina Stable,@DISEASE_Angina_Stable,8,8
+simvastatin,@CHEMICAL_Simvastatin,Brain Damage Chronic,@DISEASE_Brain_Damage_Chronic,8,8
+simvastatin,@CHEMICAL_Simvastatin,Carcinoma Renal Cell,@DISEASE_Carcinoma_Renal_Cell,9,9
+simvastatin,@CHEMICAL_Simvastatin,Glomerulonephritis,@DISEASE_Glomerulonephritis,8,8
+simvastatin,@CHEMICAL_Simvastatin,Idiopathic Noncirrhotic Portal Hypertension,@DISEASE_Idiopathic_Noncirrhotic_Portal_Hypertension,9,9
+simvastatin,@CHEMICAL_Simvastatin,Intervertebral Disc Degeneration,@DISEASE_Intervertebral_Disc_Degeneration,8,8
+simvastatin,@CHEMICAL_Simvastatin,Leukemia,@DISEASE_Leukemia,10,10
+simvastatin,@CHEMICAL_Simvastatin,Leukemia Lymphocytic Chronic B Cell,@DISEASE_Leukemia_Lymphocytic_Chronic_B_Cell,8,8
+simvastatin,@CHEMICAL_Simvastatin,Mevalonate Kinase Deficiency,@DISEASE_Mevalonate_Kinase_Deficiency,10,10
+simvastatin,@CHEMICAL_Simvastatin,Microvascular Angina,@DISEASE_Microvascular_Angina,9,9
+simvastatin,@CHEMICAL_Simvastatin,Neuralgia,@DISEASE_Neuralgia,9,9
+simvastatin,@CHEMICAL_Simvastatin,Neuroblastoma,@DISEASE_Neuroblastoma,10,10
+simvastatin,@CHEMICAL_Simvastatin,Pancreatitis,@DISEASE_Pancreatitis,10,29
+simvastatin,@CHEMICAL_Simvastatin,Prostatitis,@DISEASE_Prostatitis,10,10
+simvastatin,@CHEMICAL_Simvastatin,Psoriasis,@DISEASE_Psoriasis,9,9
+simvastatin,@CHEMICAL_Simvastatin,Pulmonary Fibrosis,@DISEASE_Pulmonary_Fibrosis,8,8
+simvastatin,@CHEMICAL_Simvastatin,Rupture,@DISEASE_Rupture,10,11
+simvastatin,@CHEMICAL_Simvastatin,Scleroderma Systemic,@DISEASE_Scleroderma_Systemic,8,8
+simvastatin,@CHEMICAL_Simvastatin,Varicose Veins,@DISEASE_Varicose_Veins,8,8
+simvastatin,@CHEMICAL_Simvastatin,Vascular Remodeling,@DISEASE_Vascular_Remodeling,8,8
+simvastatin,@CHEMICAL_Simvastatin,Weight Loss,@DISEASE_Weight_Loss,10,10
+simvastatin,@CHEMICAL_Simvastatin,150699,@DISEASE_150699,9,9
+simvastatin,@CHEMICAL_simvastatin_acid,Atherosclerosis,@DISEASE_Atherosclerosis,1,1
+simvastatin,@CHEMICAL_simvastatin_acid,Bone Diseases,@DISEASE_Bone_Diseases,1,1
+simvastatin,@CHEMICAL_simvastatin_acid,Neoplasms,@DISEASE_Neoplasms,1,1
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Aortic Valve Stenosis,@DISEASE_Aortic_Valve_Stenosis,10,69
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Hypercholesterolemia,@DISEASE_Hypercholesterolemia,10,13
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Cardiovascular Diseases,@DISEASE_Cardiovascular_Diseases,10,13
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Alopecia Areata,@DISEASE_Alopecia_Areata,7,7
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Acute Coronary Syndrome,@DISEASE_Acute_Coronary_Syndrome,6,6
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Hyperlipidemias,@DISEASE_Hyperlipidemias,5,5
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Hyperlipoproteinemia Type II,@DISEASE_Hyperlipoproteinemia_Type_II,5,5
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Renal Insufficiency Chronic,@DISEASE_Renal_Insufficiency_Chronic,5,5
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Coronary Disease,@DISEASE_Coronary_Disease,3,3
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Inflammation,@DISEASE_Inflammation,5,5
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Metabolic Syndrome,@DISEASE_Metabolic_Syndrome,4,4
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Alopecia,@DISEASE_Alopecia,2,2
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Alopecia universalis,@DISEASE_Alopecia_universalis,2,2
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Atherosclerosis,@DISEASE_Atherosclerosis,3,3
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Constriction Pathologic,@DISEASE_Constriction_Pathologic,3,3
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Diabetes Mellitus,@DISEASE_Diabetes_Mellitus,6,6
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Diabetes Mellitus Type 2,@DISEASE_Diabetes_Mellitus_Type_2,2,2
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Myocardial Infarction,@DISEASE_Myocardial_Infarction,3,3
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Stroke,@DISEASE_Stroke,2,2
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,143890,@DISEASE_143890,1,1
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Alopecia Areata 1,@DISEASE_Alopecia_Areata_1,1,1
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Angina Unstable,@DISEASE_Angina_Unstable,1,1
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Atrial Fibrillation,@DISEASE_Atrial_Fibrillation,1,1
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Brain Ischemia,@DISEASE_Brain_Ischemia,1,1
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Cerebral Hemorrhage,@DISEASE_Cerebral_Hemorrhage,1,1
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Cerebral Infarction,@DISEASE_Cerebral_Infarction,1,1
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Coronary Aneurysm,@DISEASE_Coronary_Aneurysm,1,1
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Coronary Artery Disease,@DISEASE_Coronary_Artery_Disease,2,2
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Death,@DISEASE_Death,1,1
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Dyslipidemias,@DISEASE_Dyslipidemias,1,1
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Ectodermal Dysplasia,@DISEASE_Ectodermal_Dysplasia,1,1
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Epilepsy Tonic Clonic,@DISEASE_Epilepsy_Tonic_Clonic,1,1
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Epileptic Syndromes,@DISEASE_Epileptic_Syndromes,1,1
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Hyperlipidemia Familial Combined,@DISEASE_Hyperlipidemia_Familial_Combined,1,1
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Hyperplasia,@DISEASE_Hyperplasia,1,1
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Hypoalphalipoproteinemias,@DISEASE_Hypoalphalipoproteinemias,1,1
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Infarction,@DISEASE_Infarction,1,1
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Keratosis Follicularis Spinulosa Decalvans X Linked,@DISEASE_Keratosis_Follicularis_Spinulosa_Decalvans_X_Linked,1,1
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Muscular Atrophy,@DISEASE_Muscular_Atrophy,1,1
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Neointima,@DISEASE_Neointima,1,1
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Nerve Degeneration,@DISEASE_Nerve_Degeneration,1,1
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Obesity Metabolically Benign,@DISEASE_Obesity_Metabolically_Benign,1,1
+simvastatin,@CHEMICAL_Ezetimibe_Simvastatin_Drug_Combination,Spinal Cord Injuries,@DISEASE_Spinal_Cord_Injuries,1,1
+simvastatin,@CHEMICAL_simvastatin_hydroxyacid,Bronchiectasis,@DISEASE_Bronchiectasis,1,1
+lisinopril,@CHEMICAL_Lisinopril,Hypertension,@DISEASE_Hypertension,10,655
+lisinopril,@CHEMICAL_Lisinopril,Heart Failure,@DISEASE_Heart_Failure,10,175
+lisinopril,@CHEMICAL_Lisinopril,Essential Hypertension,@DISEASE_Essential_Hypertension,10,123
+lisinopril,@CHEMICAL_Lisinopril,Proteinuria,@DISEASE_Proteinuria,10,100
+lisinopril,@CHEMICAL_Lisinopril,Kidney Diseases,@DISEASE_Kidney_Diseases,10,86
+lisinopril,@CHEMICAL_Lisinopril,Myocardial Infarction,@DISEASE_Myocardial_Infarction,10,77
+lisinopril,@CHEMICAL_Lisinopril,Diabetes Mellitus,@DISEASE_Diabetes_Mellitus,10,58
+lisinopril,@CHEMICAL_Lisinopril,Diabetes Mellitus Type 2,@DISEASE_Diabetes_Mellitus_Type_2,10,49
+lisinopril,@CHEMICAL_Lisinopril,Hypertrophy Left Ventricular,@DISEASE_Hypertrophy_Left_Ventricular,10,45
+lisinopril,@CHEMICAL_Lisinopril,Diabetic Nephropathies,@DISEASE_Diabetic_Nephropathies,10,36
+lisinopril,@CHEMICAL_Lisinopril,Cardiovascular Diseases,@DISEASE_Cardiovascular_Diseases,10,47
+lisinopril,@CHEMICAL_Lisinopril,Pulmonary Arterial Hypertension,@DISEASE_Pulmonary_Arterial_Hypertension,10,32
+lisinopril,@CHEMICAL_Lisinopril,Fibrosis,@DISEASE_Fibrosis,10,31
+lisinopril,@CHEMICAL_Lisinopril,Hypotension,@DISEASE_Hypotension,10,83
+lisinopril,@CHEMICAL_Lisinopril,Ventricular Dysfunction Left,@DISEASE_Ventricular_Dysfunction_Left,10,26
+lisinopril,@CHEMICAL_Lisinopril,Diabetes Mellitus Type 1,@DISEASE_Diabetes_Mellitus_Type_1,10,26
+lisinopril,@CHEMICAL_Lisinopril,Albuminuria,@DISEASE_Albuminuria,10,25
+lisinopril,@CHEMICAL_Lisinopril,Renal Insufficiency Chronic,@DISEASE_Renal_Insufficiency_Chronic,10,23
+lisinopril,@CHEMICAL_Lisinopril,Renal Insufficiency,@DISEASE_Renal_Insufficiency,10,30
+lisinopril,@CHEMICAL_Lisinopril,Death,@DISEASE_Death,10,22
+lisinopril,@CHEMICAL_Lisinopril,Migraine Disorders,@DISEASE_Migraine_Disorders,10,20
+lisinopril,@CHEMICAL_Lisinopril,Coronary Disease,@DISEASE_Coronary_Disease,10,19
+lisinopril,@CHEMICAL_Lisinopril,Pressure Ulcer,@DISEASE_Pressure_Ulcer,10,18
+lisinopril,@CHEMICAL_Lisinopril,Inflammation,@DISEASE_Inflammation,10,23
+lisinopril,@CHEMICAL_Lisinopril,Stroke,@DISEASE_Stroke,10,35
+lisinopril,@CHEMICAL_Lisinopril,Glomerulonephritis,@DISEASE_Glomerulonephritis,10,15
+lisinopril,@CHEMICAL_Lisinopril,Heart Diseases,@DISEASE_Heart_Diseases,10,17
+lisinopril,@CHEMICAL_Lisinopril,Hypertrophy,@DISEASE_Hypertrophy,10,13
+lisinopril,@CHEMICAL_Lisinopril,Dyspnea,@DISEASE_Dyspnea,10,11
+lisinopril,@CHEMICAL_Lisinopril,Hypertension Renovascular,@DISEASE_Hypertension_Renovascular,10,11
+lisinopril,@CHEMICAL_Lisinopril,Kidney Failure Chronic,@DISEASE_Kidney_Failure_Chronic,10,11
+lisinopril,@CHEMICAL_Lisinopril,Cardiomegaly,@DISEASE_Cardiomegaly,10,11
+lisinopril,@CHEMICAL_Lisinopril,Glomerulosclerosis Focal Segmental,@DISEASE_Glomerulosclerosis_Focal_Segmental,10,10
+lisinopril,@CHEMICAL_Lisinopril,Heart Murmurs,@DISEASE_Heart_Murmurs,10,10
+lisinopril,@CHEMICAL_Lisinopril,Obesity,@DISEASE_Obesity,10,10
+lisinopril,@CHEMICAL_Lisinopril,Coronary Artery Disease,@DISEASE_Coronary_Artery_Disease,10,10
+lisinopril,@CHEMICAL_Lisinopril,Glomerulonephritis Membranous,@DISEASE_Glomerulonephritis_Membranous,9,9
+lisinopril,@CHEMICAL_Lisinopril,Infarction,@DISEASE_Infarction,10,10
+lisinopril,@CHEMICAL_Lisinopril,Metabolic Syndrome,@DISEASE_Metabolic_Syndrome,9,9
+lisinopril,@CHEMICAL_Lisinopril,Vascular Diseases,@DISEASE_Vascular_Diseases,10,10
+lisinopril,@CHEMICAL_Lisinopril,Atrial Fibrillation,@DISEASE_Atrial_Fibrillation,9,9
+lisinopril,@CHEMICAL_Lisinopril,Cough,@DISEASE_Cough,10,68
+lisinopril,@CHEMICAL_Lisinopril,Hematologic Diseases,@DISEASE_Hematologic_Diseases,8,8
+lisinopril,@CHEMICAL_Lisinopril,Hypertensive Retinopathy,@DISEASE_Hypertensive_Retinopathy,8,8
+lisinopril,@CHEMICAL_Lisinopril,Ischemia,@DISEASE_Ischemia,8,8
+lisinopril,@CHEMICAL_Lisinopril,Muscular Dystrophy Duchenne,@DISEASE_Muscular_Dystrophy_Duchenne,8,8
+lisinopril,@CHEMICAL_Lisinopril,Nephrotic Syndrome,@DISEASE_Nephrotic_Syndrome,8,8
+lisinopril,@CHEMICAL_Lisinopril,Ventricular Fibrillation,@DISEASE_Ventricular_Fibrillation,8,8
+lisinopril,@CHEMICAL_Lisinopril,Cardiomyopathies,@DISEASE_Cardiomyopathies,9,9
+lisinopril,@CHEMICAL_Lisinopril,Cardiotoxicity,@DISEASE_Cardiotoxicity,7,7
+lisinopril,@CHEMICAL_Lisinopril,Chest Pain,@DISEASE_Chest_Pain,8,8
+lisinopril,@CHEMICAL_Lisinopril,Glomerulonephritis IGA,@DISEASE_Glomerulonephritis_IGA,7,7
+lisinopril,@CHEMICAL_Lisinopril,Headache,@DISEASE_Headache,10,16
+lisinopril,@CHEMICAL_Lisinopril,Renal Artery Obstruction,@DISEASE_Renal_Artery_Obstruction,8,8
+lisinopril,@CHEMICAL_Lisinopril,Reperfusion Injury,@DISEASE_Reperfusion_Injury,7,7
+lisinopril,@CHEMICAL_Lisinopril,Takotsubo Cardiomyopathy,@DISEASE_Takotsubo_Cardiomyopathy,7,7
+lisinopril,@CHEMICAL_Lisinopril,Ventricular Remodeling,@DISEASE_Ventricular_Remodeling,10,10
+lisinopril,@CHEMICAL_Lisinopril,COVID 19,@DISEASE_COVID_19,7,7
+lisinopril,@CHEMICAL_Lisinopril,Edema,@DISEASE_Edema,10,16
+lisinopril,@CHEMICAL_Lisinopril,Hyperglycemia,@DISEASE_Hyperglycemia,6,6
+lisinopril,@CHEMICAL_Lisinopril,Isolated Systolic Hypertension,@DISEASE_Isolated_Systolic_Hypertension,6,6
+lisinopril,@CHEMICAL_Lisinopril,Liver Cirrhosis,@DISEASE_Liver_Cirrhosis,6,6
+lisinopril,@CHEMICAL_Lisinopril,Mitral Valve Insufficiency,@DISEASE_Mitral_Valve_Insufficiency,6,6
+lisinopril,@CHEMICAL_Lisinopril,Polycystic Kidney Autosomal Dominant,@DISEASE_Polycystic_Kidney_Autosomal_Dominant,6,6
+lisinopril,@CHEMICAL_Lisinopril,Chemical and Drug Induced Liver Injury,@DISEASE_Chemical_and_Drug_Induced_Liver_Injury,10,14
+lisinopril,@CHEMICAL_Lisinopril,Fatigue,@DISEASE_Fatigue,9,9
+lisinopril,@CHEMICAL_Lisinopril,Hypertension Diastolic Resistance to,@DISEASE_Hypertension_Diastolic_Resistance_to,5,5
+lisinopril,@CHEMICAL_Lisinopril,Radiation Injuries,@DISEASE_Radiation_Injuries,5,5
+lisinopril,@CHEMICAL_Lisinopril,Tachycardia Ventricular,@DISEASE_Tachycardia_Ventricular,5,5
+lisinopril,@CHEMICAL_Lisinopril,Acute Kidney Injury,@DISEASE_Acute_Kidney_Injury,10,22
+lisinopril,@CHEMICAL_Lisinopril,Adrenal Insufficiency,@DISEASE_Adrenal_Insufficiency,5,5
+lisinopril,@CHEMICAL_Lisinopril,Anxiety,@DISEASE_Anxiety,4,4
+lisinopril,@CHEMICAL_Lisinopril,Bradycardia,@DISEASE_Bradycardia,8,8
+lisinopril,@CHEMICAL_Lisinopril,Brain Ischemia,@DISEASE_Brain_Ischemia,4,4
+lisinopril,@CHEMICAL_Lisinopril,Breast Neoplasms,@DISEASE_Breast_Neoplasms,4,4
+lisinopril,@CHEMICAL_Lisinopril,Bundle Branch Block,@DISEASE_Bundle_Branch_Block,4,4
+lisinopril,@CHEMICAL_Lisinopril,Cardiomyopathy Dilated with Left Ventricular Noncompaction,@DISEASE_Cardiomyopathy_Dilated_with_Left_Ventricular_Noncompaction,4,4
+lisinopril,@CHEMICAL_Lisinopril,Cognition Disorders,@DISEASE_Cognition_Disorders,5,5
+lisinopril,@CHEMICAL_Lisinopril,Coronary Occlusion,@DISEASE_Coronary_Occlusion,4,4
+lisinopril,@CHEMICAL_Lisinopril,Diabetic Neuropathies,@DISEASE_Diabetic_Neuropathies,4,4
+lisinopril,@CHEMICAL_Lisinopril,Essential Tremor,@DISEASE_Essential_Tremor,4,4
+lisinopril,@CHEMICAL_Lisinopril,Glycosuria Renal,@DISEASE_Glycosuria_Renal,5,5
+lisinopril,@CHEMICAL_Lisinopril,HIV Infections,@DISEASE_HIV_Infections,4,4
+lisinopril,@CHEMICAL_Lisinopril,Neoplasms,@DISEASE_Neoplasms,9,9
+lisinopril,@CHEMICAL_Lisinopril,Polycythemia,@DISEASE_Polycythemia,4,4
+lisinopril,@CHEMICAL_Lisinopril,Wounds and Injuries,@DISEASE_Wounds_and_Injuries,4,4
+lisinopril,@CHEMICAL_Lisinopril,603933,@DISEASE_603933,3,3
+lisinopril,@CHEMICAL_Lisinopril,Acute Disease,@DISEASE_Acute_Disease,3,3
+lisinopril,@CHEMICAL_Lisinopril,Acute Radiation Syndrome,@DISEASE_Acute_Radiation_Syndrome,3,3
+lisinopril,@CHEMICAL_Lisinopril,Adenocarcinoma,@DISEASE_Adenocarcinoma,3,3
+lisinopril,@CHEMICAL_Lisinopril,Alzheimer Disease,@DISEASE_Alzheimer_Disease,3,3
+lisinopril,@CHEMICAL_Lisinopril,Atherosclerosis,@DISEASE_Atherosclerosis,3,3
+lisinopril,@CHEMICAL_Lisinopril,Atrioventricular Block,@DISEASE_Atrioventricular_Block,3,3
+lisinopril,@CHEMICAL_Lisinopril,Cardiomyopathy Dilated,@DISEASE_Cardiomyopathy_Dilated,3,3
+lisinopril,@CHEMICAL_Lisinopril,Diabetic Angiopathies,@DISEASE_Diabetic_Angiopathies,3,3
+lisinopril,@CHEMICAL_Lisinopril,Dyslipidemias,@DISEASE_Dyslipidemias,4,4
+lisinopril,@CHEMICAL_Lisinopril,Fistula,@DISEASE_Fistula,3,3
+lisinopril,@CHEMICAL_Lisinopril,Hemolytic Uremic Syndrome,@DISEASE_Hemolytic_Uremic_Syndrome,3,3
+lisinopril,@CHEMICAL_Lisinopril,Hypercholesterolemia,@DISEASE_Hypercholesterolemia,4,4
+lisinopril,@CHEMICAL_Lisinopril,Hyperlipidemias,@DISEASE_Hyperlipidemias,4,4
+lisinopril,@CHEMICAL_Lisinopril,Hypertension Portal,@DISEASE_Hypertension_Portal,3,3
+lisinopril,@CHEMICAL_Lisinopril,Hypertension Pulmonary,@DISEASE_Hypertension_Pulmonary,4,4
+lisinopril,@CHEMICAL_Lisinopril,Hypertension Renal,@DISEASE_Hypertension_Renal,3,3
+lisinopril,@CHEMICAL_Lisinopril,Myocardial Ischemia,@DISEASE_Myocardial_Ischemia,4,4
+lisinopril,@CHEMICAL_Lisinopril,Myocarditis,@DISEASE_Myocarditis,3,3
+lisinopril,@CHEMICAL_Lisinopril,Oligospermia,@DISEASE_Oligospermia,3,3
+lisinopril,@CHEMICAL_Lisinopril,Pain,@DISEASE_Pain,8,8
+lisinopril,@CHEMICAL_Lisinopril,Pancreatitis,@DISEASE_Pancreatitis,10,20
+lisinopril,@CHEMICAL_Lisinopril,Pancreatitis Chronic,@DISEASE_Pancreatitis_Chronic,3,3
+lisinopril,@CHEMICAL_Lisinopril,Peripheral Nervous System Diseases,@DISEASE_Peripheral_Nervous_System_Diseases,3,3
+lisinopril,@CHEMICAL_Lisinopril,Polycystic Ovary Syndrome,@DISEASE_Polycystic_Ovary_Syndrome,3,3
+lisinopril,@CHEMICAL_Lisinopril,Pulmonary Disease Chronic Obstructive,@DISEASE_Pulmonary_Disease_Chronic_Obstructive,3,3
+lisinopril,@CHEMICAL_Lisinopril,Tang Hsi Ryu syndrome,@DISEASE_Tang_Hsi_Ryu_syndrome,6,6
+lisinopril,@CHEMICAL_Lisinopril,Ureteral Obstruction,@DISEASE_Ureteral_Obstruction,3,3
+lisinopril,@CHEMICAL_Lisinopril,261515,@DISEASE_261515,2,2
+lisinopril,@CHEMICAL_Lisinopril,Angioedema,@DISEASE_Angioedema,10,69
+lisinopril,@CHEMICAL_Lisinopril,Arthritis,@DISEASE_Arthritis,2,2
+lisinopril,@CHEMICAL_Lisinopril,Ascites,@DISEASE_Ascites,3,3
+lisinopril,@CHEMICAL_Lisinopril,Cardiac Conduction System Disease,@DISEASE_Cardiac_Conduction_System_Disease,2,2
+lisinopril,@CHEMICAL_Lisinopril,Cognitive Dysfunction,@DISEASE_Cognitive_Dysfunction,2,2
+lisinopril,@CHEMICAL_Lisinopril,Colorectal Neoplasms,@DISEASE_Colorectal_Neoplasms,2,2
+lisinopril,@CHEMICAL_Lisinopril,Coronary Aneurysm,@DISEASE_Coronary_Aneurysm,3,3
+lisinopril,@CHEMICAL_Lisinopril,Cystic Fibrosis,@DISEASE_Cystic_Fibrosis,2,2
+lisinopril,@CHEMICAL_Lisinopril,Deglutition Disorders,@DISEASE_Deglutition_Disorders,2,2
+lisinopril,@CHEMICAL_Lisinopril,Disease,@DISEASE_Disease,2,2
+lisinopril,@CHEMICAL_Lisinopril,Drug Overdose,@DISEASE_Drug_Overdose,7,7
+lisinopril,@CHEMICAL_Lisinopril,Dysarthria,@DISEASE_Dysarthria,2,2
+lisinopril,@CHEMICAL_Lisinopril,Exanthema,@DISEASE_Exanthema,10,12
+lisinopril,@CHEMICAL_Lisinopril,Fetal akinesia syndrome X linked,@DISEASE_Fetal_akinesia_syndrome_X_linked,2,2
+lisinopril,@CHEMICAL_Lisinopril,Fever,@DISEASE_Fever,3,3
+lisinopril,@CHEMICAL_Lisinopril,Flank Pain,@DISEASE_Flank_Pain,2,2
+lisinopril,@CHEMICAL_Lisinopril,Glomerulonephritis Membranoproliferative,@DISEASE_Glomerulonephritis_Membranoproliferative,2,2
+lisinopril,@CHEMICAL_Lisinopril,Hematoma Subdural Chronic,@DISEASE_Hematoma_Subdural_Chronic,2,2
+lisinopril,@CHEMICAL_Lisinopril,Hemoglobinuria Paroxysmal,@DISEASE_Hemoglobinuria_Paroxysmal,2,2
+lisinopril,@CHEMICAL_Lisinopril,Hyperinsulinism,@DISEASE_Hyperinsulinism,2,2
+lisinopril,@CHEMICAL_Lisinopril,Hypertension Malignant,@DISEASE_Hypertension_Malignant,2,2
+lisinopril,@CHEMICAL_Lisinopril,Hypothyroidism,@DISEASE_Hypothyroidism,2,2
+lisinopril,@CHEMICAL_Lisinopril,Hypoxia,@DISEASE_Hypoxia,3,3
+lisinopril,@CHEMICAL_Lisinopril,Hypoxia Brain,@DISEASE_Hypoxia_Brain,3,3
+lisinopril,@CHEMICAL_Lisinopril,Infertility,@DISEASE_Infertility,2,2
+lisinopril,@CHEMICAL_Lisinopril,Kidney Tubular Necrosis Acute,@DISEASE_Kidney_Tubular_Necrosis_Acute,2,2
+lisinopril,@CHEMICAL_Lisinopril,Lead Poisoning Nervous System,@DISEASE_Lead_Poisoning_Nervous_System,2,2
+lisinopril,@CHEMICAL_Lisinopril,Learning Disabilities,@DISEASE_Learning_Disabilities,2,2
+lisinopril,@CHEMICAL_Lisinopril,Memory Disorders,@DISEASE_Memory_Disorders,2,2
+lisinopril,@CHEMICAL_Lisinopril,Metabolic Diseases,@DISEASE_Metabolic_Diseases,2,2
+lisinopril,@CHEMICAL_Lisinopril,Muscular Diseases,@DISEASE_Muscular_Diseases,3,3
+lisinopril,@CHEMICAL_Lisinopril,Nausea,@DISEASE_Nausea,10,11
+lisinopril,@CHEMICAL_Lisinopril,Neointima,@DISEASE_Neointima,2,2
+lisinopril,@CHEMICAL_Lisinopril,Neoplasms Radiation Induced,@DISEASE_Neoplasms_Radiation_Induced,3,3
+lisinopril,@CHEMICAL_Lisinopril,Nephritis,@DISEASE_Nephritis,2,2
+lisinopril,@CHEMICAL_Lisinopril,Nephritis Interstitial,@DISEASE_Nephritis_Interstitial,2,2
+lisinopril,@CHEMICAL_Lisinopril,Nephrosis,@DISEASE_Nephrosis,2,2
+lisinopril,@CHEMICAL_Lisinopril,Neurologic Manifestations,@DISEASE_Neurologic_Manifestations,2,2
+lisinopril,@CHEMICAL_Lisinopril,Organizing Pneumonia,@DISEASE_Organizing_Pneumonia,2,2
+lisinopril,@CHEMICAL_Lisinopril,Osteoarthritis,@DISEASE_Osteoarthritis,2,2
+lisinopril,@CHEMICAL_Lisinopril,Pemphigoid Bullous,@DISEASE_Pemphigoid_Bullous,4,4
+lisinopril,@CHEMICAL_Lisinopril,Pneumonia,@DISEASE_Pneumonia,2,2
+lisinopril,@CHEMICAL_Lisinopril,Scleroderma Systemic,@DISEASE_Scleroderma_Systemic,2,2
+lisinopril,@CHEMICAL_Lisinopril,Sialadenitis,@DISEASE_Sialadenitis,2,2
+lisinopril,@CHEMICAL_Lisinopril,Stiff Skin Syndrome,@DISEASE_Stiff_Skin_Syndrome,3,3
+lisinopril,@CHEMICAL_Lisinopril,Tachycardia,@DISEASE_Tachycardia,3,3
+lisinopril,@CHEMICAL_Lisinopril,Tachycardia Supraventricular,@DISEASE_Tachycardia_Supraventricular,2,2
+lisinopril,@CHEMICAL_Lisinopril,Ventricular Dysfunction,@DISEASE_Ventricular_Dysfunction,3,3
+lisinopril,@CHEMICAL_Lisinopril,Ventricular Premature Complexes,@DISEASE_Ventricular_Premature_Complexes,2,2
+lisinopril,@CHEMICAL_Lisinopril,Vomiting,@DISEASE_Vomiting,8,8
+lisinopril,@CHEMICAL_Lisinopril,614963,@DISEASE_614963,1,1
+lisinopril,@CHEMICAL_Lisinopril,Abdominal Pain,@DISEASE_Abdominal_Pain,9,9
+lisinopril,@CHEMICAL_Lisinopril,Acidosis,@DISEASE_Acidosis,2,2
+lisinopril,@CHEMICAL_Lisinopril,Acidosis Lactic,@DISEASE_Acidosis_Lactic,1,1
+lisinopril,@CHEMICAL_Lisinopril,Acute Coronary Syndrome,@DISEASE_Acute_Coronary_Syndrome,1,1
+lisinopril,@CHEMICAL_Lisinopril,Adenomatous Polyps,@DISEASE_Adenomatous_Polyps,1,1
+lisinopril,@CHEMICAL_Lisinopril,Adnexal Diseases,@DISEASE_Adnexal_Diseases,1,1
+lisinopril,@CHEMICAL_Lisinopril,Agnosia,@DISEASE_Agnosia,1,1
+lisinopril,@CHEMICAL_Lisinopril,Airway Obstruction,@DISEASE_Airway_Obstruction,5,5
+lisinopril,@CHEMICAL_Lisinopril,Alopecia,@DISEASE_Alopecia,2,2
+lisinopril,@CHEMICAL_Lisinopril,Amyotrophic Lateral Sclerosis,@DISEASE_Amyotrophic_Lateral_Sclerosis,1,1
+lisinopril,@CHEMICAL_Lisinopril,Anemia,@DISEASE_Anemia,1,1
+lisinopril,@CHEMICAL_Lisinopril,Anemia Hemolytic,@DISEASE_Anemia_Hemolytic,4,4
+lisinopril,@CHEMICAL_Lisinopril,Anemia Sickle Cell,@DISEASE_Anemia_Sickle_Cell,1,1
+lisinopril,@CHEMICAL_Lisinopril,Angina Pectoris,@DISEASE_Angina_Pectoris,3,3
+lisinopril,@CHEMICAL_Lisinopril,Angina Stable,@DISEASE_Angina_Stable,1,1
+lisinopril,@CHEMICAL_Lisinopril,Anorexia,@DISEASE_Anorexia,3,3
+lisinopril,@CHEMICAL_Lisinopril,Anterior Wall Myocardial Infarction,@DISEASE_Anterior_Wall_Myocardial_Infarction,1,1
+lisinopril,@CHEMICAL_Lisinopril,Anti Glomerular Basement Membrane Disease,@DISEASE_Anti_Glomerular_Basement_Membrane_Disease,1,1
+lisinopril,@CHEMICAL_Lisinopril,Aortic Diseases,@DISEASE_Aortic_Diseases,1,1
+lisinopril,@CHEMICAL_Lisinopril,Aortic Stenosis Supravalvular,@DISEASE_Aortic_Stenosis_Supravalvular,1,1
+lisinopril,@CHEMICAL_Lisinopril,Aortic Valve Stenosis,@DISEASE_Aortic_Valve_Stenosis,1,1
+lisinopril,@CHEMICAL_Lisinopril,Arrhythmias Cardiac,@DISEASE_Arrhythmias_Cardiac,2,2
+lisinopril,@CHEMICAL_Lisinopril,Arthritis Juvenile,@DISEASE_Arthritis_Juvenile,1,1
+lisinopril,@CHEMICAL_Lisinopril,Arthritis Psoriatic,@DISEASE_Arthritis_Psoriatic,1,1
+lisinopril,@CHEMICAL_Lisinopril,Arthritis Rheumatoid,@DISEASE_Arthritis_Rheumatoid,1,1
+lisinopril,@CHEMICAL_Lisinopril,Ataxia,@DISEASE_Ataxia,1,1
+lisinopril,@CHEMICAL_Lisinopril,Atelosteogenesis type 1,@DISEASE_Atelosteogenesis_type_1,1,1
+lisinopril,@CHEMICAL_Lisinopril,Autoimmune Diseases,@DISEASE_Autoimmune_Diseases,1,1
+lisinopril,@CHEMICAL_Lisinopril,Autonomic Nervous System Diseases,@DISEASE_Autonomic_Nervous_System_Diseases,1,1
+lisinopril,@CHEMICAL_Lisinopril,Behcet Syndrome,@DISEASE_Behcet_Syndrome,1,1
+lisinopril,@CHEMICAL_Lisinopril,Bipolar Disorder,@DISEASE_Bipolar_Disorder,2,2
+lisinopril,@CHEMICAL_Lisinopril,Blood Platelet Disorders,@DISEASE_Blood_Platelet_Disorders,2,2
+lisinopril,@CHEMICAL_Lisinopril,Body Dysmorphic Disorders,@DISEASE_Body_Dysmorphic_Disorders,1,1
+lisinopril,@CHEMICAL_Lisinopril,Body Weight,@DISEASE_Body_Weight,1,1
+lisinopril,@CHEMICAL_hydrochlorothiazide_lisinopril_drug_combination,Hypertension,@DISEASE_Hypertension,1,1
+lisinopril,@CHEMICAL_BL_11,Bone Diseases,@DISEASE_Bone_Diseases,1,1
+lisinopril,@CHEMICAL_BL_11,Extranodal Extension,@DISEASE_Extranodal_Extension,1,1
+lisinopril,@CHEMICAL_BL_11,Prader Willi Syndrome,@DISEASE_Prader_Willi_Syndrome,0,0
+lisinopril,@CHEMICAL_BL_11,Strabismus,@DISEASE_Strabismus,1,1
+lisinopril,@CHEMICAL_BL_11,Vomiting,@DISEASE_Vomiting,1,1
+amlodipine,@CHEMICAL_Amlodipine,Hypertension,@DISEASE_Hypertension,10,2265
+amlodipine,@CHEMICAL_Amlodipine,Essential Hypertension,@DISEASE_Essential_Hypertension,10,321
+amlodipine,@CHEMICAL_Amlodipine,Angina Pectoris,@DISEASE_Angina_Pectoris,10,137
+amlodipine,@CHEMICAL_Amlodipine,Diabetes Mellitus Type 2,@DISEASE_Diabetes_Mellitus_Type_2,10,119
+amlodipine,@CHEMICAL_Amlodipine,Cardiovascular Diseases,@DISEASE_Cardiovascular_Diseases,10,123
+amlodipine,@CHEMICAL_Amlodipine,Heart Failure,@DISEASE_Heart_Failure,10,125
+amlodipine,@CHEMICAL_Amlodipine,Pulmonary Arterial Hypertension,@DISEASE_Pulmonary_Arterial_Hypertension,10,96
+amlodipine,@CHEMICAL_Amlodipine,Diabetes Mellitus,@DISEASE_Diabetes_Mellitus,10,109
+amlodipine,@CHEMICAL_Amlodipine,Myocardial Infarction,@DISEASE_Myocardial_Infarction,10,80
+amlodipine,@CHEMICAL_Amlodipine,Stroke,@DISEASE_Stroke,10,86
+amlodipine,@CHEMICAL_Amlodipine,Angina Stable,@DISEASE_Angina_Stable,10,71
+amlodipine,@CHEMICAL_Amlodipine,Kidney Diseases,@DISEASE_Kidney_Diseases,10,78
+amlodipine,@CHEMICAL_Amlodipine,Coronary Artery Disease,@DISEASE_Coronary_Artery_Disease,10,71
+amlodipine,@CHEMICAL_Amlodipine,Coronary Disease,@DISEASE_Coronary_Disease,10,59
+amlodipine,@CHEMICAL_Amlodipine,Renal Insufficiency Chronic,@DISEASE_Renal_Insufficiency_Chronic,10,61
+amlodipine,@CHEMICAL_Amlodipine,Hypotension,@DISEASE_Hypotension,10,167
+amlodipine,@CHEMICAL_Amlodipine,Atherosclerosis,@DISEASE_Atherosclerosis,10,58
+amlodipine,@CHEMICAL_Amlodipine,Isolated Systolic Hypertension,@DISEASE_Isolated_Systolic_Hypertension,10,51
+amlodipine,@CHEMICAL_Amlodipine,Ischemia,@DISEASE_Ischemia,10,51
+amlodipine,@CHEMICAL_Amlodipine,Myocardial Ischemia,@DISEASE_Myocardial_Ischemia,10,50
+amlodipine,@CHEMICAL_Amlodipine,Heart Diseases,@DISEASE_Heart_Diseases,10,64
+amlodipine,@CHEMICAL_Amlodipine,Hypertrophy Left Ventricular,@DISEASE_Hypertrophy_Left_Ventricular,10,48
+amlodipine,@CHEMICAL_Amlodipine,Inflammation,@DISEASE_Inflammation,10,54
+amlodipine,@CHEMICAL_Amlodipine,Brain Ischemia,@DISEASE_Brain_Ischemia,10,43
+amlodipine,@CHEMICAL_Amlodipine,Dyslipidemias,@DISEASE_Dyslipidemias,10,43
+amlodipine,@CHEMICAL_Amlodipine,Pressure Ulcer,@DISEASE_Pressure_Ulcer,10,39
+amlodipine,@CHEMICAL_Amlodipine,Metabolic Syndrome,@DISEASE_Metabolic_Syndrome,10,41
+amlodipine,@CHEMICAL_Amlodipine,Ventricular Dysfunction Left,@DISEASE_Ventricular_Dysfunction_Left,10,39
+amlodipine,@CHEMICAL_Amlodipine,Cardiomyopathies,@DISEASE_Cardiomyopathies,10,34
+amlodipine,@CHEMICAL_Amlodipine,Proteinuria,@DISEASE_Proteinuria,10,35
+amlodipine,@CHEMICAL_Amlodipine,Depressive Disorder,@DISEASE_Depressive_Disorder,10,43
+amlodipine,@CHEMICAL_Amlodipine,Obesity,@DISEASE_Obesity,10,30
+amlodipine,@CHEMICAL_Amlodipine,Diabetic Nephropathies,@DISEASE_Diabetic_Nephropathies,10,25
+amlodipine,@CHEMICAL_Amlodipine,Fibrosis,@DISEASE_Fibrosis,10,28
+amlodipine,@CHEMICAL_Amlodipine,Hypertrophy,@DISEASE_Hypertrophy,10,26
+amlodipine,@CHEMICAL_Amlodipine,Albuminuria,@DISEASE_Albuminuria,10,26
+amlodipine,@CHEMICAL_Amlodipine,Neoplasms,@DISEASE_Neoplasms,10,26
+amlodipine,@CHEMICAL_Amlodipine,Vascular Diseases,@DISEASE_Vascular_Diseases,10,23
+amlodipine,@CHEMICAL_Amlodipine,Cardiomegaly,@DISEASE_Cardiomegaly,10,19
+amlodipine,@CHEMICAL_Amlodipine,Infarction,@DISEASE_Infarction,10,20
+amlodipine,@CHEMICAL_Amlodipine,Death,@DISEASE_Death,10,26
+amlodipine,@CHEMICAL_Amlodipine,Kidney Failure Chronic,@DISEASE_Kidney_Failure_Chronic,10,27
+amlodipine,@CHEMICAL_Amlodipine,Edema,@DISEASE_Edema,10,161
+amlodipine,@CHEMICAL_Amlodipine,Headache,@DISEASE_Headache,10,87
+amlodipine,@CHEMICAL_Amlodipine,Heart Murmurs,@DISEASE_Heart_Murmurs,10,18
+amlodipine,@CHEMICAL_Amlodipine,Hypercholesterolemia,@DISEASE_Hypercholesterolemia,10,15
+amlodipine,@CHEMICAL_Amlodipine,Renal Insufficiency,@DISEASE_Renal_Insufficiency,10,18
+amlodipine,@CHEMICAL_Amlodipine,Ventricular Remodeling,@DISEASE_Ventricular_Remodeling,10,17
+amlodipine,@CHEMICAL_Amlodipine,Atrial Fibrillation,@DISEASE_Atrial_Fibrillation,10,18
+amlodipine,@CHEMICAL_Amlodipine,COVID 19,@DISEASE_COVID_19,10,14
+amlodipine,@CHEMICAL_Amlodipine,Cardiomyopathy Dilated,@DISEASE_Cardiomyopathy_Dilated,10,15
+amlodipine,@CHEMICAL_Amlodipine,Carotid Artery Diseases,@DISEASE_Carotid_Artery_Diseases,10,13
+amlodipine,@CHEMICAL_Amlodipine,Coronary Vasospasm,@DISEASE_Coronary_Vasospasm,10,13
+amlodipine,@CHEMICAL_Amlodipine,Optic Neuropathy Ischemic,@DISEASE_Optic_Neuropathy_Ischemic,10,15
+amlodipine,@CHEMICAL_Amlodipine,Seizures,@DISEASE_Seizures,10,14
+amlodipine,@CHEMICAL_Amlodipine,Iron Overload,@DISEASE_Iron_Overload,10,15
+amlodipine,@CHEMICAL_Amlodipine,Pain,@DISEASE_Pain,10,16
+amlodipine,@CHEMICAL_Amlodipine,Chest Pain,@DISEASE_Chest_Pain,10,14
+amlodipine,@CHEMICAL_Amlodipine,Hematologic Diseases,@DISEASE_Hematologic_Diseases,10,13
+amlodipine,@CHEMICAL_Amlodipine,Hypertension Renal,@DISEASE_Hypertension_Renal,10,11
+amlodipine,@CHEMICAL_Amlodipine,Renal Artery Obstruction,@DISEASE_Renal_Artery_Obstruction,10,11
+amlodipine,@CHEMICAL_Amlodipine,Cerebral Infarction,@DISEASE_Cerebral_Infarction,10,10
+amlodipine,@CHEMICAL_Amlodipine,Cognition Disorders,@DISEASE_Cognition_Disorders,10,12
+amlodipine,@CHEMICAL_Amlodipine,Glomerulonephritis,@DISEASE_Glomerulonephritis,10,11
+amlodipine,@CHEMICAL_Amlodipine,Hyperlipidemias,@DISEASE_Hyperlipidemias,10,10
+amlodipine,@CHEMICAL_Amlodipine,Insulin Resistance,@DISEASE_Insulin_Resistance,10,18
+amlodipine,@CHEMICAL_Amlodipine,MASS syndrome,@DISEASE_MASS_syndrome,10,10
+amlodipine,@CHEMICAL_Amlodipine,Organizing Pneumonia,@DISEASE_Organizing_Pneumonia,10,12
+amlodipine,@CHEMICAL_Amlodipine,Raynaud Disease,@DISEASE_Raynaud_Disease,10,10
+amlodipine,@CHEMICAL_Amlodipine,Ventricular Fibrillation,@DISEASE_Ventricular_Fibrillation,10,12
+amlodipine,@CHEMICAL_Amlodipine,Angina Unstable,@DISEASE_Angina_Unstable,9,9
+amlodipine,@CHEMICAL_Amlodipine,Blood Platelet Disorders,@DISEASE_Blood_Platelet_Disorders,10,11
+amlodipine,@CHEMICAL_Amlodipine,Coronary Restenosis,@DISEASE_Coronary_Restenosis,9,9
+amlodipine,@CHEMICAL_Amlodipine,Essential Tremor,@DISEASE_Essential_Tremor,9,9
+amlodipine,@CHEMICAL_Amlodipine,Hypertension Pulmonary,@DISEASE_Hypertension_Pulmonary,10,10
+amlodipine,@CHEMICAL_Amlodipine,Necrosis,@DISEASE_Necrosis,10,10
+amlodipine,@CHEMICAL_Amlodipine,Plaque Atherosclerotic,@DISEASE_Plaque_Atherosclerotic,9,9
+amlodipine,@CHEMICAL_Amlodipine,Reperfusion Injury,@DISEASE_Reperfusion_Injury,10,10
+amlodipine,@CHEMICAL_Amlodipine,Stiff Skin Syndrome,@DISEASE_Stiff_Skin_Syndrome,10,16
+amlodipine,@CHEMICAL_Amlodipine,Thrombosis,@DISEASE_Thrombosis,10,11
+amlodipine,@CHEMICAL_Amlodipine,Coronary Occlusion,@DISEASE_Coronary_Occlusion,8,8
+amlodipine,@CHEMICAL_Amlodipine,Flushing,@DISEASE_Flushing,10,34
+amlodipine,@CHEMICAL_Amlodipine,Glycosuria Renal,@DISEASE_Glycosuria_Renal,8,8
+amlodipine,@CHEMICAL_Amlodipine,Mitochondrial Diseases,@DISEASE_Mitochondrial_Diseases,8,8
+amlodipine,@CHEMICAL_Amlodipine,Myocardial Stunning,@DISEASE_Myocardial_Stunning,9,9
+amlodipine,@CHEMICAL_Amlodipine,Nephrosclerosis,@DISEASE_Nephrosclerosis,8,8
+amlodipine,@CHEMICAL_Amlodipine,Osteoarthritis,@DISEASE_Osteoarthritis,8,8
+amlodipine,@CHEMICAL_Amlodipine,Vomiting,@DISEASE_Vomiting,10,13
+amlodipine,@CHEMICAL_Amlodipine,Breast Neoplasms,@DISEASE_Breast_Neoplasms,8,8
+amlodipine,@CHEMICAL_Amlodipine,Cerebrovascular Disorders,@DISEASE_Cerebrovascular_Disorders,7,7
+amlodipine,@CHEMICAL_Amlodipine,Drug Related Side Effects and Adverse Reactions,@DISEASE_Drug_Related_Side_Effects_and_Adverse_Reactions,10,19
+amlodipine,@CHEMICAL_Amlodipine,Acute Coronary Syndrome,@DISEASE_Acute_Coronary_Syndrome,6,6
+amlodipine,@CHEMICAL_Amlodipine,Coronary Aneurysm,@DISEASE_Coronary_Aneurysm,6,6
+amlodipine,@CHEMICAL_Amlodipine,Dyspnea,@DISEASE_Dyspnea,10,14
+amlodipine,@CHEMICAL_Amlodipine,Glucose Intolerance,@DISEASE_Glucose_Intolerance,7,7
+amlodipine,@CHEMICAL_Amlodipine,Hyperlipoproteinemia Type II,@DISEASE_Hyperlipoproteinemia_Type_II,6,6
+amlodipine,@CHEMICAL_Amlodipine,Hypertension Diastolic Resistance to,@DISEASE_Hypertension_Diastolic_Resistance_to,6,6
+amlodipine,@CHEMICAL_Amlodipine,Infections,@DISEASE_Infections,6,6
+amlodipine,@CHEMICAL_Amlodipine,Nerve Degeneration,@DISEASE_Nerve_Degeneration,6,6
+amlodipine,@CHEMICAL_Amlodipine,ST Elevation Myocardial Infarction,@DISEASE_ST_Elevation_Myocardial_Infarction,8,8
+amlodipine,@CHEMICAL_Amlodipine,Tachycardia,@DISEASE_Tachycardia,10,31
+amlodipine,@CHEMICAL_Amlodipine,beta Thalassemia,@DISEASE_beta_Thalassemia,6,6
+amlodipine,@CHEMICAL_Amlodipine,Acute Kidney Injury,@DISEASE_Acute_Kidney_Injury,10,12
+amlodipine,@CHEMICAL_Amlodipine,Alzheimer Disease,@DISEASE_Alzheimer_Disease,6,6
+amlodipine,@CHEMICAL_Amlodipine,Arrhythmias Cardiac,@DISEASE_Arrhythmias_Cardiac,8,8
+amlodipine,@CHEMICAL_Amlodipine,Cardiomyopathy Hypertrophic Familial,@DISEASE_Cardiomyopathy_Hypertrophic_Familial,7,7
+amlodipine,@CHEMICAL_Amlodipine,Constriction Pathologic,@DISEASE_Constriction_Pathologic,5,5
+amlodipine,@CHEMICAL_Amlodipine,Dementia Vascular,@DISEASE_Dementia_Vascular,5,5
+amlodipine,@CHEMICAL_Amlodipine,Dystonia 18,@DISEASE_Dystonia_18,5,5
+amlodipine,@CHEMICAL_Amlodipine,Epilepsy,@DISEASE_Epilepsy,6,6
+amlodipine,@CHEMICAL_Amlodipine,Hypoxia,@DISEASE_Hypoxia,7,7
+amlodipine,@CHEMICAL_Amlodipine,Insulin Like Growth Factor I Resistance To,@DISEASE_Insulin_Like_Growth_Factor_I_Resistance_To,5,5
+amlodipine,@CHEMICAL_Amlodipine,Myocardial Reperfusion Injury,@DISEASE_Myocardial_Reperfusion_Injury,5,5
+amlodipine,@CHEMICAL_Amlodipine,Neurologic Manifestations,@DISEASE_Neurologic_Manifestations,5,5
+amlodipine,@CHEMICAL_Amlodipine,Pulmonary Disease Chronic Obstructive,@DISEASE_Pulmonary_Disease_Chronic_Obstructive,5,5
+amlodipine,@CHEMICAL_Amlodipine,Sleep Apnea Obstructive,@DISEASE_Sleep_Apnea_Obstructive,5,5
+amlodipine,@CHEMICAL_Amlodipine,Stomach Neoplasms,@DISEASE_Stomach_Neoplasms,5,5
+amlodipine,@CHEMICAL_Amlodipine,Tang Hsi Ryu syndrome,@DISEASE_Tang_Hsi_Ryu_syndrome,10,30
+amlodipine,@CHEMICAL_Amlodipine,Vascular Remodeling,@DISEASE_Vascular_Remodeling,9,9
+amlodipine,@CHEMICAL_Amlodipine,Vascular System Injuries,@DISEASE_Vascular_System_Injuries,6,6
+amlodipine,@CHEMICAL_Amlodipine,Weight Loss,@DISEASE_Weight_Loss,8,8
+amlodipine,@CHEMICAL_Amlodipine,261515,@DISEASE_261515,4,4
+amlodipine,@CHEMICAL_Amlodipine,Ankle Injuries,@DISEASE_Ankle_Injuries,10,48
+amlodipine,@CHEMICAL_Amlodipine,Asthma,@DISEASE_Asthma,4,4
+amlodipine,@CHEMICAL_Amlodipine,Carotid Stenosis,@DISEASE_Carotid_Stenosis,4,4
+amlodipine,@CHEMICAL_Amlodipine,Chemical and Drug Induced Liver Injury,@DISEASE_Chemical_and_Drug_Induced_Liver_Injury,5,5
+amlodipine,@CHEMICAL_Amlodipine,Death Sudden,@DISEASE_Death_Sudden,4,4
+amlodipine,@CHEMICAL_Amlodipine,Dementia,@DISEASE_Dementia,5,5
+amlodipine,@CHEMICAL_Amlodipine,Diabetes Mellitus Type 1,@DISEASE_Diabetes_Mellitus_Type_1,4,4
+amlodipine,@CHEMICAL_Amlodipine,Episodic Ataxia,@DISEASE_Episodic_Ataxia,4,4
+amlodipine,@CHEMICAL_Amlodipine,Fatigue,@DISEASE_Fatigue,10,12
+amlodipine,@CHEMICAL_Amlodipine,Hyperaldosteronism,@DISEASE_Hyperaldosteronism,5,5
+amlodipine,@CHEMICAL_Amlodipine,Hypertension Renovascular,@DISEASE_Hypertension_Renovascular,4,4
+amlodipine,@CHEMICAL_Amlodipine,Hypoglycemia,@DISEASE_Hypoglycemia,4,4
+amlodipine,@CHEMICAL_Amlodipine,Hypotension Orthostatic,@DISEASE_Hypotension_Orthostatic,7,7
+amlodipine,@CHEMICAL_Amlodipine,Hypotrichosis,@DISEASE_Hypotrichosis,4,4
+amlodipine,@CHEMICAL_Amlodipine,Hypoxia Brain,@DISEASE_Hypoxia_Brain,4,4
+amlodipine,@CHEMICAL_Amlodipine,Liver Failure,@DISEASE_Liver_Failure,9,9
+amlodipine,@CHEMICAL_Amlodipine,Migraine Disorders,@DISEASE_Migraine_Disorders,4,4
+amlodipine,@CHEMICAL_Amlodipine,Mitral Valve Insufficiency,@DISEASE_Mitral_Valve_Insufficiency,4,4
+amlodipine,@CHEMICAL_Amlodipine,Mouth Diseases,@DISEASE_Mouth_Diseases,7,7
+amlodipine,@CHEMICAL_Amlodipine,Neurodegenerative Diseases,@DISEASE_Neurodegenerative_Diseases,4,4
+amlodipine,@CHEMICAL_Amlodipine,Osteoporosis,@DISEASE_Osteoporosis,4,4
+amlodipine,@CHEMICAL_Amlodipine,Posterior Leukoencephalopathy Syndrome,@DISEASE_Posterior_Leukoencephalopathy_Syndrome,4,4
+amlodipine,@CHEMICAL_Amlodipine,Prehypertension,@DISEASE_Prehypertension,4,4
+amlodipine,@CHEMICAL_Amlodipine,Vasospasm Intracranial,@DISEASE_Vasospasm_Intracranial,4,4
+amlodipine,@CHEMICAL_Amlodipine,Abdominal Pain,@DISEASE_Abdominal_Pain,4,4
+amlodipine,@CHEMICAL_Amlodipine,Anterior Wall Myocardial Infarction,@DISEASE_Anterior_Wall_Myocardial_Infarction,3,3
+amlodipine,@CHEMICAL_Amlodipine,Aortic Aneurysm,@DISEASE_Aortic_Aneurysm,3,3
+amlodipine,@CHEMICAL_Amlodipine,Aortic Aneurysm Abdominal,@DISEASE_Aortic_Aneurysm_Abdominal,3,3
+amlodipine,@CHEMICAL_Amlodipine,Aortic Valve Insufficiency,@DISEASE_Aortic_Valve_Insufficiency,3,3
+amlodipine,@CHEMICAL_Amlodipine,Arterial Occlusive Diseases,@DISEASE_Arterial_Occlusive_Diseases,3,3
+amlodipine,@CHEMICAL_Amlodipine,Arteriosclerosis,@DISEASE_Arteriosclerosis,4,4
+amlodipine,@CHEMICAL_Amlodipine,Atrial Remodeling,@DISEASE_Atrial_Remodeling,3,3
+amlodipine,@CHEMICAL_Amlodipine,Brain Edema,@DISEASE_Brain_Edema,3,3
+amlodipine,@CHEMICAL_Amlodipine,Carcinoma Squamous Cell,@DISEASE_Carcinoma_Squamous_Cell,3,3
+amlodipine,@CHEMICAL_Amlodipine,Cocaine Related Disorders,@DISEASE_Cocaine_Related_Disorders,3,3
+amlodipine,@CHEMICAL_Amlodipine,Cognitive Dysfunction,@DISEASE_Cognitive_Dysfunction,3,3
+amlodipine,@CHEMICAL_Amlodipine,Congenital Hyperinsulinism,@DISEASE_Congenital_Hyperinsulinism,3,3
+amlodipine,@CHEMICAL_Amlodipine,Coronary Stenosis,@DISEASE_Coronary_Stenosis,3,3
+amlodipine,@CHEMICAL_Amlodipine,Cough,@DISEASE_Cough,10,17
+amlodipine,@CHEMICAL_Amlodipine,Dizziness,@DISEASE_Dizziness,10,53
+amlodipine,@CHEMICAL_Amlodipine,Fatty Liver,@DISEASE_Fatty_Liver,3,3
+amlodipine,@CHEMICAL_Amlodipine,Glioblastoma,@DISEASE_Glioblastoma,3,3
+amlodipine,@CHEMICAL_Amlodipine,Hemolytic Uremic Syndrome,@DISEASE_Hemolytic_Uremic_Syndrome,3,3
+amlodipine,@CHEMICAL_Amlodipine,Hemorrhage,@DISEASE_Hemorrhage,8,8
+amlodipine,@CHEMICAL_Amlodipine,Hyperplasia,@DISEASE_Hyperplasia,6,6
+amlodipine,@CHEMICAL_Amlodipine,Hypertensive Retinopathy,@DISEASE_Hypertensive_Retinopathy,3,3
+amlodipine,@CHEMICAL_Amlodipine,Hyperuricemia,@DISEASE_Hyperuricemia,4,4
+amlodipine,@CHEMICAL_Amlodipine,Hyponatremia,@DISEASE_Hyponatremia,4,4
+amlodipine,@CHEMICAL_Amlodipine,Infarction Middle Cerebral Artery,@DISEASE_Infarction_Middle_Cerebral_Artery,3,3
+amlodipine,@CHEMICAL_Amlodipine,Ischemic Contracture,@DISEASE_Ischemic_Contracture,3,3
+amlodipine,@CHEMICAL_Amlodipine,Lead Poisoning Nervous System,@DISEASE_Lead_Poisoning_Nervous_System,3,3
+amlodipine,@CHEMICAL_Amlodipine,Leukemia,@DISEASE_Leukemia,3,3
+amlodipine,@CHEMICAL_Amlodipine,Lung Neoplasms,@DISEASE_Lung_Neoplasms,3,3
+amlodipine,@CHEMICAL_Amlodipine,Neuroblastoma,@DISEASE_Neuroblastoma,3,3
+amlodipine,@CHEMICAL_Amlodipine,Obesity Abdominal,@DISEASE_Obesity_Abdominal,3,3
+amlodipine,@CHEMICAL_Amlodipine,Ototoxicity,@DISEASE_Ototoxicity,7,7
+amlodipine,@CHEMICAL_Amlodipine,Overweight,@DISEASE_Overweight,3,3
+amlodipine,@CHEMICAL_Amlodipine,Parkinson Disease,@DISEASE_Parkinson_Disease,3,3
+amlodipine,@CHEMICAL_Amlodipine,Peripheral Arterial Disease,@DISEASE_Peripheral_Arterial_Disease,3,3
+amlodipine,@CHEMICAL_Amlodipine,Polycystic Kidney Autosomal Dominant,@DISEASE_Polycystic_Kidney_Autosomal_Dominant,3,3
+amlodipine,@CHEMICAL_Amlodipine,Prediabetic State,@DISEASE_Prediabetic_State,3,3
+amlodipine,@CHEMICAL_Amlodipine,Pulmonary Embolism,@DISEASE_Pulmonary_Embolism,3,3
+amlodipine,@CHEMICAL_Amlodipine,Soft Tissue Injuries,@DISEASE_Soft_Tissue_Injuries,4,4
+amlodipine,@CHEMICAL_Amlodipine,Spasm,@DISEASE_Spasm,3,3
+amlodipine,@CHEMICAL_Amlodipine,Tension Type Headache,@DISEASE_Tension_Type_Headache,3,3
+amlodipine,@CHEMICAL_Amlodipine,Vision Disorders,@DISEASE_Vision_Disorders,5,5
+amlodipine,@CHEMICAL_Amlodipine,617027,@DISEASE_617027,2,2
+amlodipine,@CHEMICAL_Amlodipine,Abnormalities Drug Induced,@DISEASE_Abnormalities_Drug_Induced,3,3
+amlodipine,@CHEMICAL_Amlodipine,Acidosis,@DISEASE_Acidosis,6,6
+amlodipine,@CHEMICAL_Amlodipine,Adrenal Insufficiency,@DISEASE_Adrenal_Insufficiency,2,2
+amlodipine,@CHEMICAL_Amlodipine,Anodontia,@DISEASE_Anodontia,2,2
+amlodipine,@CHEMICAL_Amlodipine,Anxiety,@DISEASE_Anxiety,3,3
+amlodipine,@CHEMICAL_Amlodipine,Aortic Aneurysm Familial Abdominal 1,@DISEASE_Aortic_Aneurysm_Familial_Abdominal_1,1,1
+amlodipine,@CHEMICAL_Amlodipine,Aortic Dissection,@DISEASE_Aortic_Dissection,2,2
+amlodipine,@CHEMICAL_Amlodipine,Arthritis,@DISEASE_Arthritis,2,2
+amlodipine,@CHEMICAL_Amlodipine,Arthritis Psoriatic,@DISEASE_Arthritis_Psoriatic,2,2
+amlodipine,@CHEMICAL_Amlodipine,Body Weight,@DISEASE_Body_Weight,2,2
+amlodipine,@CHEMICAL_Amlodipine,Bone Diseases Metabolic,@DISEASE_Bone_Diseases_Metabolic,2,2
+amlodipine,@CHEMICAL_Amlodipine_Valsartan_Drug_Combination,Hypertension,@DISEASE_Hypertension,10,28
+amlodipine,@CHEMICAL_Amlodipine_Valsartan_Drug_Combination,Diabetes Mellitus,@DISEASE_Diabetes_Mellitus,4,4
+amlodipine,@CHEMICAL_Amlodipine_Valsartan_Drug_Combination,Albuminuria,@DISEASE_Albuminuria,1,1
+amlodipine,@CHEMICAL_Amlodipine_Valsartan_Drug_Combination,Dyslipidemias,@DISEASE_Dyslipidemias,1,1
+amlodipine,@CHEMICAL_Amlodipine_Valsartan_Drug_Combination,Essential Hypertension,@DISEASE_Essential_Hypertension,1,1
+amlodipine,@CHEMICAL_Amlodipine_Valsartan_Drug_Combination,Extravasation of Diagnostic and Therapeutic Materials,@DISEASE_Extravasation_of_Diagnostic_and_Therapeutic_Materials,1,1
+amlodipine,@CHEMICAL_Amlodipine_Valsartan_Drug_Combination,Peripheral Nervous System Diseases,@DISEASE_Peripheral_Nervous_System_Diseases,3,3
+amlodipine,@CHEMICAL_Amlodipine_Valsartan_Drug_Combination,Pulmonary Arterial Hypertension,@DISEASE_Pulmonary_Arterial_Hypertension,1,1
+amlodipine,@CHEMICAL_Amlodipine_Valsartan_Drug_Combination,Renal Insufficiency Chronic,@DISEASE_Renal_Insufficiency_Chronic,1,1
+amlodipine,@CHEMICAL_Amlodipine_Besylate_Olmesartan_Medoxomil_Drug_Combination,Angina Stable,@DISEASE_Angina_Stable,1,1
+amlodipine,@CHEMICAL_Amlodipine_Besylate_Olmesartan_Medoxomil_Drug_Combination,Tuberculosis,@DISEASE_Tuberculosis,1,1
+amlodipine,@CHEMICAL_amlodipine_atorvastatin_drug_combination,Hypertension,@DISEASE_Hypertension,7,7
+amlodipine,@CHEMICAL_amlodipine_atorvastatin_drug_combination,Dyslipidemias,@DISEASE_Dyslipidemias,2,2
+amlodipine,@CHEMICAL_amlodipine_atorvastatin_drug_combination,Angina Pectoris,@DISEASE_Angina_Pectoris,1,1
+amlodipine,@CHEMICAL_amlodipine_atorvastatin_drug_combination,Cardiovascular Diseases,@DISEASE_Cardiovascular_Diseases,2,2
+amlodipine,@CHEMICAL_amlodipine_atorvastatin_drug_combination,Heart Diseases,@DISEASE_Heart_Diseases,1,1
+amlodipine,@CHEMICAL_amlodipine_atorvastatin_drug_combination,Hyperlipidemias,@DISEASE_Hyperlipidemias,1,1
+amlodipine,@CHEMICAL_amlodipine_atorvastatin_drug_combination,Vascular Remodeling,@DISEASE_Vascular_Remodeling,1,1
+amlodipine,@CHEMICAL_amlodipine_perindopril_drug_combination,Albuminuria,@DISEASE_Albuminuria,1,1
+amlodipine,@CHEMICAL_amlodipine_perindopril_drug_combination,Pulmonary Arterial Hypertension,@DISEASE_Pulmonary_Arterial_Hypertension,1,1
+omeprazole,@CHEMICAL_Omeprazole,Gastroesophageal Reflux,@DISEASE_Gastroesophageal_Reflux,10,921
+omeprazole,@CHEMICAL_Omeprazole,Ulcer,@DISEASE_Ulcer,10,627
+omeprazole,@CHEMICAL_Omeprazole,Duodenal Ulcer,@DISEASE_Duodenal_Ulcer,10,546
+omeprazole,@CHEMICAL_Omeprazole,Peptic Ulcer,@DISEASE_Peptic_Ulcer,10,521
+omeprazole,@CHEMICAL_Omeprazole,Helicobacter Infections,@DISEASE_Helicobacter_Infections,10,490
+omeprazole,@CHEMICAL_Omeprazole,Stomach Ulcer,@DISEASE_Stomach_Ulcer,10,402
+omeprazole,@CHEMICAL_Omeprazole,Dyspepsia,@DISEASE_Dyspepsia,10,188
+omeprazole,@CHEMICAL_Omeprazole,Stomach Diseases,@DISEASE_Stomach_Diseases,10,178
+omeprazole,@CHEMICAL_Omeprazole,Esophagitis,@DISEASE_Esophagitis,10,162
+omeprazole,@CHEMICAL_Omeprazole,Heartburn,@DISEASE_Heartburn,10,141
+omeprazole,@CHEMICAL_Omeprazole,Pain,@DISEASE_Pain,10,128
+omeprazole,@CHEMICAL_Omeprazole,Gastritis,@DISEASE_Gastritis,10,124
+omeprazole,@CHEMICAL_Omeprazole,Hemorrhage,@DISEASE_Hemorrhage,10,118
+omeprazole,@CHEMICAL_Omeprazole,Zollinger Ellison Syndrome,@DISEASE_Zollinger_Ellison_Syndrome,10,105
+omeprazole,@CHEMICAL_Omeprazole,Esophageal Squamous Cell Carcinoma,@DISEASE_Esophageal_Squamous_Cell_Carcinoma,10,102
+omeprazole,@CHEMICAL_Omeprazole,Barrett Esophagus,@DISEASE_Barrett_Esophagus,10,79
+omeprazole,@CHEMICAL_Omeprazole,Gastrointestinal Hemorrhage,@DISEASE_Gastrointestinal_Hemorrhage,10,82
+omeprazole,@CHEMICAL_Omeprazole,Infections,@DISEASE_Infections,10,70
+omeprazole,@CHEMICAL_Omeprazole,Gastrointestinal Diseases,@DISEASE_Gastrointestinal_Diseases,10,60
+omeprazole,@CHEMICAL_Omeprazole,Inflammation,@DISEASE_Inflammation,10,69
+omeprazole,@CHEMICAL_Omeprazole,Neoplasms,@DISEASE_Neoplasms,10,55
+omeprazole,@CHEMICAL_Omeprazole,Tooth Erosion,@DISEASE_Tooth_Erosion,10,40
+omeprazole,@CHEMICAL_Omeprazole,Signs and Symptoms,@DISEASE_Signs_and_Symptoms,10,35
+omeprazole,@CHEMICAL_Omeprazole,Laryngopharyngeal Reflux,@DISEASE_Laryngopharyngeal_Reflux,10,30
+omeprazole,@CHEMICAL_Omeprazole,Chest Pain,@DISEASE_Chest_Pain,10,29
+omeprazole,@CHEMICAL_Omeprazole,Abdominal Pain,@DISEASE_Abdominal_Pain,10,35
+omeprazole,@CHEMICAL_Omeprazole,Constriction Pathologic,@DISEASE_Constriction_Pathologic,10,26
+omeprazole,@CHEMICAL_Omeprazole,Mitral Valve Insufficiency,@DISEASE_Mitral_Valve_Insufficiency,10,29
+omeprazole,@CHEMICAL_Omeprazole,Asthma,@DISEASE_Asthma,10,27
+omeprazole,@CHEMICAL_Omeprazole,Cough,@DISEASE_Cough,10,27
+omeprazole,@CHEMICAL_Omeprazole,Immunoglobulin G4 Related Disease,@DISEASE_Immunoglobulin_G4_Related_Disease,10,22
+omeprazole,@CHEMICAL_Omeprazole,Stomach Neoplasms,@DISEASE_Stomach_Neoplasms,10,42
+omeprazole,@CHEMICAL_Omeprazole,Vomiting,@DISEASE_Vomiting,10,34
+omeprazole,@CHEMICAL_Omeprazole,Alcohol Related Disorders,@DISEASE_Alcohol_Related_Disorders,10,21
+omeprazole,@CHEMICAL_Omeprazole,Critical Illness,@DISEASE_Critical_Illness,10,21
+omeprazole,@CHEMICAL_Omeprazole,Psychological Distress,@DISEASE_Psychological_Distress,10,22
+omeprazole,@CHEMICAL_Omeprazole,Signs and Symptoms Digestive,@DISEASE_Signs_and_Symptoms_Digestive,10,23
+omeprazole,@CHEMICAL_Omeprazole,Deglutition Disorders,@DISEASE_Deglutition_Disorders,10,19
+omeprazole,@CHEMICAL_Omeprazole,Laryngitis,@DISEASE_Laryngitis,10,19
+omeprazole,@CHEMICAL_Omeprazole,Duodenitis,@DISEASE_Duodenitis,10,20
+omeprazole,@CHEMICAL_Omeprazole,Gastrinoma,@DISEASE_Gastrinoma,10,18
+omeprazole,@CHEMICAL_Omeprazole,Intestinal Diseases,@DISEASE_Intestinal_Diseases,10,21
+omeprazole,@CHEMICAL_Omeprazole,Pneumonia Aspiration,@DISEASE_Pneumonia_Aspiration,10,18
+omeprazole,@CHEMICAL_Omeprazole,Mucositis,@DISEASE_Mucositis,10,19
+omeprazole,@CHEMICAL_Omeprazole,Nausea,@DISEASE_Nausea,10,31
+omeprazole,@CHEMICAL_Omeprazole,Acute Coronary Syndrome,@DISEASE_Acute_Coronary_Syndrome,10,15
+omeprazole,@CHEMICAL_Omeprazole,Hereditary pancreatitis,@DISEASE_Hereditary_pancreatitis,10,13
+omeprazole,@CHEMICAL_Omeprazole,Abdominal Injuries,@DISEASE_Abdominal_Injuries,10,14
+omeprazole,@CHEMICAL_Omeprazole,Colorectal Neoplasms,@DISEASE_Colorectal_Neoplasms,10,13
+omeprazole,@CHEMICAL_Omeprazole,Status Asthmaticus,@DISEASE_Status_Asthmaticus,10,13
+omeprazole,@CHEMICAL_Omeprazole,Carcinoma Squamous Cell,@DISEASE_Carcinoma_Squamous_Cell,10,12
+omeprazole,@CHEMICAL_Omeprazole,Diarrhea,@DISEASE_Diarrhea,10,40
+omeprazole,@CHEMICAL_Omeprazole,Edema,@DISEASE_Edema,10,17
+omeprazole,@CHEMICAL_Omeprazole,Lymphoma B Cell Marginal Zone,@DISEASE_Lymphoma_B_Cell_Marginal_Zone,10,13
+omeprazole,@CHEMICAL_Omeprazole,Osteoarthritis,@DISEASE_Osteoarthritis,10,19
+omeprazole,@CHEMICAL_Omeprazole,Coronary Artery Disease,@DISEASE_Coronary_Artery_Disease,10,10
+omeprazole,@CHEMICAL_Omeprazole,Arthritis,@DISEASE_Arthritis,10,10
+omeprazole,@CHEMICAL_Omeprazole,Breast Neoplasms,@DISEASE_Breast_Neoplasms,10,12
+omeprazole,@CHEMICAL_Omeprazole,COVID 19,@DISEASE_COVID_19,10,10
+omeprazole,@CHEMICAL_Omeprazole,Depressive Disorder,@DISEASE_Depressive_Disorder,10,14
+omeprazole,@CHEMICAL_Omeprazole,Fibrosis,@DISEASE_Fibrosis,10,10
+omeprazole,@CHEMICAL_Omeprazole,Gastritis Atrophic,@DISEASE_Gastritis_Atrophic,10,22
+omeprazole,@CHEMICAL_Omeprazole,Melena,@DISEASE_Melena,9,9
+omeprazole,@CHEMICAL_Omeprazole,Obesity,@DISEASE_Obesity,10,12
+omeprazole,@CHEMICAL_Omeprazole,Wounds and Injuries,@DISEASE_Wounds_and_Injuries,10,10
+omeprazole,@CHEMICAL_Omeprazole,Anemia,@DISEASE_Anemia,10,11
+omeprazole,@CHEMICAL_Omeprazole,Cardiovascular Diseases,@DISEASE_Cardiovascular_Diseases,10,15
+omeprazole,@CHEMICAL_Omeprazole,Chronic Urticaria,@DISEASE_Chronic_Urticaria,8,8
+omeprazole,@CHEMICAL_Omeprazole,Diabetes Mellitus Type 2,@DISEASE_Diabetes_Mellitus_Type_2,9,9
+omeprazole,@CHEMICAL_Omeprazole,Drug Related Side Effects and Adverse Reactions,@DISEASE_Drug_Related_Side_Effects_and_Adverse_Reactions,10,31
+omeprazole,@CHEMICAL_Omeprazole,Esophageal Stenosis,@DISEASE_Esophageal_Stenosis,10,10
+omeprazole,@CHEMICAL_Omeprazole,Esophagitis Peptic,@DISEASE_Esophagitis_Peptic,8,8
+omeprazole,@CHEMICAL_Omeprazole,Fractures Spontaneous,@DISEASE_Fractures_Spontaneous,9,9
+omeprazole,@CHEMICAL_Omeprazole,Hoarseness,@DISEASE_Hoarseness,8,8
+omeprazole,@CHEMICAL_Omeprazole,Myocardial Infarction,@DISEASE_Myocardial_Infarction,10,10
+omeprazole,@CHEMICAL_Omeprazole,Varicose Veins,@DISEASE_Varicose_Veins,8,8
+omeprazole,@CHEMICAL_Omeprazole,Adenocarcinoma,@DISEASE_Adenocarcinoma,10,10
+omeprazole,@CHEMICAL_Omeprazole,Arthritis Rheumatoid,@DISEASE_Arthritis_Rheumatoid,8,8
+omeprazole,@CHEMICAL_Omeprazole,Diabetes Mellitus,@DISEASE_Diabetes_Mellitus,10,11
+omeprazole,@CHEMICAL_Omeprazole,Duodenal Diseases,@DISEASE_Duodenal_Diseases,7,7
+omeprazole,@CHEMICAL_Omeprazole,Gastric Fistula,@DISEASE_Gastric_Fistula,7,7
+omeprazole,@CHEMICAL_Omeprazole,Idiopathic Noncirrhotic Portal Hypertension,@DISEASE_Idiopathic_Noncirrhotic_Portal_Hypertension,8,8
+omeprazole,@CHEMICAL_Omeprazole,Mouth Diseases,@DISEASE_Mouth_Diseases,7,7
+omeprazole,@CHEMICAL_Omeprazole,Scleroderma Systemic,@DISEASE_Scleroderma_Systemic,8,8
+omeprazole,@CHEMICAL_Omeprazole,Shock Hemorrhagic,@DISEASE_Shock_Hemorrhagic,8,8
+omeprazole,@CHEMICAL_Omeprazole,Anxiety,@DISEASE_Anxiety,9,9
+omeprazole,@CHEMICAL_Omeprazole,Esophageal Diseases,@DISEASE_Esophageal_Diseases,7,7
+omeprazole,@CHEMICAL_Omeprazole,Hiccup,@DISEASE_Hiccup,6,6
+omeprazole,@CHEMICAL_Omeprazole,Pancreatitis,@DISEASE_Pancreatitis,9,9
+omeprazole,@CHEMICAL_Omeprazole,Polyps,@DISEASE_Polyps,10,15
+omeprazole,@CHEMICAL_Omeprazole,Protein Losing Enteropathies,@DISEASE_Protein_Losing_Enteropathies,6,6
+omeprazole,@CHEMICAL_Omeprazole,Signs and Symptoms Respiratory,@DISEASE_Signs_and_Symptoms_Respiratory,6,6
+omeprazole,@CHEMICAL_Omeprazole,Weight Gain,@DISEASE_Weight_Gain,9,9
+omeprazole,@CHEMICAL_Omeprazole,Weight Loss,@DISEASE_Weight_Loss,7,7
+omeprazole,@CHEMICAL_Omeprazole,Anemia Iron Deficiency,@DISEASE_Anemia_Iron_Deficiency,8,8
+omeprazole,@CHEMICAL_Omeprazole,Atrophy,@DISEASE_Atrophy,10,14
+omeprazole,@CHEMICAL_Omeprazole,Blood Platelet Disorders,@DISEASE_Blood_Platelet_Disorders,8,8
+omeprazole,@CHEMICAL_Omeprazole,Cystic Fibrosis,@DISEASE_Cystic_Fibrosis,6,6
+omeprazole,@CHEMICAL_Omeprazole,Duodenogastric Reflux,@DISEASE_Duodenogastric_Reflux,6,6
+omeprazole,@CHEMICAL_Omeprazole,Eosinophilic Esophagitis,@DISEASE_Eosinophilic_Esophagitis,5,5
+omeprazole,@CHEMICAL_Omeprazole,Heart Diseases,@DISEASE_Heart_Diseases,6,6
+omeprazole,@CHEMICAL_Omeprazole,Hematemesis,@DISEASE_Hematemesis,5,5
+omeprazole,@CHEMICAL_Omeprazole,Hypertension,@DISEASE_Hypertension,8,8
+omeprazole,@CHEMICAL_Omeprazole,Ischemia,@DISEASE_Ischemia,5,5
+omeprazole,@CHEMICAL_Omeprazole,Kidney Diseases,@DISEASE_Kidney_Diseases,10,16
+omeprazole,@CHEMICAL_Omeprazole,Necrosis,@DISEASE_Necrosis,7,7
+omeprazole,@CHEMICAL_Omeprazole,Neoplasm Metastasis,@DISEASE_Neoplasm_Metastasis,6,6
+omeprazole,@CHEMICAL_Omeprazole,Purpura Thrombocytopenic Idiopathic,@DISEASE_Purpura_Thrombocytopenic_Idiopathic,5,5
+omeprazole,@CHEMICAL_Omeprazole,Retinal Dysplasia,@DISEASE_Retinal_Dysplasia,7,7
+omeprazole,@CHEMICAL_Omeprazole,Achlorhydria,@DISEASE_Achlorhydria,10,44
+omeprazole,@CHEMICAL_Omeprazole,Adenoma,@DISEASE_Adenoma,5,5
+omeprazole,@CHEMICAL_Omeprazole,Bile Reflux,@DISEASE_Bile_Reflux,4,4
+omeprazole,@CHEMICAL_Omeprazole,Chronic Disease,@DISEASE_Chronic_Disease,4,4
+omeprazole,@CHEMICAL_Omeprazole,Duodenal Neoplasms,@DISEASE_Duodenal_Neoplasms,4,4
+omeprazole,@CHEMICAL_Omeprazole,Dyspnea,@DISEASE_Dyspnea,8,8
+omeprazole,@CHEMICAL_Omeprazole,Ear Diseases,@DISEASE_Ear_Diseases,4,4
+omeprazole,@CHEMICAL_Omeprazole,Eosinophilia,@DISEASE_Eosinophilia,6,6
+omeprazole,@CHEMICAL_Omeprazole,Esophageal Neoplasms,@DISEASE_Esophageal_Neoplasms,6,6
+omeprazole,@CHEMICAL_Omeprazole,Exanthema,@DISEASE_Exanthema,10,19
+omeprazole,@CHEMICAL_Omeprazole,Gastritis Hypertrophic,@DISEASE_Gastritis_Hypertrophic,4,4
+omeprazole,@CHEMICAL_Omeprazole,Gastrointestinal Neoplasms,@DISEASE_Gastrointestinal_Neoplasms,5,5
+omeprazole,@CHEMICAL_Omeprazole,Hydrocephalus,@DISEASE_Hydrocephalus,4,4
+omeprazole,@CHEMICAL_Omeprazole,Hypercalcemia,@DISEASE_Hypercalcemia,4,4
+omeprazole,@CHEMICAL_Omeprazole,Hypoxia,@DISEASE_Hypoxia,5,5
+omeprazole,@CHEMICAL_Omeprazole,Intellectual Disability,@DISEASE_Intellectual_Disability,4,4
+omeprazole,@CHEMICAL_Omeprazole,Liver Cirrhosis,@DISEASE_Liver_Cirrhosis,7,7
+omeprazole,@CHEMICAL_Omeprazole,Liver Diseases,@DISEASE_Liver_Diseases,10,11
+omeprazole,@CHEMICAL_Omeprazole,Lung Injury,@DISEASE_Lung_Injury,6,6
+omeprazole,@CHEMICAL_Omeprazole,Lymphoma,@DISEASE_Lymphoma,4,4
+omeprazole,@CHEMICAL_Omeprazole,Multiple Endocrine Neoplasia Type 1,@DISEASE_Multiple_Endocrine_Neoplasia_Type_1,6,6
+omeprazole,@CHEMICAL_Omeprazole,Myoclonus,@DISEASE_Myoclonus,4,4
+omeprazole,@CHEMICAL_Omeprazole,Paine syndrome,@DISEASE_Paine_syndrome,4,4
+omeprazole,@CHEMICAL_Omeprazole,Pancreatitis Chronic,@DISEASE_Pancreatitis_Chronic,4,4
+omeprazole,@CHEMICAL_Omeprazole,Peptic Ulcer Hemorrhage,@DISEASE_Peptic_Ulcer_Hemorrhage,5,5
+omeprazole,@CHEMICAL_Omeprazole,Precancerous Conditions,@DISEASE_Precancerous_Conditions,6,6
+omeprazole,@CHEMICAL_Omeprazole,Renal Insufficiency,@DISEASE_Renal_Insufficiency,10,15
+omeprazole,@CHEMICAL_Omeprazole,Respiratory Sounds,@DISEASE_Respiratory_Sounds,6,6
+omeprazole,@CHEMICAL_Omeprazole,Sleep Apnea Obstructive,@DISEASE_Sleep_Apnea_Obstructive,4,4
+omeprazole,@CHEMICAL_Omeprazole,ACTH Secreting Pituitary Adenoma,@DISEASE_ACTH_Secreting_Pituitary_Adenoma,5,5
+omeprazole,@CHEMICAL_Omeprazole,Alkalosis,@DISEASE_Alkalosis,5,5
+omeprazole,@CHEMICAL_Omeprazole,Anorexia,@DISEASE_Anorexia,4,4
+omeprazole,@CHEMICAL_Omeprazole,Bone Diseases,@DISEASE_Bone_Diseases,5,5
+omeprazole,@CHEMICAL_Omeprazole,Burns,@DISEASE_Burns,3,3
+omeprazole,@CHEMICAL_Omeprazole,Carcinogenesis,@DISEASE_Carcinogenesis,10,12
+omeprazole,@CHEMICAL_Omeprazole,Carcinoma Hepatocellular,@DISEASE_Carcinoma_Hepatocellular,3,3
+omeprazole,@CHEMICAL_Omeprazole,Choristoma,@DISEASE_Choristoma,3,3
+omeprazole,@CHEMICAL_Omeprazole,Colitis,@DISEASE_Colitis,6,6
+omeprazole,@CHEMICAL_Omeprazole,Colonic Neoplasms,@DISEASE_Colonic_Neoplasms,4,4
+omeprazole,@CHEMICAL_Omeprazole,Constipation,@DISEASE_Constipation,8,8
+omeprazole,@CHEMICAL_Omeprazole,Coronary Disease,@DISEASE_Coronary_Disease,4,4
+omeprazole,@CHEMICAL_Omeprazole,Digestive System Diseases,@DISEASE_Digestive_System_Diseases,3,3
+omeprazole,@CHEMICAL_Omeprazole,Disease,@DISEASE_Disease,3,3
+omeprazole,@CHEMICAL_Omeprazole,Drug Hypersensitivity,@DISEASE_Drug_Hypersensitivity,10,26
+omeprazole,@CHEMICAL_Omeprazole,Dysphonia,@DISEASE_Dysphonia,3,3
+omeprazole,@CHEMICAL_Omeprazole,Esophageal and Gastric Varices,@DISEASE_Esophageal_and_Gastric_Varices,3,3
+omeprazole,@CHEMICAL_Omeprazole,Fatigue,@DISEASE_Fatigue,6,6
+omeprazole,@CHEMICAL_Omeprazole,Giardiasis,@DISEASE_Giardiasis,4,4
+omeprazole,@CHEMICAL_Omeprazole,Hyperoxia,@DISEASE_Hyperoxia,5,5
+omeprazole,@CHEMICAL_Omeprazole,Hyperplasia,@DISEASE_Hyperplasia,10,50
+omeprazole,@CHEMICAL_Omeprazole,Hypertrichosis anterior cervical,@DISEASE_Hypertrichosis_anterior_cervical,3,3
+omeprazole,@CHEMICAL_Omeprazole,Hypertrophy,@DISEASE_Hypertrophy,10,12
+omeprazole,@CHEMICAL_Omeprazole,Hypoalbuminemia,@DISEASE_Hypoalbuminemia,3,3
+omeprazole,@CHEMICAL_Omeprazole,IgA Vasculitis,@DISEASE_IgA_Vasculitis,3,3
+omeprazole,@CHEMICAL_Omeprazole,Inflammatory Bowel Diseases,@DISEASE_Inflammatory_Bowel_Diseases,4,4
+omeprazole,@CHEMICAL_Omeprazole,Lung Diseases,@DISEASE_Lung_Diseases,3,3
+omeprazole,@CHEMICAL_Omeprazole,Lymphoma Non Hodgkin,@DISEASE_Lymphoma_Non_Hodgkin,3,3
+omeprazole,@CHEMICAL_Omeprazole,Massive Hepatic Necrosis,@DISEASE_Massive_Hepatic_Necrosis,3,3
+omeprazole,@CHEMICAL_Omeprazole,Neointima,@DISEASE_Neointima,3,3
+omeprazole,@CHEMICAL_Omeprazole,Oculocutaneous albinism type 2,@DISEASE_Oculocutaneous_albinism_type_2,3,3
+omeprazole,@CHEMICAL_Omeprazole,Pancreatic Neoplasms,@DISEASE_Pancreatic_Neoplasms,6,6
+omeprazole,@CHEMICAL_Omeprazole,Paraomphalocele,@DISEASE_Paraomphalocele,3,3
+omeprazole,@CHEMICAL_Omeprazole,Pneumonia,@DISEASE_Pneumonia,3,3
+omeprazole,@CHEMICAL_Omeprazole,Pyloric Stenosis,@DISEASE_Pyloric_Stenosis,5,5
+omeprazole,@CHEMICAL_Omeprazole,Scleroderma Diffuse,@DISEASE_Scleroderma_Diffuse,3,3
+omeprazole,@CHEMICAL_Omeprazole,Steatorrhea,@DISEASE_Steatorrhea,3,3
+omeprazole,@CHEMICAL_Omeprazole,Acidosis,@DISEASE_Acidosis,3,3
+omeprazole,@CHEMICAL_Omeprazole,Acute Disease,@DISEASE_Acute_Disease,3,3
+omeprazole,@CHEMICAL_Omeprazole,Acute Pain,@DISEASE_Acute_Pain,2,2
+omeprazole,@CHEMICAL_Omeprazole,Allergic Fungal Sinusitis,@DISEASE_Allergic_Fungal_Sinusitis,2,2
+omeprazole,@CHEMICAL_Omeprazole,Amblyopia,@DISEASE_Amblyopia,3,3
+omeprazole,@CHEMICAL_Omeprazole,Angina Pectoris,@DISEASE_Angina_Pectoris,2,2
+omeprazole,@CHEMICAL_Omeprazole,Anodontia,@DISEASE_Anodontia,2,2
+omeprazole,@CHEMICAL_Omeprazole,Aphasia Wernicke,@DISEASE_Aphasia_Wernicke,2,2
+omeprazole,@CHEMICAL_Omeprazole,Arthritis Psoriatic,@DISEASE_Arthritis_Psoriatic,2,2
+omeprazole,@CHEMICAL_Omeprazole,Atrial Fibrillation,@DISEASE_Atrial_Fibrillation,3,3
+omeprazole,@CHEMICAL_Omeprazole,Bacterial Infections,@DISEASE_Bacterial_Infections,4,4
+omeprazole,@CHEMICAL_Omeprazole,Blindness,@DISEASE_Blindness,3,3
+omeprazole,@CHEMICAL_Omeprazole,Bone Resorption,@DISEASE_Bone_Resorption,2,2
+omeprazole,@CHEMICAL_Omeprazole,Bronchopulmonary Dysplasia,@DISEASE_Bronchopulmonary_Dysplasia,2,2
+omeprazole,@CHEMICAL_Omeprazole,Carcinoid Tumor,@DISEASE_Carcinoid_Tumor,10,26
+omeprazole,@CHEMICAL_Omeprazole,Cardiomyopathies,@DISEASE_Cardiomyopathies,2,2
+omeprazole,@CHEMICAL_Omeprazole,Cardiomyopathy Dilated,@DISEASE_Cardiomyopathy_Dilated,3,3
+omeprazole,@CHEMICAL_Omeprazole,Cerebral Hemorrhage,@DISEASE_Cerebral_Hemorrhage,2,2
+omeprazole,@CHEMICAL_Omeprazole,Cognition Disorders,@DISEASE_Cognition_Disorders,7,7
+omeprazole,@CHEMICAL_Omeprazole,Cognitive Dysfunction,@DISEASE_Cognitive_Dysfunction,3,3
+omeprazole,@CHEMICAL_Omeprazole,Colitis Collagenous,@DISEASE_Colitis_Collagenous,3,3
+omeprazole,@CHEMICAL_Omeprazole,Colonic Diseases,@DISEASE_Colonic_Diseases,3,3
+omeprazole,@CHEMICAL_Omeprazole,Congenital chloride diarrhea,@DISEASE_Congenital_chloride_diarrhea,2,2
+omeprazole,@CHEMICAL_Omeprazole,Corneal Perforation,@DISEASE_Corneal_Perforation,2,2
+omeprazole,@CHEMICAL_Omeprazole,Craniocerebral Trauma,@DISEASE_Craniocerebral_Trauma,2,2
+omeprazole,@CHEMICAL_omeprazole_sulfide,Carcinoma Hepatocellular,@DISEASE_Carcinoma_Hepatocellular,1,1
+omeprazole,@CHEMICAL_omeprazole_sulfide,Dyspepsia,@DISEASE_Dyspepsia,1,1
+omeprazole,@CHEMICAL_omeprazole_sodium_bicarbonate_drug_combination,Critical Illness,@DISEASE_Critical_Illness,3,3
+omeprazole,@CHEMICAL_omeprazole_sodium_bicarbonate_drug_combination,Gastroesophageal Reflux,@DISEASE_Gastroesophageal_Reflux,2,2
+omeprazole,@CHEMICAL_omeprazole_sodium_bicarbonate_drug_combination,Hemorrhage,@DISEASE_Hemorrhage,2,2
+omeprazole,@CHEMICAL_omeprazole_sodium_bicarbonate_drug_combination,Gastrointestinal Hemorrhage,@DISEASE_Gastrointestinal_Hemorrhage,1,1
+omeprazole,@CHEMICAL_omeprazole_sodium_bicarbonate_drug_combination,Heartburn,@DISEASE_Heartburn,1,1
+omeprazole,@CHEMICAL_omeprazole_sodium_bicarbonate_drug_combination,Stomach Ulcer,@DISEASE_Stomach_Ulcer,1,1
+furosemide,@CHEMICAL_Furosemide,Heart Failure,@DISEASE_Heart_Failure,10,966
+furosemide,@CHEMICAL_Furosemide,Hypertension,@DISEASE_Hypertension,10,363
+furosemide,@CHEMICAL_Furosemide,Edema,@DISEASE_Edema,10,288
+furosemide,@CHEMICAL_Furosemide,Acute Kidney Injury,@DISEASE_Acute_Kidney_Injury,10,315
+furosemide,@CHEMICAL_Furosemide,Pulmonary Edema,@DISEASE_Pulmonary_Edema,10,182
+furosemide,@CHEMICAL_Furosemide,Ascites,@DISEASE_Ascites,10,155
+furosemide,@CHEMICAL_Furosemide,Hypercalcemia,@DISEASE_Hypercalcemia,10,106
+furosemide,@CHEMICAL_Furosemide,Renal Insufficiency,@DISEASE_Renal_Insufficiency,10,142
+furosemide,@CHEMICAL_Furosemide,Iron Overload,@DISEASE_Iron_Overload,10,90
+furosemide,@CHEMICAL_Furosemide,Kidney Diseases,@DISEASE_Kidney_Diseases,10,152
+furosemide,@CHEMICAL_Furosemide,Nephrotic Syndrome,@DISEASE_Nephrotic_Syndrome,10,84
+furosemide,@CHEMICAL_Furosemide,Dyspnea,@DISEASE_Dyspnea,10,75
+furosemide,@CHEMICAL_Furosemide,Asthma,@DISEASE_Asthma,10,63
+furosemide,@CHEMICAL_Furosemide,Cardiomyopathy Dilated,@DISEASE_Cardiomyopathy_Dilated,10,65
+furosemide,@CHEMICAL_Furosemide,Essential Hypertension,@DISEASE_Essential_Hypertension,10,68
+furosemide,@CHEMICAL_Furosemide,Hyponatremia,@DISEASE_Hyponatremia,10,86
+furosemide,@CHEMICAL_Furosemide,Kidney Failure Chronic,@DISEASE_Kidney_Failure_Chronic,10,68
+furosemide,@CHEMICAL_Furosemide,Oliguria,@DISEASE_Oliguria,10,55
+furosemide,@CHEMICAL_Furosemide,Fibrosis,@DISEASE_Fibrosis,10,52
+furosemide,@CHEMICAL_Furosemide,Respiratory Distress Syndrome,@DISEASE_Respiratory_Distress_Syndrome,10,46
+furosemide,@CHEMICAL_Furosemide,Critical Illness,@DISEASE_Critical_Illness,10,49
+furosemide,@CHEMICAL_Furosemide,Status Asthmaticus,@DISEASE_Status_Asthmaticus,10,40
+furosemide,@CHEMICAL_Furosemide,Myocardial Infarction,@DISEASE_Myocardial_Infarction,10,42
+furosemide,@CHEMICAL_Furosemide,Tang Hsi Ryu syndrome,@DISEASE_Tang_Hsi_Ryu_syndrome,10,45
+furosemide,@CHEMICAL_Furosemide,Heart Diseases,@DISEASE_Heart_Diseases,10,50
+furosemide,@CHEMICAL_Furosemide,Liver Cirrhosis,@DISEASE_Liver_Cirrhosis,10,44
+furosemide,@CHEMICAL_Furosemide,Hemorrhage,@DISEASE_Hemorrhage,10,39
+furosemide,@CHEMICAL_Furosemide,Idiopathic Noncirrhotic Portal Hypertension,@DISEASE_Idiopathic_Noncirrhotic_Portal_Hypertension,10,38
+furosemide,@CHEMICAL_Furosemide,Renal Insufficiency Chronic,@DISEASE_Renal_Insufficiency_Chronic,10,41
+furosemide,@CHEMICAL_Furosemide,Neoplasms,@DISEASE_Neoplasms,10,35
+furosemide,@CHEMICAL_Furosemide,Cardiomyopathies,@DISEASE_Cardiomyopathies,10,30
+furosemide,@CHEMICAL_Furosemide,Hypotension,@DISEASE_Hypotension,10,91
+furosemide,@CHEMICAL_Furosemide,Inappropriate ADH Syndrome,@DISEASE_Inappropriate_ADH_Syndrome,10,30
+furosemide,@CHEMICAL_Furosemide,Intracranial Hypertension,@DISEASE_Intracranial_Hypertension,10,31
+furosemide,@CHEMICAL_Furosemide,Lung Diseases,@DISEASE_Lung_Diseases,10,30
+furosemide,@CHEMICAL_Furosemide,Seizures,@DISEASE_Seizures,10,33
+furosemide,@CHEMICAL_Furosemide,Bronchopulmonary Dysplasia,@DISEASE_Bronchopulmonary_Dysplasia,10,30
+furosemide,@CHEMICAL_Furosemide,Respiratory Insufficiency,@DISEASE_Respiratory_Insufficiency,10,32
+furosemide,@CHEMICAL_Furosemide,Brain Edema,@DISEASE_Brain_Edema,10,26
+furosemide,@CHEMICAL_Furosemide,Pulmonary Disease Chronic Obstructive,@DISEASE_Pulmonary_Disease_Chronic_Obstructive,10,26
+furosemide,@CHEMICAL_Furosemide,Ventricular Dysfunction Left,@DISEASE_Ventricular_Dysfunction_Left,10,27
+furosemide,@CHEMICAL_Furosemide,Adrenal Insufficiency,@DISEASE_Adrenal_Insufficiency,10,27
+furosemide,@CHEMICAL_Furosemide,Dehydration,@DISEASE_Dehydration,10,74
+furosemide,@CHEMICAL_Furosemide,Hypertension Pulmonary,@DISEASE_Hypertension_Pulmonary,10,23
+furosemide,@CHEMICAL_Furosemide,Ischemia,@DISEASE_Ischemia,10,24
+furosemide,@CHEMICAL_Furosemide,Mitral Valve Insufficiency,@DISEASE_Mitral_Valve_Insufficiency,10,21
+furosemide,@CHEMICAL_Furosemide,Inflammation,@DISEASE_Inflammation,10,26
+furosemide,@CHEMICAL_Furosemide,Urinary Retention,@DISEASE_Urinary_Retention,10,31
+furosemide,@CHEMICAL_Furosemide,Weight Loss,@DISEASE_Weight_Loss,10,80
+furosemide,@CHEMICAL_Furosemide,Acidosis,@DISEASE_Acidosis,10,22
+furosemide,@CHEMICAL_Furosemide,Hyperkalemia,@DISEASE_Hyperkalemia,10,31
+furosemide,@CHEMICAL_Furosemide,Hypoxia,@DISEASE_Hypoxia,10,27
+furosemide,@CHEMICAL_Furosemide,Pleural Effusion,@DISEASE_Pleural_Effusion,10,19
+furosemide,@CHEMICAL_Furosemide,Airway Obstruction,@DISEASE_Airway_Obstruction,10,27
+furosemide,@CHEMICAL_Furosemide,Pre Eclampsia,@DISEASE_Pre_Eclampsia,10,19
+furosemide,@CHEMICAL_Furosemide,Headache,@DISEASE_Headache,10,20
+furosemide,@CHEMICAL_Furosemide,Shock,@DISEASE_Shock,10,18
+furosemide,@CHEMICAL_Furosemide,Acidosis Renal Tubular,@DISEASE_Acidosis_Renal_Tubular,10,27
+furosemide,@CHEMICAL_Furosemide,Ductus Arteriosus Patent,@DISEASE_Ductus_Arteriosus_Patent,10,25
+furosemide,@CHEMICAL_Furosemide,Cardiomegaly,@DISEASE_Cardiomegaly,10,17
+furosemide,@CHEMICAL_Furosemide,Death,@DISEASE_Death,10,30
+furosemide,@CHEMICAL_Furosemide,Glomerulonephritis,@DISEASE_Glomerulonephritis,10,18
+furosemide,@CHEMICAL_Furosemide,Hydrocephalus,@DISEASE_Hydrocephalus,10,15
+furosemide,@CHEMICAL_Furosemide,Cough,@DISEASE_Cough,10,17
+furosemide,@CHEMICAL_Furosemide,Endolymphatic Hydrops,@DISEASE_Endolymphatic_Hydrops,10,18
+furosemide,@CHEMICAL_Furosemide,Hydronephrosis,@DISEASE_Hydronephrosis,10,17
+furosemide,@CHEMICAL_Furosemide,Pediatric Obesity,@DISEASE_Pediatric_Obesity,10,14
+furosemide,@CHEMICAL_Furosemide,Pulmonary Atelectasis,@DISEASE_Pulmonary_Atelectasis,10,15
+furosemide,@CHEMICAL_Furosemide,Weight Gain,@DISEASE_Weight_Gain,10,14
+furosemide,@CHEMICAL_Furosemide,Diabetes Mellitus,@DISEASE_Diabetes_Mellitus,10,29
+furosemide,@CHEMICAL_Furosemide,Exercise Induced Allergies,@DISEASE_Exercise_Induced_Allergies,10,14
+furosemide,@CHEMICAL_Furosemide,Glycosuria Renal,@DISEASE_Glycosuria_Renal,10,28
+furosemide,@CHEMICAL_Furosemide,Hypoaldosteronism,@DISEASE_Hypoaldosteronism,10,15
+furosemide,@CHEMICAL_Furosemide,Pulmonary Arterial Hypertension,@DISEASE_Pulmonary_Arterial_Hypertension,10,14
+furosemide,@CHEMICAL_Furosemide,Acute Lung Injury,@DISEASE_Acute_Lung_Injury,10,14
+furosemide,@CHEMICAL_Furosemide,Vomiting,@DISEASE_Vomiting,10,17
+furosemide,@CHEMICAL_Furosemide,Atrial Fibrillation,@DISEASE_Atrial_Fibrillation,10,15
+furosemide,@CHEMICAL_Furosemide,Drug Related Side Effects and Adverse Reactions,@DISEASE_Drug_Related_Side_Effects_and_Adverse_Reactions,10,29
+furosemide,@CHEMICAL_Furosemide,Myocardial Ischemia,@DISEASE_Myocardial_Ischemia,10,12
+furosemide,@CHEMICAL_Furosemide,Pressure Ulcer,@DISEASE_Pressure_Ulcer,10,11
+furosemide,@CHEMICAL_Furosemide,Respiration Disorders,@DISEASE_Respiration_Disorders,10,14
+furosemide,@CHEMICAL_Furosemide,Tachycardia,@DISEASE_Tachycardia,10,15
+furosemide,@CHEMICAL_Furosemide,Acute Disease,@DISEASE_Acute_Disease,10,11
+furosemide,@CHEMICAL_Furosemide,Azotemia,@DISEASE_Azotemia,10,19
+furosemide,@CHEMICAL_Furosemide,Fatigue,@DISEASE_Fatigue,10,10
+furosemide,@CHEMICAL_Furosemide,Hemolytic Uremic Syndrome,@DISEASE_Hemolytic_Uremic_Syndrome,10,11
+furosemide,@CHEMICAL_Furosemide,Hemorrhagic Disorders,@DISEASE_Hemorrhagic_Disorders,10,12
+furosemide,@CHEMICAL_Furosemide,Hepatorenal Syndrome,@DISEASE_Hepatorenal_Syndrome,10,11
+furosemide,@CHEMICAL_Furosemide,Mitral Valve Prolapse Myxomatous 2,@DISEASE_Mitral_Valve_Prolapse_Myxomatous_2,10,10
+furosemide,@CHEMICAL_Furosemide,Proteinuria,@DISEASE_Proteinuria,10,19
+furosemide,@CHEMICAL_Furosemide,Pseudotumor Cerebri,@DISEASE_Pseudotumor_Cerebri,10,12
+furosemide,@CHEMICAL_Furosemide,Anorexia,@DISEASE_Anorexia,10,10
+furosemide,@CHEMICAL_Furosemide,Anuria,@DISEASE_Anuria,10,11
+furosemide,@CHEMICAL_Furosemide,Cardiovascular Diseases,@DISEASE_Cardiovascular_Diseases,10,12
+furosemide,@CHEMICAL_Furosemide,Disease Resistance,@DISEASE_Disease_Resistance,10,15
+furosemide,@CHEMICAL_Furosemide,Epilepsy,@DISEASE_Epilepsy,10,10
+furosemide,@CHEMICAL_Furosemide,Extravasation of Diagnostic and Therapeutic Materials,@DISEASE_Extravasation_of_Diagnostic_and_Therapeutic_Materials,10,12
+furosemide,@CHEMICAL_Furosemide,Hyperaldosteronism,@DISEASE_Hyperaldosteronism,10,19
+furosemide,@CHEMICAL_Furosemide,Hypertension Renovascular,@DISEASE_Hypertension_Renovascular,10,12
+furosemide,@CHEMICAL_Furosemide,Kidney Tubular Necrosis Acute,@DISEASE_Kidney_Tubular_Necrosis_Acute,10,14
+furosemide,@CHEMICAL_Furosemide,Lethargy,@DISEASE_Lethargy,10,10
+furosemide,@CHEMICAL_Furosemide,Pain,@DISEASE_Pain,10,14
+furosemide,@CHEMICAL_Furosemide,Polyuria,@DISEASE_Polyuria,10,21
+furosemide,@CHEMICAL_Furosemide,Stroke,@DISEASE_Stroke,10,18
+furosemide,@CHEMICAL_Furosemide,Coma,@DISEASE_Coma,10,11
+furosemide,@CHEMICAL_Furosemide,Depressive Disorder,@DISEASE_Depressive_Disorder,10,18
+furosemide,@CHEMICAL_Furosemide,Fever,@DISEASE_Fever,10,16
+furosemide,@CHEMICAL_Furosemide,Heart Defects Congenital,@DISEASE_Heart_Defects_Congenital,8,8
+furosemide,@CHEMICAL_Furosemide,Heart Failure Diastolic,@DISEASE_Heart_Failure_Diastolic,8,8
+furosemide,@CHEMICAL_Furosemide,Hypokalemia,@DISEASE_Hypokalemia,10,66
+furosemide,@CHEMICAL_Furosemide,Liver Diseases,@DISEASE_Liver_Diseases,10,15
+furosemide,@CHEMICAL_Furosemide,Meniere Disease,@DISEASE_Meniere_Disease,10,14
+furosemide,@CHEMICAL_Furosemide,Mitral Valve Stenosis,@DISEASE_Mitral_Valve_Stenosis,8,8
+furosemide,@CHEMICAL_Furosemide,Myocarditis,@DISEASE_Myocarditis,9,9
+furosemide,@CHEMICAL_Furosemide,Prostatic Neoplasms,@DISEASE_Prostatic_Neoplasms,8,8
+furosemide,@CHEMICAL_Furosemide,Pulmonary Embolism,@DISEASE_Pulmonary_Embolism,10,10
+furosemide,@CHEMICAL_Furosemide,Trigeminal Neuralgia,@DISEASE_Trigeminal_Neuralgia,8,8
+furosemide,@CHEMICAL_Furosemide,Vision Disorders,@DISEASE_Vision_Disorders,8,8
+furosemide,@CHEMICAL_Furosemide,Warts,@DISEASE_Warts,8,8
+furosemide,@CHEMICAL_Furosemide,617027,@DISEASE_617027,10,11
+furosemide,@CHEMICAL_Furosemide,Arrhythmias Cardiac,@DISEASE_Arrhythmias_Cardiac,10,11
+furosemide,@CHEMICAL_Furosemide,COVID 19,@DISEASE_COVID_19,9,9
+furosemide,@CHEMICAL_Furosemide,Cardiac Output Low,@DISEASE_Cardiac_Output_Low,10,11
+furosemide,@CHEMICAL_Furosemide,Cardiomyopathy Right Ventricular Dilated,@DISEASE_Cardiomyopathy_Right_Ventricular_Dilated,7,7
+furosemide,@CHEMICAL_Furosemide,Choroidal Effusions,@DISEASE_Choroidal_Effusions,7,7
+furosemide,@CHEMICAL_Furosemide,Cochlear Diseases,@DISEASE_Cochlear_Diseases,10,14
+furosemide,@CHEMICAL_Furosemide,Heart Failure Systolic,@DISEASE_Heart_Failure_Systolic,7,7
+furosemide,@CHEMICAL_Furosemide,Hypertension Renal,@DISEASE_Hypertension_Renal,7,7
+furosemide,@CHEMICAL_Furosemide,Hyperventilation,@DISEASE_Hyperventilation,7,7
+furosemide,@CHEMICAL_Furosemide,Kidney Calculi,@DISEASE_Kidney_Calculi,10,13
+furosemide,@CHEMICAL_Furosemide,Muscle Weakness,@DISEASE_Muscle_Weakness,7,7
+furosemide,@CHEMICAL_Furosemide,Nephrocalcinosis,@DISEASE_Nephrocalcinosis,10,51
+furosemide,@CHEMICAL_Furosemide,Nocturia,@DISEASE_Nocturia,9,9
+furosemide,@CHEMICAL_Furosemide,Nose Diseases,@DISEASE_Nose_Diseases,9,9
+furosemide,@CHEMICAL_Furosemide,Papilledema,@DISEASE_Papilledema,7,7
+furosemide,@CHEMICAL_Furosemide,Anemia,@DISEASE_Anemia,7,7
+furosemide,@CHEMICAL_Furosemide,Ankle Injuries,@DISEASE_Ankle_Injuries,6,6
+furosemide,@CHEMICAL_Furosemide,Blood Platelet Disorders,@DISEASE_Blood_Platelet_Disorders,7,7
+furosemide,@CHEMICAL_Furosemide,Bradycardia,@DISEASE_Bradycardia,7,7
+furosemide,@CHEMICAL_Furosemide,Brain Ischemia,@DISEASE_Brain_Ischemia,7,7
+furosemide,@CHEMICAL_Furosemide,Bronchial Spasm,@DISEASE_Bronchial_Spasm,6,6
+furosemide,@CHEMICAL_Furosemide,Carcinoma Bronchogenic,@DISEASE_Carcinoma_Bronchogenic,6,6
+furosemide,@CHEMICAL_Furosemide,Cardiomyopathy Hypertrophic,@DISEASE_Cardiomyopathy_Hypertrophic,6,6
+furosemide,@CHEMICAL_Furosemide,Hypernatremia,@DISEASE_Hypernatremia,10,12
+furosemide,@CHEMICAL_Furosemide,Hypoalbuminemia,@DISEASE_Hypoalbuminemia,9,9
+furosemide,@CHEMICAL_Furosemide,Hypovolemia,@DISEASE_Hypovolemia,10,37
+furosemide,@CHEMICAL_Furosemide,Hypoxia Brain,@DISEASE_Hypoxia_Brain,9,9
+furosemide,@CHEMICAL_Furosemide,Mental Disorders,@DISEASE_Mental_Disorders,6,6
+furosemide,@CHEMICAL_Furosemide,Multicystic renal dysplasia bilateral,@DISEASE_Multicystic_renal_dysplasia_bilateral,10,12
+furosemide,@CHEMICAL_Furosemide,Nausea,@DISEASE_Nausea,8,8
+furosemide,@CHEMICAL_Furosemide,Pneumonia,@DISEASE_Pneumonia,6,6
+furosemide,@CHEMICAL_Furosemide,Tachypnea,@DISEASE_Tachypnea,8,8
+furosemide,@CHEMICAL_Furosemide,Tinnitus,@DISEASE_Tinnitus,8,8
+furosemide,@CHEMICAL_Furosemide,Transfusion Reaction,@DISEASE_Transfusion_Reaction,7,7
+furosemide,@CHEMICAL_Furosemide,Visceral myopathy familial external ophthalmoplegia,@DISEASE_Visceral_myopathy_familial_external_ophthalmoplegia,10,25
+furosemide,@CHEMICAL_Furosemide,Wounds and Injuries,@DISEASE_Wounds_and_Injuries,6,6
+furosemide,@CHEMICAL_Furosemide,Abdominal Injuries,@DISEASE_Abdominal_Injuries,7,7
+furosemide,@CHEMICAL_Furosemide,Alzheimer Disease,@DISEASE_Alzheimer_Disease,5,5
+furosemide,@CHEMICAL_Furosemide,Ataxia,@DISEASE_Ataxia,7,7
+furosemide,@CHEMICAL_Furosemide,Bartter Syndrome,@DISEASE_Bartter_Syndrome,10,27
+furosemide,@CHEMICAL_Furosemide,Blast Crisis,@DISEASE_Blast_Crisis,5,5
+furosemide,@CHEMICAL_Furosemide,Bronchiolitis,@DISEASE_Bronchiolitis,4,4
+furosemide,@CHEMICAL_Furosemide,Cerebrospinal Fluid Rhinorrhea,@DISEASE_Cerebrospinal_Fluid_Rhinorrhea,6,6
+furosemide,@CHEMICAL_Furosemide,Chest Pain,@DISEASE_Chest_Pain,5,5
+furosemide,@CHEMICAL_Furosemide,Cyanosis,@DISEASE_Cyanosis,5,5
+furosemide,@CHEMICAL_Furosemide,Diabetes Mellitus Type 1,@DISEASE_Diabetes_Mellitus_Type_1,6,6
+furosemide,@CHEMICAL_Furosemide,Diabetes Mellitus Type 2,@DISEASE_Diabetes_Mellitus_Type_2,8,8
+furosemide,@CHEMICAL_Furosemide,Diabetic Nephropathies,@DISEASE_Diabetic_Nephropathies,5,5
+furosemide,@CHEMICAL_Furosemide,Edema Cardiac,@DISEASE_Edema_Cardiac,5,5
+furosemide,@CHEMICAL_Furosemide,Gout,@DISEASE_Gout,9,9
+furosemide,@CHEMICAL_Furosemide,Heart Murmurs,@DISEASE_Heart_Murmurs,6,6
+furosemide,@CHEMICAL_Furosemide,Heart Septal Defects Ventricular,@DISEASE_Heart_Septal_Defects_Ventricular,5,5
+furosemide,@CHEMICAL_Furosemide,Hypercapnia,@DISEASE_Hypercapnia,7,7
+furosemide,@CHEMICAL_Furosemide,Infarction,@DISEASE_Infarction,6,6
+furosemide,@CHEMICAL_Furosemide,Lung Injury,@DISEASE_Lung_Injury,5,5
+furosemide,@CHEMICAL_Furosemide,Muscle Hypotonia,@DISEASE_Muscle_Hypotonia,5,5
+furosemide,@CHEMICAL_Furosemide,Renal Artery Obstruction,@DISEASE_Renal_Artery_Obstruction,10,11
+furosemide,@CHEMICAL_Furosemide,Sepsis,@DISEASE_Sepsis,6,6
+furosemide,@CHEMICAL_Furosemide,Shock Cardiogenic,@DISEASE_Shock_Cardiogenic,6,6
+furosemide,@CHEMICAL_Furosemide,Tricuspid Valve Insufficiency,@DISEASE_Tricuspid_Valve_Insufficiency,6,6
+furosemide,@CHEMICAL_Furosemide,Urinary Tract Infections,@DISEASE_Urinary_Tract_Infections,10,11
+furosemide,@CHEMICAL_Furosemide,Urologic Diseases,@DISEASE_Urologic_Diseases,7,7
+furosemide,@CHEMICAL_Furosemide,Ventricular Remodeling,@DISEASE_Ventricular_Remodeling,5,5
+furosemide,@CHEMICAL_Furosemide,Water Electrolyte Imbalance,@DISEASE_Water_Electrolyte_Imbalance,10,24
+furosemide,@CHEMICAL_Furosemide,Abdominal Pain,@DISEASE_Abdominal_Pain,7,7
+furosemide,@CHEMICAL_Furosemide,Albuminuria,@DISEASE_Albuminuria,5,5
+furosemide,@CHEMICAL_Furosemide,Alkalosis,@DISEASE_Alkalosis,10,47
+furosemide,@CHEMICAL_Furosemide,Anaphylaxis,@DISEASE_Anaphylaxis,8,8
+furosemide,@CHEMICAL_Furosemide,Anemia Hemolytic,@DISEASE_Anemia_Hemolytic,10,10
+furosemide,@CHEMICAL_Furosemide,Atrial Standstill,@DISEASE_Atrial_Standstill,5,5
+furosemide,@CHEMICAL_Furosemide,Brain Diseases,@DISEASE_Brain_Diseases,8,8
+furosemide,@CHEMICAL_Furosemide,Breast Neoplasms,@DISEASE_Breast_Neoplasms,7,7
+furosemide,@CHEMICAL_Furosemide,Bundle Branch Block,@DISEASE_Bundle_Branch_Block,4,4
+furosemide,@CHEMICAL_Furosemide,Carcinoma Ehrlich Tumor,@DISEASE_Carcinoma_Ehrlich_Tumor,5,5
+furosemide,@CHEMICAL_Furosemide,Cardio Renal Syndrome,@DISEASE_Cardio_Renal_Syndrome,8,8
+furosemide,@CHEMICAL_Furosemide,Cerebral Intraventricular Hemorrhage,@DISEASE_Cerebral_Intraventricular_Hemorrhage,4,4
+furosemide,@CHEMICAL_Furosemide,Chronic Disease,@DISEASE_Chronic_Disease,4,4
+furosemide,@CHEMICAL_Furosemide,Conversion Disorder,@DISEASE_Conversion_Disorder,6,6
+furosemide,@CHEMICAL_Furosemide,Dizziness,@DISEASE_Dizziness,6,6
+furosemide,@CHEMICAL_Furosemide,Eclampsia,@DISEASE_Eclampsia,4,4
+furosemide,@CHEMICAL_furosemide_glucuronide,Hydrocephalus,@DISEASE_Hydrocephalus,1,1
+warfarin,@CHEMICAL_Warfarin,Atrial Fibrillation,@DISEASE_Atrial_Fibrillation,10,5390
+warfarin,@CHEMICAL_Warfarin,Stroke,@DISEASE_Stroke,10,2541
+warfarin,@CHEMICAL_Warfarin,Thrombosis,@DISEASE_Thrombosis,10,1548
+warfarin,@CHEMICAL_Warfarin,Venous Thromboembolism,@DISEASE_Venous_Thromboembolism,10,1256
+warfarin,@CHEMICAL_Warfarin,Thromboembolism,@DISEASE_Thromboembolism,10,1326
+warfarin,@CHEMICAL_Warfarin,Venous Thrombosis,@DISEASE_Venous_Thrombosis,10,1076
+warfarin,@CHEMICAL_Warfarin,Hemorrhage,@DISEASE_Hemorrhage,10,3231
+warfarin,@CHEMICAL_Warfarin,Embolism,@DISEASE_Embolism,10,631
+warfarin,@CHEMICAL_Warfarin,Cerebral Infarction,@DISEASE_Cerebral_Infarction,10,624
+warfarin,@CHEMICAL_Warfarin,Pulmonary Embolism,@DISEASE_Pulmonary_Embolism,10,568
+warfarin,@CHEMICAL_Warfarin,Antiphospholipid Syndrome,@DISEASE_Antiphospholipid_Syndrome,10,309
+warfarin,@CHEMICAL_Warfarin,Neoplasms,@DISEASE_Neoplasms,10,312
+warfarin,@CHEMICAL_Warfarin,Heart Failure,@DISEASE_Heart_Failure,10,276
+warfarin,@CHEMICAL_Warfarin,Myocardial Infarction,@DISEASE_Myocardial_Infarction,10,242
+warfarin,@CHEMICAL_Warfarin,Heart Valve Diseases,@DISEASE_Heart_Valve_Diseases,10,219
+warfarin,@CHEMICAL_Warfarin,Retinal Vein Occlusion,@DISEASE_Retinal_Vein_Occlusion,10,198
+warfarin,@CHEMICAL_Warfarin,Blood Coagulation Disorders,@DISEASE_Blood_Coagulation_Disorders,10,343
+warfarin,@CHEMICAL_Warfarin,Ischemic Attack Transient,@DISEASE_Ischemic_Attack_Transient,10,183
+warfarin,@CHEMICAL_Warfarin,Embolic Stroke,@DISEASE_Embolic_Stroke,10,175
+warfarin,@CHEMICAL_Warfarin,Death,@DISEASE_Death,10,219
+warfarin,@CHEMICAL_Warfarin,Cardiovascular Diseases,@DISEASE_Cardiovascular_Diseases,10,149
+warfarin,@CHEMICAL_Warfarin,Intracranial Embolism,@DISEASE_Intracranial_Embolism,10,134
+warfarin,@CHEMICAL_Warfarin,Cerebral Hemorrhage,@DISEASE_Cerebral_Hemorrhage,10,281
+warfarin,@CHEMICAL_Warfarin,Hip Injuries,@DISEASE_Hip_Injuries,10,103
+warfarin,@CHEMICAL_Warfarin,Heart Diseases,@DISEASE_Heart_Diseases,10,112
+warfarin,@CHEMICAL_Warfarin,Intracranial Hemorrhages,@DISEASE_Intracranial_Hemorrhages,10,317
+warfarin,@CHEMICAL_Warfarin,Coronary Artery Disease,@DISEASE_Coronary_Artery_Disease,10,102
+warfarin,@CHEMICAL_Warfarin,Kidney Failure Chronic,@DISEASE_Kidney_Failure_Chronic,10,97
+warfarin,@CHEMICAL_Warfarin,Pain,@DISEASE_Pain,10,118
+warfarin,@CHEMICAL_Warfarin,Thrombophilia,@DISEASE_Thrombophilia,10,114
+warfarin,@CHEMICAL_Warfarin,Dyspnea,@DISEASE_Dyspnea,10,90
+warfarin,@CHEMICAL_Warfarin,Intracranial Thrombosis,@DISEASE_Intracranial_Thrombosis,10,84
+warfarin,@CHEMICAL_Warfarin,Edema,@DISEASE_Edema,10,89
+warfarin,@CHEMICAL_Warfarin,Renal Insufficiency Chronic,@DISEASE_Renal_Insufficiency_Chronic,10,120
+warfarin,@CHEMICAL_Warfarin,Sinus Thrombosis Intracranial,@DISEASE_Sinus_Thrombosis_Intracranial,10,80
+warfarin,@CHEMICAL_Warfarin,Infarction,@DISEASE_Infarction,10,81
+warfarin,@CHEMICAL_Warfarin,Headache,@DISEASE_Headache,10,88
+warfarin,@CHEMICAL_Warfarin,Mitral Valve Stenosis,@DISEASE_Mitral_Valve_Stenosis,10,78
+warfarin,@CHEMICAL_Warfarin,Acute Coronary Syndrome,@DISEASE_Acute_Coronary_Syndrome,10,76
+warfarin,@CHEMICAL_Warfarin,Ventricular Dysfunction Left,@DISEASE_Ventricular_Dysfunction_Left,10,71
+warfarin,@CHEMICAL_Warfarin,Chest Pain,@DISEASE_Chest_Pain,10,68
+warfarin,@CHEMICAL_Warfarin,Wounds and Injuries,@DISEASE_Wounds_and_Injuries,10,87
+warfarin,@CHEMICAL_Warfarin,Obesity,@DISEASE_Obesity,10,78
+warfarin,@CHEMICAL_Warfarin,Atrial Flutter,@DISEASE_Atrial_Flutter,10,62
+warfarin,@CHEMICAL_Warfarin,Hypertension,@DISEASE_Hypertension,10,86
+warfarin,@CHEMICAL_Warfarin,Heterotaxy Syndrome,@DISEASE_Heterotaxy_Syndrome,10,77
+warfarin,@CHEMICAL_Warfarin,Brain Ischemia,@DISEASE_Brain_Ischemia,10,71
+warfarin,@CHEMICAL_Warfarin,Gastrointestinal Hemorrhage,@DISEASE_Gastrointestinal_Hemorrhage,10,316
+warfarin,@CHEMICAL_Warfarin,Hip Fractures,@DISEASE_Hip_Fractures,10,68
+warfarin,@CHEMICAL_Warfarin,Subarachnoid Hemorrhage,@DISEASE_Subarachnoid_Hemorrhage,10,167
+warfarin,@CHEMICAL_Warfarin,Thrombocytopenia,@DISEASE_Thrombocytopenia,10,88
+warfarin,@CHEMICAL_Warfarin,612862,@DISEASE_612862,10,55
+warfarin,@CHEMICAL_Warfarin,Mitral Valve Insufficiency,@DISEASE_Mitral_Valve_Insufficiency,10,60
+warfarin,@CHEMICAL_Warfarin,Lupus Erythematosus Systemic,@DISEASE_Lupus_Erythematosus_Systemic,10,50
+warfarin,@CHEMICAL_Warfarin,Arterial Occlusive Diseases,@DISEASE_Arterial_Occlusive_Diseases,10,51
+warfarin,@CHEMICAL_Warfarin,Liver Diseases,@DISEASE_Liver_Diseases,10,205
+warfarin,@CHEMICAL_Warfarin,Budd Chiari Syndrome,@DISEASE_Budd_Chiari_Syndrome,10,46
+warfarin,@CHEMICAL_Warfarin,Kidney Diseases,@DISEASE_Kidney_Diseases,10,131
+warfarin,@CHEMICAL_Warfarin,Coronary Aneurysm,@DISEASE_Coronary_Aneurysm,10,49
+warfarin,@CHEMICAL_Warfarin,Diabetes Mellitus,@DISEASE_Diabetes_Mellitus,10,77
+warfarin,@CHEMICAL_Warfarin,Abdominal Pain,@DISEASE_Abdominal_Pain,10,60
+warfarin,@CHEMICAL_Warfarin,Craniocerebral Trauma,@DISEASE_Craniocerebral_Trauma,10,52
+warfarin,@CHEMICAL_Warfarin,Hypertension Pulmonary,@DISEASE_Hypertension_Pulmonary,10,42
+warfarin,@CHEMICAL_Warfarin,Heparin Cofactor II Deficiency,@DISEASE_Heparin_Cofactor_II_Deficiency,10,51
+warfarin,@CHEMICAL_Warfarin,COVID 19,@DISEASE_COVID_19,10,59
+warfarin,@CHEMICAL_Warfarin,Rheumatic Heart Disease,@DISEASE_Rheumatic_Heart_Disease,10,39
+warfarin,@CHEMICAL_Warfarin,Cardiomyopathy Dilated,@DISEASE_Cardiomyopathy_Dilated,10,40
+warfarin,@CHEMICAL_Warfarin,Pulmonary Arterial Hypertension,@DISEASE_Pulmonary_Arterial_Hypertension,10,39
+warfarin,@CHEMICAL_Warfarin,Mucocutaneous Lymph Node Syndrome,@DISEASE_Mucocutaneous_Lymph_Node_Syndrome,10,35
+warfarin,@CHEMICAL_Warfarin,Protein S Deficiency,@DISEASE_Protein_S_Deficiency,10,52
+warfarin,@CHEMICAL_Warfarin,Brain Injuries Traumatic,@DISEASE_Brain_Injuries_Traumatic,10,40
+warfarin,@CHEMICAL_Warfarin,Cerebrovascular Disorders,@DISEASE_Cerebrovascular_Disorders,10,41
+warfarin,@CHEMICAL_Warfarin,Constriction Pathologic,@DISEASE_Constriction_Pathologic,10,36
+warfarin,@CHEMICAL_Warfarin,Aneurysm,@DISEASE_Aneurysm,10,37
+warfarin,@CHEMICAL_Warfarin,Familial antiphospholipid syndrome,@DISEASE_Familial_antiphospholipid_syndrome,10,44
+warfarin,@CHEMICAL_Warfarin,Intracranial Arterial Diseases,@DISEASE_Intracranial_Arterial_Diseases,10,34
+warfarin,@CHEMICAL_Warfarin,Ischemia,@DISEASE_Ischemia,10,45
+warfarin,@CHEMICAL_Warfarin,Renal Artery Obstruction,@DISEASE_Renal_Artery_Obstruction,10,39
+warfarin,@CHEMICAL_Warfarin,Thrombophlebitis,@DISEASE_Thrombophlebitis,10,34
+warfarin,@CHEMICAL_Warfarin,Foramen Ovale Patent,@DISEASE_Foramen_Ovale_Patent,10,34
+warfarin,@CHEMICAL_Warfarin,Upper Extremity Deep Vein Thrombosis,@DISEASE_Upper_Extremity_Deep_Vein_Thrombosis,10,31
+warfarin,@CHEMICAL_Warfarin,Arrhythmias Cardiac,@DISEASE_Arrhythmias_Cardiac,10,34
+warfarin,@CHEMICAL_Warfarin,Muscle Weakness,@DISEASE_Muscle_Weakness,10,36
+warfarin,@CHEMICAL_Warfarin,Cardiomyopathies,@DISEASE_Cardiomyopathies,10,29
+warfarin,@CHEMICAL_Warfarin,Fever,@DISEASE_Fever,10,35
+warfarin,@CHEMICAL_Warfarin,Neoplasm Metastasis,@DISEASE_Neoplasm_Metastasis,10,29
+warfarin,@CHEMICAL_Warfarin,Protein C Deficiency,@DISEASE_Protein_C_Deficiency,10,44
+warfarin,@CHEMICAL_Warfarin,Seizures,@DISEASE_Seizures,10,29
+warfarin,@CHEMICAL_Warfarin,Aortic Dissection,@DISEASE_Aortic_Dissection,10,31
+warfarin,@CHEMICAL_Warfarin,Breast Neoplasms,@DISEASE_Breast_Neoplasms,10,31
+warfarin,@CHEMICAL_Warfarin,Paresis,@DISEASE_Paresis,10,27
+warfarin,@CHEMICAL_Warfarin,Warfarin syndrome,@DISEASE_Warfarin_syndrome,10,95
+warfarin,@CHEMICAL_Warfarin,Calcinosis,@DISEASE_Calcinosis,10,65
+warfarin,@CHEMICAL_Warfarin,Aortic Valve Stenosis,@DISEASE_Aortic_Valve_Stenosis,10,31
+warfarin,@CHEMICAL_Warfarin,Carotid Artery Thrombosis,@DISEASE_Carotid_Artery_Thrombosis,10,27
+warfarin,@CHEMICAL_Warfarin,Coronary Disease,@DISEASE_Coronary_Disease,10,26
+warfarin,@CHEMICAL_Warfarin,Dementia,@DISEASE_Dementia,10,44
+warfarin,@CHEMICAL_Warfarin,Knee Injuries,@DISEASE_Knee_Injuries,10,27
+warfarin,@CHEMICAL_Warfarin,Membranous Obstruction of Inferior Vena Cava,@DISEASE_Membranous_Obstruction_of_Inferior_Vena_Cava,10,25
+warfarin,@CHEMICAL_Warfarin,ST Elevation Myocardial Infarction,@DISEASE_ST_Elevation_Myocardial_Infarction,10,25
+warfarin,@CHEMICAL_Warfarin,Fibrosis,@DISEASE_Fibrosis,10,27
+warfarin,@CHEMICAL_Warfarin,Vomiting,@DISEASE_Vomiting,10,35
+warfarin,@CHEMICAL_Warfarin,Antithrombin III Deficiency,@DISEASE_Antithrombin_III_Deficiency,10,27
+warfarin,@CHEMICAL_Warfarin,Cerebral Palsy,@DISEASE_Cerebral_Palsy,10,38
+warfarin,@CHEMICAL_Warfarin,Disseminated Intravascular Coagulation,@DISEASE_Disseminated_Intravascular_Coagulation,10,33
+warfarin,@CHEMICAL_Warfarin,Peripheral Arterial Disease,@DISEASE_Peripheral_Arterial_Disease,10,24
+warfarin,@CHEMICAL_Warfarin,Superior Vena Cava Syndrome,@DISEASE_Superior_Vena_Cava_Syndrome,10,23
+warfarin,@CHEMICAL_Warfarin,Syncope,@DISEASE_Syncope,10,25
+warfarin,@CHEMICAL_Warfarin,Glomerulonephritis IGA,@DISEASE_Glomerulonephritis_IGA,10,22
+warfarin,@CHEMICAL_Warfarin,Ischemic Stroke,@DISEASE_Ischemic_Stroke,10,22
+warfarin,@CHEMICAL_Warfarin,Mesenteric Ischemia,@DISEASE_Mesenteric_Ischemia,10,22
+warfarin,@CHEMICAL_Warfarin,Renal Insufficiency,@DISEASE_Renal_Insufficiency,10,31
+warfarin,@CHEMICAL_Warfarin,Varicose Ulcer,@DISEASE_Varicose_Ulcer,10,23
+warfarin,@CHEMICAL_Warfarin,Acute Disease,@DISEASE_Acute_Disease,10,26
+warfarin,@CHEMICAL_Warfarin,Inflammation,@DISEASE_Inflammation,10,38
+warfarin,@CHEMICAL_Warfarin,MASS syndrome,@DISEASE_MASS_syndrome,10,22
+warfarin,@CHEMICAL_Warfarin,Vision Disorders,@DISEASE_Vision_Disorders,10,26
+warfarin,@CHEMICAL_Warfarin,Colorectal Neoplasms,@DISEASE_Colorectal_Neoplasms,10,28
+warfarin,@CHEMICAL_Warfarin,Epilepsy Tonic Clonic,@DISEASE_Epilepsy_Tonic_Clonic,10,63
+warfarin,@CHEMICAL_Warfarin,Head and Neck Neoplasms,@DISEASE_Head_and_Neck_Neoplasms,10,27
+warfarin,@CHEMICAL_Warfarin,Infarction Middle Cerebral Artery,@DISEASE_Infarction_Middle_Cerebral_Artery,10,20
+warfarin,@CHEMICAL_Warfarin,Nephrotic Syndrome,@DISEASE_Nephrotic_Syndrome,10,19
+warfarin,@CHEMICAL_Warfarin,Neurologic Manifestations,@DISEASE_Neurologic_Manifestations,10,28
+warfarin,@CHEMICAL_Warfarin,Proteinuria,@DISEASE_Proteinuria,10,24
+warfarin,@CHEMICAL_Warfarin,Epistaxis,@DISEASE_Epistaxis,10,39
+warfarin,@CHEMICAL_Warfarin,Multiple Myeloma,@DISEASE_Multiple_Myeloma,10,19
+warfarin,@CHEMICAL_Warfarin,Myocardial Ischemia,@DISEASE_Myocardial_Ischemia,10,23
+warfarin,@CHEMICAL_Warfarin,Nausea,@DISEASE_Nausea,10,27
+warfarin,@CHEMICAL_Warfarin,Prostatic Neoplasms,@DISEASE_Prostatic_Neoplasms,10,22
+warfarin,@CHEMICAL_Warfarin,Aortic Valve Insufficiency,@DISEASE_Aortic_Valve_Insufficiency,10,18
+warfarin,@CHEMICAL_Warfarin,Carcinoma Skin Appendage,@DISEASE_Carcinoma_Skin_Appendage,10,19
+warfarin,@CHEMICAL_Warfarin,Atrial Remodeling,@DISEASE_Atrial_Remodeling,10,17
+warfarin,@CHEMICAL_Warfarin,Blood Platelet Disorders,@DISEASE_Blood_Platelet_Disorders,10,28
+warfarin,@CHEMICAL_Warfarin,Diabetes Mellitus Type 2,@DISEASE_Diabetes_Mellitus_Type_2,10,17
+warfarin,@CHEMICAL_Warfarin,Drug Related Side Effects and Adverse Reactions,@DISEASE_Drug_Related_Side_Effects_and_Adverse_Reactions,10,71
+warfarin,@CHEMICAL_Warfarin,Endocarditis,@DISEASE_Endocarditis,10,18
+warfarin,@CHEMICAL_Warfarin,Flank Pain,@DISEASE_Flank_Pain,10,16
+warfarin,@CHEMICAL_Warfarin,Hemorrhagic Stroke,@DISEASE_Hemorrhagic_Stroke,10,55
+warfarin,@CHEMICAL_Warfarin,Liver Cirrhosis,@DISEASE_Liver_Cirrhosis,10,17
+warfarin,@CHEMICAL_Warfarin,May Thurner Syndrome,@DISEASE_May_Thurner_Syndrome,10,18
+warfarin,@CHEMICAL_Warfarin,Small Cell Lung Carcinoma,@DISEASE_Small_Cell_Lung_Carcinoma,10,18
+warfarin,@CHEMICAL_Warfarin,Brain Infarction,@DISEASE_Brain_Infarction,10,16
+warfarin,@CHEMICAL_Warfarin,Calciphylaxis,@DISEASE_Calciphylaxis,10,78
+warfarin,@CHEMICAL_Warfarin,Dissection Blood Vessel,@DISEASE_Dissection_Blood_Vessel,10,15
+warfarin,@CHEMICAL_Warfarin,Heart Septal Defects Atrial,@DISEASE_Heart_Septal_Defects_Atrial,10,17
+warfarin,@CHEMICAL_Warfarin,Idiopathic Noncirrhotic Portal Hypertension,@DISEASE_Idiopathic_Noncirrhotic_Portal_Hypertension,10,15
+warfarin,@CHEMICAL_Warfarin,Intracranial Hemorrhage Traumatic,@DISEASE_Intracranial_Hemorrhage_Traumatic,10,25
+warfarin,@CHEMICAL_Warfarin,Ocular Albinism type 1,@DISEASE_Ocular_Albinism_type_1,10,22
+warfarin,@CHEMICAL_Warfarin,Vertebral Artery Dissection,@DISEASE_Vertebral_Artery_Dissection,10,15
+warfarin,@CHEMICAL_Warfarin,Abdominal Injuries,@DISEASE_Abdominal_Injuries,10,17
+warfarin,@CHEMICAL_Warfarin,Acute Kidney Injury,@DISEASE_Acute_Kidney_Injury,10,78
+warfarin,@CHEMICAL_Warfarin,Angina Unstable,@DISEASE_Angina_Unstable,10,17
+warfarin,@CHEMICAL_Warfarin,Atherosclerosis,@DISEASE_Atherosclerosis,10,20
+warfarin,@CHEMICAL_Warfarin,Cataract,@DISEASE_Cataract,10,17
+warfarin,@CHEMICAL_Warfarin,Hemoptysis,@DISEASE_Hemoptysis,10,16
+warfarin,@CHEMICAL_Warfarin,Intracranial Aneurysm,@DISEASE_Intracranial_Aneurysm,10,14
+warfarin,@CHEMICAL_Warfarin,Livedoid Vasculopathy,@DISEASE_Livedoid_Vasculopathy,10,15
+warfarin,@CHEMICAL_Warfarin,Migraine Disorders,@DISEASE_Migraine_Disorders,10,15
+warfarin,@CHEMICAL_Warfarin,Stomach Neoplasms,@DISEASE_Stomach_Neoplasms,10,17
+warfarin,@CHEMICAL_Warfarin,Tooth Diseases,@DISEASE_Tooth_Diseases,10,17
+warfarin,@CHEMICAL_Warfarin,Angina Pectoris,@DISEASE_Angina_Pectoris,10,13
+warfarin,@CHEMICAL_Warfarin,Ataxia,@DISEASE_Ataxia,10,16
+warfarin,@CHEMICAL_Warfarin,Cardiomyopathy Hypertrophic,@DISEASE_Cardiomyopathy_Hypertrophic,10,14
+warfarin,@CHEMICAL_Warfarin,Cognition Disorders,@DISEASE_Cognition_Disorders,10,23
+warfarin,@CHEMICAL_Warfarin,Cough,@DISEASE_Cough,10,18
+warfarin,@CHEMICAL_Warfarin,Embolism Paradoxical,@DISEASE_Embolism_Paradoxical,10,13
+warfarin,@CHEMICAL_Warfarin,Idiopathic Pulmonary Fibrosis,@DISEASE_Idiopathic_Pulmonary_Fibrosis,10,18
+warfarin,@CHEMICAL_Warfarin,Ovarian Diseases,@DISEASE_Ovarian_Diseases,10,15
+warfarin,@CHEMICAL_Warfarin,Papilledema,@DISEASE_Papilledema,10,13
+warfarin,@CHEMICAL_Warfarin,Splenic Infarction,@DISEASE_Splenic_Infarction,10,16
+warfarin,@CHEMICAL_Warfarin,Takotsubo Cardiomyopathy,@DISEASE_Takotsubo_Cardiomyopathy,10,13
+warfarin,@CHEMICAL_Warfarin,Ulcer,@DISEASE_Ulcer,10,19
+warfarin,@CHEMICAL_Warfarin,Hematoma Subdural,@DISEASE_Hematoma_Subdural,10,45
+warfarin,@CHEMICAL_Warfarin,Hyperthyroidism,@DISEASE_Hyperthyroidism,10,19
+warfarin,@CHEMICAL_Warfarin,Inferior Wall Myocardial Infarction,@DISEASE_Inferior_Wall_Myocardial_Infarction,10,13
+warfarin,@CHEMICAL_Warfarin,Liver Failure,@DISEASE_Liver_Failure,10,30
+warfarin,@CHEMICAL_Warfarin,Lung Neoplasms,@DISEASE_Lung_Neoplasms,10,12
+warfarin,@CHEMICAL_Warfarin,Necrosis,@DISEASE_Necrosis,10,41
+warfarin,@CHEMICAL_Warfarin,Postoperative Hemorrhage,@DISEASE_Postoperative_Hemorrhage,10,53
+warfarin,@CHEMICAL_Warfarin,Varicose Veins,@DISEASE_Varicose_Veins,10,12
+warfarin,@CHEMICAL_Warfarin,Anemia,@DISEASE_Anemia,10,24
+warfarin,@CHEMICAL_Warfarin,Aneurysm False,@DISEASE_Aneurysm_False,10,18
+warfarin,@CHEMICAL_Warfarin,Carcinoma Hepatocellular,@DISEASE_Carcinoma_Hepatocellular,10,13
+warfarin,@CHEMICAL_Warfarin,Cerebral Arterial Diseases,@DISEASE_Cerebral_Arterial_Diseases,10,11
+warfarin,@CHEMICAL_Warfarin,Dizziness,@DISEASE_Dizziness,10,14
+warfarin,@CHEMICAL_Warfarin,Gangrene,@DISEASE_Gangrene,10,53
+warfarin,@CHEMICAL_Warfarin,Lateral Sinus Thrombosis,@DISEASE_Lateral_Sinus_Thrombosis,10,11
+warfarin,@CHEMICAL_Warfarin,Lung Diseases,@DISEASE_Lung_Diseases,10,16
+warfarin,@CHEMICAL_Warfarin,Nonsyndromic Holoprosencephaly,@DISEASE_Nonsyndromic_Holoprosencephaly,10,10
+warfarin,@CHEMICAL_Warfarin,Optic Neuropathy Ischemic,@DISEASE_Optic_Neuropathy_Ischemic,10,11
+warfarin,@CHEMICAL_Warfarin,Ossification Heterotopic,@DISEASE_Ossification_Heterotopic,10,12
+warfarin,@CHEMICAL_Warfarin,Polyendocrinopathies Autoimmune,@DISEASE_Polyendocrinopathies_Autoimmune,10,11
+warfarin,@CHEMICAL_Warfarin,Post Infectious Disorders,@DISEASE_Post_Infectious_Disorders,10,18
+warfarin,@CHEMICAL_Warfarin,Sagittal Sinus Thrombosis,@DISEASE_Sagittal_Sinus_Thrombosis,10,11
+warfarin,@CHEMICAL_Warfarin,Ascites,@DISEASE_Ascites,10,11
+warfarin,@CHEMICAL_Warfarin,Atrial myxoma familial,@DISEASE_Atrial_myxoma_familial,10,11
+warfarin,@CHEMICAL_Warfarin,Coronary Thrombosis,@DISEASE_Coronary_Thrombosis,10,10
+warfarin,@CHEMICAL_Warfarin,Dysarthria,@DISEASE_Dysarthria,10,11
+warfarin,@CHEMICAL_Warfarin,Heart Defects Congenital,@DISEASE_Heart_Defects_Congenital,10,11
+warfarin,@CHEMICAL_Warfarin,Hemophilia A,@DISEASE_Hemophilia_A,10,12
+levofloxacin,@CHEMICAL_Levofloxacin,Infections,@DISEASE_Infections,10,462
+levofloxacin,@CHEMICAL_Levofloxacin,Pneumonia,@DISEASE_Pneumonia,10,226
+levofloxacin,@CHEMICAL_Levofloxacin,Helicobacter Infections,@DISEASE_Helicobacter_Infections,10,196
+levofloxacin,@CHEMICAL_Levofloxacin,Communication Disorders,@DISEASE_Communication_Disorders,10,193
+levofloxacin,@CHEMICAL_Levofloxacin,Urinary Tract Infections,@DISEASE_Urinary_Tract_Infections,10,197
+levofloxacin,@CHEMICAL_Levofloxacin,Tuberculosis,@DISEASE_Tuberculosis,10,187
+levofloxacin,@CHEMICAL_Levofloxacin,Fever,@DISEASE_Fever,10,199
+levofloxacin,@CHEMICAL_Levofloxacin,Respiratory Tract Infections,@DISEASE_Respiratory_Tract_Infections,10,171
+levofloxacin,@CHEMICAL_Levofloxacin,Tuberculosis Multidrug Resistant,@DISEASE_Tuberculosis_Multidrug_Resistant,10,151
+levofloxacin,@CHEMICAL_Levofloxacin,Bacterial Infections,@DISEASE_Bacterial_Infections,10,134
+levofloxacin,@CHEMICAL_Levofloxacin,Prostatitis,@DISEASE_Prostatitis,10,97
+levofloxacin,@CHEMICAL_Levofloxacin,Inflammation,@DISEASE_Inflammation,10,87
+levofloxacin,@CHEMICAL_Levofloxacin,Tuberculosis Meningeal,@DISEASE_Tuberculosis_Meningeal,10,63
+levofloxacin,@CHEMICAL_Levofloxacin,Sepsis,@DISEASE_Sepsis,10,64
+levofloxacin,@CHEMICAL_Levofloxacin,Bacteremia,@DISEASE_Bacteremia,10,58
+levofloxacin,@CHEMICAL_Levofloxacin,Pain,@DISEASE_Pain,10,76
+levofloxacin,@CHEMICAL_Levofloxacin,Bronchitis Chronic,@DISEASE_Bronchitis_Chronic,10,52
+levofloxacin,@CHEMICAL_Levofloxacin,Keratitis,@DISEASE_Keratitis,10,53
+levofloxacin,@CHEMICAL_Levofloxacin,Staphylococcal Infections,@DISEASE_Staphylococcal_Infections,10,51
+levofloxacin,@CHEMICAL_Levofloxacin,Pyelonephritis,@DISEASE_Pyelonephritis,10,48
+levofloxacin,@CHEMICAL_Levofloxacin,Abscess,@DISEASE_Abscess,10,49
+levofloxacin,@CHEMICAL_Levofloxacin,Cataract,@DISEASE_Cataract,10,48
+levofloxacin,@CHEMICAL_Levofloxacin,Endophthalmitis,@DISEASE_Endophthalmitis,10,42
+levofloxacin,@CHEMICAL_Levofloxacin,Tuberculosis Pulmonary,@DISEASE_Tuberculosis_Pulmonary,10,40
+levofloxacin,@CHEMICAL_Levofloxacin,Communicable Diseases,@DISEASE_Communicable_Diseases,10,41
+levofloxacin,@CHEMICAL_Levofloxacin,Sinusitis,@DISEASE_Sinusitis,10,38
+levofloxacin,@CHEMICAL_Levofloxacin,Legionnaires' Disease,@DISEASE_Legionnaires'_Disease,10,36
+levofloxacin,@CHEMICAL_Levofloxacin,Neoplasms,@DISEASE_Neoplasms,10,39
+levofloxacin,@CHEMICAL_Levofloxacin,Cough,@DISEASE_Cough,10,37
+levofloxacin,@CHEMICAL_Levofloxacin,Pulmonary Disease Chronic Obstructive,@DISEASE_Pulmonary_Disease_Chronic_Obstructive,10,37
+levofloxacin,@CHEMICAL_Levofloxacin,Osteomyelitis,@DISEASE_Osteomyelitis,10,34
+levofloxacin,@CHEMICAL_Levofloxacin,Cystic Fibrosis,@DISEASE_Cystic_Fibrosis,10,34
+levofloxacin,@CHEMICAL_Levofloxacin,Endocarditis,@DISEASE_Endocarditis,10,30
+levofloxacin,@CHEMICAL_Levofloxacin,Diarrhea,@DISEASE_Diarrhea,10,66
+levofloxacin,@CHEMICAL_Levofloxacin,Dyspnea,@DISEASE_Dyspnea,10,34
+levofloxacin,@CHEMICAL_Levofloxacin,Neutropenia,@DISEASE_Neutropenia,10,36
+levofloxacin,@CHEMICAL_Levofloxacin,Pneumococcal Infections,@DISEASE_Pneumococcal_Infections,10,28
+levofloxacin,@CHEMICAL_Levofloxacin,Respiratory Insufficiency,@DISEASE_Respiratory_Insufficiency,10,29
+levofloxacin,@CHEMICAL_Levofloxacin,Skin Diseases,@DISEASE_Skin_Diseases,10,29
+levofloxacin,@CHEMICAL_Levofloxacin,Stenotrophomonas maltophilia bacteremia,@DISEASE_Stenotrophomonas_maltophilia_bacteremia,10,31
+levofloxacin,@CHEMICAL_Levofloxacin,Enterocolitis Neutropenic,@DISEASE_Enterocolitis_Neutropenic,10,24
+levofloxacin,@CHEMICAL_Levofloxacin,Healthcare Associated Pneumonia,@DISEASE_Healthcare_Associated_Pneumonia,10,25
+levofloxacin,@CHEMICAL_Levofloxacin,COVID 19,@DISEASE_COVID_19,10,28
+levofloxacin,@CHEMICAL_Levofloxacin,Eye Infections,@DISEASE_Eye_Infections,10,25
+levofloxacin,@CHEMICAL_Levofloxacin,Febrile Neutropenia,@DISEASE_Febrile_Neutropenia,10,27
+levofloxacin,@CHEMICAL_Levofloxacin,Pneumonia Staphylococcal,@DISEASE_Pneumonia_Staphylococcal,10,26
+levofloxacin,@CHEMICAL_Levofloxacin,Lung Diseases,@DISEASE_Lung_Diseases,10,27
+levofloxacin,@CHEMICAL_Levofloxacin,Pseudomonas Infections,@DISEASE_Pseudomonas_Infections,10,22
+levofloxacin,@CHEMICAL_Levofloxacin,Bone Diseases,@DISEASE_Bone_Diseases,10,21
+levofloxacin,@CHEMICAL_Levofloxacin,Edema,@DISEASE_Edema,10,27
+levofloxacin,@CHEMICAL_Levofloxacin,Clostridium Infections,@DISEASE_Clostridium_Infections,10,31
+levofloxacin,@CHEMICAL_Levofloxacin,Mycobacterium Infections Nontuberculous,@DISEASE_Mycobacterium_Infections_Nontuberculous,10,20
+levofloxacin,@CHEMICAL_Levofloxacin,Meningism,@DISEASE_Meningism,10,21
+levofloxacin,@CHEMICAL_Levofloxacin,Otitis Media,@DISEASE_Otitis_Media,10,19
+levofloxacin,@CHEMICAL_Levofloxacin,Peptic Ulcer,@DISEASE_Peptic_Ulcer,10,20
+levofloxacin,@CHEMICAL_Levofloxacin,Pneumonia Ventilator Associated,@DISEASE_Pneumonia_Ventilator_Associated,10,20
+levofloxacin,@CHEMICAL_Levofloxacin,Abdominal Pain,@DISEASE_Abdominal_Pain,10,28
+levofloxacin,@CHEMICAL_Levofloxacin,Conjunctivitis Bacterial,@DISEASE_Conjunctivitis_Bacterial,10,18
+levofloxacin,@CHEMICAL_Levofloxacin,Critical Illness,@DISEASE_Critical_Illness,10,19
+levofloxacin,@CHEMICAL_Levofloxacin,Pneumonia Pneumococcal,@DISEASE_Pneumonia_Pneumococcal,10,18
+levofloxacin,@CHEMICAL_Levofloxacin,Cystitis,@DISEASE_Cystitis,10,17
+levofloxacin,@CHEMICAL_Levofloxacin,Leukemia Myeloid Acute,@DISEASE_Leukemia_Myeloid_Acute,10,17
+levofloxacin,@CHEMICAL_Levofloxacin,Peritonitis,@DISEASE_Peritonitis,10,17
+levofloxacin,@CHEMICAL_Levofloxacin,Klebsiella Infections,@DISEASE_Klebsiella_Infections,10,17
+levofloxacin,@CHEMICAL_Levofloxacin,Soft Tissue Infections,@DISEASE_Soft_Tissue_Infections,10,17
+levofloxacin,@CHEMICAL_Levofloxacin,Urethritis,@DISEASE_Urethritis,10,16
+levofloxacin,@CHEMICAL_Levofloxacin,Arthritis Infectious,@DISEASE_Arthritis_Infectious,10,16
+levofloxacin,@CHEMICAL_Levofloxacin,Corneal Ulcer,@DISEASE_Corneal_Ulcer,10,15
+levofloxacin,@CHEMICAL_Levofloxacin,Multiple Myeloma,@DISEASE_Multiple_Myeloma,10,15
+levofloxacin,@CHEMICAL_Levofloxacin,Mysophobia,@DISEASE_Mysophobia,10,15
+levofloxacin,@CHEMICAL_Levofloxacin,Pleural Effusion,@DISEASE_Pleural_Effusion,10,16
+levofloxacin,@CHEMICAL_Levofloxacin,Shock Septic,@DISEASE_Shock_Septic,10,20
+levofloxacin,@CHEMICAL_Levofloxacin,Wound Infection,@DISEASE_Wound_Infection,10,16
+levofloxacin,@CHEMICAL_Levofloxacin,Chest Pain,@DISEASE_Chest_Pain,10,15
+levofloxacin,@CHEMICAL_Levofloxacin,Empyema,@DISEASE_Empyema,10,14
+levofloxacin,@CHEMICAL_Levofloxacin,Triple Negative Breast Neoplasms,@DISEASE_Triple_Negative_Breast_Neoplasms,10,18
+levofloxacin,@CHEMICAL_Levofloxacin,Ulcer,@DISEASE_Ulcer,10,14
+levofloxacin,@CHEMICAL_Levofloxacin,Acute Disease,@DISEASE_Acute_Disease,10,15
+levofloxacin,@CHEMICAL_Levofloxacin,Cellulitis,@DISEASE_Cellulitis,10,13
+levofloxacin,@CHEMICAL_Levofloxacin,Death,@DISEASE_Death,10,29
+levofloxacin,@CHEMICAL_Levofloxacin,Dyspepsia,@DISEASE_Dyspepsia,10,13
+levofloxacin,@CHEMICAL_Levofloxacin,Cross Infection,@DISEASE_Cross_Infection,10,14
+levofloxacin,@CHEMICAL_Levofloxacin,Epididymitis,@DISEASE_Epididymitis,10,12
+levofloxacin,@CHEMICAL_Levofloxacin,Gram Positive Bacterial Infections,@DISEASE_Gram_Positive_Bacterial_Infections,10,12
+levofloxacin,@CHEMICAL_Levofloxacin,Light Fixation Seizure Syndrome,@DISEASE_Light_Fixation_Seizure_Syndrome,10,12
+levofloxacin,@CHEMICAL_Levofloxacin,Brucellosis,@DISEASE_Brucellosis,10,11
+levofloxacin,@CHEMICAL_Levofloxacin,Hematologic Neoplasms,@DISEASE_Hematologic_Neoplasms,10,11
+levofloxacin,@CHEMICAL_Levofloxacin,Leukemic Infiltration,@DISEASE_Leukemic_Infiltration,10,12
+levofloxacin,@CHEMICAL_Levofloxacin,Meningitis Pneumococcal,@DISEASE_Meningitis_Pneumococcal,10,11
+levofloxacin,@CHEMICAL_Levofloxacin,Pelvic Inflammatory Disease,@DISEASE_Pelvic_Inflammatory_Disease,10,11
+levofloxacin,@CHEMICAL_Levofloxacin,Surgical Wound Infection,@DISEASE_Surgical_Wound_Infection,10,12
+levofloxacin,@CHEMICAL_Levofloxacin,Wounds and Injuries,@DISEASE_Wounds_and_Injuries,10,13
+levofloxacin,@CHEMICAL_Levofloxacin,Allergic Fungal Sinusitis,@DISEASE_Allergic_Fungal_Sinusitis,10,10
+levofloxacin,@CHEMICAL_Levofloxacin,Bronchitis,@DISEASE_Bronchitis,10,10
+levofloxacin,@CHEMICAL_Levofloxacin,Chronic Disease,@DISEASE_Chronic_Disease,10,10
+levofloxacin,@CHEMICAL_Levofloxacin,Conjunctivitis,@DISEASE_Conjunctivitis,10,11
+levofloxacin,@CHEMICAL_Levofloxacin,Drug Hypersensitivity,@DISEASE_Drug_Hypersensitivity,10,34
+levofloxacin,@CHEMICAL_Levofloxacin,Drug Related Side Effects and Adverse Reactions,@DISEASE_Drug_Related_Side_Effects_and_Adverse_Reactions,10,47
+levofloxacin,@CHEMICAL_Levofloxacin,Enterobacteriaceae Infections,@DISEASE_Enterobacteriaceae_Infections,10,12
+levofloxacin,@CHEMICAL_Levofloxacin,Escherichia coli Infections,@DISEASE_Escherichia_coli_Infections,10,10
+levofloxacin,@CHEMICAL_Levofloxacin,Gram Negative Bacterial Infections,@DISEASE_Gram_Negative_Bacterial_Infections,10,12
+levofloxacin,@CHEMICAL_Levofloxacin,Maxillary Sinusitis,@DISEASE_Maxillary_Sinusitis,10,10
+levofloxacin,@CHEMICAL_Levofloxacin,Plague,@DISEASE_Plague,10,10
+levofloxacin,@CHEMICAL_Levofloxacin,Typhoid Fever,@DISEASE_Typhoid_Fever,10,10
+levofloxacin,@CHEMICAL_Levofloxacin,Uterine Cervicitis,@DISEASE_Uterine_Cervicitis,10,11
+levofloxacin,@CHEMICAL_Levofloxacin,Acute Febrile Encephalopathy,@DISEASE_Acute_Febrile_Encephalopathy,9,9
+levofloxacin,@CHEMICAL_Levofloxacin,Appendicitis,@DISEASE_Appendicitis,9,9
+levofloxacin,@CHEMICAL_Levofloxacin,Cleft Palate,@DISEASE_Cleft_Palate,9,9
+levofloxacin,@CHEMICAL_Levofloxacin,Diabetes Mellitus,@DISEASE_Diabetes_Mellitus,10,13
+levofloxacin,@CHEMICAL_Levofloxacin,Discitis,@DISEASE_Discitis,9,9
+levofloxacin,@CHEMICAL_Levofloxacin,Episodic Ataxia,@DISEASE_Episodic_Ataxia,10,13
+levofloxacin,@CHEMICAL_Levofloxacin,Extensively Drug Resistant Tuberculosis,@DISEASE_Extensively_Drug_Resistant_Tuberculosis,9,9
+levofloxacin,@CHEMICAL_Levofloxacin,Fatigue,@DISEASE_Fatigue,10,12
+levofloxacin,@CHEMICAL_Levofloxacin,Guillain Barre Syndrome,@DISEASE_Guillain_Barre_Syndrome,5,5
+levofloxacin,@CHEMICAL_Levofloxacin,Hypoxia,@DISEASE_Hypoxia,10,10
+levofloxacin,@CHEMICAL_Levofloxacin,Mycobacterium Infections,@DISEASE_Mycobacterium_Infections,9,9
+levofloxacin,@CHEMICAL_Levofloxacin,Pharyngitis,@DISEASE_Pharyngitis,9,9
+levofloxacin,@CHEMICAL_Levofloxacin,Vision Disorders,@DISEASE_Vision_Disorders,10,13
+levofloxacin,@CHEMICAL_Levofloxacin,115650,@DISEASE_115650,6,6
+levofloxacin,@CHEMICAL_Levofloxacin,Acute Kidney Injury,@DISEASE_Acute_Kidney_Injury,10,18
+levofloxacin,@CHEMICAL_Levofloxacin,Ataxia Neuropathy Spectrum,@DISEASE_Ataxia_Neuropathy_Spectrum,9,9
+levofloxacin,@CHEMICAL_Levofloxacin,Bacteriuria,@DISEASE_Bacteriuria,9,9
+levofloxacin,@CHEMICAL_Levofloxacin,Dysuria,@DISEASE_Dysuria,8,8
+levofloxacin,@CHEMICAL_Levofloxacin,Enterocolitis Pseudomembranous,@DISEASE_Enterocolitis_Pseudomembranous,10,15
+levofloxacin,@CHEMICAL_Levofloxacin,Gastritis,@DISEASE_Gastritis,9,9
+levofloxacin,@CHEMICAL_Levofloxacin,Intraabdominal Infections,@DISEASE_Intraabdominal_Infections,9,9
+levofloxacin,@CHEMICAL_Levofloxacin,Low Back Pain,@DISEASE_Low_Back_Pain,9,9
+levofloxacin,@CHEMICAL_Levofloxacin,Orchitis,@DISEASE_Orchitis,8,8
+levofloxacin,@CHEMICAL_Levofloxacin,Pneumonia Mycoplasma,@DISEASE_Pneumonia_Mycoplasma,9,9
+levofloxacin,@CHEMICAL_Levofloxacin,Arthritis Rheumatoid,@DISEASE_Arthritis_Rheumatoid,7,7
+levofloxacin,@CHEMICAL_Levofloxacin,Breast Neoplasms,@DISEASE_Breast_Neoplasms,7,7
+levofloxacin,@CHEMICAL_Levofloxacin,Bronchiectasis,@DISEASE_Bronchiectasis,7,7
+levofloxacin,@CHEMICAL_Levofloxacin,Cavitary Optic Disc Anomalies,@DISEASE_Cavitary_Optic_Disc_Anomalies,7,7
+levofloxacin,@CHEMICAL_Levofloxacin,Chlamydia Infections,@DISEASE_Chlamydia_Infections,7,7
+levofloxacin,@CHEMICAL_Levofloxacin,Gonorrhea,@DISEASE_Gonorrhea,8,8
+levofloxacin,@CHEMICAL_Levofloxacin,HIV Infections,@DISEASE_HIV_Infections,8,8
+levofloxacin,@CHEMICAL_Levofloxacin,Headache,@DISEASE_Headache,10,20
+levofloxacin,@CHEMICAL_Levofloxacin,Liver Abscess,@DISEASE_Liver_Abscess,7,7
+levofloxacin,@CHEMICAL_Levofloxacin,Meningitis Bacterial,@DISEASE_Meningitis_Bacterial,7,7
+levofloxacin,@CHEMICAL_Levofloxacin,Myalgia,@DISEASE_Myalgia,10,15
+levofloxacin,@CHEMICAL_Levofloxacin,Mycobacterium avium intracellulare Infection,@DISEASE_Mycobacterium_avium_intracellulare_Infection,7,7
+levofloxacin,@CHEMICAL_Levofloxacin,Periodontitis,@DISEASE_Periodontitis,7,7
+levofloxacin,@CHEMICAL_Levofloxacin,Pyuria,@DISEASE_Pyuria,7,7
+levofloxacin,@CHEMICAL_Levofloxacin,Respiratory Distress Syndrome,@DISEASE_Respiratory_Distress_Syndrome,10,12
+levofloxacin,@CHEMICAL_Levofloxacin,Streptococcal Infections,@DISEASE_Streptococcal_Infections,8,8
+levofloxacin,@CHEMICAL_Levofloxacin,Tuberculosis Osteoarticular,@DISEASE_Tuberculosis_Osteoarticular,7,7
+levofloxacin,@CHEMICAL_Levofloxacin,Tularemia,@DISEASE_Tularemia,7,7
+levofloxacin,@CHEMICAL_Levofloxacin,Anthrax,@DISEASE_Anthrax,6,6
+levofloxacin,@CHEMICAL_Levofloxacin,Aortic Valve Stenosis,@DISEASE_Aortic_Valve_Stenosis,5,5
+levofloxacin,@CHEMICAL_Levofloxacin,Ascites,@DISEASE_Ascites,7,7
+levofloxacin,@CHEMICAL_Levofloxacin,Back Pain,@DISEASE_Back_Pain,6,6
+levofloxacin,@CHEMICAL_Levofloxacin,Cysts,@DISEASE_Cysts,6,6
+levofloxacin,@CHEMICAL_Levofloxacin,Diabetic Foot,@DISEASE_Diabetic_Foot,8,8
+levofloxacin,@CHEMICAL_Levofloxacin,Legionellosis,@DISEASE_Legionellosis,6,6
+levofloxacin,@CHEMICAL_Levofloxacin,Leukemia,@DISEASE_Leukemia,6,6
+levofloxacin,@CHEMICAL_Levofloxacin,Liver Diseases,@DISEASE_Liver_Diseases,10,13
+levofloxacin,@CHEMICAL_Levofloxacin,Lung Injury,@DISEASE_Lung_Injury,8,8
+levofloxacin,@CHEMICAL_Levofloxacin,Muscle Weakness,@DISEASE_Muscle_Weakness,8,8
+levofloxacin,@CHEMICAL_Levofloxacin,Neisseriaceae Infections,@DISEASE_Neisseriaceae_Infections,6,6
+levofloxacin,@CHEMICAL_Levofloxacin,Otitis Media Suppurative,@DISEASE_Otitis_Media_Suppurative,6,6
+levofloxacin,@CHEMICAL_Levofloxacin,Prostatic Neoplasms,@DISEASE_Prostatic_Neoplasms,6,6
+levofloxacin,@CHEMICAL_Levofloxacin,Renal Insufficiency,@DISEASE_Renal_Insufficiency,10,12
+levofloxacin,@CHEMICAL_Levofloxacin,Virus Diseases,@DISEASE_Virus_Diseases,6,6
+levofloxacin,@CHEMICAL_Levofloxacin,Acanthamoeba Keratitis,@DISEASE_Acanthamoeba_Keratitis,5,5
+levofloxacin,@CHEMICAL_Levofloxacin,Anorexia,@DISEASE_Anorexia,7,7
+levofloxacin,@CHEMICAL_Levofloxacin,Arthritis,@DISEASE_Arthritis,5,5
+levofloxacin,@CHEMICAL_Levofloxacin,Calcinosis Cutis,@DISEASE_Calcinosis_Cutis,5,5
+levofloxacin,@CHEMICAL_Levofloxacin,Conjunctival Diseases,@DISEASE_Conjunctival_Diseases,5,5
+levofloxacin,@CHEMICAL_Levofloxacin,Dacryocystitis,@DISEASE_Dacryocystitis,5,5
+levofloxacin,@CHEMICAL_Levofloxacin,Endometritis,@DISEASE_Endometritis,5,5
+levofloxacin,@CHEMICAL_Levofloxacin,Eye Infections Bacterial,@DISEASE_Eye_Infections_Bacterial,5,5
+levofloxacin,@CHEMICAL_Levofloxacin,Kidney Failure Chronic,@DISEASE_Kidney_Failure_Chronic,5,5
+levofloxacin,@CHEMICAL_Levofloxacin,Latent Tuberculosis,@DISEASE_Latent_Tuberculosis,5,5
+levofloxacin,@CHEMICAL_Levofloxacin,Leukocytosis,@DISEASE_Leukocytosis,6,6
+levofloxacin,@CHEMICAL_Levofloxacin,Liver Failure,@DISEASE_Liver_Failure,10,18
+levofloxacin,@CHEMICAL_Levofloxacin,MASS syndrome,@DISEASE_MASS_syndrome,5,5
+levofloxacin,@CHEMICAL_Levofloxacin,Multiple Organ Failure,@DISEASE_Multiple_Organ_Failure,7,7
+levofloxacin,@CHEMICAL_Levofloxacin,Necrosis,@DISEASE_Necrosis,8,8
+levofloxacin,@CHEMICAL_Levofloxacin,Neonatal Sepsis,@DISEASE_Neonatal_Sepsis,5,5
+levofloxacin,@CHEMICAL_Levofloxacin,Precursor Cell Lymphoblastic Leukemia Lymphoma,@DISEASE_Precursor_Cell_Lymphoblastic_Leukemia_Lymphoma,5,5
+levofloxacin,@CHEMICAL_Levofloxacin,Precursor T Cell Lymphoblastic Leukemia Lymphoma,@DISEASE_Precursor_T_Cell_Lymphoblastic_Leukemia_Lymphoma,5,5
+levofloxacin,@CHEMICAL_Levofloxacin,Psoas Abscess,@DISEASE_Psoas_Abscess,6,6
+levofloxacin,@CHEMICAL_Levofloxacin,Pulmonary Embolism,@DISEASE_Pulmonary_Embolism,4,4
+levofloxacin,@CHEMICAL_Levofloxacin,Respiratory Sounds,@DISEASE_Respiratory_Sounds,5,5
+levofloxacin,@CHEMICAL_Levofloxacin,Respiratory Tract Diseases,@DISEASE_Respiratory_Tract_Diseases,5,5
+levofloxacin,@CHEMICAL_Levofloxacin,Salmonella Infections,@DISEASE_Salmonella_Infections,5,5
+levofloxacin,@CHEMICAL_Levofloxacin,Seizures,@DISEASE_Seizures,10,28
+levofloxacin,@CHEMICAL_Levofloxacin,Stomach Neoplasms,@DISEASE_Stomach_Neoplasms,6,6
+levofloxacin,@CHEMICAL_Levofloxacin,Urologic Diseases,@DISEASE_Urologic_Diseases,5,5
+levofloxacin,@CHEMICAL_Levofloxacin,Vomiting,@DISEASE_Vomiting,10,12
+levofloxacin,@CHEMICAL_Levofloxacin,Blister,@DISEASE_Blister,5,5
+levofloxacin,@CHEMICAL_Levofloxacin,Bronchopulmonary Dysplasia,@DISEASE_Bronchopulmonary_Dysplasia,5,5
+levofloxacin,@CHEMICAL_Levofloxacin,Burns,@DISEASE_Burns,5,5
+levofloxacin,@CHEMICAL_Levofloxacin,Catheter Related Infections,@DISEASE_Catheter_Related_Infections,4,4
+levofloxacin,@CHEMICAL_Levofloxacin,Central Nervous System Infections,@DISEASE_Central_Nervous_System_Infections,6,6
+levofloxacin,@CHEMICAL_Levofloxacin,Cerebral Infarction,@DISEASE_Cerebral_Infarction,4,4
+levofloxacin,@CHEMICAL_Levofloxacin,Chemical and Drug Induced Liver Injury,@DISEASE_Chemical_and_Drug_Induced_Liver_Injury,10,30
+levofloxacin,@CHEMICAL_Levofloxacin,Chills,@DISEASE_Chills,5,5
+levofloxacin,@CHEMICAL_Levofloxacin,Chlamydial Pneumonia,@DISEASE_Chlamydial_Pneumonia,4,4
+levofloxacin,@CHEMICAL_Levofloxacin,Cholangitis,@DISEASE_Cholangitis,4,4
+glyburide,@CHEMICAL_Glyburide,Diabetes Mellitus,@DISEASE_Diabetes_Mellitus,10,1077
+glyburide,@CHEMICAL_Glyburide,Diabetes Mellitus Type 2,@DISEASE_Diabetes_Mellitus_Type_2,10,842
+glyburide,@CHEMICAL_Glyburide,Diabetes Gestational,@DISEASE_Diabetes_Gestational,10,185
+glyburide,@CHEMICAL_Glyburide,Ischemia,@DISEASE_Ischemia,10,160
+glyburide,@CHEMICAL_Glyburide,Hypoxia,@DISEASE_Hypoxia,10,109
+glyburide,@CHEMICAL_Glyburide,Inflammation,@DISEASE_Inflammation,10,86
+glyburide,@CHEMICAL_Glyburide,Infarction,@DISEASE_Infarction,10,79
+glyburide,@CHEMICAL_Glyburide,Brain Ischemia,@DISEASE_Brain_Ischemia,10,72
+glyburide,@CHEMICAL_Glyburide,Hyperglycemia,@DISEASE_Hyperglycemia,10,69
+glyburide,@CHEMICAL_Glyburide,Brain Edema,@DISEASE_Brain_Edema,10,65
+glyburide,@CHEMICAL_Glyburide,Edema,@DISEASE_Edema,10,60
+glyburide,@CHEMICAL_Glyburide,Hypoxia Brain,@DISEASE_Hypoxia_Brain,10,57
+glyburide,@CHEMICAL_Glyburide,Diabetes Mellitus Type 1,@DISEASE_Diabetes_Mellitus_Type_1,10,51
+glyburide,@CHEMICAL_Glyburide,Stroke,@DISEASE_Stroke,10,46
+glyburide,@CHEMICAL_Glyburide,Hyperglycemic Hyperosmolar Nonketotic Coma,@DISEASE_Hyperglycemic_Hyperosmolar_Nonketotic_Coma,10,44
+glyburide,@CHEMICAL_Glyburide,Ventricular Fibrillation,@DISEASE_Ventricular_Fibrillation,10,46
+glyburide,@CHEMICAL_Glyburide,Hypotension,@DISEASE_Hypotension,10,44
+glyburide,@CHEMICAL_Glyburide,Obesity,@DISEASE_Obesity,10,37
+glyburide,@CHEMICAL_Glyburide,Arrhythmias Cardiac,@DISEASE_Arrhythmias_Cardiac,10,41
+glyburide,@CHEMICAL_Glyburide,Hypoglycemia,@DISEASE_Hypoglycemia,10,226
+glyburide,@CHEMICAL_Glyburide,hypoglycemic encephalopathy,@DISEASE_hypoglycemic_encephalopathy,10,89
+glyburide,@CHEMICAL_Glyburide,Brain Injuries Traumatic,@DISEASE_Brain_Injuries_Traumatic,10,27
+glyburide,@CHEMICAL_Glyburide,Hemorrhage,@DISEASE_Hemorrhage,10,28
+glyburide,@CHEMICAL_Glyburide,Hypertension,@DISEASE_Hypertension,10,32
+glyburide,@CHEMICAL_Glyburide,Reperfusion Injury,@DISEASE_Reperfusion_Injury,10,25
+glyburide,@CHEMICAL_Glyburide,Diabetes Mellitus Transient Neonatal 1,@DISEASE_Diabetes_Mellitus_Transient_Neonatal_1,10,24
+glyburide,@CHEMICAL_Glyburide,Insulin Resistance,@DISEASE_Insulin_Resistance,10,32
+glyburide,@CHEMICAL_Glyburide,Cardiomyopathy Dilated,@DISEASE_Cardiomyopathy_Dilated,10,23
+glyburide,@CHEMICAL_Glyburide,Neoplasms,@DISEASE_Neoplasms,10,28
+glyburide,@CHEMICAL_Glyburide,Cerebral Infarction,@DISEASE_Cerebral_Infarction,10,20
+glyburide,@CHEMICAL_Glyburide,Diabetes Mellitus Permanent Neonatal,@DISEASE_Diabetes_Mellitus_Permanent_Neonatal,10,19
+glyburide,@CHEMICAL_Glyburide,Hyperemia,@DISEASE_Hyperemia,10,21
+glyburide,@CHEMICAL_Glyburide,Acidosis,@DISEASE_Acidosis,10,20
+glyburide,@CHEMICAL_Glyburide,Heart Diseases,@DISEASE_Heart_Diseases,10,24
+glyburide,@CHEMICAL_Glyburide,Myocardial Infarction,@DISEASE_Myocardial_Infarction,10,19
+glyburide,@CHEMICAL_Glyburide,Spinal Cord Injuries,@DISEASE_Spinal_Cord_Injuries,10,17
+glyburide,@CHEMICAL_Glyburide,Myocardial Stunning,@DISEASE_Myocardial_Stunning,10,21
+glyburide,@CHEMICAL_Glyburide,Cerebral Hemorrhage,@DISEASE_Cerebral_Hemorrhage,10,14
+glyburide,@CHEMICAL_Glyburide,Myocardial Ischemia,@DISEASE_Myocardial_Ischemia,10,23
+glyburide,@CHEMICAL_Glyburide,Myotonic Dystrophy,@DISEASE_Myotonic_Dystrophy,10,12
+glyburide,@CHEMICAL_Glyburide,Subarachnoid Hemorrhage,@DISEASE_Subarachnoid_Hemorrhage,10,14
+glyburide,@CHEMICAL_Glyburide,Coronary Occlusion,@DISEASE_Coronary_Occlusion,10,14
+glyburide,@CHEMICAL_Glyburide,Depressive Disorder,@DISEASE_Depressive_Disorder,10,20
+glyburide,@CHEMICAL_Glyburide,Neuroinflammatory Diseases,@DISEASE_Neuroinflammatory_Diseases,10,15
+glyburide,@CHEMICAL_Glyburide,Optic Neuropathy Ischemic,@DISEASE_Optic_Neuropathy_Ischemic,10,13
+glyburide,@CHEMICAL_Glyburide,Blood Platelet Disorders,@DISEASE_Blood_Platelet_Disorders,10,13
+glyburide,@CHEMICAL_Glyburide,Nerve Degeneration,@DISEASE_Nerve_Degeneration,10,14
+glyburide,@CHEMICAL_Glyburide,Death,@DISEASE_Death,10,18
+glyburide,@CHEMICAL_Glyburide,Hyperalgesia,@DISEASE_Hyperalgesia,10,15
+glyburide,@CHEMICAL_Glyburide,Kidney Diseases,@DISEASE_Kidney_Diseases,10,20
+glyburide,@CHEMICAL_Glyburide,Neurologic Manifestations,@DISEASE_Neurologic_Manifestations,10,11
+glyburide,@CHEMICAL_Glyburide,Cardiovascular Diseases,@DISEASE_Cardiovascular_Diseases,10,25
+glyburide,@CHEMICAL_Glyburide,Cognition Disorders,@DISEASE_Cognition_Disorders,10,13
+glyburide,@CHEMICAL_Glyburide,Diabetic Nephropathies,@DISEASE_Diabetic_Nephropathies,10,10
+glyburide,@CHEMICAL_Glyburide,Heart Arrest,@DISEASE_Heart_Arrest,10,10
+glyburide,@CHEMICAL_Glyburide,Renal Insufficiency,@DISEASE_Renal_Insufficiency,10,18
+glyburide,@CHEMICAL_Glyburide,Seizures,@DISEASE_Seizures,10,19
+glyburide,@CHEMICAL_Glyburide,Brain Injuries,@DISEASE_Brain_Injuries,10,10
+glyburide,@CHEMICAL_Glyburide,Cantu syndrome,@DISEASE_Cantu_syndrome,9,9
+glyburide,@CHEMICAL_Glyburide,Coronary Artery Disease,@DISEASE_Coronary_Artery_Disease,10,13
+glyburide,@CHEMICAL_Glyburide,Dyslipidemias,@DISEASE_Dyslipidemias,10,10
+glyburide,@CHEMICAL_Glyburide,Wounds and Injuries,@DISEASE_Wounds_and_Injuries,9,9
+glyburide,@CHEMICAL_Glyburide,Heart Failure,@DISEASE_Heart_Failure,10,11
+glyburide,@CHEMICAL_Glyburide,Pain,@DISEASE_Pain,10,11
+glyburide,@CHEMICAL_Glyburide,Ventricular Premature Complexes,@DISEASE_Ventricular_Premature_Complexes,9,9
+glyburide,@CHEMICAL_Glyburide,Alzheimer Disease,@DISEASE_Alzheimer_Disease,8,8
+glyburide,@CHEMICAL_Glyburide,Arterial Occlusive Diseases,@DISEASE_Arterial_Occlusive_Diseases,8,8
+glyburide,@CHEMICAL_Glyburide,Central Nervous System Diseases,@DISEASE_Central_Nervous_System_Diseases,8,8
+glyburide,@CHEMICAL_Glyburide,Developmental Delay Epilepsy and Neonatal Diabetes,@DISEASE_Developmental_Delay_Epilepsy_and_Neonatal_Diabetes,7,7
+glyburide,@CHEMICAL_Glyburide,Diabetes Complications,@DISEASE_Diabetes_Complications,7,7
+glyburide,@CHEMICAL_Glyburide,Diabetic Ketoacidosis,@DISEASE_Diabetic_Ketoacidosis,7,7
+glyburide,@CHEMICAL_Glyburide,Infarction Middle Cerebral Artery,@DISEASE_Infarction_Middle_Cerebral_Artery,7,7
+glyburide,@CHEMICAL_Glyburide,Necrosis,@DISEASE_Necrosis,10,10
+glyburide,@CHEMICAL_Glyburide,Overweight,@DISEASE_Overweight,7,7
+glyburide,@CHEMICAL_Glyburide,Shock Hemorrhagic,@DISEASE_Shock_Hemorrhagic,7,7
+glyburide,@CHEMICAL_Glyburide,Contracture,@DISEASE_Contracture,10,10
+glyburide,@CHEMICAL_Glyburide,Cystic Fibrosis,@DISEASE_Cystic_Fibrosis,6,6
+glyburide,@CHEMICAL_Glyburide,Diarrhea,@DISEASE_Diarrhea,10,12
+glyburide,@CHEMICAL_Glyburide,Epilepsy Post Traumatic,@DISEASE_Epilepsy_Post_Traumatic,6,6
+glyburide,@CHEMICAL_Glyburide,Fibrosis,@DISEASE_Fibrosis,6,6
+glyburide,@CHEMICAL_Glyburide,Glucose Intolerance,@DISEASE_Glucose_Intolerance,9,9
+glyburide,@CHEMICAL_Glyburide,Hypothermia,@DISEASE_Hypothermia,9,9
+glyburide,@CHEMICAL_Glyburide,Insulinoma,@DISEASE_Insulinoma,10,11
+glyburide,@CHEMICAL_Glyburide,Liver Failure,@DISEASE_Liver_Failure,7,7
+glyburide,@CHEMICAL_Glyburide,Ulcer,@DISEASE_Ulcer,6,6
+glyburide,@CHEMICAL_Glyburide,212500,@DISEASE_212500,8,8
+glyburide,@CHEMICAL_Glyburide,Brain Infarction,@DISEASE_Brain_Infarction,6,6
+glyburide,@CHEMICAL_Glyburide,Cardiomyopathies,@DISEASE_Cardiomyopathies,8,8
+glyburide,@CHEMICAL_Glyburide,Congenital Hyperinsulinism,@DISEASE_Congenital_Hyperinsulinism,6,6
+glyburide,@CHEMICAL_Glyburide,Contusions,@DISEASE_Contusions,5,5
+glyburide,@CHEMICAL_Glyburide,Developmental Disabilities,@DISEASE_Developmental_Disabilities,5,5
+glyburide,@CHEMICAL_Glyburide,Diabetes Mellitus Experimental,@DISEASE_Diabetes_Mellitus_Experimental,6,6
+glyburide,@CHEMICAL_Glyburide,Diabetic Retinopathy,@DISEASE_Diabetic_Retinopathy,5,5
+glyburide,@CHEMICAL_Glyburide,Drug Related Side Effects and Adverse Reactions,@DISEASE_Drug_Related_Side_Effects_and_Adverse_Reactions,10,14
+glyburide,@CHEMICAL_Glyburide,Fatigue,@DISEASE_Fatigue,6,6
+glyburide,@CHEMICAL_Glyburide,Fatty Liver,@DISEASE_Fatty_Liver,5,5
+glyburide,@CHEMICAL_Glyburide,Ketosis,@DISEASE_Ketosis,7,7
+glyburide,@CHEMICAL_Glyburide,Lung Diseases,@DISEASE_Lung_Diseases,6,6
+glyburide,@CHEMICAL_Glyburide,Memory Disorders,@DISEASE_Memory_Disorders,5,5
+glyburide,@CHEMICAL_Glyburide,Sleep Disorders Circadian Rhythm,@DISEASE_Sleep_Disorders_Circadian_Rhythm,5,5
+glyburide,@CHEMICAL_Glyburide,Tachycardia Ventricular,@DISEASE_Tachycardia_Ventricular,7,7
+glyburide,@CHEMICAL_Glyburide,Weight Loss,@DISEASE_Weight_Loss,6,6
+glyburide,@CHEMICAL_Glyburide,Angina Pectoris,@DISEASE_Angina_Pectoris,4,4
+glyburide,@CHEMICAL_Glyburide,Atrial Fibrillation,@DISEASE_Atrial_Fibrillation,4,4
+glyburide,@CHEMICAL_Glyburide,Brain Contusion,@DISEASE_Brain_Contusion,5,5
+glyburide,@CHEMICAL_Glyburide,Carcinogenesis,@DISEASE_Carcinogenesis,4,4
+glyburide,@CHEMICAL_Glyburide,Diabetic Neuropathies,@DISEASE_Diabetic_Neuropathies,5,5
+glyburide,@CHEMICAL_Glyburide,HAIR AN syndrome,@DISEASE_HAIR_AN_syndrome,4,4
+glyburide,@CHEMICAL_Glyburide,Headache,@DISEASE_Headache,7,7
+glyburide,@CHEMICAL_Glyburide,Hypertrophy,@DISEASE_Hypertrophy,4,4
+glyburide,@CHEMICAL_Glyburide,Infections,@DISEASE_Infections,6,6
+glyburide,@CHEMICAL_Glyburide,Ischemic Stroke,@DISEASE_Ischemic_Stroke,4,4
+glyburide,@CHEMICAL_Glyburide,Maturity Onset Diabetes of the Young Type 3,@DISEASE_Maturity_Onset_Diabetes_of_the_Young_Type_3,5,5
+glyburide,@CHEMICAL_Glyburide,Metabolic Syndrome,@DISEASE_Metabolic_Syndrome,5,5
+glyburide,@CHEMICAL_Glyburide,Nociceptive Pain,@DISEASE_Nociceptive_Pain,4,4
+glyburide,@CHEMICAL_Glyburide,Pancreatitis,@DISEASE_Pancreatitis,5,5
+glyburide,@CHEMICAL_Glyburide,Soft Tissue Injuries,@DISEASE_Soft_Tissue_Injuries,4,4
+glyburide,@CHEMICAL_Glyburide,Syndrome,@DISEASE_Syndrome,4,4
+glyburide,@CHEMICAL_Glyburide,Tachycardia,@DISEASE_Tachycardia,7,7
+glyburide,@CHEMICAL_Glyburide,Urinary Bladder Neck Obstruction,@DISEASE_Urinary_Bladder_Neck_Obstruction,4,4
+glyburide,@CHEMICAL_Glyburide,Vascular Diseases,@DISEASE_Vascular_Diseases,5,5
+glyburide,@CHEMICAL_Glyburide,Weight Gain,@DISEASE_Weight_Gain,10,24
+glyburide,@CHEMICAL_Glyburide,603933,@DISEASE_603933,3,3
+glyburide,@CHEMICAL_Glyburide,Acute Lung Injury,@DISEASE_Acute_Lung_Injury,3,3
+glyburide,@CHEMICAL_Glyburide,Adjustment Disorders,@DISEASE_Adjustment_Disorders,3,3
+glyburide,@CHEMICAL_Glyburide,Angina Stable,@DISEASE_Angina_Stable,3,3
+glyburide,@CHEMICAL_Glyburide,Anxiety,@DISEASE_Anxiety,3,3
+glyburide,@CHEMICAL_Glyburide,Atherosclerosis,@DISEASE_Atherosclerosis,4,4
+glyburide,@CHEMICAL_Glyburide,Bradycardia,@DISEASE_Bradycardia,4,4
+glyburide,@CHEMICAL_Glyburide,Brain Diseases,@DISEASE_Brain_Diseases,5,5
+glyburide,@CHEMICAL_Glyburide,Brain Neoplasms,@DISEASE_Brain_Neoplasms,3,3
+glyburide,@CHEMICAL_Glyburide,Breast Neoplasms,@DISEASE_Breast_Neoplasms,5,5
+glyburide,@CHEMICAL_Glyburide,COVID 19,@DISEASE_COVID_19,3,3
+glyburide,@CHEMICAL_Glyburide,Chemical and Drug Induced Liver Injury,@DISEASE_Chemical_and_Drug_Induced_Liver_Injury,10,12
+glyburide,@CHEMICAL_Glyburide,Colitis,@DISEASE_Colitis,3,3
+glyburide,@CHEMICAL_Glyburide,Coma,@DISEASE_Coma,10,10
+glyburide,@CHEMICAL_Glyburide,Cytokine Release Syndrome,@DISEASE_Cytokine_Release_Syndrome,3,3
+glyburide,@CHEMICAL_Glyburide,Encephalomyelitis Autoimmune Experimental,@DISEASE_Encephalomyelitis_Autoimmune_Experimental,5,5
+glyburide,@CHEMICAL_Glyburide,Epilepsy,@DISEASE_Epilepsy,3,3
+glyburide,@CHEMICAL_Glyburide,Fetal Macrosomia,@DISEASE_Fetal_Macrosomia,10,24
+glyburide,@CHEMICAL_Glyburide,Glycosuria Renal,@DISEASE_Glycosuria_Renal,3,3
+glyburide,@CHEMICAL_Glyburide,Heart Block,@DISEASE_Heart_Block,3,3
+glyburide,@CHEMICAL_Glyburide,Hematoma,@DISEASE_Hematoma,3,3
+glyburide,@CHEMICAL_Glyburide,Hemorrhagic Stroke,@DISEASE_Hemorrhagic_Stroke,3,3
+glyburide,@CHEMICAL_Glyburide,Hypercapnia,@DISEASE_Hypercapnia,5,5
+glyburide,@CHEMICAL_Glyburide,Hyperinsulinism,@DISEASE_Hyperinsulinism,5,5
+glyburide,@CHEMICAL_Glyburide,Hyperlipoproteinemia Type II,@DISEASE_Hyperlipoproteinemia_Type_II,4,4
+glyburide,@CHEMICAL_Glyburide,Liver Cirrhosis,@DISEASE_Liver_Cirrhosis,3,3
+glyburide,@CHEMICAL_Glyburide,Lung Injury,@DISEASE_Lung_Injury,3,3
+glyburide,@CHEMICAL_Glyburide,Melioidosis,@DISEASE_Melioidosis,3,3
+glyburide,@CHEMICAL_Glyburide,Mitochondrial Diseases,@DISEASE_Mitochondrial_Diseases,6,6
+glyburide,@CHEMICAL_Glyburide,Muscle Hypotonia,@DISEASE_Muscle_Hypotonia,3,3
+glyburide,@CHEMICAL_Glyburide,Muscle Neoplasms,@DISEASE_Muscle_Neoplasms,3,3
+glyburide,@CHEMICAL_Glyburide,Nervous System Diseases,@DISEASE_Nervous_System_Diseases,4,4
+glyburide,@CHEMICAL_Glyburide,Neurodegenerative Diseases,@DISEASE_Neurodegenerative_Diseases,4,4
+glyburide,@CHEMICAL_Glyburide,Neurotoxicity Syndromes,@DISEASE_Neurotoxicity_Syndromes,4,4
+glyburide,@CHEMICAL_Glyburide,Non alcoholic Fatty Liver Disease,@DISEASE_Non_alcoholic_Fatty_Liver_Disease,3,3
+glyburide,@CHEMICAL_Glyburide,Pain Insensitivity Congenital,@DISEASE_Pain_Insensitivity_Congenital,3,3
+glyburide,@CHEMICAL_Glyburide,Pregnancy in Diabetics,@DISEASE_Pregnancy_in_Diabetics,3,3
+glyburide,@CHEMICAL_Glyburide,Pressure Ulcer,@DISEASE_Pressure_Ulcer,3,3
+glyburide,@CHEMICAL_Glyburide,Renal Artery Obstruction,@DISEASE_Renal_Artery_Obstruction,3,3
+glyburide,@CHEMICAL_Glyburide,Ring Chromosome 20 Syndrome,@DISEASE_Ring_Chromosome_20_Syndrome,3,3
+glyburide,@CHEMICAL_Glyburide,Shock Septic,@DISEASE_Shock_Septic,3,3
+glyburide,@CHEMICAL_Glyburide,Stomach Diseases,@DISEASE_Stomach_Diseases,5,5
+glyburide,@CHEMICAL_Glyburide,Stomach Ulcer,@DISEASE_Stomach_Ulcer,4,4
+glyburide,@CHEMICAL_Glyburide,Vascular System Injuries,@DISEASE_Vascular_System_Injuries,4,4
+glyburide,@CHEMICAL_Glyburide,240900,@DISEASE_240900,2,2
+glyburide,@CHEMICAL_Glyburide,Abdominal Injuries,@DISEASE_Abdominal_Injuries,2,2
+glyburide,@CHEMICAL_Glyburide,Abnormalities Drug Induced,@DISEASE_Abnormalities_Drug_Induced,6,6
+glyburide,@CHEMICAL_Glyburide,Acute Disease,@DISEASE_Acute_Disease,2,2
+glyburide,@CHEMICAL_Glyburide,Amnesia,@DISEASE_Amnesia,2,2
+glyburide,@CHEMICAL_Glyburide,Anaphylaxis,@DISEASE_Anaphylaxis,2,2
+glyburide,@CHEMICAL_Glyburide,Autoimmune Diseases,@DISEASE_Autoimmune_Diseases,3,3
+glyburide,@CHEMICAL_Glyburide,Bacterial Infections,@DISEASE_Bacterial_Infections,3,3
+glyburide,@CHEMICAL_Glyburide,Belonephobia,@DISEASE_Belonephobia,2,2
+glyburide,@CHEMICAL_Glyburide,Bone Resorption,@DISEASE_Bone_Resorption,2,2
+glyburide,@CHEMICAL_Glyburide,Brain Damage Chronic,@DISEASE_Brain_Damage_Chronic,2,2
+glyburide,@CHEMICAL_Glyburide,Bronchial Hyperreactivity,@DISEASE_Bronchial_Hyperreactivity,2,2
+glyburide,@CHEMICAL_Glyburide,Carcinoma 256 Walker,@DISEASE_Carcinoma_256_Walker,2,2
+glyburide,@CHEMICAL_Glyburide,Carcinoma Hepatocellular,@DISEASE_Carcinoma_Hepatocellular,4,4
+glyburide,@CHEMICAL_Glyburide,Carcinoma Renal Cell,@DISEASE_Carcinoma_Renal_Cell,2,2
+glyburide,@CHEMICAL_Glyburide,Cardiotoxicity,@DISEASE_Cardiotoxicity,3,3
+glyburide,@CHEMICAL_Glyburide,Central Nervous System Infections,@DISEASE_Central_Nervous_System_Infections,2,2
+glyburide,@CHEMICAL_Glyburide,Chronobiology Disorders,@DISEASE_Chronobiology_Disorders,2,2
+glyburide,@CHEMICAL_Glyburide,Consciousness Disorders,@DISEASE_Consciousness_Disorders,3,3
+glyburide,@CHEMICAL_Glyburide,Coronary Aneurysm,@DISEASE_Coronary_Aneurysm,2,2
+glyburide,@CHEMICAL_Glyburide,Cough,@DISEASE_Cough,2,2
+glyburide,@CHEMICAL_Glyburide,Craniocerebral Trauma,@DISEASE_Craniocerebral_Trauma,2,2
+glyburide,@CHEMICAL_Glyburide,Cysts,@DISEASE_Cysts,2,2
+glyburide,@CHEMICAL_Glyburide,Deafness,@DISEASE_Deafness,2,2
+glyburide,@CHEMICAL_Glyburide,Death Sudden Cardiac,@DISEASE_Death_Sudden_Cardiac,3,3
+glyburide,@CHEMICAL_Glyburide,Demyelinating Diseases,@DISEASE_Demyelinating_Diseases,2,2
+glyburide,@CHEMICAL_Glyburide,Diabetes Insipidus,@DISEASE_Diabetes_Insipidus,4,4
+glyburide,@CHEMICAL_Glyburide,Diabetic Cardiomyopathies,@DISEASE_Diabetic_Cardiomyopathies,2,2
+glyburide,@CHEMICAL_Glyburide,Drug Hypersensitivity,@DISEASE_Drug_Hypersensitivity,7,7
+glyburide,@CHEMICAL_Glyburide,Drug Overdose,@DISEASE_Drug_Overdose,6,6
+glyburide,@CHEMICAL_Glyburide,Ductus Arteriosus Patent,@DISEASE_Ductus_Arteriosus_Patent,2,2
+glyburide,@CHEMICAL_Glyburide,Feeding and Eating Disorders,@DISEASE_Feeding_and_Eating_Disorders,2,2
+glyburide,@CHEMICAL_Glyburide,Fever,@DISEASE_Fever,4,4
+glyburide,@CHEMICAL_Glyburide,Fractures Bone,@DISEASE_Fractures_Bone,3,3
+glyburide,@CHEMICAL_Glucovance,Diabetes Mellitus Type 2,@DISEASE_Diabetes_Mellitus_Type_2,8,8
+glyburide,@CHEMICAL_Glucovance,Diabetes Mellitus,@DISEASE_Diabetes_Mellitus,1,1
+glyburide,@CHEMICAL_Glucovance,Metabolic Diseases,@DISEASE_Metabolic_Diseases,1,1

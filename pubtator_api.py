@@ -1,31 +1,39 @@
 # pubtator_api.py
-import time, requests
+import time, requests, random
 from typing import Any, Dict, List, Tuple, Optional
 
 BASE = "https://www.ncbi.nlm.nih.gov/research/pubtator3-api"
 
-# --- simple 2 RPS limiter + shared session + retries ---
 _SESSION = requests.Session()
-_MIN_INTERVAL = 0.5  # 2 requests/second
+_MIN_INTERVAL = 1.0 / 3.0  # 3 requests/second
 _last_ts = 0.0
 
 def _throttle():
     global _last_ts
     dt = time.time() - _last_ts
     if dt < _MIN_INTERVAL:
-        time.sleep(_MIN_INTERVAL - dt)
+        time.sleep((_MIN_INTERVAL - dt) + 0.05 * random.random())
 
-def _get(path: str, params: Dict[str, Any], timeout: float, retries: int = 2) -> requests.Response:
+def _get(path: str, params: Dict[str, Any], timeout: float, retries: int = 3) -> requests.Response:
     url = f"{BASE}{path}"
+    backoff = 0.5
     for i in range(retries + 1):
-        _throttle()
-        r = _SESSION.get(url, params=params, timeout=timeout)
-        _last_ts = time.time()
-        if r.status_code in (429, 500, 502, 503, 504) and i < retries:
-            time.sleep(0.5 * (2 ** i))
-            continue
-        return r  # let caller decide on raise_for_status
-    return r
+        try:
+            _throttle()
+            r = _SESSION.get(url, params=params, timeout=timeout)
+            _last_ts = time.time()
+            if r.status_code in (429, 500, 502, 503, 504) and i < retries:
+                time.sleep(backoff); backoff *= 2
+                continue
+            return r
+        except requests.RequestException:
+            if i < retries:
+                time.sleep(backoff); backoff *= 2
+                continue
+            raise
+
+def _same_id(a, b) -> bool:
+    return str(a or "").lower() == str(b or "").lower()
 
 def pubtator_entity_autocomplete(
     query: str,
@@ -34,8 +42,9 @@ def pubtator_entity_autocomplete(
     timeout: float = 15.0,
     strict: bool = False,
 ) -> Tuple[Dict[str, str], int]:
-    """({name:id}, total_count)."""
-    def to_list(d: Any) -> list:
+    """Return ({name:id}, total_count)."""
+
+    def to_list(d: Any) -> List[Dict[str, Any]]:
         if isinstance(d, list): return d
         if isinstance(d, dict):
             if isinstance(d.get("results"), list): return d["results"]
@@ -71,7 +80,8 @@ def pubtator_entity_autocomplete(
     for it in data:
         name = it.get("label") or it.get("name") or it.get("text")
         ent_id = it.get("id") or it.get("identifier") or it.get("entity_id") or it.get("_id")
-        if name and ent_id: out[name] = ent_id
+        if name and ent_id:
+            out[name] = ent_id
     return out, total_count
 
 def treatment_drugs_for_disease(
@@ -108,47 +118,64 @@ def treatment_drugs_for_disease(
     count = len({it["source"] for it in items})
     return {disease_id: chem_ids[:limit] if limit else chem_ids}, count
 
+def treatment_diseases_for_drug(
+    chemical_id: str,
+    relation_type: str = "treat",
+    limit: int = 25,
+    timeout: float = 15.0,
+    strict: bool = False,
+) -> Tuple[Dict[str, List[str]], int]:
+    """({chemical_id:[@DISEASE_*...]}, total_unique_diseases)"""
+    params = {"e1": chemical_id, "type": relation_type, "e2": "disease"}  # e1 EXACT, e2 lowercase
+    r = _get("/relations", params, timeout)
+    try:
+        r.raise_for_status()
+    except requests.HTTPError:
+        if strict: raise
+        return {chemical_id: []}, 0
+
+    data = r.json()
+    if not isinstance(data, list):
+        return {chemical_id: []}, 0
+
+    def _same_id(a, b): return str(a or "").lower() == str(b or "").lower()
+
+    # For chemical e1, rows have source==chemical_id and target==@DISEASE_*
+    items = [it for it in data
+             if _same_id(it.get("source"), chemical_id)
+             and isinstance(it.get("target"), str)
+             and it["target"].lower().startswith("@disease_")]
+
+    items.sort(key=lambda it: it.get("publications", 0), reverse=True)
+
+    seen, dis_ids = set(), []
+    for it in items:
+        tgt = it["target"].strip()
+        k = tgt.lower()
+        if k not in seen:
+            seen.add(k)
+            dis_ids.append(tgt)
+            if limit and len(dis_ids) >= limit:
+                break
+
+    total_unique = len({it["target"].lower() for it in items})
+    return {chemical_id: dis_ids}, total_unique
+
 def search_treatment_evidence(
     disease_id: str,
     chemical_id: str,
     page: int = 1,
-    page_size: Optional[int] = None,
     timeout: float = 15.0,
     strict: bool = False,
 ) -> Tuple[List[Dict], int]:
-    """(results, total_count) for relations:ANY|chemical_id|disease_id."""
+    """Return (results, total_count) for relations:ANY|chemical_id|disease_id."""
     q = f"relations:ANY|{chemical_id}|{disease_id}"
     params: Dict[str, Any] = {"text": q, "page": page}
-    if page_size is not None: params["page_size"] = page_size
     r = _get("/search/", params, timeout)
     try:
         r.raise_for_status()
     except requests.HTTPError:
-        # common 400 causes: invalid IDs like @CHEMICAL_Steroids or too-generic disease terms
         if strict: raise
         return [], 0
     j = r.json()
     return j.get("results", []), int(j.get("count", 0))
-
-
-if __name__ == "__main__":
-    # Example 1: map disease names -> IDs
-    disease_map = pubtator_entity_autocomplete("breast cancer", concept="Disease", limit=10)
-    print("Disease name -> ID mapping:")
-    print(json.dumps(disease_map, indent=2))
-
-    # Example 2: chemicals that treat this disease (normalized + raw)
-    # for name, disease_id in disease_map.items():
-    #     print(f"\nChemicals that treat {name} ({disease_id}):")
-    #     out = treatment_drugs_for_disease(disease_id=disease_id, limit=5)
-    #     print(f"\nChemicals that treat {name} ({disease_id}):")
-    #     print(json.dumps(out, indent=2))
-    #     time.sleep(0.5)
-
-    #Example 3: evidence for a specific disease-chemical pair
-    print(json.dumps(
-        search_treatment_evidence(
-            disease_id="@DISEASE_Triple_Negative_Breast_Neoplasms",  # breast cancer
-            chemical_id="@CHEMICAL_Paclitaxel"
-        ),indent=2
-    ))

@@ -1,0 +1,1 @@
+[{"type": "treat", "source": "@CHEMICAL_Glucovance", "target": "@DISEASE_Diabetes_Mellitus_Type_2", "publications": 8}, {"type": "treat", "source": "@CHEMICAL_Glucovance", "target": "@DISEASE_Diabetes_Mellitus", "publications": 1}, {"type": "treat", "source": "@CHEMICAL_Glucovance", "target": "@DISEASE_Metabolic_Diseases", "publications": 1}]

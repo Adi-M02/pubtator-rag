@@ -1,0 +1,1 @@
+[{"type": "treat", "source": "@CHEMICAL_Amlodipine_Besylate_Olmesartan_Medoxomil_Drug_Combination", "target": "@DISEASE_Angina_Stable", "publications": 1}, {"type": "treat", "source": "@CHEMICAL_Amlodipine_Besylate_Olmesartan_Medoxomil_Drug_Combination", "target": "@DISEASE_Tuberculosis", "publications": 1}]

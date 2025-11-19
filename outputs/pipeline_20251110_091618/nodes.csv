@@ -1,0 +1,946 @@
+id,label,type
+metformin,metformin,drug
+@DISEASE_Diabetes_Mellitus_Type_2,Diabetes Mellitus Type 2,disease
+@DISEASE_Diabetes_Mellitus,Diabetes Mellitus,disease
+@DISEASE_Neoplasms,Neoplasms,disease
+@DISEASE_Polycystic_Ovary_Syndrome,Polycystic Ovary Syndrome,disease
+@DISEASE_Obesity,Obesity,disease
+@DISEASE_Inflammation,Inflammation,disease
+@DISEASE_Insulin_Resistance,Insulin Resistance,disease
+@DISEASE_Breast_Neoplasms,Breast Neoplasms,disease
+@DISEASE_Diabetes_Gestational,Diabetes Gestational,disease
+@DISEASE_Hyperglycemia,Hyperglycemia,disease
+@DISEASE_Overweight,Overweight,disease
+@DISEASE_Metabolic_Syndrome,Metabolic Syndrome,disease
+@DISEASE_Weight_Gain,Weight Gain,disease
+@DISEASE_Cardiovascular_Diseases,Cardiovascular Diseases,disease
+@DISEASE_Colorectal_Neoplasms,Colorectal Neoplasms,disease
+@DISEASE_Glucose_Intolerance,Glucose Intolerance,disease
+@DISEASE_Non_alcoholic_Fatty_Liver_Disease,Non alcoholic Fatty Liver Disease,disease
+@DISEASE_Weight_Loss,Weight Loss,disease
+@DISEASE_Carcinoma_Hepatocellular,Carcinoma Hepatocellular,disease
+@DISEASE_Prediabetic_State,Prediabetic State,disease
+@DISEASE_Prostatic_Neoplasms,Prostatic Neoplasms,disease
+@DISEASE_Hyperglycemic_Hyperosmolar_Nonketotic_Coma,Hyperglycemic Hyperosmolar Nonketotic Coma,disease
+@DISEASE_Fibrosis,Fibrosis,disease
+@DISEASE_Diabetes_Mellitus_Type_1,Diabetes Mellitus Type 1,disease
+@DISEASE_Pancreatic_Neoplasms,Pancreatic Neoplasms,disease
+@DISEASE_Heart_Failure,Heart Failure,disease
+@DISEASE_Hypertension,Hypertension,disease
+@DISEASE_COVID_19,COVID 19,disease
+@DISEASE_Myotonic_Dystrophy,Myotonic Dystrophy,disease
+@DISEASE_Metabolic_Diseases,Metabolic Diseases,disease
+@DISEASE_Endometrial_Neoplasms,Endometrial Neoplasms,disease
+@DISEASE_Ovarian_Neoplasms,Ovarian Neoplasms,disease
+@DISEASE_Fatty_Liver,Fatty Liver,disease
+@DISEASE_Kidney_Diseases,Kidney Diseases,disease
+@DISEASE_Hyperinsulinism,Hyperinsulinism,disease
+@DISEASE_Lung_Neoplasms,Lung Neoplasms,disease
+@DISEASE_Atherosclerosis,Atherosclerosis,disease
+@DISEASE_Alzheimer_Disease,Alzheimer Disease,disease
+@DISEASE_Death,Death,disease
+@DISEASE_Hypoglycemia,Hypoglycemia,disease
+@DISEASE_Neoplasm_Metastasis,Neoplasm Metastasis,disease
+@DISEASE_Cognition_Disorders,Cognition Disorders,disease
+@DISEASE_Carcinoma_Non_Small_Cell_Lung,Carcinoma Non Small Cell Lung,disease
+@DISEASE_Infertility,Infertility,disease
+@DISEASE_Myocardial_Infarction,Myocardial Infarction,disease
+@DISEASE_Hirsutism,Hirsutism,disease
+@DISEASE_Diabetic_Nephropathies,Diabetic Nephropathies,disease
+@DISEASE_Hyperandrogenism,Hyperandrogenism,disease
+@DISEASE_Neurodegenerative_Diseases,Neurodegenerative Diseases,disease
+@DISEASE_Mitochondrial_Diseases,Mitochondrial Diseases,disease
+@DISEASE_Renal_Insufficiency_Chronic,Renal Insufficiency Chronic,disease
+@DISEASE_Carcinogenesis,Carcinogenesis,disease
+@DISEASE_Hypoxia,Hypoxia,disease
+@DISEASE_Heart_Diseases,Heart Diseases,disease
+@DISEASE_Drug_Related_Side_Effects_and_Adverse_Reactions,Drug Related Side Effects and Adverse Reactions,disease
+@DISEASE_Stroke,Stroke,disease
+@DISEASE_Reperfusion_Injury,Reperfusion Injury,disease
+@DISEASE_Dyslipidemias,Dyslipidemias,disease
+@DISEASE_Stomach_Neoplasms,Stomach Neoplasms,disease
+@DISEASE_Osteoporosis,Osteoporosis,disease
+@DISEASE_Ischemia,Ischemia,disease
+@DISEASE_Pre_Eclampsia,Pre Eclampsia,disease
+@DISEASE_Liver_Failure,Liver Failure,disease
+@DISEASE_Depressive_Disorder,Depressive Disorder,disease
+@DISEASE_Squamous_Cell_Carcinoma_of_Head_and_Neck,Squamous Cell Carcinoma of Head and Neck,disease
+@DISEASE_Abortion_Spontaneous,Abortion Spontaneous,disease
+@DISEASE_Dementia,Dementia,disease
+@DISEASE_Glioblastoma,Glioblastoma,disease
+@DISEASE_Melanoma,Melanoma,disease
+@DISEASE_Osteoarthritis,Osteoarthritis,disease
+@DISEASE_Vascular_Diseases,Vascular Diseases,disease
+@DISEASE_Chemical_and_Drug_Induced_Liver_Injury,Chemical and Drug Induced Liver Injury,disease
+@DISEASE_Acne_Vulgaris,Acne Vulgaris,disease
+@DISEASE_Liver_Diseases,Liver Diseases,disease
+@DISEASE_Nerve_Degeneration,Nerve Degeneration,disease
+@DISEASE_Neuroinflammatory_Diseases,Neuroinflammatory Diseases,disease
+@DISEASE_Tuberculosis,Tuberculosis,disease
+@DISEASE_Parkinson_Disease,Parkinson Disease,disease
+@DISEASE_Diabetes_Complications,Diabetes Complications,disease
+@DISEASE_Pain,Pain,disease
+@DISEASE_Coronary_Artery_Disease,Coronary Artery Disease,disease
+@DISEASE_Triple_Negative_Breast_Neoplasms,Triple Negative Breast Neoplasms,disease
+@DISEASE_Bone_Diseases,Bone Diseases,disease
+@DISEASE_Endometrial_Hyperplasia,Endometrial Hyperplasia,disease
+@DISEASE_Ovarian_Diseases,Ovarian Diseases,disease
+@DISEASE_Schizophrenia,Schizophrenia,disease
+@DISEASE_Infarction,Infarction,disease
+@DISEASE_Carcinoma_Pancreatic_Ductal,Carcinoma Pancreatic Ductal,disease
+@DISEASE_Urinary_Bladder_Neoplasms,Urinary Bladder Neoplasms,disease
+@DISEASE_Ovarian_Hyperstimulation_Syndrome,Ovarian Hyperstimulation Syndrome,disease
+@DISEASE_Aortic_Aneurysm_Abdominal,Aortic Aneurysm Abdominal,disease
+@DISEASE_Carcinoma_Renal_Cell,Carcinoma Renal Cell,disease
+@DISEASE_Glioma,Glioma,disease
+@DISEASE_Memory_Disorders,Memory Disorders,disease
+@DISEASE_Mental_Disorders,Mental Disorders,disease
+@DISEASE_Neoplasms_Adipose_Tissue,Neoplasms Adipose Tissue,disease
+@DISEASE_Brain_Ischemia,Brain Ischemia,disease
+@DISEASE_Infections,Infections,disease
+@DISEASE_Anovulation,Anovulation,disease
+@DISEASE_Cardiotoxicity,Cardiotoxicity,disease
+@DISEASE_Macular_Degeneration,Macular Degeneration,disease
+@DISEASE_Thyroid_Neoplasms,Thyroid Neoplasms,disease
+@DISEASE_Uterine_Cervical_Neoplasms,Uterine Cervical Neoplasms,disease
+@DISEASE_Sepsis,Sepsis,disease
+@DISEASE_HIV_Infections,HIV Infections,disease
+@DISEASE_Liver_Cirrhosis,Liver Cirrhosis,disease
+@DISEASE_Cardiomyopathies,Cardiomyopathies,disease
+@DISEASE_Hypothyroidism,Hypothyroidism,disease
+@DISEASE_Neurologic_Manifestations,Neurologic Manifestations,disease
+@DISEASE_Fatty_Liver_Alcoholic,Fatty Liver Alcoholic,disease
+@DISEASE_Brain_Injuries,Brain Injuries,disease
+@DISEASE_Coronary_Disease,Coronary Disease,disease
+@DISEASE_Fractures_Bone,Fractures Bone,disease
+@DISEASE_Hyperlipidemias,Hyperlipidemias,disease
+@DISEASE_Multiple_Myeloma,Multiple Myeloma,disease
+@DISEASE_Renal_Insufficiency,Renal Insufficiency,disease
+@DISEASE_Wounds_and_Injuries,Wounds and Injuries,disease
+@DISEASE_Cerebral_Infarction,Cerebral Infarction,disease
+@DISEASE_Hyperalgesia,Hyperalgesia,disease
+@DISEASE_Polycystic_Kidney_Autosomal_Dominant,Polycystic Kidney Autosomal Dominant,disease
+@DISEASE_Acanthosis_Nigricans,Acanthosis Nigricans,disease
+@DISEASE_Embolism_Fat,Embolism Fat,disease
+@DISEASE_Adenocarcinoma,Adenocarcinoma,disease
+@DISEASE_Anxiety,Anxiety,disease
+@DISEASE_Asthma,Asthma,disease
+@DISEASE_Diabetic_Cardiomyopathies,Diabetic Cardiomyopathies,disease
+@DISEASE_Head_and_Neck_Neoplasms,Head and Neck Neoplasms,disease
+@DISEASE_Periodontitis,Periodontitis,disease
+@DISEASE_Adenoma,Adenoma,disease
+@DISEASE_Diabetic_Retinopathy,Diabetic Retinopathy,disease
+@DISEASE_Neuralgia,Neuralgia,disease
+@DISEASE_Pulmonary_Disease_Chronic_Obstructive,Pulmonary Disease Chronic Obstructive,disease
+@DISEASE_Seizures,Seizures,disease
+@DISEASE_Cholangiocarcinoma,Cholangiocarcinoma,disease
+@DISEASE_Disease,Disease,disease
+@DISEASE_Esophageal_Squamous_Cell_Carcinoma,Esophageal Squamous Cell Carcinoma,disease
+@DISEASE_Hyperprolactinemia,Hyperprolactinemia,disease
+@DISEASE_Malformations_of_Cortical_Development_Group_I,Malformations of Cortical Development Group I,disease
+@DISEASE_Paroxysmal_ventricular_fibrillation,Paroxysmal ventricular fibrillation,disease
+@DISEASE_Ventricular_Remodeling,Ventricular Remodeling,disease
+@DISEASE_Epilepsy,Epilepsy,disease
+@DISEASE_Glucose_Metabolism_Disorders,Glucose Metabolism Disorders,disease
+@DISEASE_Leukemia,Leukemia,disease
+@DISEASE_Myocardial_Ischemia,Myocardial Ischemia,disease
+@DISEASE_Psoriasis,Psoriasis,disease
+@DISEASE_Acute_Kidney_Injury,Acute Kidney Injury,disease
+@DISEASE_Arthritis_Rheumatoid,Arthritis Rheumatoid,disease
+@DISEASE_Chronic_Disease,Chronic Disease,disease
+@DISEASE_Lung_Diseases,Lung Diseases,disease
+@DISEASE_Congenital_Hyperinsulinism,Congenital Hyperinsulinism,disease
+@DISEASE_Fetal_Macrosomia,Fetal Macrosomia,disease
+@DISEASE_Lupus_Erythematosus_Systemic,Lupus Erythematosus Systemic,disease
+@DISEASE_Virilism,Virilism,disease
+@DISEASE_Carcinoma_Squamous_Cell,Carcinoma Squamous Cell,disease
+@DISEASE_Hidradenitis_Suppurativa,Hidradenitis Suppurativa,disease
+@DISEASE_Hypertension_Pulmonary,Hypertension Pulmonary,disease
+@DISEASE_Hypertrophy,Hypertrophy,disease
+@DISEASE_Multiple_Sclerosis,Multiple Sclerosis,disease
+@DISEASE_Necrosis,Necrosis,disease
+@DISEASE_Premature_Birth,Premature Birth,disease
+@DISEASE_Prostatic_Neoplasms_Castration_Resistant,Prostatic Neoplasms Castration Resistant,disease
+@DISEASE_Atrial_Fibrillation,Atrial Fibrillation,disease
+@DISEASE_Autoimmune_Diseases,Autoimmune Diseases,disease
+@DISEASE_Neurotoxicity_Syndromes,Neurotoxicity Syndromes,disease
+@DISEASE_Proteinuria,Proteinuria,disease
+@DISEASE_Pulmonary_Fibrosis,Pulmonary Fibrosis,disease
+@DISEASE_Spinal_Cord_Injuries,Spinal Cord Injuries,disease
+@DISEASE_Cysts,Cysts,disease
+@DISEASE_Dysmenorrhea,Dysmenorrhea,disease
+@DISEASE_Esophageal_Neoplasms,Esophageal Neoplasms,disease
+@DISEASE_Frailty,Frailty,disease
+@DISEASE_Hypertriglyceridemia,Hypertriglyceridemia,disease
+@DISEASE_Pneumonia,Pneumonia,disease
+@DISEASE_hypoglycemic_encephalopathy,hypoglycemic encephalopathy,disease
+@DISEASE_Inflammatory_Bowel_Diseases,Inflammatory Bowel Diseases,disease
+@DISEASE_Kidney_Failure_Chronic,Kidney Failure Chronic,disease
+@DISEASE_Kidney_Neoplasms,Kidney Neoplasms,disease
+@DISEASE_Nervous_System_Diseases,Nervous System Diseases,disease
+@DISEASE_Rectal_Neoplasms,Rectal Neoplasms,disease
+@DISEASE_Carcinoma_Ovarian_Epithelial,Carcinoma Ovarian Epithelial,disease
+@DISEASE_Diabetic_Angiopathies,Diabetic Angiopathies,disease
+@DISEASE_Diabetic_Neuropathies,Diabetic Neuropathies,disease
+@DISEASE_HAIR_AN_syndrome,HAIR AN syndrome,disease
+@DISEASE_Huntington_Disease,Huntington Disease,disease
+@DISEASE_Hypertension_Pregnancy_Induced,Hypertension Pregnancy Induced,disease
+@DISEASE_Hypoxia_Brain,Hypoxia Brain,disease
+@DISEASE_Leukemia_Myeloid_Acute,Leukemia Myeloid Acute,disease
+@DISEASE_Lung_Injury,Lung Injury,disease
+@DISEASE_Lymphoma,Lymphoma,disease
+@DISEASE_Osteoarthritis_Knee,Osteoarthritis Knee,disease
+@DISEASE_Reproductive_Tract_Infections,Reproductive Tract Infections,disease
+@DISEASE_Autism_Spectrum_Disorder,Autism Spectrum Disorder,disease
+@DISEASE_Cell_Transformation_Neoplastic,Cell Transformation Neoplastic,disease
+@DISEASE_Colitis,Colitis,disease
+@DISEASE_Diabetic_Ketoacidosis,Diabetic Ketoacidosis,disease
+@DISEASE_Cartilage_Diseases,Cartilage Diseases,disease
+@DISEASE_Cognitive_Dysfunction,Cognitive Dysfunction,disease
+@DISEASE_Endocrine_System_Diseases,Endocrine System Diseases,disease
+@DISEASE_Endometriosis,Endometriosis,disease
+@DISEASE_Fragile_X_Syndrome,Fragile X Syndrome,disease
+@DISEASE_Intracranial_Arteriovenous_Malformations,Intracranial Arteriovenous Malformations,disease
+atenolol,atenolol,drug
+@DISEASE_Essential_Hypertension,Essential Hypertension,disease
+@DISEASE_Hypertrophy_Left_Ventricular,Hypertrophy Left Ventricular,disease
+@DISEASE_Angina_Pectoris,Angina Pectoris,disease
+@DISEASE_Tachycardia,Tachycardia,disease
+@DISEASE_Angina_Stable,Angina Stable,disease
+@DISEASE_Arrhythmias_Cardiac,Arrhythmias Cardiac,disease
+@DISEASE_Hypotension,Hypotension,disease
+@DISEASE_Pulmonary_Arterial_Hypertension,Pulmonary Arterial Hypertension,disease
+@DISEASE_Isolated_Systolic_Hypertension,Isolated Systolic Hypertension,disease
+@DISEASE_Pressure_Ulcer,Pressure Ulcer,disease
+@DISEASE_Ventricular_Dysfunction_Left,Ventricular Dysfunction Left,disease
+@DISEASE_Migraine_Disorders,Migraine Disorders,disease
+@DISEASE_Marfan_Syndrome,Marfan Syndrome,disease
+@DISEASE_Hemangioma_capillary_infantile,Hemangioma capillary infantile,disease
+@DISEASE_Syncope,Syncope,disease
+@DISEASE_Bradycardia,Bradycardia,disease
+@DISEASE_Ventricular_Premature_Complexes,Ventricular Premature Complexes,disease
+@DISEASE_Heart_Murmurs,Heart Murmurs,disease
+@DISEASE_Status_Asthmaticus,Status Asthmaticus,disease
+@DISEASE_Cardiac_Output_Low,Cardiac Output Low,disease
+@DISEASE_Cardiomyopathy_Dilated,Cardiomyopathy Dilated,disease
+@DISEASE_Long_QT_Syndrome,Long QT Syndrome,disease
+@DISEASE_Tachycardia_Supraventricular,Tachycardia Supraventricular,disease
+@DISEASE_Tachycardia_Ventricular,Tachycardia Ventricular,disease
+@DISEASE_Hematologic_Diseases,Hematologic Diseases,disease
+@DISEASE_Hyperthyroidism,Hyperthyroidism,disease
+@DISEASE_Cardiomyopathy_Hypertrophic,Cardiomyopathy Hypertrophic,disease
+@DISEASE_Tremor,Tremor,disease
+@DISEASE_Ventricular_Fibrillation,Ventricular Fibrillation,disease
+@DISEASE_Ventricular_Outflow_Obstruction_Left,Ventricular Outflow Obstruction Left,disease
+@DISEASE_Cardiomegaly,Cardiomegaly,disease
+@DISEASE_Neurocirculatory_Asthenia,Neurocirculatory Asthenia,disease
+@DISEASE_Optic_Neuropathy_Ischemic,Optic Neuropathy Ischemic,disease
+@DISEASE_Chest_Pain,Chest Pain,disease
+@DISEASE_271245,271245,disease
+@DISEASE_Blood_Platelet_Disorders,Blood Platelet Disorders,disease
+@DISEASE_Albuminuria,Albuminuria,disease
+@DISEASE_Essential_Tremor,Essential Tremor,disease
+@DISEASE_Glaucoma,Glaucoma,disease
+@DISEASE_Hemangioma,Hemangioma,disease
+@DISEASE_Syncope_Vasovagal,Syncope Vasovagal,disease
+@DISEASE_Headache,Headache,disease
+@DISEASE_Mitral_Valve_Stenosis,Mitral Valve Stenosis,disease
+@DISEASE_ST_Elevation_Myocardial_Infarction,ST Elevation Myocardial Infarction,disease
+@DISEASE_Coronary_Occlusion,Coronary Occlusion,disease
+@DISEASE_Hyperkinesis,Hyperkinesis,disease
+@DISEASE_Thyroid_Adenoma_Hyperfunctioning,Thyroid Adenoma Hyperfunctioning,disease
+@DISEASE_Dystonia_18,Dystonia 18,disease
+@DISEASE_Intermittent_Claudication,Intermittent Claudication,disease
+@DISEASE_Ocular_Hypertension,Ocular Hypertension,disease
+@DISEASE_Phobia_Social,Phobia Social,disease
+@DISEASE_Aortic_Root_Aneurysm,Aortic Root Aneurysm,disease
+@DISEASE_Bronchial_Spasm,Bronchial Spasm,disease
+@DISEASE_Dyspnea,Dyspnea,disease
+@DISEASE_Hallucinations,Hallucinations,disease
+@DISEASE_Heart_Arrest,Heart Arrest,disease
+@DISEASE_Hemihyperplasia_Isolated,Hemihyperplasia Isolated,disease
+@DISEASE_Ischemic_Attack_Transient,Ischemic Attack Transient,disease
+@DISEASE_Sleep_Wake_Disorders,Sleep Wake Disorders,disease
+@DISEASE_Tachycardia_Atrioventricular_Nodal_Reentry,Tachycardia Atrioventricular Nodal Reentry,disease
+@DISEASE_Tachycardia_Sinus,Tachycardia Sinus,disease
+@DISEASE_212500,212500,disease
+@DISEASE_261515,261515,disease
+@DISEASE_Airway_Obstruction,Airway Obstruction,disease
+@DISEASE_Angina_Unstable,Angina Unstable,disease
+@DISEASE_Carotid_Artery_Diseases,Carotid Artery Diseases,disease
+@DISEASE_Delayed_Emergence_from_Anesthesia,Delayed Emergence from Anesthesia,disease
+@DISEASE_Dizziness,Dizziness,disease
+@DISEASE_Glaucoma_Open_Angle,Glaucoma Open Angle,disease
+@DISEASE_Organizing_Pneumonia,Organizing Pneumonia,disease
+@DISEASE_Pheochromocytoma,Pheochromocytoma,disease
+@DISEASE_Pulmonary_Valve_Stenosis,Pulmonary Valve Stenosis,disease
+@DISEASE_Romano_Ward_Syndrome,Romano Ward Syndrome,disease
+@DISEASE_Tension_Type_Headache,Tension Type Headache,disease
+@DISEASE_Acidosis,Acidosis,disease
+@DISEASE_Autonomic_Nervous_System_Diseases,Autonomic Nervous System Diseases,disease
+@DISEASE_Coronary_Aneurysm,Coronary Aneurysm,disease
+@DISEASE_Death_Sudden_Cardiac,Death Sudden Cardiac,disease
+@DISEASE_Drug_Hypersensitivity,Drug Hypersensitivity,disease
+@DISEASE_Graves_Disease,Graves Disease,disease
+@DISEASE_Horner_Syndrome,Horner Syndrome,disease
+@DISEASE_Hypercholesterolemia,Hypercholesterolemia,disease
+@DISEASE_Hyperlipoproteinemia_Type_II,Hyperlipoproteinemia Type II,disease
+@DISEASE_Hypertension_Portal,Hypertension Portal,disease
+@DISEASE_Intestinal_Diseases,Intestinal Diseases,disease
+@DISEASE_MASS_syndrome,MASS syndrome,disease
+@DISEASE_Mitral_Valve_Insufficiency,Mitral Valve Insufficiency,disease
+@DISEASE_Myocardial_Stunning,Myocardial Stunning,disease
+@DISEASE_Peripheral_Arterial_Disease,Peripheral Arterial Disease,disease
+@DISEASE_Phobic_Disorders,Phobic Disorders,disease
+@DISEASE_Sick_Sinus_Syndrome,Sick Sinus Syndrome,disease
+@DISEASE_Sleep_Initiation_and_Maintenance_Disorders,Sleep Initiation and Maintenance Disorders,disease
+@DISEASE_Stiff_Skin_Syndrome,Stiff Skin Syndrome,disease
+@DISEASE_Alcohol_Withdrawal_Seizures,Alcohol Withdrawal Seizures,disease
+@DISEASE_Andersen_Syndrome,Andersen Syndrome,disease
+@DISEASE_Anterior_Wall_Myocardial_Infarction,Anterior Wall Myocardial Infarction,disease
+@DISEASE_Aortic_Aneurysm_Thoracic,Aortic Aneurysm Thoracic,disease
+@DISEASE_Aortic_Valve_Stenosis,Aortic Valve Stenosis,disease
+@DISEASE_Bronchitis_Chronic,Bronchitis Chronic,disease
+@DISEASE_Cardiac_Output_High,Cardiac Output High,disease
+@DISEASE_Collagen_Diseases,Collagen Diseases,disease
+@DISEASE_Constriction_Pathologic,Constriction Pathologic,disease
+@DISEASE_Coronary_Stenosis,Coronary Stenosis,disease
+@DISEASE_Fatigue,Fatigue,disease
+@DISEASE_Fever,Fever,disease
+@DISEASE_Flushing,Flushing,disease
+@DISEASE_Hypertension_Renovascular,Hypertension Renovascular,disease
+@DISEASE_Hypokalemia,Hypokalemia,disease
+@DISEASE_Hypotension_Orthostatic,Hypotension Orthostatic,disease
+@DISEASE_Muscle_Weakness,Muscle Weakness,disease
+@DISEASE_Nephrosclerosis,Nephrosclerosis,disease
+@DISEASE_Status_Epilepticus,Status Epilepticus,disease
+@DISEASE_Substance_Withdrawal_Syndrome,Substance Withdrawal Syndrome,disease
+@DISEASE_Thrombosis,Thrombosis,disease
+@DISEASE_610141,610141,disease
+@DISEASE_Abnormalities_Drug_Induced,Abnormalities Drug Induced,disease
+@DISEASE_Acute_Coronary_Syndrome,Acute Coronary Syndrome,disease
+@DISEASE_Adrenal_Insufficiency,Adrenal Insufficiency,disease
+@DISEASE_Akathisia_Drug_Induced,Akathisia Drug Induced,disease
+@DISEASE_Anemia,Anemia,disease
+@DISEASE_Aneurysm,Aneurysm,disease
+@DISEASE_Aortic_Coarctation,Aortic Coarctation,disease
+@DISEASE_Aortic_Dissection,Aortic Dissection,disease
+@DISEASE_Apnea,Apnea,disease
+@DISEASE_Arrhythmia_Sinus,Arrhythmia Sinus,disease
+@DISEASE_Arrhythmogenic_Right_Ventricular_Dysplasia,Arrhythmogenic Right Ventricular Dysplasia,disease
+@DISEASE_Ascites,Ascites,disease
+@DISEASE_Ataxia_Telangiectasia,Ataxia Telangiectasia,disease
+@DISEASE_Atrioventricular_Block,Atrioventricular Block,disease
+@DISEASE_Bacterial_Infections,Bacterial Infections,disease
+@DISEASE_Blast_Crisis,Blast Crisis,disease
+@DISEASE_Brugada_Syndrome,Brugada Syndrome,disease
+@DISEASE_Cap_Myopathy,Cap Myopathy,disease
+@DISEASE_Cardiomyopathy_Dilated_with_Left_Ventricular_Noncompaction,Cardiomyopathy Dilated with Left Ventricular Noncompaction,disease
+@DISEASE_Cardiomyopathy_Hypertrophic_Familial,Cardiomyopathy Hypertrophic Familial,disease
+@DISEASE_Chronobiology_Disorders,Chronobiology Disorders,disease
+@DISEASE_Ciuffo_Syndrome,Ciuffo Syndrome,disease
+@DISEASE_Conversion_Disorder,Conversion Disorder,disease
+@DISEASE_Craniocerebral_Trauma,Craniocerebral Trauma,disease
+@DISEASE_Discrete_Subaortic_Stenosis,Discrete Subaortic Stenosis,disease
+simvastatin,simvastatin,drug
+@DISEASE_Epileptic_Syndromes,Epileptic Syndromes,disease
+@DISEASE_Subarachnoid_Hemorrhage,Subarachnoid Hemorrhage,disease
+@DISEASE_Brain_Injuries_Traumatic,Brain Injuries Traumatic,disease
+@DISEASE_Plaque_Atherosclerotic,Plaque Atherosclerotic,disease
+@DISEASE_Acute_Lung_Injury,Acute Lung Injury,disease
+@DISEASE_Edema,Edema,disease
+@DISEASE_Osteoporotic_Fractures,Osteoporotic Fractures,disease
+@DISEASE_Vascular_System_Injuries,Vascular System Injuries,disease
+@DISEASE_Vasospasm_Intracranial,Vasospasm Intracranial,disease
+@DISEASE_Cerebral_Hemorrhage,Cerebral Hemorrhage,disease
+@DISEASE_Infarction_Middle_Cerebral_Artery,Infarction Middle Cerebral Artery,disease
+@DISEASE_Soft_Tissue_Injuries,Soft Tissue Injuries,disease
+@DISEASE_Calvarial_hyperostosis,Calvarial hyperostosis,disease
+@DISEASE_Chronic_Periodontitis,Chronic Periodontitis,disease
+@DISEASE_Congenital_Abnormalities,Congenital Abnormalities,disease
+@DISEASE_Hemorrhage,Hemorrhage,disease
+@DISEASE_Nephrotic_Syndrome,Nephrotic Syndrome,disease
+@DISEASE_Brain_Edema,Brain Edema,disease
+@DISEASE_Cerebrovascular_Disorders,Cerebrovascular Disorders,disease
+@DISEASE_Hypertrophy_Right_Ventricular,Hypertrophy Right Ventricular,disease
+@DISEASE_Respiratory_Distress_Syndrome,Respiratory Distress Syndrome,disease
+@DISEASE_Hyperplasia,Hyperplasia,disease
+@DISEASE_Vitiligo,Vitiligo,disease
+@DISEASE_Arthritis,Arthritis,disease
+@DISEASE_Blood_Coagulation_Disorders,Blood Coagulation Disorders,disease
+@DISEASE_Coronary_Restenosis,Coronary Restenosis,disease
+@DISEASE_Dental_Plaque,Dental Plaque,disease
+@DISEASE_Gallstones,Gallstones,disease
+@DISEASE_Burns,Burns,disease
+@DISEASE_Carotid_Stenosis,Carotid Stenosis,disease
+@DISEASE_Erectile_Dysfunction,Erectile Dysfunction,disease
+@DISEASE_Hyperlipoproteinemias,Hyperlipoproteinemias,disease
+@DISEASE_Multiple_Sclerosis_Chronic_Progressive,Multiple Sclerosis Chronic Progressive,disease
+@DISEASE_Neointima,Neointima,disease
+@DISEASE_No_Reflow_Phenomenon,No Reflow Phenomenon,disease
+@DISEASE_Peritonitis,Peritonitis,disease
+@DISEASE_Smith_Lemli_Opitz_Syndrome,Smith Lemli Opitz Syndrome,disease
+@DISEASE_Xanthomatosis,Xanthomatosis,disease
+@DISEASE_Alveolar_Bone_Loss,Alveolar Bone Loss,disease
+@DISEASE_Arterial_Occlusive_Diseases,Arterial Occlusive Diseases,disease
+@DISEASE_Bone_Resorption,Bone Resorption,disease
+@DISEASE_Leiomyoma,Leiomyoma,disease
+@DISEASE_Liver_Cirrhosis_Biliary,Liver Cirrhosis Biliary,disease
+@DISEASE_Muscular_Diseases,Muscular Diseases,disease
+@DISEASE_Osteosarcoma,Osteosarcoma,disease
+@DISEASE_Pneumonia_Lipid,Pneumonia Lipid,disease
+@DISEASE_Renal_Artery_Obstruction,Renal Artery Obstruction,disease
+@DISEASE_Skin_Diseases,Skin Diseases,disease
+@DISEASE_143890,143890,disease
+@DISEASE_Brain_Damage_Chronic,Brain Damage Chronic,disease
+@DISEASE_Glomerulonephritis,Glomerulonephritis,disease
+@DISEASE_Idiopathic_Noncirrhotic_Portal_Hypertension,Idiopathic Noncirrhotic Portal Hypertension,disease
+@DISEASE_Intervertebral_Disc_Degeneration,Intervertebral Disc Degeneration,disease
+@DISEASE_Leukemia_Lymphocytic_Chronic_B_Cell,Leukemia Lymphocytic Chronic B Cell,disease
+@DISEASE_Mevalonate_Kinase_Deficiency,Mevalonate Kinase Deficiency,disease
+@DISEASE_Microvascular_Angina,Microvascular Angina,disease
+@DISEASE_Neuroblastoma,Neuroblastoma,disease
+@DISEASE_Pancreatitis,Pancreatitis,disease
+@DISEASE_Prostatitis,Prostatitis,disease
+@DISEASE_Rupture,Rupture,disease
+@DISEASE_Scleroderma_Systemic,Scleroderma Systemic,disease
+@DISEASE_Varicose_Veins,Varicose Veins,disease
+@DISEASE_Vascular_Remodeling,Vascular Remodeling,disease
+@DISEASE_150699,150699,disease
+@DISEASE_Alopecia_Areata,Alopecia Areata,disease
+@DISEASE_Alopecia,Alopecia,disease
+@DISEASE_Alopecia_universalis,Alopecia universalis,disease
+@DISEASE_Alopecia_Areata_1,Alopecia Areata 1,disease
+@DISEASE_Ectodermal_Dysplasia,Ectodermal Dysplasia,disease
+@DISEASE_Epilepsy_Tonic_Clonic,Epilepsy Tonic Clonic,disease
+@DISEASE_Hyperlipidemia_Familial_Combined,Hyperlipidemia Familial Combined,disease
+@DISEASE_Hypoalphalipoproteinemias,Hypoalphalipoproteinemias,disease
+@DISEASE_Keratosis_Follicularis_Spinulosa_Decalvans_X_Linked,Keratosis Follicularis Spinulosa Decalvans X Linked,disease
+@DISEASE_Muscular_Atrophy,Muscular Atrophy,disease
+@DISEASE_Obesity_Metabolically_Benign,Obesity Metabolically Benign,disease
+@DISEASE_Bronchiectasis,Bronchiectasis,disease
+lisinopril,lisinopril,drug
+@DISEASE_Glomerulosclerosis_Focal_Segmental,Glomerulosclerosis Focal Segmental,disease
+@DISEASE_Glomerulonephritis_Membranous,Glomerulonephritis Membranous,disease
+@DISEASE_Cough,Cough,disease
+@DISEASE_Hypertensive_Retinopathy,Hypertensive Retinopathy,disease
+@DISEASE_Muscular_Dystrophy_Duchenne,Muscular Dystrophy Duchenne,disease
+@DISEASE_Glomerulonephritis_IGA,Glomerulonephritis IGA,disease
+@DISEASE_Takotsubo_Cardiomyopathy,Takotsubo Cardiomyopathy,disease
+@DISEASE_Hypertension_Diastolic_Resistance_to,Hypertension Diastolic Resistance to,disease
+@DISEASE_Radiation_Injuries,Radiation Injuries,disease
+@DISEASE_Bundle_Branch_Block,Bundle Branch Block,disease
+@DISEASE_Glycosuria_Renal,Glycosuria Renal,disease
+@DISEASE_Polycythemia,Polycythemia,disease
+@DISEASE_603933,603933,disease
+@DISEASE_Acute_Disease,Acute Disease,disease
+@DISEASE_Acute_Radiation_Syndrome,Acute Radiation Syndrome,disease
+@DISEASE_Fistula,Fistula,disease
+@DISEASE_Hemolytic_Uremic_Syndrome,Hemolytic Uremic Syndrome,disease
+@DISEASE_Hypertension_Renal,Hypertension Renal,disease
+@DISEASE_Myocarditis,Myocarditis,disease
+@DISEASE_Oligospermia,Oligospermia,disease
+@DISEASE_Pancreatitis_Chronic,Pancreatitis Chronic,disease
+@DISEASE_Peripheral_Nervous_System_Diseases,Peripheral Nervous System Diseases,disease
+@DISEASE_Tang_Hsi_Ryu_syndrome,Tang Hsi Ryu syndrome,disease
+@DISEASE_Ureteral_Obstruction,Ureteral Obstruction,disease
+@DISEASE_Angioedema,Angioedema,disease
+@DISEASE_Cardiac_Conduction_System_Disease,Cardiac Conduction System Disease,disease
+@DISEASE_Cystic_Fibrosis,Cystic Fibrosis,disease
+@DISEASE_Deglutition_Disorders,Deglutition Disorders,disease
+@DISEASE_Drug_Overdose,Drug Overdose,disease
+@DISEASE_Dysarthria,Dysarthria,disease
+@DISEASE_Exanthema,Exanthema,disease
+@DISEASE_Fetal_akinesia_syndrome_X_linked,Fetal akinesia syndrome X linked,disease
+@DISEASE_Flank_Pain,Flank Pain,disease
+@DISEASE_Glomerulonephritis_Membranoproliferative,Glomerulonephritis Membranoproliferative,disease
+@DISEASE_Hematoma_Subdural_Chronic,Hematoma Subdural Chronic,disease
+@DISEASE_Hemoglobinuria_Paroxysmal,Hemoglobinuria Paroxysmal,disease
+@DISEASE_Hypertension_Malignant,Hypertension Malignant,disease
+@DISEASE_Kidney_Tubular_Necrosis_Acute,Kidney Tubular Necrosis Acute,disease
+@DISEASE_Lead_Poisoning_Nervous_System,Lead Poisoning Nervous System,disease
+@DISEASE_Learning_Disabilities,Learning Disabilities,disease
+@DISEASE_Nausea,Nausea,disease
+@DISEASE_Neoplasms_Radiation_Induced,Neoplasms Radiation Induced,disease
+@DISEASE_Nephritis,Nephritis,disease
+@DISEASE_Nephritis_Interstitial,Nephritis Interstitial,disease
+@DISEASE_Nephrosis,Nephrosis,disease
+@DISEASE_Pemphigoid_Bullous,Pemphigoid Bullous,disease
+@DISEASE_Sialadenitis,Sialadenitis,disease
+@DISEASE_Ventricular_Dysfunction,Ventricular Dysfunction,disease
+@DISEASE_Vomiting,Vomiting,disease
+@DISEASE_614963,614963,disease
+@DISEASE_Abdominal_Pain,Abdominal Pain,disease
+@DISEASE_Acidosis_Lactic,Acidosis Lactic,disease
+@DISEASE_Adenomatous_Polyps,Adenomatous Polyps,disease
+@DISEASE_Adnexal_Diseases,Adnexal Diseases,disease
+@DISEASE_Agnosia,Agnosia,disease
+@DISEASE_Amyotrophic_Lateral_Sclerosis,Amyotrophic Lateral Sclerosis,disease
+@DISEASE_Anemia_Hemolytic,Anemia Hemolytic,disease
+@DISEASE_Anemia_Sickle_Cell,Anemia Sickle Cell,disease
+@DISEASE_Anorexia,Anorexia,disease
+@DISEASE_Anti_Glomerular_Basement_Membrane_Disease,Anti Glomerular Basement Membrane Disease,disease
+@DISEASE_Aortic_Diseases,Aortic Diseases,disease
+@DISEASE_Aortic_Stenosis_Supravalvular,Aortic Stenosis Supravalvular,disease
+@DISEASE_Arthritis_Juvenile,Arthritis Juvenile,disease
+@DISEASE_Arthritis_Psoriatic,Arthritis Psoriatic,disease
+@DISEASE_Ataxia,Ataxia,disease
+@DISEASE_Atelosteogenesis_type_1,Atelosteogenesis type 1,disease
+@DISEASE_Behcet_Syndrome,Behcet Syndrome,disease
+@DISEASE_Bipolar_Disorder,Bipolar Disorder,disease
+@DISEASE_Body_Dysmorphic_Disorders,Body Dysmorphic Disorders,disease
+@DISEASE_Body_Weight,Body Weight,disease
+@DISEASE_Extranodal_Extension,Extranodal Extension,disease
+@DISEASE_Prader_Willi_Syndrome,Prader Willi Syndrome,disease
+@DISEASE_Strabismus,Strabismus,disease
+amlodipine,amlodipine,drug
+@DISEASE_Coronary_Vasospasm,Coronary Vasospasm,disease
+@DISEASE_Iron_Overload,Iron Overload,disease
+@DISEASE_Raynaud_Disease,Raynaud Disease,disease
+@DISEASE_beta_Thalassemia,beta Thalassemia,disease
+@DISEASE_Dementia_Vascular,Dementia Vascular,disease
+@DISEASE_Insulin_Like_Growth_Factor_I_Resistance_To,Insulin Like Growth Factor I Resistance To,disease
+@DISEASE_Myocardial_Reperfusion_Injury,Myocardial Reperfusion Injury,disease
+@DISEASE_Sleep_Apnea_Obstructive,Sleep Apnea Obstructive,disease
+@DISEASE_Ankle_Injuries,Ankle Injuries,disease
+@DISEASE_Death_Sudden,Death Sudden,disease
+@DISEASE_Episodic_Ataxia,Episodic Ataxia,disease
+@DISEASE_Hyperaldosteronism,Hyperaldosteronism,disease
+@DISEASE_Hypotrichosis,Hypotrichosis,disease
+@DISEASE_Mouth_Diseases,Mouth Diseases,disease
+@DISEASE_Posterior_Leukoencephalopathy_Syndrome,Posterior Leukoencephalopathy Syndrome,disease
+@DISEASE_Prehypertension,Prehypertension,disease
+@DISEASE_Aortic_Aneurysm,Aortic Aneurysm,disease
+@DISEASE_Aortic_Valve_Insufficiency,Aortic Valve Insufficiency,disease
+@DISEASE_Arteriosclerosis,Arteriosclerosis,disease
+@DISEASE_Atrial_Remodeling,Atrial Remodeling,disease
+@DISEASE_Cocaine_Related_Disorders,Cocaine Related Disorders,disease
+@DISEASE_Hyperuricemia,Hyperuricemia,disease
+@DISEASE_Hyponatremia,Hyponatremia,disease
+@DISEASE_Ischemic_Contracture,Ischemic Contracture,disease
+@DISEASE_Obesity_Abdominal,Obesity Abdominal,disease
+@DISEASE_Ototoxicity,Ototoxicity,disease
+@DISEASE_Pulmonary_Embolism,Pulmonary Embolism,disease
+@DISEASE_Spasm,Spasm,disease
+@DISEASE_Vision_Disorders,Vision Disorders,disease
+@DISEASE_617027,617027,disease
+@DISEASE_Anodontia,Anodontia,disease
+@DISEASE_Aortic_Aneurysm_Familial_Abdominal_1,Aortic Aneurysm Familial Abdominal 1,disease
+@DISEASE_Bone_Diseases_Metabolic,Bone Diseases Metabolic,disease
+@DISEASE_Extravasation_of_Diagnostic_and_Therapeutic_Materials,Extravasation of Diagnostic and Therapeutic Materials,disease
+omeprazole,omeprazole,drug
+@DISEASE_Gastroesophageal_Reflux,Gastroesophageal Reflux,disease
+@DISEASE_Ulcer,Ulcer,disease
+@DISEASE_Duodenal_Ulcer,Duodenal Ulcer,disease
+@DISEASE_Peptic_Ulcer,Peptic Ulcer,disease
+@DISEASE_Helicobacter_Infections,Helicobacter Infections,disease
+@DISEASE_Stomach_Ulcer,Stomach Ulcer,disease
+@DISEASE_Dyspepsia,Dyspepsia,disease
+@DISEASE_Stomach_Diseases,Stomach Diseases,disease
+@DISEASE_Esophagitis,Esophagitis,disease
+@DISEASE_Heartburn,Heartburn,disease
+@DISEASE_Gastritis,Gastritis,disease
+@DISEASE_Zollinger_Ellison_Syndrome,Zollinger Ellison Syndrome,disease
+@DISEASE_Barrett_Esophagus,Barrett Esophagus,disease
+@DISEASE_Gastrointestinal_Hemorrhage,Gastrointestinal Hemorrhage,disease
+@DISEASE_Gastrointestinal_Diseases,Gastrointestinal Diseases,disease
+@DISEASE_Tooth_Erosion,Tooth Erosion,disease
+@DISEASE_Signs_and_Symptoms,Signs and Symptoms,disease
+@DISEASE_Laryngopharyngeal_Reflux,Laryngopharyngeal Reflux,disease
+@DISEASE_Immunoglobulin_G4_Related_Disease,Immunoglobulin G4 Related Disease,disease
+@DISEASE_Alcohol_Related_Disorders,Alcohol Related Disorders,disease
+@DISEASE_Critical_Illness,Critical Illness,disease
+@DISEASE_Psychological_Distress,Psychological Distress,disease
+@DISEASE_Signs_and_Symptoms_Digestive,Signs and Symptoms Digestive,disease
+@DISEASE_Laryngitis,Laryngitis,disease
+@DISEASE_Duodenitis,Duodenitis,disease
+@DISEASE_Gastrinoma,Gastrinoma,disease
+@DISEASE_Pneumonia_Aspiration,Pneumonia Aspiration,disease
+@DISEASE_Mucositis,Mucositis,disease
+@DISEASE_Hereditary_pancreatitis,Hereditary pancreatitis,disease
+@DISEASE_Abdominal_Injuries,Abdominal Injuries,disease
+@DISEASE_Diarrhea,Diarrhea,disease
+@DISEASE_Lymphoma_B_Cell_Marginal_Zone,Lymphoma B Cell Marginal Zone,disease
+@DISEASE_Gastritis_Atrophic,Gastritis Atrophic,disease
+@DISEASE_Melena,Melena,disease
+@DISEASE_Chronic_Urticaria,Chronic Urticaria,disease
+@DISEASE_Esophageal_Stenosis,Esophageal Stenosis,disease
+@DISEASE_Esophagitis_Peptic,Esophagitis Peptic,disease
+@DISEASE_Fractures_Spontaneous,Fractures Spontaneous,disease
+@DISEASE_Hoarseness,Hoarseness,disease
+@DISEASE_Duodenal_Diseases,Duodenal Diseases,disease
+@DISEASE_Gastric_Fistula,Gastric Fistula,disease
+@DISEASE_Shock_Hemorrhagic,Shock Hemorrhagic,disease
+@DISEASE_Esophageal_Diseases,Esophageal Diseases,disease
+@DISEASE_Hiccup,Hiccup,disease
+@DISEASE_Polyps,Polyps,disease
+@DISEASE_Protein_Losing_Enteropathies,Protein Losing Enteropathies,disease
+@DISEASE_Signs_and_Symptoms_Respiratory,Signs and Symptoms Respiratory,disease
+@DISEASE_Anemia_Iron_Deficiency,Anemia Iron Deficiency,disease
+@DISEASE_Atrophy,Atrophy,disease
+@DISEASE_Duodenogastric_Reflux,Duodenogastric Reflux,disease
+@DISEASE_Eosinophilic_Esophagitis,Eosinophilic Esophagitis,disease
+@DISEASE_Hematemesis,Hematemesis,disease
+@DISEASE_Purpura_Thrombocytopenic_Idiopathic,Purpura Thrombocytopenic Idiopathic,disease
+@DISEASE_Retinal_Dysplasia,Retinal Dysplasia,disease
+@DISEASE_Achlorhydria,Achlorhydria,disease
+@DISEASE_Bile_Reflux,Bile Reflux,disease
+@DISEASE_Duodenal_Neoplasms,Duodenal Neoplasms,disease
+@DISEASE_Ear_Diseases,Ear Diseases,disease
+@DISEASE_Eosinophilia,Eosinophilia,disease
+@DISEASE_Gastritis_Hypertrophic,Gastritis Hypertrophic,disease
+@DISEASE_Gastrointestinal_Neoplasms,Gastrointestinal Neoplasms,disease
+@DISEASE_Hydrocephalus,Hydrocephalus,disease
+@DISEASE_Hypercalcemia,Hypercalcemia,disease
+@DISEASE_Intellectual_Disability,Intellectual Disability,disease
+@DISEASE_Multiple_Endocrine_Neoplasia_Type_1,Multiple Endocrine Neoplasia Type 1,disease
+@DISEASE_Myoclonus,Myoclonus,disease
+@DISEASE_Paine_syndrome,Paine syndrome,disease
+@DISEASE_Peptic_Ulcer_Hemorrhage,Peptic Ulcer Hemorrhage,disease
+@DISEASE_Precancerous_Conditions,Precancerous Conditions,disease
+@DISEASE_Respiratory_Sounds,Respiratory Sounds,disease
+@DISEASE_ACTH_Secreting_Pituitary_Adenoma,ACTH Secreting Pituitary Adenoma,disease
+@DISEASE_Alkalosis,Alkalosis,disease
+@DISEASE_Choristoma,Choristoma,disease
+@DISEASE_Colonic_Neoplasms,Colonic Neoplasms,disease
+@DISEASE_Constipation,Constipation,disease
+@DISEASE_Digestive_System_Diseases,Digestive System Diseases,disease
+@DISEASE_Dysphonia,Dysphonia,disease
+@DISEASE_Esophageal_and_Gastric_Varices,Esophageal and Gastric Varices,disease
+@DISEASE_Giardiasis,Giardiasis,disease
+@DISEASE_Hyperoxia,Hyperoxia,disease
+@DISEASE_Hypertrichosis_anterior_cervical,Hypertrichosis anterior cervical,disease
+@DISEASE_Hypoalbuminemia,Hypoalbuminemia,disease
+@DISEASE_IgA_Vasculitis,IgA Vasculitis,disease
+@DISEASE_Lymphoma_Non_Hodgkin,Lymphoma Non Hodgkin,disease
+@DISEASE_Massive_Hepatic_Necrosis,Massive Hepatic Necrosis,disease
+@DISEASE_Oculocutaneous_albinism_type_2,Oculocutaneous albinism type 2,disease
+@DISEASE_Paraomphalocele,Paraomphalocele,disease
+@DISEASE_Pyloric_Stenosis,Pyloric Stenosis,disease
+@DISEASE_Scleroderma_Diffuse,Scleroderma Diffuse,disease
+@DISEASE_Steatorrhea,Steatorrhea,disease
+@DISEASE_Acute_Pain,Acute Pain,disease
+@DISEASE_Allergic_Fungal_Sinusitis,Allergic Fungal Sinusitis,disease
+@DISEASE_Amblyopia,Amblyopia,disease
+@DISEASE_Aphasia_Wernicke,Aphasia Wernicke,disease
+@DISEASE_Blindness,Blindness,disease
+@DISEASE_Bronchopulmonary_Dysplasia,Bronchopulmonary Dysplasia,disease
+@DISEASE_Carcinoid_Tumor,Carcinoid Tumor,disease
+@DISEASE_Colitis_Collagenous,Colitis Collagenous,disease
+@DISEASE_Colonic_Diseases,Colonic Diseases,disease
+@DISEASE_Congenital_chloride_diarrhea,Congenital chloride diarrhea,disease
+@DISEASE_Corneal_Perforation,Corneal Perforation,disease
+furosemide,furosemide,drug
+@DISEASE_Pulmonary_Edema,Pulmonary Edema,disease
+@DISEASE_Oliguria,Oliguria,disease
+@DISEASE_Inappropriate_ADH_Syndrome,Inappropriate ADH Syndrome,disease
+@DISEASE_Intracranial_Hypertension,Intracranial Hypertension,disease
+@DISEASE_Respiratory_Insufficiency,Respiratory Insufficiency,disease
+@DISEASE_Dehydration,Dehydration,disease
+@DISEASE_Urinary_Retention,Urinary Retention,disease
+@DISEASE_Hyperkalemia,Hyperkalemia,disease
+@DISEASE_Pleural_Effusion,Pleural Effusion,disease
+@DISEASE_Shock,Shock,disease
+@DISEASE_Acidosis_Renal_Tubular,Acidosis Renal Tubular,disease
+@DISEASE_Ductus_Arteriosus_Patent,Ductus Arteriosus Patent,disease
+@DISEASE_Endolymphatic_Hydrops,Endolymphatic Hydrops,disease
+@DISEASE_Hydronephrosis,Hydronephrosis,disease
+@DISEASE_Pediatric_Obesity,Pediatric Obesity,disease
+@DISEASE_Pulmonary_Atelectasis,Pulmonary Atelectasis,disease
+@DISEASE_Exercise_Induced_Allergies,Exercise Induced Allergies,disease
+@DISEASE_Hypoaldosteronism,Hypoaldosteronism,disease
+@DISEASE_Respiration_Disorders,Respiration Disorders,disease
+@DISEASE_Azotemia,Azotemia,disease
+@DISEASE_Hemorrhagic_Disorders,Hemorrhagic Disorders,disease
+@DISEASE_Hepatorenal_Syndrome,Hepatorenal Syndrome,disease
+@DISEASE_Mitral_Valve_Prolapse_Myxomatous_2,Mitral Valve Prolapse Myxomatous 2,disease
+@DISEASE_Pseudotumor_Cerebri,Pseudotumor Cerebri,disease
+@DISEASE_Anuria,Anuria,disease
+@DISEASE_Disease_Resistance,Disease Resistance,disease
+@DISEASE_Lethargy,Lethargy,disease
+@DISEASE_Polyuria,Polyuria,disease
+@DISEASE_Coma,Coma,disease
+@DISEASE_Heart_Defects_Congenital,Heart Defects Congenital,disease
+@DISEASE_Heart_Failure_Diastolic,Heart Failure Diastolic,disease
+@DISEASE_Meniere_Disease,Meniere Disease,disease
+@DISEASE_Trigeminal_Neuralgia,Trigeminal Neuralgia,disease
+@DISEASE_Warts,Warts,disease
+@DISEASE_Cardiomyopathy_Right_Ventricular_Dilated,Cardiomyopathy Right Ventricular Dilated,disease
+@DISEASE_Choroidal_Effusions,Choroidal Effusions,disease
+@DISEASE_Cochlear_Diseases,Cochlear Diseases,disease
+@DISEASE_Heart_Failure_Systolic,Heart Failure Systolic,disease
+@DISEASE_Hyperventilation,Hyperventilation,disease
+@DISEASE_Kidney_Calculi,Kidney Calculi,disease
+@DISEASE_Nephrocalcinosis,Nephrocalcinosis,disease
+@DISEASE_Nocturia,Nocturia,disease
+@DISEASE_Nose_Diseases,Nose Diseases,disease
+@DISEASE_Papilledema,Papilledema,disease
+@DISEASE_Carcinoma_Bronchogenic,Carcinoma Bronchogenic,disease
+@DISEASE_Hypernatremia,Hypernatremia,disease
+@DISEASE_Hypovolemia,Hypovolemia,disease
+@DISEASE_Multicystic_renal_dysplasia_bilateral,Multicystic renal dysplasia bilateral,disease
+@DISEASE_Tachypnea,Tachypnea,disease
+@DISEASE_Tinnitus,Tinnitus,disease
+@DISEASE_Transfusion_Reaction,Transfusion Reaction,disease
+@DISEASE_Visceral_myopathy_familial_external_ophthalmoplegia,Visceral myopathy familial external ophthalmoplegia,disease
+@DISEASE_Bartter_Syndrome,Bartter Syndrome,disease
+@DISEASE_Bronchiolitis,Bronchiolitis,disease
+@DISEASE_Cerebrospinal_Fluid_Rhinorrhea,Cerebrospinal Fluid Rhinorrhea,disease
+@DISEASE_Cyanosis,Cyanosis,disease
+@DISEASE_Edema_Cardiac,Edema Cardiac,disease
+@DISEASE_Gout,Gout,disease
+@DISEASE_Heart_Septal_Defects_Ventricular,Heart Septal Defects Ventricular,disease
+@DISEASE_Hypercapnia,Hypercapnia,disease
+@DISEASE_Muscle_Hypotonia,Muscle Hypotonia,disease
+@DISEASE_Shock_Cardiogenic,Shock Cardiogenic,disease
+@DISEASE_Tricuspid_Valve_Insufficiency,Tricuspid Valve Insufficiency,disease
+@DISEASE_Urinary_Tract_Infections,Urinary Tract Infections,disease
+@DISEASE_Urologic_Diseases,Urologic Diseases,disease
+@DISEASE_Water_Electrolyte_Imbalance,Water Electrolyte Imbalance,disease
+@DISEASE_Anaphylaxis,Anaphylaxis,disease
+@DISEASE_Atrial_Standstill,Atrial Standstill,disease
+@DISEASE_Brain_Diseases,Brain Diseases,disease
+@DISEASE_Carcinoma_Ehrlich_Tumor,Carcinoma Ehrlich Tumor,disease
+@DISEASE_Cardio_Renal_Syndrome,Cardio Renal Syndrome,disease
+@DISEASE_Cerebral_Intraventricular_Hemorrhage,Cerebral Intraventricular Hemorrhage,disease
+@DISEASE_Eclampsia,Eclampsia,disease
+warfarin,warfarin,drug
+@DISEASE_Venous_Thromboembolism,Venous Thromboembolism,disease
+@DISEASE_Thromboembolism,Thromboembolism,disease
+@DISEASE_Venous_Thrombosis,Venous Thrombosis,disease
+@DISEASE_Embolism,Embolism,disease
+@DISEASE_Antiphospholipid_Syndrome,Antiphospholipid Syndrome,disease
+@DISEASE_Heart_Valve_Diseases,Heart Valve Diseases,disease
+@DISEASE_Retinal_Vein_Occlusion,Retinal Vein Occlusion,disease
+@DISEASE_Embolic_Stroke,Embolic Stroke,disease
+@DISEASE_Intracranial_Embolism,Intracranial Embolism,disease
+@DISEASE_Hip_Injuries,Hip Injuries,disease
+@DISEASE_Intracranial_Hemorrhages,Intracranial Hemorrhages,disease
+@DISEASE_Thrombophilia,Thrombophilia,disease
+@DISEASE_Intracranial_Thrombosis,Intracranial Thrombosis,disease
+@DISEASE_Sinus_Thrombosis_Intracranial,Sinus Thrombosis Intracranial,disease
+@DISEASE_Atrial_Flutter,Atrial Flutter,disease
+@DISEASE_Heterotaxy_Syndrome,Heterotaxy Syndrome,disease
+@DISEASE_Hip_Fractures,Hip Fractures,disease
+@DISEASE_Thrombocytopenia,Thrombocytopenia,disease
+@DISEASE_612862,612862,disease
+@DISEASE_Budd_Chiari_Syndrome,Budd Chiari Syndrome,disease
+@DISEASE_Heparin_Cofactor_II_Deficiency,Heparin Cofactor II Deficiency,disease
+@DISEASE_Rheumatic_Heart_Disease,Rheumatic Heart Disease,disease
+@DISEASE_Mucocutaneous_Lymph_Node_Syndrome,Mucocutaneous Lymph Node Syndrome,disease
+@DISEASE_Protein_S_Deficiency,Protein S Deficiency,disease
+@DISEASE_Familial_antiphospholipid_syndrome,Familial antiphospholipid syndrome,disease
+@DISEASE_Intracranial_Arterial_Diseases,Intracranial Arterial Diseases,disease
+@DISEASE_Thrombophlebitis,Thrombophlebitis,disease
+@DISEASE_Foramen_Ovale_Patent,Foramen Ovale Patent,disease
+@DISEASE_Upper_Extremity_Deep_Vein_Thrombosis,Upper Extremity Deep Vein Thrombosis,disease
+@DISEASE_Protein_C_Deficiency,Protein C Deficiency,disease
+@DISEASE_Paresis,Paresis,disease
+@DISEASE_Warfarin_syndrome,Warfarin syndrome,disease
+@DISEASE_Calcinosis,Calcinosis,disease
+@DISEASE_Carotid_Artery_Thrombosis,Carotid Artery Thrombosis,disease
+@DISEASE_Knee_Injuries,Knee Injuries,disease
+@DISEASE_Membranous_Obstruction_of_Inferior_Vena_Cava,Membranous Obstruction of Inferior Vena Cava,disease
+@DISEASE_Antithrombin_III_Deficiency,Antithrombin III Deficiency,disease
+@DISEASE_Cerebral_Palsy,Cerebral Palsy,disease
+@DISEASE_Disseminated_Intravascular_Coagulation,Disseminated Intravascular Coagulation,disease
+@DISEASE_Superior_Vena_Cava_Syndrome,Superior Vena Cava Syndrome,disease
+@DISEASE_Ischemic_Stroke,Ischemic Stroke,disease
+@DISEASE_Mesenteric_Ischemia,Mesenteric Ischemia,disease
+@DISEASE_Varicose_Ulcer,Varicose Ulcer,disease
+@DISEASE_Epistaxis,Epistaxis,disease
+@DISEASE_Carcinoma_Skin_Appendage,Carcinoma Skin Appendage,disease
+@DISEASE_Endocarditis,Endocarditis,disease
+@DISEASE_Hemorrhagic_Stroke,Hemorrhagic Stroke,disease
+@DISEASE_May_Thurner_Syndrome,May Thurner Syndrome,disease
+@DISEASE_Small_Cell_Lung_Carcinoma,Small Cell Lung Carcinoma,disease
+@DISEASE_Brain_Infarction,Brain Infarction,disease
+@DISEASE_Calciphylaxis,Calciphylaxis,disease
+@DISEASE_Dissection_Blood_Vessel,Dissection Blood Vessel,disease
+@DISEASE_Heart_Septal_Defects_Atrial,Heart Septal Defects Atrial,disease
+@DISEASE_Intracranial_Hemorrhage_Traumatic,Intracranial Hemorrhage Traumatic,disease
+@DISEASE_Ocular_Albinism_type_1,Ocular Albinism type 1,disease
+@DISEASE_Vertebral_Artery_Dissection,Vertebral Artery Dissection,disease
+@DISEASE_Cataract,Cataract,disease
+@DISEASE_Hemoptysis,Hemoptysis,disease
+@DISEASE_Intracranial_Aneurysm,Intracranial Aneurysm,disease
+@DISEASE_Livedoid_Vasculopathy,Livedoid Vasculopathy,disease
+@DISEASE_Tooth_Diseases,Tooth Diseases,disease
+@DISEASE_Embolism_Paradoxical,Embolism Paradoxical,disease
+@DISEASE_Idiopathic_Pulmonary_Fibrosis,Idiopathic Pulmonary Fibrosis,disease
+@DISEASE_Splenic_Infarction,Splenic Infarction,disease
+@DISEASE_Hematoma_Subdural,Hematoma Subdural,disease
+@DISEASE_Inferior_Wall_Myocardial_Infarction,Inferior Wall Myocardial Infarction,disease
+@DISEASE_Postoperative_Hemorrhage,Postoperative Hemorrhage,disease
+@DISEASE_Aneurysm_False,Aneurysm False,disease
+@DISEASE_Cerebral_Arterial_Diseases,Cerebral Arterial Diseases,disease
+@DISEASE_Gangrene,Gangrene,disease
+@DISEASE_Lateral_Sinus_Thrombosis,Lateral Sinus Thrombosis,disease
+@DISEASE_Nonsyndromic_Holoprosencephaly,Nonsyndromic Holoprosencephaly,disease
+@DISEASE_Ossification_Heterotopic,Ossification Heterotopic,disease
+@DISEASE_Polyendocrinopathies_Autoimmune,Polyendocrinopathies Autoimmune,disease
+@DISEASE_Post_Infectious_Disorders,Post Infectious Disorders,disease
+@DISEASE_Sagittal_Sinus_Thrombosis,Sagittal Sinus Thrombosis,disease
+@DISEASE_Atrial_myxoma_familial,Atrial myxoma familial,disease
+@DISEASE_Coronary_Thrombosis,Coronary Thrombosis,disease
+@DISEASE_Hemophilia_A,Hemophilia A,disease
+levofloxacin,levofloxacin,drug
+@DISEASE_Communication_Disorders,Communication Disorders,disease
+@DISEASE_Respiratory_Tract_Infections,Respiratory Tract Infections,disease
+@DISEASE_Tuberculosis_Multidrug_Resistant,Tuberculosis Multidrug Resistant,disease
+@DISEASE_Tuberculosis_Meningeal,Tuberculosis Meningeal,disease
+@DISEASE_Bacteremia,Bacteremia,disease
+@DISEASE_Keratitis,Keratitis,disease
+@DISEASE_Staphylococcal_Infections,Staphylococcal Infections,disease
+@DISEASE_Pyelonephritis,Pyelonephritis,disease
+@DISEASE_Abscess,Abscess,disease
+@DISEASE_Endophthalmitis,Endophthalmitis,disease
+@DISEASE_Tuberculosis_Pulmonary,Tuberculosis Pulmonary,disease
+@DISEASE_Communicable_Diseases,Communicable Diseases,disease
+@DISEASE_Sinusitis,Sinusitis,disease
+@DISEASE_Legionnaires'_Disease,Legionnaires' Disease,disease
+@DISEASE_Osteomyelitis,Osteomyelitis,disease
+@DISEASE_Neutropenia,Neutropenia,disease
+@DISEASE_Pneumococcal_Infections,Pneumococcal Infections,disease
+@DISEASE_Stenotrophomonas_maltophilia_bacteremia,Stenotrophomonas maltophilia bacteremia,disease
+@DISEASE_Enterocolitis_Neutropenic,Enterocolitis Neutropenic,disease
+@DISEASE_Healthcare_Associated_Pneumonia,Healthcare Associated Pneumonia,disease
+@DISEASE_Eye_Infections,Eye Infections,disease
+@DISEASE_Febrile_Neutropenia,Febrile Neutropenia,disease
+@DISEASE_Pneumonia_Staphylococcal,Pneumonia Staphylococcal,disease
+@DISEASE_Pseudomonas_Infections,Pseudomonas Infections,disease
+@DISEASE_Clostridium_Infections,Clostridium Infections,disease
+@DISEASE_Mycobacterium_Infections_Nontuberculous,Mycobacterium Infections Nontuberculous,disease
+@DISEASE_Meningism,Meningism,disease
+@DISEASE_Otitis_Media,Otitis Media,disease
+@DISEASE_Pneumonia_Ventilator_Associated,Pneumonia Ventilator Associated,disease
+@DISEASE_Conjunctivitis_Bacterial,Conjunctivitis Bacterial,disease
+@DISEASE_Pneumonia_Pneumococcal,Pneumonia Pneumococcal,disease
+@DISEASE_Cystitis,Cystitis,disease
+@DISEASE_Klebsiella_Infections,Klebsiella Infections,disease
+@DISEASE_Soft_Tissue_Infections,Soft Tissue Infections,disease
+@DISEASE_Urethritis,Urethritis,disease
+@DISEASE_Arthritis_Infectious,Arthritis Infectious,disease
+@DISEASE_Corneal_Ulcer,Corneal Ulcer,disease
+@DISEASE_Mysophobia,Mysophobia,disease
+@DISEASE_Shock_Septic,Shock Septic,disease
+@DISEASE_Wound_Infection,Wound Infection,disease
+@DISEASE_Empyema,Empyema,disease
+@DISEASE_Cellulitis,Cellulitis,disease
+@DISEASE_Cross_Infection,Cross Infection,disease
+@DISEASE_Epididymitis,Epididymitis,disease
+@DISEASE_Gram_Positive_Bacterial_Infections,Gram Positive Bacterial Infections,disease
+@DISEASE_Light_Fixation_Seizure_Syndrome,Light Fixation Seizure Syndrome,disease
+@DISEASE_Brucellosis,Brucellosis,disease
+@DISEASE_Hematologic_Neoplasms,Hematologic Neoplasms,disease
+@DISEASE_Leukemic_Infiltration,Leukemic Infiltration,disease
+@DISEASE_Meningitis_Pneumococcal,Meningitis Pneumococcal,disease
+@DISEASE_Pelvic_Inflammatory_Disease,Pelvic Inflammatory Disease,disease
+@DISEASE_Surgical_Wound_Infection,Surgical Wound Infection,disease
+@DISEASE_Bronchitis,Bronchitis,disease
+@DISEASE_Conjunctivitis,Conjunctivitis,disease
+@DISEASE_Enterobacteriaceae_Infections,Enterobacteriaceae Infections,disease
+@DISEASE_Escherichia_coli_Infections,Escherichia coli Infections,disease
+@DISEASE_Gram_Negative_Bacterial_Infections,Gram Negative Bacterial Infections,disease
+@DISEASE_Maxillary_Sinusitis,Maxillary Sinusitis,disease
+@DISEASE_Plague,Plague,disease
+@DISEASE_Typhoid_Fever,Typhoid Fever,disease
+@DISEASE_Uterine_Cervicitis,Uterine Cervicitis,disease
+@DISEASE_Acute_Febrile_Encephalopathy,Acute Febrile Encephalopathy,disease
+@DISEASE_Appendicitis,Appendicitis,disease
+@DISEASE_Cleft_Palate,Cleft Palate,disease
+@DISEASE_Discitis,Discitis,disease
+@DISEASE_Extensively_Drug_Resistant_Tuberculosis,Extensively Drug Resistant Tuberculosis,disease
+@DISEASE_Guillain_Barre_Syndrome,Guillain Barre Syndrome,disease
+@DISEASE_Mycobacterium_Infections,Mycobacterium Infections,disease
+@DISEASE_Pharyngitis,Pharyngitis,disease
+@DISEASE_115650,115650,disease
+@DISEASE_Ataxia_Neuropathy_Spectrum,Ataxia Neuropathy Spectrum,disease
+@DISEASE_Bacteriuria,Bacteriuria,disease
+@DISEASE_Dysuria,Dysuria,disease
+@DISEASE_Enterocolitis_Pseudomembranous,Enterocolitis Pseudomembranous,disease
+@DISEASE_Intraabdominal_Infections,Intraabdominal Infections,disease
+@DISEASE_Low_Back_Pain,Low Back Pain,disease
+@DISEASE_Orchitis,Orchitis,disease
+@DISEASE_Pneumonia_Mycoplasma,Pneumonia Mycoplasma,disease
+@DISEASE_Cavitary_Optic_Disc_Anomalies,Cavitary Optic Disc Anomalies,disease
+@DISEASE_Chlamydia_Infections,Chlamydia Infections,disease
+@DISEASE_Gonorrhea,Gonorrhea,disease
+@DISEASE_Liver_Abscess,Liver Abscess,disease
+@DISEASE_Meningitis_Bacterial,Meningitis Bacterial,disease
+@DISEASE_Myalgia,Myalgia,disease
+@DISEASE_Mycobacterium_avium_intracellulare_Infection,Mycobacterium avium intracellulare Infection,disease
+@DISEASE_Pyuria,Pyuria,disease
+@DISEASE_Streptococcal_Infections,Streptococcal Infections,disease
+@DISEASE_Tuberculosis_Osteoarticular,Tuberculosis Osteoarticular,disease
+@DISEASE_Tularemia,Tularemia,disease
+@DISEASE_Anthrax,Anthrax,disease
+@DISEASE_Back_Pain,Back Pain,disease
+@DISEASE_Diabetic_Foot,Diabetic Foot,disease
+@DISEASE_Legionellosis,Legionellosis,disease
+@DISEASE_Neisseriaceae_Infections,Neisseriaceae Infections,disease
+@DISEASE_Otitis_Media_Suppurative,Otitis Media Suppurative,disease
+@DISEASE_Virus_Diseases,Virus Diseases,disease
+@DISEASE_Acanthamoeba_Keratitis,Acanthamoeba Keratitis,disease
+@DISEASE_Calcinosis_Cutis,Calcinosis Cutis,disease
+@DISEASE_Conjunctival_Diseases,Conjunctival Diseases,disease
+@DISEASE_Dacryocystitis,Dacryocystitis,disease
+@DISEASE_Endometritis,Endometritis,disease
+@DISEASE_Eye_Infections_Bacterial,Eye Infections Bacterial,disease
+@DISEASE_Latent_Tuberculosis,Latent Tuberculosis,disease
+@DISEASE_Leukocytosis,Leukocytosis,disease
+@DISEASE_Multiple_Organ_Failure,Multiple Organ Failure,disease
+@DISEASE_Neonatal_Sepsis,Neonatal Sepsis,disease
+@DISEASE_Precursor_Cell_Lymphoblastic_Leukemia_Lymphoma,Precursor Cell Lymphoblastic Leukemia Lymphoma,disease
+@DISEASE_Precursor_T_Cell_Lymphoblastic_Leukemia_Lymphoma,Precursor T Cell Lymphoblastic Leukemia Lymphoma,disease
+@DISEASE_Psoas_Abscess,Psoas Abscess,disease
+@DISEASE_Respiratory_Tract_Diseases,Respiratory Tract Diseases,disease
+@DISEASE_Salmonella_Infections,Salmonella Infections,disease
+@DISEASE_Blister,Blister,disease
+@DISEASE_Catheter_Related_Infections,Catheter Related Infections,disease
+@DISEASE_Central_Nervous_System_Infections,Central Nervous System Infections,disease
+@DISEASE_Chills,Chills,disease
+@DISEASE_Chlamydial_Pneumonia,Chlamydial Pneumonia,disease
+@DISEASE_Cholangitis,Cholangitis,disease
+glyburide,glyburide,drug
+@DISEASE_Diabetes_Mellitus_Transient_Neonatal_1,Diabetes Mellitus Transient Neonatal 1,disease
+@DISEASE_Diabetes_Mellitus_Permanent_Neonatal,Diabetes Mellitus Permanent Neonatal,disease
+@DISEASE_Hyperemia,Hyperemia,disease
+@DISEASE_Cantu_syndrome,Cantu syndrome,disease
+@DISEASE_Central_Nervous_System_Diseases,Central Nervous System Diseases,disease
+@DISEASE_Developmental_Delay_Epilepsy_and_Neonatal_Diabetes,Developmental Delay Epilepsy and Neonatal Diabetes,disease
+@DISEASE_Contracture,Contracture,disease
+@DISEASE_Epilepsy_Post_Traumatic,Epilepsy Post Traumatic,disease
+@DISEASE_Hypothermia,Hypothermia,disease
+@DISEASE_Insulinoma,Insulinoma,disease
+@DISEASE_Contusions,Contusions,disease
+@DISEASE_Developmental_Disabilities,Developmental Disabilities,disease
+@DISEASE_Diabetes_Mellitus_Experimental,Diabetes Mellitus Experimental,disease
+@DISEASE_Ketosis,Ketosis,disease
+@DISEASE_Sleep_Disorders_Circadian_Rhythm,Sleep Disorders Circadian Rhythm,disease
+@DISEASE_Brain_Contusion,Brain Contusion,disease
+@DISEASE_Maturity_Onset_Diabetes_of_the_Young_Type_3,Maturity Onset Diabetes of the Young Type 3,disease
+@DISEASE_Nociceptive_Pain,Nociceptive Pain,disease
+@DISEASE_Syndrome,Syndrome,disease
+@DISEASE_Urinary_Bladder_Neck_Obstruction,Urinary Bladder Neck Obstruction,disease
+@DISEASE_Adjustment_Disorders,Adjustment Disorders,disease
+@DISEASE_Brain_Neoplasms,Brain Neoplasms,disease
+@DISEASE_Cytokine_Release_Syndrome,Cytokine Release Syndrome,disease
+@DISEASE_Encephalomyelitis_Autoimmune_Experimental,Encephalomyelitis Autoimmune Experimental,disease
+@DISEASE_Heart_Block,Heart Block,disease
+@DISEASE_Hematoma,Hematoma,disease
+@DISEASE_Melioidosis,Melioidosis,disease
+@DISEASE_Muscle_Neoplasms,Muscle Neoplasms,disease
+@DISEASE_Pain_Insensitivity_Congenital,Pain Insensitivity Congenital,disease
+@DISEASE_Pregnancy_in_Diabetics,Pregnancy in Diabetics,disease
+@DISEASE_Ring_Chromosome_20_Syndrome,Ring Chromosome 20 Syndrome,disease
+@DISEASE_240900,240900,disease
+@DISEASE_Amnesia,Amnesia,disease
+@DISEASE_Belonephobia,Belonephobia,disease
+@DISEASE_Bronchial_Hyperreactivity,Bronchial Hyperreactivity,disease
+@DISEASE_Carcinoma_256_Walker,Carcinoma 256 Walker,disease
+@DISEASE_Consciousness_Disorders,Consciousness Disorders,disease
+@DISEASE_Deafness,Deafness,disease
+@DISEASE_Demyelinating_Diseases,Demyelinating Diseases,disease
+@DISEASE_Diabetes_Insipidus,Diabetes Insipidus,disease
+@DISEASE_Feeding_and_Eating_Disorders,Feeding and Eating Disorders,disease

@@ -1,0 +1,1 @@
+[{"type": "treat", "source": "@CHEMICAL_simvastatin_acid", "target": "@DISEASE_Atherosclerosis", "publications": 1}, {"type": "treat", "source": "@CHEMICAL_simvastatin_acid", "target": "@DISEASE_Bone_Diseases", "publications": 1}, {"type": "treat", "source": "@CHEMICAL_simvastatin_acid", "target": "@DISEASE_Neoplasms", "publications": 1}]
