@@ -218,3 +218,4 @@ __marimo__/
 /conda
 /virt
 .DS_STORE
+bigquery_outputs/

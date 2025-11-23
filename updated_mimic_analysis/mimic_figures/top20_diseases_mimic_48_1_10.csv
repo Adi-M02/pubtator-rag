@@ -1,0 +1,21 @@
+dst,icd_long_title,n_drugs,total_admissions
+icd:10:Z5111,Encounter for antineoplastic chemotherapy,32,11991
+icd:10:I130,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",26,13515
+icd:9:V5811,Encounter for antineoplastic chemotherapy,26,8932
+icd:10:A419,"Sepsis, unspecified organism",18,12294
+icd:10:I110,Hypertensive heart disease with heart failure,18,7575
+icd:9:42833,Acute on chronic diastolic heart failure,18,5520
+icd:9:41401,Coronary atherosclerosis of native coronary artery,17,18847
+icd:9:486,"Pneumonia, organism unspecified",17,5661
+icd:9:5849,"Acute kidney failure, unspecified",17,4278
+icd:10:I214,Non-ST elevation (NSTEMI) myocardial infarction,16,11407
+icd:9:42823,Acute on chronic systolic heart failure,16,4558
+icd:9:78659,Other chest pain,16,4452
+icd:10:N179,"Acute kidney failure, unspecified",14,3147
+icd:9:5990,"Urinary tract infection, site not specified",14,2746
+icd:9:42731,Atrial fibrillation,13,6925
+icd:9:5770,Acute pancreatitis,12,3749
+icd:9:41071,"Subendocardial infarction, initial episode of care",11,8647
+icd:9:0389,Unspecified septicemia,11,4902
+icd:10:I25110,Atherosclerotic heart disease of native coronary artery with unstable angina pectoris,10,4015
+icd:10:J189,"Pneumonia, unspecified organism",10,2633
