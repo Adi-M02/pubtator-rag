@@ -1,0 +1,2 @@
+n_drugs,n_diseases,n_edges,density,n_nodes,n_components,lcc_size,lcc_frac_nodes,lcc_edges,avg_path_len,diameter
+59,214,815,0.06454934262632663,273,1,273,1.0,815,2.6308985132514544,6.0

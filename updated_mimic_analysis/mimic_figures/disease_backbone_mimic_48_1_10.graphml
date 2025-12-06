@@ -1,0 +1,544 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d1" for="node" attr.name="label" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="icd:9:41401">
+      <data key="d0">disease</data>
+      <data key="d1">Coronary atherosclerosis of native coronary artery</data>
+    </node>
+    <node id="icd:10:I214">
+      <data key="d0">disease</data>
+      <data key="d1">Non-ST elevation (NSTEMI) myocardial infarction</data>
+    </node>
+    <node id="icd:10:A419">
+      <data key="d0">disease</data>
+      <data key="d1">Sepsis, unspecified organism</data>
+    </node>
+    <node id="icd:10:I2510">
+      <data key="d0">disease</data>
+      <data key="d1">Atherosclerotic heart disease of native coronary artery without angina pectoris</data>
+    </node>
+    <node id="icd:9:41071">
+      <data key="d0">disease</data>
+      <data key="d1">Subendocardial infarction, initial episode of care</data>
+    </node>
+    <node id="icd:9:4241">
+      <data key="d0">disease</data>
+      <data key="d1">Aortic valve disorders</data>
+    </node>
+    <node id="icd:9:V5811">
+      <data key="d0">disease</data>
+      <data key="d1">Encounter for antineoplastic chemotherapy</data>
+    </node>
+    <node id="icd:10:I671">
+      <data key="d0">disease</data>
+      <data key="d1">Cerebral aneurysm, nonruptured</data>
+    </node>
+    <node id="icd:9:42731">
+      <data key="d0">disease</data>
+      <data key="d1">Atrial fibrillation</data>
+    </node>
+    <node id="icd:9:486">
+      <data key="d0">disease</data>
+      <data key="d1">Pneumonia, organism unspecified</data>
+    </node>
+    <node id="icd:9:99859">
+      <data key="d0">disease</data>
+      <data key="d1">Other postoperative infection</data>
+    </node>
+    <node id="icd:9:78659">
+      <data key="d0">disease</data>
+      <data key="d1">Other chest pain</data>
+    </node>
+    <node id="icd:10:Z5111">
+      <data key="d0">disease</data>
+      <data key="d1">Encounter for antineoplastic chemotherapy</data>
+    </node>
+    <node id="icd:10:I130">
+      <data key="d0">disease</data>
+      <data key="d1">Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease</data>
+    </node>
+    <node id="icd:9:0389">
+      <data key="d0">disease</data>
+      <data key="d1">Unspecified septicemia</data>
+    </node>
+    <node id="icd:10:I25110">
+      <data key="d0">disease</data>
+      <data key="d1">Atherosclerotic heart disease of native coronary artery with unstable angina pectoris</data>
+    </node>
+    <node id="icd:9:5849">
+      <data key="d0">disease</data>
+      <data key="d1">Acute kidney failure, unspecified</data>
+    </node>
+    <node id="icd:9:72210">
+      <data key="d0">disease</data>
+      <data key="d1">Displacement of lumbar intervertebral disc without myelopathy</data>
+    </node>
+    <node id="icd:10:I110">
+      <data key="d0">disease</data>
+      <data key="d1">Hypertensive heart disease with heart failure</data>
+    </node>
+    <node id="icd:10:N179">
+      <data key="d0">disease</data>
+      <data key="d1">Acute kidney failure, unspecified</data>
+    </node>
+    <node id="icd:9:5770">
+      <data key="d0">disease</data>
+      <data key="d1">Acute pancreatitis</data>
+    </node>
+    <node id="icd:9:5990">
+      <data key="d0">disease</data>
+      <data key="d1">Urinary tract infection, site not specified</data>
+    </node>
+    <node id="icd:9:431">
+      <data key="d0">disease</data>
+      <data key="d1">Intracerebral hemorrhage</data>
+    </node>
+    <node id="icd:9:42823">
+      <data key="d0">disease</data>
+      <data key="d1">Acute on chronic systolic heart failure</data>
+    </node>
+    <node id="icd:10:N390">
+      <data key="d0">disease</data>
+      <data key="d1">Urinary tract infection, site not specified</data>
+    </node>
+    <node id="icd:9:42833">
+      <data key="d0">disease</data>
+      <data key="d1">Acute on chronic diastolic heart failure</data>
+    </node>
+    <node id="icd:10:J189">
+      <data key="d0">disease</data>
+      <data key="d1">Pneumonia, unspecified organism</data>
+    </node>
+    <node id="icd:9:43491">
+      <data key="d0">disease</data>
+      <data key="d1">Cerebral artery occlusion, unspecified with cerebral infarction</data>
+    </node>
+    <node id="icd:10:I350">
+      <data key="d0">disease</data>
+      <data key="d1">Nonrheumatic aortic (valve) stenosis</data>
+    </node>
+    <node id="icd:10:K7031">
+      <data key="d0">disease</data>
+      <data key="d1">Alcoholic cirrhosis of liver with ascites</data>
+    </node>
+    <node id="icd:10:U071">
+      <data key="d0">disease</data>
+      <data key="d1">COVID-19</data>
+    </node>
+    <node id="icd:9:43411">
+      <data key="d0">disease</data>
+      <data key="d1">Cerebral embolism with cerebral infarction</data>
+    </node>
+    <node id="icd:9:6826">
+      <data key="d0">disease</data>
+      <data key="d1">Cellulitis and abscess of leg, except foot</data>
+    </node>
+    <node id="icd:9:7802">
+      <data key="d0">disease</data>
+      <data key="d1">Syncope and collapse</data>
+    </node>
+    <node id="icd:9:44021">
+      <data key="d0">disease</data>
+      <data key="d1">Atherosclerosis of native arteries of the extremities with intermittent claudication</data>
+    </node>
+    <node id="icd:9:41519">
+      <data key="d0">disease</data>
+      <data key="d1">Other pulmonary embolism and infarction</data>
+    </node>
+    <node id="icd:9:29181">
+      <data key="d0">disease</data>
+      <data key="d1">Alcohol withdrawal</data>
+    </node>
+    <node id="icd:9:1983">
+      <data key="d0">disease</data>
+      <data key="d1">Secondary malignant neoplasm of brain and spinal cord</data>
+    </node>
+    <node id="icd:10:C7931">
+      <data key="d0">disease</data>
+      <data key="d1">Secondary malignant neoplasm of brain</data>
+    </node>
+    <node id="icd:9:40301">
+      <data key="d0">disease</data>
+      <data key="d1">Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease</data>
+    </node>
+    <node id="icd:9:25063">
+      <data key="d0">disease</data>
+      <data key="d1">Diabetes with neurological manifestations, type I [juvenile type], uncontrolled</data>
+    </node>
+    <node id="icd:9:56211">
+      <data key="d0">disease</data>
+      <data key="d1">Diverticulitis of colon (without mention of hemorrhage)</data>
+    </node>
+    <node id="icd:9:4373">
+      <data key="d0">disease</data>
+      <data key="d1">Cerebral aneurysm, nonruptured</data>
+    </node>
+    <node id="icd:9:5609">
+      <data key="d0">disease</data>
+      <data key="d1">Unspecified intestinal obstruction</data>
+    </node>
+    <node id="icd:9:4240">
+      <data key="d0">disease</data>
+      <data key="d1">Mitral valve disorders</data>
+    </node>
+    <node id="icd:9:71536">
+      <data key="d0">disease</data>
+      <data key="d1">Osteoarthrosis, localized, not specified whether primary or secondary, lower leg</data>
+    </node>
+    <node id="icd:9:5070">
+      <data key="d0">disease</data>
+      <data key="d1">Pneumonitis due to inhalation of food or vomitus</data>
+    </node>
+    <node id="icd:9:00845">
+      <data key="d0">disease</data>
+      <data key="d1">Intestinal infection due to Clostridium difficile</data>
+    </node>
+    <node id="icd:9:34590">
+      <data key="d0">disease</data>
+      <data key="d1">Epilepsy, unspecified, without mention of intractable epilepsy</data>
+    </node>
+    <node id="icd:10:I132">
+      <data key="d0">disease</data>
+      <data key="d1">Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease</data>
+    </node>
+    <node id="icd:9:V5812">
+      <data key="d0">disease</data>
+      <data key="d1">Encounter for antineoplastic immunotherapy</data>
+    </node>
+    <node id="icd:9:42843">
+      <data key="d0">disease</data>
+      <data key="d1">Acute on chronic combined systolic and diastolic heart failure</data>
+    </node>
+    <node id="icd:9:49121">
+      <data key="d0">disease</data>
+      <data key="d1">Obstructive chronic bronchitis with (acute) exacerbation</data>
+    </node>
+    <node id="icd:10:I472">
+      <data key="d0">disease</data>
+      <data key="d1">Ventricular tachycardia</data>
+    </node>
+    <node id="icd:10:J441">
+      <data key="d0">disease</data>
+      <data key="d1">Chronic obstructive pulmonary disease with (acute) exacerbation</data>
+    </node>
+    <node id="icd:10:R0789">
+      <data key="d0">disease</data>
+      <data key="d1">Other chest pain</data>
+    </node>
+    <node id="icd:9:0088">
+      <data key="d0">disease</data>
+      <data key="d1">Intestinal infection due to other organism, not elsewhere classified</data>
+    </node>
+    <node id="icd:10:I480">
+      <data key="d0">disease</data>
+      <data key="d1">Paroxysmal atrial fibrillation</data>
+    </node>
+    <node id="icd:10:K921">
+      <data key="d0">disease</data>
+      <data key="d1">Melena</data>
+    </node>
+    <node id="icd:10:I5023">
+      <data key="d0">disease</data>
+      <data key="d1">Acute on chronic systolic (congestive) heart failure</data>
+    </node>
+    <node id="icd:10:I25118">
+      <data key="d0">disease</data>
+      <data key="d1">Atherosclerotic heart disease of native coronary artery with other forms of angina pectoris</data>
+    </node>
+    <node id="icd:9:49322">
+      <data key="d0">disease</data>
+      <data key="d1">Chronic obstructive asthma with (acute) exacerbation</data>
+    </node>
+    <node id="icd:10:I5033">
+      <data key="d0">disease</data>
+      <data key="d1">Acute on chronic diastolic (congestive) heart failure</data>
+    </node>
+    <node id="icd:9:51881">
+      <data key="d0">disease</data>
+      <data key="d1">Acute respiratory failure</data>
+    </node>
+    <node id="icd:10:M1712">
+      <data key="d0">disease</data>
+      <data key="d1">Unilateral primary osteoarthritis, left knee</data>
+    </node>
+    <node id="icd:10:I639">
+      <data key="d0">disease</data>
+      <data key="d1">Cerebral infarction, unspecified</data>
+    </node>
+    <node id="icd:10:J398">
+      <data key="d0">disease</data>
+      <data key="d1">Other specified diseases of upper respiratory tract</data>
+    </node>
+    <node id="icd:10:E1152">
+      <data key="d0">disease</data>
+      <data key="d1">Type 2 diabetes mellitus with diabetic peripheral angiopathy with gangrene</data>
+    </node>
+    <node id="icd:9:4271">
+      <data key="d0">disease</data>
+      <data key="d1">Paroxysmal ventricular tachycardia</data>
+    </node>
+    <node id="icd:9:25060">
+      <data key="d0">disease</data>
+      <data key="d1">Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled</data>
+    </node>
+    <node id="icd:10:I25119">
+      <data key="d0">disease</data>
+      <data key="d1">Atherosclerotic heart disease of native coronary artery with unspecified angina pectoris</data>
+    </node>
+    <node id="icd:9:5761">
+      <data key="d0">disease</data>
+      <data key="d1">Cholangitis</data>
+    </node>
+    <node id="icd:10:C241">
+      <data key="d0">disease</data>
+      <data key="d1">Malignant neoplasm of ampulla of Vater</data>
+    </node>
+    <node id="icd:10:Z516">
+      <data key="d0">disease</data>
+      <data key="d1">Encounter for desensitization to allergens</data>
+    </node>
+    <node id="icd:10:K8520">
+      <data key="d0">disease</data>
+      <data key="d1">Alcohol induced acute pancreatitis without necrosis or infection</data>
+    </node>
+    <node id="icd:9:2798">
+      <data key="d0">disease</data>
+      <data key="d1">Other specified disorders involving the immune mechanism</data>
+    </node>
+    <node id="icd:10:K3184">
+      <data key="d0">disease</data>
+      <data key="d1">Gastroparesis</data>
+    </node>
+    <edge source="icd:9:41401" target="icd:9:78659">
+      <data key="d2">16</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:10:I130">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:9:5849">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:10:I214">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:9:42823">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:9:486">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:9:5990">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:9:42731">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:9:41071">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:10:I25110">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:9:5770">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:9:4241">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:10:N390">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:10:I350">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:10:K3184">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:9:7802">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:9:40301">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:9:99859">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:9:43491">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:9:71536">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:9:5609">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:9:43411">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:10:I671">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:9:6826">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:10:E1152">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:10:I472">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:10:M1712">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:9:0088">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:9:25063">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:9:41519">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:10:I5033">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:10:I25119">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:9:51881">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:9:44021">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:10:I639">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:9:72210">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:9:V5812">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:10:K921">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:9:4240">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:9:4271">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:10:R0789">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:9:56211">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:9:42843">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:9:5070">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:10:I25118">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:9:00845">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="icd:9:41401" target="icd:9:5761">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="icd:10:I214" target="icd:10:I132">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="icd:10:A419" target="icd:10:Z5111">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="icd:10:A419" target="icd:9:0389">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="icd:10:A419" target="icd:9:49121">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="icd:10:A419" target="icd:10:J441">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="icd:10:A419" target="icd:10:I2510">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="icd:10:A419" target="icd:10:I5023">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="icd:10:A419" target="icd:9:29181">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="icd:10:A419" target="icd:10:K8520">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="icd:10:A419" target="icd:10:J398">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="icd:9:V5811" target="icd:10:Z5111">
+      <data key="d2">19</data>
+    </edge>
+    <edge source="icd:9:V5811" target="icd:9:25060">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="icd:9:V5811" target="icd:9:1983">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="icd:9:V5811" target="icd:10:C7931">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="icd:9:V5811" target="icd:9:34590">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="icd:10:I671" target="icd:9:4373">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="icd:9:486" target="icd:10:J189">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="icd:9:486" target="icd:10:U071">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="icd:9:486" target="icd:9:49322">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="icd:10:Z5111" target="icd:10:I130">
+      <data key="d2">16</data>
+    </edge>
+    <edge source="icd:10:Z5111" target="icd:10:I480">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="icd:10:Z5111" target="icd:9:431">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="icd:10:Z5111" target="icd:10:C241">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="icd:10:Z5111" target="icd:10:Z516">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="icd:10:Z5111" target="icd:9:2798">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="icd:10:I130" target="icd:10:I110">
+      <data key="d2">17</data>
+    </edge>
+    <edge source="icd:10:I130" target="icd:9:42833">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="icd:10:I130" target="icd:10:N179">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="icd:10:I130" target="icd:10:K7031">
+      <data key="d2">8</data>
+    </edge>
+  </graph>
+</graphml>

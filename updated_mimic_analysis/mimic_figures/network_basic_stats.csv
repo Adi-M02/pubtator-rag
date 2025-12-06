@@ -1,0 +1,2 @@
+source,n_drugs,n_diseases,n_edges,total_weight,mean_diseases_per_drug,median_diseases_per_drug,p90_diseases_per_drug,mean_drugs_per_disease,median_drugs_per_disease,p90_drugs_per_disease
+mimic,59,214,815,207058.0,13.813559322033898,4.0,37.0,3.808411214953271,2.0,8.0

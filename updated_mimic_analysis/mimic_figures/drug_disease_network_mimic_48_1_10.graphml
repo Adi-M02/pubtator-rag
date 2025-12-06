@@ -1,0 +1,4337 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="unique_patients" attr.type="double" />
+  <key id="d2" for="edge" attr.name="weight_admissions" attr.type="double" />
+  <key id="d1" for="node" attr.name="label" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="drug:acetaminophen">
+      <data key="d0">drug</data>
+      <data key="d1">acetaminophen</data>
+    </node>
+    <node id="icd:9:41401">
+      <data key="d0">disease</data>
+      <data key="d1">Coronary atherosclerosis of native coronary artery</data>
+    </node>
+    <node id="drug:potassium chloride">
+      <data key="d0">drug</data>
+      <data key="d1">potassium chloride</data>
+    </node>
+    <node id="drug:aspirin">
+      <data key="d0">drug</data>
+      <data key="d1">aspirin</data>
+    </node>
+    <node id="icd:10:I214">
+      <data key="d0">disease</data>
+      <data key="d1">Non-ST elevation (NSTEMI) myocardial infarction</data>
+    </node>
+    <node id="drug:atorvastatin">
+      <data key="d0">drug</data>
+      <data key="d1">atorvastatin</data>
+    </node>
+    <node id="icd:10:A419">
+      <data key="d0">disease</data>
+      <data key="d1">Sepsis, unspecified organism</data>
+    </node>
+    <node id="icd:10:I2510">
+      <data key="d0">disease</data>
+      <data key="d1">Atherosclerotic heart disease of native coronary artery without angina pectoris</data>
+    </node>
+    <node id="icd:9:41071">
+      <data key="d0">disease</data>
+      <data key="d1">Subendocardial infarction, initial episode of care</data>
+    </node>
+    <node id="icd:9:4241">
+      <data key="d0">disease</data>
+      <data key="d1">Aortic valve disorders</data>
+    </node>
+    <node id="drug:lorazepam">
+      <data key="d0">drug</data>
+      <data key="d1">lorazepam</data>
+    </node>
+    <node id="icd:9:V5811">
+      <data key="d0">disease</data>
+      <data key="d1">Encounter for antineoplastic chemotherapy</data>
+    </node>
+    <node id="drug:ondansetron">
+      <data key="d0">drug</data>
+      <data key="d1">ondansetron</data>
+    </node>
+    <node id="icd:10:I671">
+      <data key="d0">disease</data>
+      <data key="d1">Cerebral aneurysm, nonruptured</data>
+    </node>
+    <node id="drug:clopidogrel">
+      <data key="d0">drug</data>
+      <data key="d1">clopidogrel</data>
+    </node>
+    <node id="drug:furosemide">
+      <data key="d0">drug</data>
+      <data key="d1">furosemide</data>
+    </node>
+    <node id="icd:9:42731">
+      <data key="d0">disease</data>
+      <data key="d1">Atrial fibrillation</data>
+    </node>
+    <node id="icd:9:486">
+      <data key="d0">disease</data>
+      <data key="d1">Pneumonia, organism unspecified</data>
+    </node>
+    <node id="icd:9:99859">
+      <data key="d0">disease</data>
+      <data key="d1">Other postoperative infection</data>
+    </node>
+    <node id="drug:hydralazine">
+      <data key="d0">drug</data>
+      <data key="d1">hydralazine</data>
+    </node>
+    <node id="icd:9:78659">
+      <data key="d0">disease</data>
+      <data key="d1">Other chest pain</data>
+    </node>
+    <node id="drug:warfarin">
+      <data key="d0">drug</data>
+      <data key="d1">warfarin</data>
+    </node>
+    <node id="icd:10:Z5111">
+      <data key="d0">disease</data>
+      <data key="d1">Encounter for antineoplastic chemotherapy</data>
+    </node>
+    <node id="drug:acyclovir">
+      <data key="d0">drug</data>
+      <data key="d1">acyclovir</data>
+    </node>
+    <node id="icd:10:I130">
+      <data key="d0">disease</data>
+      <data key="d1">Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease</data>
+    </node>
+    <node id="icd:9:0389">
+      <data key="d0">disease</data>
+      <data key="d1">Unspecified septicemia</data>
+    </node>
+    <node id="icd:10:I25110">
+      <data key="d0">disease</data>
+      <data key="d1">Atherosclerotic heart disease of native coronary artery with unstable angina pectoris</data>
+    </node>
+    <node id="icd:9:5849">
+      <data key="d0">disease</data>
+      <data key="d1">Acute kidney failure, unspecified</data>
+    </node>
+    <node id="icd:9:72210">
+      <data key="d0">disease</data>
+      <data key="d1">Displacement of lumbar intervertebral disc without myelopathy</data>
+    </node>
+    <node id="icd:10:I110">
+      <data key="d0">disease</data>
+      <data key="d1">Hypertensive heart disease with heart failure</data>
+    </node>
+    <node id="drug:simvastatin">
+      <data key="d0">drug</data>
+      <data key="d1">simvastatin</data>
+    </node>
+    <node id="icd:10:N179">
+      <data key="d0">disease</data>
+      <data key="d1">Acute kidney failure, unspecified</data>
+    </node>
+    <node id="drug:allopurinol">
+      <data key="d0">drug</data>
+      <data key="d1">allopurinol</data>
+    </node>
+    <node id="icd:9:27801">
+      <data key="d0">disease</data>
+      <data key="d1">Morbid obesity</data>
+    </node>
+    <node id="icd:9:64511">
+      <data key="d0">disease</data>
+      <data key="d1">Post term pregnancy, delivered, with or without mention of antepartum condition</data>
+    </node>
+    <node id="drug:famotidine">
+      <data key="d0">drug</data>
+      <data key="d1">famotidine</data>
+    </node>
+    <node id="icd:9:5770">
+      <data key="d0">disease</data>
+      <data key="d1">Acute pancreatitis</data>
+    </node>
+    <node id="drug:pantoprazole">
+      <data key="d0">drug</data>
+      <data key="d1">pantoprazole</data>
+    </node>
+    <node id="icd:9:5990">
+      <data key="d0">disease</data>
+      <data key="d1">Urinary tract infection, site not specified</data>
+    </node>
+    <node id="drug:lisinopril">
+      <data key="d0">drug</data>
+      <data key="d1">lisinopril</data>
+    </node>
+    <node id="icd:9:431">
+      <data key="d0">disease</data>
+      <data key="d1">Intracerebral hemorrhage</data>
+    </node>
+    <node id="icd:9:42823">
+      <data key="d0">disease</data>
+      <data key="d1">Acute on chronic systolic heart failure</data>
+    </node>
+    <node id="icd:10:N390">
+      <data key="d0">disease</data>
+      <data key="d1">Urinary tract infection, site not specified</data>
+    </node>
+    <node id="icd:9:42833">
+      <data key="d0">disease</data>
+      <data key="d1">Acute on chronic diastolic heart failure</data>
+    </node>
+    <node id="drug:gabapentin">
+      <data key="d0">drug</data>
+      <data key="d1">gabapentin</data>
+    </node>
+    <node id="icd:10:J189">
+      <data key="d0">disease</data>
+      <data key="d1">Pneumonia, unspecified organism</data>
+    </node>
+    <node id="icd:10:T814XXA">
+      <data key="d0">disease</data>
+      <data key="d1">Infection following a procedure, initial encounter</data>
+    </node>
+    <node id="icd:9:43491">
+      <data key="d0">disease</data>
+      <data key="d1">Cerebral artery occlusion, unspecified with cerebral infarction</data>
+    </node>
+    <node id="icd:9:5409">
+      <data key="d0">disease</data>
+      <data key="d1">Acute appendicitis without mention of peritonitis</data>
+    </node>
+    <node id="icd:10:I350">
+      <data key="d0">disease</data>
+      <data key="d1">Nonrheumatic aortic (valve) stenosis</data>
+    </node>
+    <node id="drug:ibuprofen">
+      <data key="d0">drug</data>
+      <data key="d1">ibuprofen</data>
+    </node>
+    <node id="drug:folic acid">
+      <data key="d0">drug</data>
+      <data key="d1">folic acid</data>
+    </node>
+    <node id="icd:10:K7031">
+      <data key="d0">disease</data>
+      <data key="d1">Alcoholic cirrhosis of liver with ascites</data>
+    </node>
+    <node id="icd:10:U071">
+      <data key="d0">disease</data>
+      <data key="d1">COVID-19</data>
+    </node>
+    <node id="icd:9:43411">
+      <data key="d0">disease</data>
+      <data key="d1">Cerebral embolism with cerebral infarction</data>
+    </node>
+    <node id="icd:9:66411">
+      <data key="d0">disease</data>
+      <data key="d1">Second-degree perineal laceration, delivered, with or without mention of antepartum condition</data>
+    </node>
+    <node id="icd:9:6826">
+      <data key="d0">disease</data>
+      <data key="d1">Cellulitis and abscess of leg, except foot</data>
+    </node>
+    <node id="icd:9:7802">
+      <data key="d0">disease</data>
+      <data key="d1">Syncope and collapse</data>
+    </node>
+    <node id="icd:9:65421">
+      <data key="d0">disease</data>
+      <data key="d1">Previous cesarean delivery, delivered, with or without mention of antepartum condition</data>
+    </node>
+    <node id="icd:9:44021">
+      <data key="d0">disease</data>
+      <data key="d1">Atherosclerosis of native arteries of the extremities with intermittent claudication</data>
+    </node>
+    <node id="drug:prednisone">
+      <data key="d0">drug</data>
+      <data key="d1">prednisone</data>
+    </node>
+    <node id="icd:9:5722">
+      <data key="d0">disease</data>
+      <data key="d1">Hepatic encephalopathy</data>
+    </node>
+    <node id="drug:spironolactone">
+      <data key="d0">drug</data>
+      <data key="d1">spironolactone</data>
+    </node>
+    <node id="drug:diltiazem">
+      <data key="d0">drug</data>
+      <data key="d1">diltiazem</data>
+    </node>
+    <node id="drug:omeprazole">
+      <data key="d0">drug</data>
+      <data key="d1">omeprazole</data>
+    </node>
+    <node id="icd:9:41519">
+      <data key="d0">disease</data>
+      <data key="d1">Other pulmonary embolism and infarction</data>
+    </node>
+    <node id="icd:10:I2699">
+      <data key="d0">disease</data>
+      <data key="d1">Other pulmonary embolism without acute cor pulmonale</data>
+    </node>
+    <node id="icd:10:O480">
+      <data key="d0">disease</data>
+      <data key="d1">Post-term pregnancy</data>
+    </node>
+    <node id="icd:9:71535">
+      <data key="d0">disease</data>
+      <data key="d1">Osteoarthrosis, localized, not specified whether primary or secondary, pelvic region and thigh</data>
+    </node>
+    <node id="icd:9:85221">
+      <data key="d0">disease</data>
+      <data key="d1">Subdural hemorrhage following injury without mention of open intracranial wound, with no loss of consciousness</data>
+    </node>
+    <node id="icd:10:O34211">
+      <data key="d0">disease</data>
+      <data key="d1">Maternal care for low transverse scar from previous cesarean delivery</data>
+    </node>
+    <node id="icd:9:29181">
+      <data key="d0">disease</data>
+      <data key="d1">Alcohol withdrawal</data>
+    </node>
+    <node id="icd:9:65811">
+      <data key="d0">disease</data>
+      <data key="d1">Premature rupture of membranes, delivered, with or without mention of antepartum condition</data>
+    </node>
+    <node id="icd:9:1890">
+      <data key="d0">disease</data>
+      <data key="d1">Malignant neoplasm of kidney, except pelvis</data>
+    </node>
+    <node id="drug:clonazepam">
+      <data key="d0">drug</data>
+      <data key="d1">clonazepam</data>
+    </node>
+    <node id="icd:9:1983">
+      <data key="d0">disease</data>
+      <data key="d1">Secondary malignant neoplasm of brain and spinal cord</data>
+    </node>
+    <node id="icd:10:C7931">
+      <data key="d0">disease</data>
+      <data key="d1">Secondary malignant neoplasm of brain</data>
+    </node>
+    <node id="icd:10:M48062">
+      <data key="d0">disease</data>
+      <data key="d1">Spinal stenosis, lumbar region with neurogenic claudication</data>
+    </node>
+    <node id="icd:10:R509">
+      <data key="d0">disease</data>
+      <data key="d1">Fever, unspecified</data>
+    </node>
+    <node id="icd:9:5789">
+      <data key="d0">disease</data>
+      <data key="d1">Hemorrhage of gastrointestinal tract, unspecified</data>
+    </node>
+    <node id="icd:9:57400">
+      <data key="d0">disease</data>
+      <data key="d1">Calculus of gallbladder with acute cholecystitis, without mention of obstruction</data>
+    </node>
+    <node id="icd:9:40301">
+      <data key="d0">disease</data>
+      <data key="d1">Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease</data>
+    </node>
+    <node id="icd:9:25063">
+      <data key="d0">disease</data>
+      <data key="d1">Diabetes with neurological manifestations, type I [juvenile type], uncontrolled</data>
+    </node>
+    <node id="icd:10:A4151">
+      <data key="d0">disease</data>
+      <data key="d1">Sepsis due to Escherichia coli [E. coli]</data>
+    </node>
+    <node id="icd:9:56211">
+      <data key="d0">disease</data>
+      <data key="d1">Diverticulitis of colon (without mention of hemorrhage)</data>
+    </node>
+    <node id="icd:10:S065X0A">
+      <data key="d0">disease</data>
+      <data key="d1">Traumatic subdural hemorrhage without loss of consciousness, initial encounter</data>
+    </node>
+    <node id="icd:9:25061">
+      <data key="d0">disease</data>
+      <data key="d1">Diabetes with neurological manifestations, type I [juvenile type], not stated as uncontrolled</data>
+    </node>
+    <node id="drug:trazodone">
+      <data key="d0">drug</data>
+      <data key="d1">trazodone</data>
+    </node>
+    <node id="icd:9:4373">
+      <data key="d0">disease</data>
+      <data key="d1">Cerebral aneurysm, nonruptured</data>
+    </node>
+    <node id="drug:levetiracetam">
+      <data key="d0">drug</data>
+      <data key="d1">levetiracetam</data>
+    </node>
+    <node id="icd:9:5609">
+      <data key="d0">disease</data>
+      <data key="d1">Unspecified intestinal obstruction</data>
+    </node>
+    <node id="drug:azithromycin">
+      <data key="d0">drug</data>
+      <data key="d1">azithromycin</data>
+    </node>
+    <node id="drug:cetirizine">
+      <data key="d0">drug</data>
+      <data key="d1">cetirizine</data>
+    </node>
+    <node id="drug:methotrexate">
+      <data key="d0">drug</data>
+      <data key="d1">methotrexate</data>
+    </node>
+    <node id="icd:10:A4189">
+      <data key="d0">disease</data>
+      <data key="d1">Other specified sepsis</data>
+    </node>
+    <node id="icd:9:28800">
+      <data key="d0">disease</data>
+      <data key="d1">Neutropenia, unspecified</data>
+    </node>
+    <node id="icd:9:4240">
+      <data key="d0">disease</data>
+      <data key="d1">Mitral valve disorders</data>
+    </node>
+    <node id="icd:10:K9189">
+      <data key="d0">disease</data>
+      <data key="d1">Other postprocedural complications and disorders of digestive system</data>
+    </node>
+    <node id="icd:9:71536">
+      <data key="d0">disease</data>
+      <data key="d1">Osteoarthrosis, localized, not specified whether primary or secondary, lower leg</data>
+    </node>
+    <node id="drug:amlodipine">
+      <data key="d0">drug</data>
+      <data key="d1">amlodipine</data>
+    </node>
+    <node id="icd:9:78039">
+      <data key="d0">disease</data>
+      <data key="d1">Other convulsions</data>
+    </node>
+    <node id="icd:9:66401">
+      <data key="d0">disease</data>
+      <data key="d1">First-degree perineal laceration, delivered, with or without mention of antepartum condition</data>
+    </node>
+    <node id="icd:9:99681">
+      <data key="d0">disease</data>
+      <data key="d1">Complications of transplanted kidney</data>
+    </node>
+    <node id="icd:9:27651">
+      <data key="d0">disease</data>
+      <data key="d1">Dehydration</data>
+    </node>
+    <node id="icd:9:5070">
+      <data key="d0">disease</data>
+      <data key="d1">Pneumonitis due to inhalation of food or vomitus</data>
+    </node>
+    <node id="icd:9:00845">
+      <data key="d0">disease</data>
+      <data key="d1">Intestinal infection due to Clostridium difficile</data>
+    </node>
+    <node id="icd:9:40391">
+      <data key="d0">disease</data>
+      <data key="d1">Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease</data>
+    </node>
+    <node id="drug:sertraline">
+      <data key="d0">drug</data>
+      <data key="d1">sertraline</data>
+    </node>
+    <node id="icd:10:R55">
+      <data key="d0">disease</data>
+      <data key="d1">Syncope and collapse</data>
+    </node>
+    <node id="icd:9:44024">
+      <data key="d0">disease</data>
+      <data key="d1">Atherosclerosis of native arteries of the extremities with gangrene</data>
+    </node>
+    <node id="icd:9:78060">
+      <data key="d0">disease</data>
+      <data key="d1">Fever, unspecified</data>
+    </node>
+    <node id="icd:9:34590">
+      <data key="d0">disease</data>
+      <data key="d1">Epilepsy, unspecified, without mention of intractable epilepsy</data>
+    </node>
+    <node id="icd:9:65971">
+      <data key="d0">disease</data>
+      <data key="d1">Abnormality in fetal heart rate or rhythm, delivered, with or without mention of antepartum condition</data>
+    </node>
+    <node id="icd:9:7213">
+      <data key="d0">disease</data>
+      <data key="d1">Lumbosacral spondylosis without myelopathy</data>
+    </node>
+    <node id="drug:atenolol">
+      <data key="d0">drug</data>
+      <data key="d1">atenolol</data>
+    </node>
+    <node id="icd:10:I132">
+      <data key="d0">disease</data>
+      <data key="d1">Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease</data>
+    </node>
+    <node id="icd:10:K3580">
+      <data key="d0">disease</data>
+      <data key="d1">Unspecified acute appendicitis</data>
+    </node>
+    <node id="icd:10:L03115">
+      <data key="d0">disease</data>
+      <data key="d1">Cellulitis of right lower limb</data>
+    </node>
+    <node id="icd:9:03842">
+      <data key="d0">disease</data>
+      <data key="d1">Septicemia due to escherichia coli [E. coli]</data>
+    </node>
+    <node id="icd:10:E6601">
+      <data key="d0">disease</data>
+      <data key="d1">Morbid (severe) obesity due to excess calories</data>
+    </node>
+    <node id="icd:9:5715">
+      <data key="d0">disease</data>
+      <data key="d1">Cirrhosis of liver without mention of alcohol</data>
+    </node>
+    <node id="icd:9:78701">
+      <data key="d0">disease</data>
+      <data key="d1">Nausea with vomiting</data>
+    </node>
+    <node id="icd:10:J9601">
+      <data key="d0">disease</data>
+      <data key="d1">Acute respiratory failure with hypoxia</data>
+    </node>
+    <node id="icd:10:N401">
+      <data key="d0">disease</data>
+      <data key="d1">Benign prostatic hyperplasia with lower urinary tract symptoms</data>
+    </node>
+    <node id="icd:10:R109">
+      <data key="d0">disease</data>
+      <data key="d1">Unspecified abdominal pain</data>
+    </node>
+    <node id="icd:9:71596">
+      <data key="d0">disease</data>
+      <data key="d1">Osteoarthrosis, unspecified whether generalized or localized, lower leg</data>
+    </node>
+    <node id="icd:9:78900">
+      <data key="d0">disease</data>
+      <data key="d1">Abdominal pain, unspecified site</data>
+    </node>
+    <node id="icd:9:V5812">
+      <data key="d0">disease</data>
+      <data key="d1">Encounter for antineoplastic immunotherapy</data>
+    </node>
+    <node id="icd:9:42843">
+      <data key="d0">disease</data>
+      <data key="d1">Acute on chronic combined systolic and diastolic heart failure</data>
+    </node>
+    <node id="icd:9:49121">
+      <data key="d0">disease</data>
+      <data key="d1">Obstructive chronic bronchitis with (acute) exacerbation</data>
+    </node>
+    <node id="icd:9:4580">
+      <data key="d0">disease</data>
+      <data key="d1">Orthostatic hypotension</data>
+    </node>
+    <node id="icd:10:I472">
+      <data key="d0">disease</data>
+      <data key="d1">Ventricular tachycardia</data>
+    </node>
+    <node id="icd:10:J441">
+      <data key="d0">disease</data>
+      <data key="d1">Chronic obstructive pulmonary disease with (acute) exacerbation</data>
+    </node>
+    <node id="icd:9:042">
+      <data key="d0">disease</data>
+      <data key="d1">Human immunodeficiency virus [HIV] disease</data>
+    </node>
+    <node id="icd:10:R0789">
+      <data key="d0">disease</data>
+      <data key="d1">Other chest pain</data>
+    </node>
+    <node id="drug:carvedilol">
+      <data key="d0">drug</data>
+      <data key="d1">carvedilol</data>
+    </node>
+    <node id="icd:9:0088">
+      <data key="d0">disease</data>
+      <data key="d1">Intestinal infection due to other organism, not elsewhere classified</data>
+    </node>
+    <node id="icd:9:42789">
+      <data key="d0">disease</data>
+      <data key="d1">Other specified cardiac dysrhythmias</data>
+    </node>
+    <node id="icd:9:99749">
+      <data key="d0">disease</data>
+      <data key="d1">Other digestive system complications</data>
+    </node>
+    <node id="icd:9:2189">
+      <data key="d0">disease</data>
+      <data key="d1">Leiomyoma of uterus, unspecified</data>
+    </node>
+    <node id="icd:9:42732">
+      <data key="d0">disease</data>
+      <data key="d1">Atrial flutter</data>
+    </node>
+    <node id="icd:10:I480">
+      <data key="d0">disease</data>
+      <data key="d1">Paroxysmal atrial fibrillation</data>
+    </node>
+    <node id="icd:9:64891">
+      <data key="d0">disease</data>
+      <data key="d1">Other current conditions classifiable elsewhere of mother, delivered, with or without mention of antepartum condition</data>
+    </node>
+    <node id="icd:10:K921">
+      <data key="d0">disease</data>
+      <data key="d1">Melena</data>
+    </node>
+    <node id="icd:10:I5023">
+      <data key="d0">disease</data>
+      <data key="d1">Acute on chronic systolic (congestive) heart failure</data>
+    </node>
+    <node id="icd:10:M4802">
+      <data key="d0">disease</data>
+      <data key="d1">Spinal stenosis, cervical region</data>
+    </node>
+    <node id="icd:10:O4202">
+      <data key="d0">disease</data>
+      <data key="d1">Full-term premature rupture of membranes, onset of labor within 24 hours of rupture</data>
+    </node>
+    <node id="drug:apixaban">
+      <data key="d0">drug</data>
+      <data key="d1">apixaban</data>
+    </node>
+    <node id="icd:10:I25118">
+      <data key="d0">disease</data>
+      <data key="d1">Atherosclerotic heart disease of native coronary artery with other forms of angina pectoris</data>
+    </node>
+    <node id="icd:9:49322">
+      <data key="d0">disease</data>
+      <data key="d1">Chronic obstructive asthma with (acute) exacerbation</data>
+    </node>
+    <node id="icd:9:49392">
+      <data key="d0">disease</data>
+      <data key="d1">Asthma, unspecified type, with (acute) exacerbation</data>
+    </node>
+    <node id="icd:9:5589">
+      <data key="d0">disease</data>
+      <data key="d1">Other and unspecified noninfectious gastroenteritis and colitis</data>
+    </node>
+    <node id="icd:10:I5033">
+      <data key="d0">disease</data>
+      <data key="d1">Acute on chronic diastolic (congestive) heart failure</data>
+    </node>
+    <node id="icd:9:51881">
+      <data key="d0">disease</data>
+      <data key="d1">Acute respiratory failure</data>
+    </node>
+    <node id="icd:9:5771">
+      <data key="d0">disease</data>
+      <data key="d1">Chronic pancreatitis</data>
+    </node>
+    <node id="drug:paroxetine">
+      <data key="d0">drug</data>
+      <data key="d1">paroxetine</data>
+    </node>
+    <node id="icd:9:78650">
+      <data key="d0">disease</data>
+      <data key="d1">Chest pain, unspecified</data>
+    </node>
+    <node id="icd:10:M1711">
+      <data key="d0">disease</data>
+      <data key="d1">Unilateral primary osteoarthritis, right knee</data>
+    </node>
+    <node id="icd:9:25080">
+      <data key="d0">disease</data>
+      <data key="d1">Diabetes with other specified manifestations, type II or unspecified type, not stated as uncontrolled</data>
+    </node>
+    <node id="icd:9:42781">
+      <data key="d0">disease</data>
+      <data key="d1">Sinoatrial node dysfunction</data>
+    </node>
+    <node id="icd:10:T82868A">
+      <data key="d0">disease</data>
+      <data key="d1">Thrombosis due to vascular prosthetic devices, implants and grafts, initial encounter</data>
+    </node>
+    <node id="drug:benzonatate">
+      <data key="d0">drug</data>
+      <data key="d1">benzonatate</data>
+    </node>
+    <node id="drug:pravastatin">
+      <data key="d0">drug</data>
+      <data key="d1">pravastatin</data>
+    </node>
+    <node id="drug:tamsulosin">
+      <data key="d0">drug</data>
+      <data key="d1">tamsulosin</data>
+    </node>
+    <node id="icd:10:F10239">
+      <data key="d0">disease</data>
+      <data key="d1">Alcohol dependence with withdrawal, unspecified</data>
+    </node>
+    <node id="icd:10:K7290">
+      <data key="d0">disease</data>
+      <data key="d1">Hepatic failure, unspecified without coma</data>
+    </node>
+    <node id="icd:10:E1151">
+      <data key="d0">disease</data>
+      <data key="d1">Type 2 diabetes mellitus with diabetic peripheral angiopathy without gangrene</data>
+    </node>
+    <node id="icd:10:S72142A">
+      <data key="d0">disease</data>
+      <data key="d1">Displaced intertrochanteric fracture of left femur, initial encounter for closed fracture</data>
+    </node>
+    <node id="icd:10:K922">
+      <data key="d0">disease</data>
+      <data key="d1">Gastrointestinal hemorrhage, unspecified</data>
+    </node>
+    <node id="icd:10:K31811">
+      <data key="d0">disease</data>
+      <data key="d1">Angiodysplasia of stomach and duodenum with bleeding</data>
+    </node>
+    <node id="icd:10:K7011">
+      <data key="d0">disease</data>
+      <data key="d1">Alcoholic hepatitis with ascites</data>
+    </node>
+    <node id="icd:9:82021">
+      <data key="d0">disease</data>
+      <data key="d1">Closed fracture of intertrochanteric section of neck of femur</data>
+    </node>
+    <node id="icd:10:D5700">
+      <data key="d0">disease</data>
+      <data key="d1">Hb-SS disease with crisis, unspecified</data>
+    </node>
+    <node id="icd:9:25013">
+      <data key="d0">disease</data>
+      <data key="d1">Diabetes with ketoacidosis, type I [juvenile type], uncontrolled</data>
+    </node>
+    <node id="drug:valsartan">
+      <data key="d0">drug</data>
+      <data key="d1">valsartan</data>
+    </node>
+    <node id="icd:10:M1712">
+      <data key="d0">disease</data>
+      <data key="d1">Unilateral primary osteoarthritis, left knee</data>
+    </node>
+    <node id="icd:10:O701">
+      <data key="d0">disease</data>
+      <data key="d1">Second degree perineal laceration during delivery</data>
+    </node>
+    <node id="icd:9:4829">
+      <data key="d0">disease</data>
+      <data key="d1">Bacterial pneumonia, unspecified</data>
+    </node>
+    <node id="icd:9:8054">
+      <data key="d0">disease</data>
+      <data key="d1">Closed fracture of lumbar vertebra without mention of spinal cord injury</data>
+    </node>
+    <node id="icd:10:I639">
+      <data key="d0">disease</data>
+      <data key="d1">Cerebral infarction, unspecified</data>
+    </node>
+    <node id="drug:ferrous sulfate">
+      <data key="d0">drug</data>
+      <data key="d1">ferrous sulfate</data>
+    </node>
+    <node id="drug:cyanocobalamin">
+      <data key="d0">drug</data>
+      <data key="d1">cyanocobalamin</data>
+    </node>
+    <node id="drug:ezetimibe">
+      <data key="d0">drug</data>
+      <data key="d1">ezetimibe</data>
+    </node>
+    <node id="icd:10:J398">
+      <data key="d0">disease</data>
+      <data key="d1">Other specified diseases of upper respiratory tract</data>
+    </node>
+    <node id="icd:10:E1152">
+      <data key="d0">disease</data>
+      <data key="d1">Type 2 diabetes mellitus with diabetic peripheral angiopathy with gangrene</data>
+    </node>
+    <node id="icd:10:I471">
+      <data key="d0">disease</data>
+      <data key="d1">Supraventricular tachycardia</data>
+    </node>
+    <node id="icd:10:K831">
+      <data key="d0">disease</data>
+      <data key="d1">Obstruction of bile duct</data>
+    </node>
+    <node id="icd:10:S065X9A">
+      <data key="d0">disease</data>
+      <data key="d1">Traumatic subdural hemorrhage with loss of consciousness of unspecified duration, initial encounter</data>
+    </node>
+    <node id="icd:10:I4891">
+      <data key="d0">disease</data>
+      <data key="d1">Unspecified atrial fibrillation</data>
+    </node>
+    <node id="icd:9:60001">
+      <data key="d0">disease</data>
+      <data key="d1">Hypertrophy (benign) of prostate with urinary obstruction and other lower urinary tract symptoms (LUTS)</data>
+    </node>
+    <node id="icd:9:5762">
+      <data key="d0">disease</data>
+      <data key="d1">Obstruction of bile duct</data>
+    </node>
+    <node id="icd:9:78906">
+      <data key="d0">disease</data>
+      <data key="d1">Abdominal pain, epigastric</data>
+    </node>
+    <node id="icd:9:43310">
+      <data key="d0">disease</data>
+      <data key="d1">Occlusion and stenosis of carotid artery without mention of cerebral infarction</data>
+    </node>
+    <node id="icd:9:4271">
+      <data key="d0">disease</data>
+      <data key="d1">Paroxysmal ventricular tachycardia</data>
+    </node>
+    <node id="icd:9:45341">
+      <data key="d0">disease</data>
+      <data key="d1">Acute venous embolism and thrombosis of deep vessels of proximal lower extremity</data>
+    </node>
+    <node id="icd:10:A084">
+      <data key="d0">disease</data>
+      <data key="d1">Viral intestinal infection, unspecified</data>
+    </node>
+    <node id="icd:10:O134">
+      <data key="d0">disease</data>
+      <data key="d1">Gestational [pregnancy-induced] hypertension without significant proteinuria, complicating childbirth</data>
+    </node>
+    <node id="icd:9:64893">
+      <data key="d0">disease</data>
+      <data key="d1">Other current conditions classifiable elsewhere of mother, antepartum condition or complication</data>
+    </node>
+    <node id="icd:9:99811">
+      <data key="d0">disease</data>
+      <data key="d1">Hemorrhage complicating a procedure</data>
+    </node>
+    <node id="drug:loratadine">
+      <data key="d0">drug</data>
+      <data key="d1">loratadine</data>
+    </node>
+    <node id="icd:9:55321">
+      <data key="d0">disease</data>
+      <data key="d1">Incisional hernia without mention of obstruction or gangrene</data>
+    </node>
+    <node id="icd:10:O99824">
+      <data key="d0">disease</data>
+      <data key="d1">Streptococcus B carrier state complicating childbirth</data>
+    </node>
+    <node id="icd:9:25060">
+      <data key="d0">disease</data>
+      <data key="d1">Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled</data>
+    </node>
+    <node id="icd:10:E1169">
+      <data key="d0">disease</data>
+      <data key="d1">Type 2 diabetes mellitus with other specified complication</data>
+    </node>
+    <node id="icd:9:65801">
+      <data key="d0">disease</data>
+      <data key="d1">Oligohydramnios, delivered, with or without mention of antepartum condition</data>
+    </node>
+    <node id="icd:10:J690">
+      <data key="d0">disease</data>
+      <data key="d1">Pneumonitis due to inhalation of food and vomit</data>
+    </node>
+    <node id="icd:9:78901">
+      <data key="d0">disease</data>
+      <data key="d1">Abdominal pain, right upper quadrant</data>
+    </node>
+    <node id="icd:10:J45901">
+      <data key="d0">disease</data>
+      <data key="d1">Unspecified asthma with (acute) exacerbation</data>
+    </node>
+    <node id="icd:10:Z515">
+      <data key="d0">disease</data>
+      <data key="d1">Encounter for palliative care</data>
+    </node>
+    <node id="icd:10:L03116">
+      <data key="d0">disease</data>
+      <data key="d1">Cellulitis of left lower limb</data>
+    </node>
+    <node id="icd:10:I25119">
+      <data key="d0">disease</data>
+      <data key="d1">Atherosclerotic heart disease of native coronary artery with unspecified angina pectoris</data>
+    </node>
+    <node id="icd:9:29633">
+      <data key="d0">disease</data>
+      <data key="d1">Major depressive affective disorder, recurrent episode, severe, without mention of psychotic behavior</data>
+    </node>
+    <node id="icd:10:K5720">
+      <data key="d0">disease</data>
+      <data key="d1">Diverticulitis of large intestine with perforation and abscess without bleeding</data>
+    </node>
+    <node id="drug:amitriptyline">
+      <data key="d0">drug</data>
+      <data key="d1">amitriptyline</data>
+    </node>
+    <node id="icd:9:5761">
+      <data key="d0">disease</data>
+      <data key="d1">Cholangitis</data>
+    </node>
+    <node id="icd:10:N132">
+      <data key="d0">disease</data>
+      <data key="d1">Hydronephrosis with renal and ureteral calculous obstruction</data>
+    </node>
+    <node id="icd:9:57451">
+      <data key="d0">disease</data>
+      <data key="d1">Calculus of bile duct without mention of cholecystitis, with obstruction</data>
+    </node>
+    <node id="icd:9:5712">
+      <data key="d0">disease</data>
+      <data key="d1">Alcoholic cirrhosis of liver</data>
+    </node>
+    <node id="icd:9:4280">
+      <data key="d0">disease</data>
+      <data key="d1">Congestive heart failure, unspecified</data>
+    </node>
+    <node id="icd:10:I63412">
+      <data key="d0">disease</data>
+      <data key="d1">Cerebral infarction due to embolism of left middle cerebral artery</data>
+    </node>
+    <node id="icd:10:K7040">
+      <data key="d0">disease</data>
+      <data key="d1">Alcoholic hepatic failure without coma</data>
+    </node>
+    <node id="icd:10:I951">
+      <data key="d0">disease</data>
+      <data key="d1">Orthostatic hypotension</data>
+    </node>
+    <node id="icd:9:29690">
+      <data key="d0">disease</data>
+      <data key="d1">Unspecified episodic mood disorder</data>
+    </node>
+    <node id="icd:10:K5732">
+      <data key="d0">disease</data>
+      <data key="d1">Diverticulitis of large intestine without perforation or abscess without bleeding</data>
+    </node>
+    <node id="icd:10:Z432">
+      <data key="d0">disease</data>
+      <data key="d1">Encounter for attention to ileostomy</data>
+    </node>
+    <node id="icd:9:65961">
+      <data key="d0">disease</data>
+      <data key="d1">Elderly multigravida, delivered with or without mention of antepartum condition</data>
+    </node>
+    <node id="icd:9:99674">
+      <data key="d0">disease</data>
+      <data key="d1">Other complications due to other vascular device, implant, and graft</data>
+    </node>
+    <node id="icd:9:73313">
+      <data key="d0">disease</data>
+      <data key="d1">Pathologic fracture of vertebrae</data>
+    </node>
+    <node id="icd:10:C241">
+      <data key="d0">disease</data>
+      <data key="d1">Malignant neoplasm of ampulla of Vater</data>
+    </node>
+    <node id="drug:montelukast">
+      <data key="d0">drug</data>
+      <data key="d1">montelukast</data>
+    </node>
+    <node id="icd:10:M1611">
+      <data key="d0">disease</data>
+      <data key="d1">Unilateral primary osteoarthritis, right hip</data>
+    </node>
+    <node id="icd:10:C7951">
+      <data key="d0">disease</data>
+      <data key="d1">Secondary malignant neoplasm of bone</data>
+    </node>
+    <node id="icd:9:57450">
+      <data key="d0">disease</data>
+      <data key="d1">Calculus of bile duct without mention of cholecystitis, without mention of obstruction</data>
+    </node>
+    <node id="icd:10:Z516">
+      <data key="d0">disease</data>
+      <data key="d1">Encounter for desensitization to allergens</data>
+    </node>
+    <node id="icd:9:25541">
+      <data key="d0">disease</data>
+      <data key="d1">Glucocorticoid deficiency</data>
+    </node>
+    <node id="icd:10:I340">
+      <data key="d0">disease</data>
+      <data key="d1">Nonrheumatic mitral (valve) insufficiency</data>
+    </node>
+    <node id="drug:buspirone">
+      <data key="d0">drug</data>
+      <data key="d1">buspirone</data>
+    </node>
+    <node id="icd:10:K8520">
+      <data key="d0">disease</data>
+      <data key="d1">Alcohol induced acute pancreatitis without necrosis or infection</data>
+    </node>
+    <node id="drug:hydroxyzine">
+      <data key="d0">drug</data>
+      <data key="d1">hydroxyzine</data>
+    </node>
+    <node id="icd:9:4359">
+      <data key="d0">disease</data>
+      <data key="d1">Unspecified transient cerebral ischemia</data>
+    </node>
+    <node id="icd:10:I442">
+      <data key="d0">disease</data>
+      <data key="d1">Atrioventricular block, complete</data>
+    </node>
+    <node id="icd:9:5920">
+      <data key="d0">disease</data>
+      <data key="d1">Calculus of kidney</data>
+    </node>
+    <node id="icd:10:C541">
+      <data key="d0">disease</data>
+      <data key="d1">Malignant neoplasm of endometrium</data>
+    </node>
+    <node id="icd:9:59080">
+      <data key="d0">disease</data>
+      <data key="d1">Pyelonephritis, unspecified</data>
+    </node>
+    <node id="drug:hydrochlorothiazide">
+      <data key="d0">drug</data>
+      <data key="d1">hydrochlorothiazide</data>
+    </node>
+    <node id="icd:10:C220">
+      <data key="d0">disease</data>
+      <data key="d1">Liver cell carcinoma</data>
+    </node>
+    <node id="drug:finasteride">
+      <data key="d0">drug</data>
+      <data key="d1">finasteride</data>
+    </node>
+    <node id="drug:clonidine">
+      <data key="d0">drug</data>
+      <data key="d1">clonidine</data>
+    </node>
+    <node id="drug:duloxetine">
+      <data key="d0">drug</data>
+      <data key="d1">duloxetine</data>
+    </node>
+    <node id="drug:mirtazapine">
+      <data key="d0">drug</data>
+      <data key="d1">mirtazapine</data>
+    </node>
+    <node id="icd:10:C3411">
+      <data key="d0">disease</data>
+      <data key="d1">Malignant neoplasm of upper lobe, right bronchus or lung</data>
+    </node>
+    <node id="icd:10:K8590">
+      <data key="d0">disease</data>
+      <data key="d1">Acute pancreatitis without necrosis or infection, unspecified</data>
+    </node>
+    <node id="icd:9:99664">
+      <data key="d0">disease</data>
+      <data key="d1">Infection and inflammatory reaction due to indwelling urinary catheter</data>
+    </node>
+    <node id="icd:10:N200">
+      <data key="d0">disease</data>
+      <data key="d1">Calculus of kidney</data>
+    </node>
+    <node id="drug:rivaroxaban">
+      <data key="d0">drug</data>
+      <data key="d1">rivaroxaban</data>
+    </node>
+    <node id="icd:10:C61">
+      <data key="d0">disease</data>
+      <data key="d1">Malignant neoplasm of prostate</data>
+    </node>
+    <node id="icd:10:M1612">
+      <data key="d0">disease</data>
+      <data key="d1">Unilateral primary osteoarthritis, left hip</data>
+    </node>
+    <node id="drug:alprazolam">
+      <data key="d0">drug</data>
+      <data key="d1">alprazolam</data>
+    </node>
+    <node id="icd:9:2761">
+      <data key="d0">disease</data>
+      <data key="d1">Hyposmolality and/or hyponatremia</data>
+    </node>
+    <node id="icd:9:5921">
+      <data key="d0">disease</data>
+      <data key="d1">Calculus of ureter</data>
+    </node>
+    <node id="icd:9:99672">
+      <data key="d0">disease</data>
+      <data key="d1">Other complications due to other cardiac device, implant, and graft</data>
+    </node>
+    <node id="icd:10:G893">
+      <data key="d0">disease</data>
+      <data key="d1">Neoplasm related pain (acute) (chronic)</data>
+    </node>
+    <node id="icd:10:K7469">
+      <data key="d0">disease</data>
+      <data key="d1">Other cirrhosis of liver</data>
+    </node>
+    <node id="drug:tramadol">
+      <data key="d0">drug</data>
+      <data key="d1">tramadol</data>
+    </node>
+    <node id="icd:9:5363">
+      <data key="d0">disease</data>
+      <data key="d1">Gastroparesis</data>
+    </node>
+    <node id="icd:9:2798">
+      <data key="d0">disease</data>
+      <data key="d1">Other specified disorders involving the immune mechanism</data>
+    </node>
+    <node id="drug:citalopram">
+      <data key="d0">drug</data>
+      <data key="d1">citalopram</data>
+    </node>
+    <node id="icd:9:56081">
+      <data key="d0">disease</data>
+      <data key="d1">Intestinal or peritoneal adhesions with obstruction (postoperative) (postinfection)</data>
+    </node>
+    <node id="icd:10:K3184">
+      <data key="d0">disease</data>
+      <data key="d1">Gastroparesis</data>
+    </node>
+    <node id="drug:pregabalin">
+      <data key="d0">drug</data>
+      <data key="d1">pregabalin</data>
+    </node>
+    <edge source="drug:acetaminophen" target="icd:9:41401">
+      <data key="d2">4521.0</data>
+      <data key="d3">4233.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:A419">
+      <data key="d2">3317.0</data>
+      <data key="d3">3183.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:I2510">
+      <data key="d2">1178.0</data>
+      <data key="d3">1155.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:41071">
+      <data key="d2">1695.0</data>
+      <data key="d3">1665.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:4241">
+      <data key="d2">1294.0</data>
+      <data key="d3">1196.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:I214">
+      <data key="d2">2245.0</data>
+      <data key="d3">2194.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:I671">
+      <data key="d2">859.0</data>
+      <data key="d3">791.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:42731">
+      <data key="d2">1889.0</data>
+      <data key="d3">1721.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:486">
+      <data key="d2">2308.0</data>
+      <data key="d3">2219.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:99859">
+      <data key="d2">1308.0</data>
+      <data key="d3">1207.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:78659">
+      <data key="d2">1712.0</data>
+      <data key="d3">1634.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:V5811">
+      <data key="d2">1228.0</data>
+      <data key="d3">654.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:0389">
+      <data key="d2">1618.0</data>
+      <data key="d3">1567.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:5849">
+      <data key="d2">1886.0</data>
+      <data key="d3">1809.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:72210">
+      <data key="d2">456.0</data>
+      <data key="d3">428.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:I130">
+      <data key="d2">2235.0</data>
+      <data key="d3">1812.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:I25110">
+      <data key="d2">1105.0</data>
+      <data key="d3">1058.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:N179">
+      <data key="d2">1586.0</data>
+      <data key="d3">1500.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:I110">
+      <data key="d2">1673.0</data>
+      <data key="d3">1496.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:Z5111">
+      <data key="d2">1459.0</data>
+      <data key="d3">800.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:64511">
+      <data key="d2">1061.0</data>
+      <data key="d3">1061.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:5990">
+      <data key="d2">1858.0</data>
+      <data key="d3">1723.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:431">
+      <data key="d2">675.0</data>
+      <data key="d3">660.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:N390">
+      <data key="d2">1262.0</data>
+      <data key="d3">1164.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:J189">
+      <data key="d2">1264.0</data>
+      <data key="d3">1239.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:T814XXA">
+      <data key="d2">306.0</data>
+      <data key="d3">284.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:43491">
+      <data key="d2">688.0</data>
+      <data key="d3">676.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:5409">
+      <data key="d2">273.0</data>
+      <data key="d3">272.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:I350">
+      <data key="d2">986.0</data>
+      <data key="d3">935.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:5770">
+      <data key="d2">870.0</data>
+      <data key="d3">730.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:U071">
+      <data key="d2">1400.0</data>
+      <data key="d3">1354.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:43411">
+      <data key="d2">575.0</data>
+      <data key="d3">564.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:66411">
+      <data key="d2">881.0</data>
+      <data key="d3">881.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:6826">
+      <data key="d2">1070.0</data>
+      <data key="d3">957.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:7802">
+      <data key="d2">1165.0</data>
+      <data key="d3">1140.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:65421">
+      <data key="d2">1040.0</data>
+      <data key="d3">1040.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:44021">
+      <data key="d2">114.0</data>
+      <data key="d3">103.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:41519">
+      <data key="d2">410.0</data>
+      <data key="d3">396.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:I2699">
+      <data key="d2">442.0</data>
+      <data key="d3">433.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:O480">
+      <data key="d2">340.0</data>
+      <data key="d3">340.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:71535">
+      <data key="d2">141.0</data>
+      <data key="d3">137.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:85221">
+      <data key="d2">71.0</data>
+      <data key="d3">66.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:O34211">
+      <data key="d2">283.0</data>
+      <data key="d3">283.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:42833">
+      <data key="d2">1258.0</data>
+      <data key="d3">1088.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:65811">
+      <data key="d2">111.0</data>
+      <data key="d3">111.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:1890">
+      <data key="d2">20.0</data>
+      <data key="d3">19.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:1983">
+      <data key="d2">153.0</data>
+      <data key="d3">121.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:42823">
+      <data key="d2">901.0</data>
+      <data key="d3">767.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:C7931">
+      <data key="d2">146.0</data>
+      <data key="d3">121.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:M48062">
+      <data key="d2">139.0</data>
+      <data key="d3">139.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:R509">
+      <data key="d2">10.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:5789">
+      <data key="d2">73.0</data>
+      <data key="d3">68.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:A4151">
+      <data key="d2">414.0</data>
+      <data key="d3">401.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:S065X0A">
+      <data key="d2">90.0</data>
+      <data key="d3">86.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:4373">
+      <data key="d2">80.0</data>
+      <data key="d3">69.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:A4189">
+      <data key="d2">240.0</data>
+      <data key="d3">237.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:28800">
+      <data key="d2">21.0</data>
+      <data key="d3">19.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:4240">
+      <data key="d2">31.0</data>
+      <data key="d3">30.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:71536">
+      <data key="d2">927.0</data>
+      <data key="d3">903.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:99681">
+      <data key="d2">33.0</data>
+      <data key="d3">24.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:27651">
+      <data key="d2">127.0</data>
+      <data key="d3">123.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:5070">
+      <data key="d2">280.0</data>
+      <data key="d3">260.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:57400">
+      <data key="d2">83.0</data>
+      <data key="d3">82.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:00845">
+      <data key="d2">177.0</data>
+      <data key="d3">161.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:40391">
+      <data key="d2">10.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:56211">
+      <data key="d2">325.0</data>
+      <data key="d3">287.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:66401">
+      <data key="d2">126.0</data>
+      <data key="d3">126.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:R55">
+      <data key="d2">208.0</data>
+      <data key="d3">206.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:44024">
+      <data key="d2">47.0</data>
+      <data key="d3">38.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:5609">
+      <data key="d2">20.0</data>
+      <data key="d3">18.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:78060">
+      <data key="d2">194.0</data>
+      <data key="d3">185.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:65971">
+      <data key="d2">83.0</data>
+      <data key="d3">83.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:7213">
+      <data key="d2">12.0</data>
+      <data key="d3">12.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:34590">
+      <data key="d2">11.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:I132">
+      <data key="d2">68.0</data>
+      <data key="d3">52.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:K3580">
+      <data key="d2">171.0</data>
+      <data key="d3">170.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:L03115">
+      <data key="d2">32.0</data>
+      <data key="d3">24.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:03842">
+      <data key="d2">85.0</data>
+      <data key="d3">82.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:J9601">
+      <data key="d2">34.0</data>
+      <data key="d3">32.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:N401">
+      <data key="d2">45.0</data>
+      <data key="d3">42.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:R109">
+      <data key="d2">10.0</data>
+      <data key="d3">8.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:71596">
+      <data key="d2">98.0</data>
+      <data key="d3">96.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:78900">
+      <data key="d2">61.0</data>
+      <data key="d3">55.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:V5812">
+      <data key="d2">110.0</data>
+      <data key="d3">54.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:49121">
+      <data key="d2">193.0</data>
+      <data key="d3">155.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:4580">
+      <data key="d2">40.0</data>
+      <data key="d3">38.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:042">
+      <data key="d2">14.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:J441">
+      <data key="d2">336.0</data>
+      <data key="d3">275.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:R0789">
+      <data key="d2">359.0</data>
+      <data key="d3">340.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:42789">
+      <data key="d2">181.0</data>
+      <data key="d3">175.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:99749">
+      <data key="d2">10.0</data>
+      <data key="d3">8.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:K7031">
+      <data key="d2">75.0</data>
+      <data key="d3">51.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:I480">
+      <data key="d2">366.0</data>
+      <data key="d3">348.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:64891">
+      <data key="d2">257.0</data>
+      <data key="d3">257.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:K921">
+      <data key="d2">67.0</data>
+      <data key="d3">62.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:M4802">
+      <data key="d2">55.0</data>
+      <data key="d3">52.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:O4202">
+      <data key="d2">51.0</data>
+      <data key="d3">51.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:I25118">
+      <data key="d2">22.0</data>
+      <data key="d3">21.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:49392">
+      <data key="d2">32.0</data>
+      <data key="d3">24.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:5589">
+      <data key="d2">44.0</data>
+      <data key="d3">44.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:I5033">
+      <data key="d2">113.0</data>
+      <data key="d3">101.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:M1711">
+      <data key="d2">206.0</data>
+      <data key="d3">206.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:25080">
+      <data key="d2">20.0</data>
+      <data key="d3">20.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:29181">
+      <data key="d2">53.0</data>
+      <data key="d3">37.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:42781">
+      <data key="d2">10.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:78039">
+      <data key="d2">64.0</data>
+      <data key="d3">62.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:49322">
+      <data key="d2">67.0</data>
+      <data key="d3">52.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:E1151">
+      <data key="d2">10.0</data>
+      <data key="d3">8.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:S72142A">
+      <data key="d2">21.0</data>
+      <data key="d3">21.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:78650">
+      <data key="d2">76.0</data>
+      <data key="d3">74.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:82021">
+      <data key="d2">143.0</data>
+      <data key="d3">143.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:M1712">
+      <data key="d2">110.0</data>
+      <data key="d3">110.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:O701">
+      <data key="d2">44.0</data>
+      <data key="d3">44.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:4829">
+      <data key="d2">20.0</data>
+      <data key="d3">19.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:8054">
+      <data key="d2">10.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:E1152">
+      <data key="d2">77.0</data>
+      <data key="d3">54.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:J398">
+      <data key="d2">36.0</data>
+      <data key="d3">7.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:I471">
+      <data key="d2">10.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:51881">
+      <data key="d2">20.0</data>
+      <data key="d3">20.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:S065X9A">
+      <data key="d2">22.0</data>
+      <data key="d3">21.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:I4891">
+      <data key="d2">41.0</data>
+      <data key="d3">40.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:42843">
+      <data key="d2">20.0</data>
+      <data key="d3">15.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:60001">
+      <data key="d2">65.0</data>
+      <data key="d3">63.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:4271">
+      <data key="d2">33.0</data>
+      <data key="d3">25.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:45341">
+      <data key="d2">11.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:A084">
+      <data key="d2">10.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:F10239">
+      <data key="d2">21.0</data>
+      <data key="d3">14.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:O134">
+      <data key="d2">22.0</data>
+      <data key="d3">22.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:64893">
+      <data key="d2">21.0</data>
+      <data key="d3">15.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:99811">
+      <data key="d2">10.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:0088">
+      <data key="d2">130.0</data>
+      <data key="d3">127.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:55321">
+      <data key="d2">21.0</data>
+      <data key="d3">19.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:O99824">
+      <data key="d2">49.0</data>
+      <data key="d3">49.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:25060">
+      <data key="d2">17.0</data>
+      <data key="d3">4.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:E1169">
+      <data key="d2">33.0</data>
+      <data key="d3">29.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:J690">
+      <data key="d2">69.0</data>
+      <data key="d3">59.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:T82868A">
+      <data key="d2">12.0</data>
+      <data key="d3">11.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:I472">
+      <data key="d2">73.0</data>
+      <data key="d3">60.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:L03116">
+      <data key="d2">79.0</data>
+      <data key="d3">60.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:I25119">
+      <data key="d2">84.0</data>
+      <data key="d3">84.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:29633">
+      <data key="d2">24.0</data>
+      <data key="d3">20.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:K5720">
+      <data key="d2">44.0</data>
+      <data key="d3">31.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:N132">
+      <data key="d2">10.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:I5023">
+      <data key="d2">52.0</data>
+      <data key="d3">30.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:78901">
+      <data key="d2">21.0</data>
+      <data key="d3">16.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:I63412">
+      <data key="d2">10.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:I951">
+      <data key="d2">20.0</data>
+      <data key="d3">19.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:29690">
+      <data key="d2">21.0</data>
+      <data key="d3">21.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:I639">
+      <data key="d2">43.0</data>
+      <data key="d3">43.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:K5732">
+      <data key="d2">11.0</data>
+      <data key="d3">8.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:Z432">
+      <data key="d2">11.0</data>
+      <data key="d3">11.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:65961">
+      <data key="d2">10.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:99674">
+      <data key="d2">11.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:73313">
+      <data key="d2">10.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:C7951">
+      <data key="d2">13.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:I340">
+      <data key="d2">11.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:K8520">
+      <data key="d2">10.0</data>
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:4359">
+      <data key="d2">23.0</data>
+      <data key="d3">23.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:I442">
+      <data key="d2">11.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:5920">
+      <data key="d2">10.0</data>
+      <data key="d3">7.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:C541">
+      <data key="d2">10.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:59080">
+      <data key="d2">10.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:C220">
+      <data key="d2">11.0</data>
+      <data key="d3">7.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:4280">
+      <data key="d2">10.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:5761">
+      <data key="d2">24.0</data>
+      <data key="d3">18.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:C3411">
+      <data key="d2">10.0</data>
+      <data key="d3">8.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:K8590">
+      <data key="d2">24.0</data>
+      <data key="d3">16.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:99664">
+      <data key="d2">11.0</data>
+      <data key="d3">6.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:N200">
+      <data key="d2">10.0</data>
+      <data key="d3">7.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:C61">
+      <data key="d2">35.0</data>
+      <data key="d3">35.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:42732">
+      <data key="d2">10.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:M1612">
+      <data key="d2">10.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:2761">
+      <data key="d2">20.0</data>
+      <data key="d3">19.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:5921">
+      <data key="d2">11.0</data>
+      <data key="d3">8.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:9:99672">
+      <data key="d2">10.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:G893">
+      <data key="d2">11.0</data>
+      <data key="d3">5.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:K7469">
+      <data key="d2">10.0</data>
+      <data key="d3">8.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:K831">
+      <data key="d2">10.0</data>
+      <data key="d3">8.0</data>
+    </edge>
+    <edge source="drug:acetaminophen" target="icd:10:K3184">
+      <data key="d2">26.0</data>
+      <data key="d3">6.0</data>
+    </edge>
+    <edge source="icd:9:41401" target="drug:potassium chloride">
+      <data key="d2">3455.0</data>
+      <data key="d3">3291.0</data>
+    </edge>
+    <edge source="icd:9:41401" target="drug:aspirin">
+      <data key="d2">2439.0</data>
+      <data key="d3">2365.0</data>
+    </edge>
+    <edge source="icd:9:41401" target="drug:atorvastatin">
+      <data key="d2">1896.0</data>
+      <data key="d3">1806.0</data>
+    </edge>
+    <edge source="icd:9:41401" target="drug:clopidogrel">
+      <data key="d2">1311.0</data>
+      <data key="d3">1253.0</data>
+    </edge>
+    <edge source="icd:9:41401" target="drug:furosemide">
+      <data key="d2">1626.0</data>
+      <data key="d3">1588.0</data>
+    </edge>
+    <edge source="icd:9:41401" target="drug:simvastatin">
+      <data key="d2">546.0</data>
+      <data key="d3">530.0</data>
+    </edge>
+    <edge source="icd:9:41401" target="drug:lisinopril">
+      <data key="d2">865.0</data>
+      <data key="d3">833.0</data>
+    </edge>
+    <edge source="icd:9:41401" target="drug:pantoprazole">
+      <data key="d2">749.0</data>
+      <data key="d3">691.0</data>
+    </edge>
+    <edge source="icd:9:41401" target="drug:lorazepam">
+      <data key="d2">449.0</data>
+      <data key="d3">424.0</data>
+    </edge>
+    <edge source="icd:9:41401" target="drug:trazodone">
+      <data key="d2">542.0</data>
+      <data key="d3">524.0</data>
+    </edge>
+    <edge source="icd:9:41401" target="drug:omeprazole">
+      <data key="d2">199.0</data>
+      <data key="d3">189.0</data>
+    </edge>
+    <edge source="icd:9:41401" target="drug:amlodipine">
+      <data key="d2">87.0</data>
+      <data key="d3">79.0</data>
+    </edge>
+    <edge source="icd:9:41401" target="drug:hydralazine">
+      <data key="d2">52.0</data>
+      <data key="d3">46.0</data>
+    </edge>
+    <edge source="icd:9:41401" target="drug:gabapentin">
+      <data key="d2">12.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="icd:9:41401" target="drug:ondansetron">
+      <data key="d2">66.0</data>
+      <data key="d3">65.0</data>
+    </edge>
+    <edge source="icd:9:41401" target="drug:warfarin">
+      <data key="d2">32.0</data>
+      <data key="d3">30.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:10:A419">
+      <data key="d2">1992.0</data>
+      <data key="d3">1948.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:9:4241">
+      <data key="d2">1048.0</data>
+      <data key="d3">976.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:10:I214">
+      <data key="d2">1273.0</data>
+      <data key="d3">1258.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:10:I2510">
+      <data key="d2">890.0</data>
+      <data key="d3">882.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:9:41071">
+      <data key="d2">1029.0</data>
+      <data key="d3">1014.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:9:0389">
+      <data key="d2">1311.0</data>
+      <data key="d3">1275.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:10:I130">
+      <data key="d2">1585.0</data>
+      <data key="d3">1299.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:9:V5811">
+      <data key="d2">647.0</data>
+      <data key="d3">345.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:10:I350">
+      <data key="d2">433.0</data>
+      <data key="d3">416.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:10:K7031">
+      <data key="d2">42.0</data>
+      <data key="d3">32.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:10:I25110">
+      <data key="d2">350.0</data>
+      <data key="d3">347.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:9:42731">
+      <data key="d2">1311.0</data>
+      <data key="d3">1199.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:9:486">
+      <data key="d2">468.0</data>
+      <data key="d3">459.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:9:29181">
+      <data key="d2">106.0</data>
+      <data key="d3">75.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:9:42823">
+      <data key="d2">668.0</data>
+      <data key="d3">556.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:10:Z5111">
+      <data key="d2">802.0</data>
+      <data key="d3">399.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:9:5849">
+      <data key="d2">237.0</data>
+      <data key="d3">222.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:10:I110">
+      <data key="d2">1201.0</data>
+      <data key="d3">1073.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:9:4240">
+      <data key="d2">32.0</data>
+      <data key="d3">32.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:9:42833">
+      <data key="d2">764.0</data>
+      <data key="d3">655.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:9:56211">
+      <data key="d2">22.0</data>
+      <data key="d3">19.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:9:V5812">
+      <data key="d2">98.0</data>
+      <data key="d3">45.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:9:5770">
+      <data key="d2">207.0</data>
+      <data key="d3">172.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:9:03842">
+      <data key="d2">13.0</data>
+      <data key="d3">13.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:9:5070">
+      <data key="d2">21.0</data>
+      <data key="d3">19.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:9:42843">
+      <data key="d2">11.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:9:5990">
+      <data key="d2">131.0</data>
+      <data key="d3">124.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:10:K921">
+      <data key="d2">10.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:9:25013">
+      <data key="d2">44.0</data>
+      <data key="d3">28.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:9:431">
+      <data key="d2">56.0</data>
+      <data key="d3">56.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:10:I5023">
+      <data key="d2">63.0</data>
+      <data key="d3">44.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:9:78659">
+      <data key="d2">57.0</data>
+      <data key="d3">56.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:10:U071">
+      <data key="d2">31.0</data>
+      <data key="d3">30.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:10:A4189">
+      <data key="d2">34.0</data>
+      <data key="d3">34.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:9:00845">
+      <data key="d2">20.0</data>
+      <data key="d3">18.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:10:I480">
+      <data key="d2">88.0</data>
+      <data key="d3">82.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:10:N390">
+      <data key="d2">11.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:10:N179">
+      <data key="d2">59.0</data>
+      <data key="d3">57.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:10:A4151">
+      <data key="d2">43.0</data>
+      <data key="d3">42.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:10:I25119">
+      <data key="d2">31.0</data>
+      <data key="d3">31.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:9:0088">
+      <data key="d2">10.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:10:K5720">
+      <data key="d2">10.0</data>
+      <data key="d3">8.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:9:51881">
+      <data key="d2">20.0</data>
+      <data key="d3">20.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:9:5609">
+      <data key="d2">25.0</data>
+      <data key="d3">19.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:9:44021">
+      <data key="d2">12.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:10:I472">
+      <data key="d2">11.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:9:49121">
+      <data key="d2">10.0</data>
+      <data key="d3">6.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:10:I5033">
+      <data key="d2">11.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:9:4271">
+      <data key="d2">21.0</data>
+      <data key="d3">15.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:10:J189">
+      <data key="d2">11.0</data>
+      <data key="d3">11.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:9:6826">
+      <data key="d2">13.0</data>
+      <data key="d3">7.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:9:99859">
+      <data key="d2">16.0</data>
+      <data key="d3">14.0</data>
+    </edge>
+    <edge source="drug:potassium chloride" target="icd:10:K3184">
+      <data key="d2">23.0</data>
+      <data key="d3">4.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:10:I214">
+      <data key="d2">2761.0</data>
+      <data key="d3">2683.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:9:41071">
+      <data key="d2">1633.0</data>
+      <data key="d3">1599.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:10:I2510">
+      <data key="d2">1200.0</data>
+      <data key="d3">1183.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:9:4241">
+      <data key="d2">865.0</data>
+      <data key="d3">828.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:9:42731">
+      <data key="d2">926.0</data>
+      <data key="d3">871.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:10:I25110">
+      <data key="d2">1230.0</data>
+      <data key="d3">1170.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:10:I671">
+      <data key="d2">231.0</data>
+      <data key="d3">218.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:10:I130">
+      <data key="d2">1717.0</data>
+      <data key="d3">1374.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:10:A419">
+      <data key="d2">1115.0</data>
+      <data key="d3">1054.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:10:N390">
+      <data key="d2">240.0</data>
+      <data key="d3">205.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:10:I350">
+      <data key="d2">974.0</data>
+      <data key="d3">917.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:10:I110">
+      <data key="d2">910.0</data>
+      <data key="d3">809.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:9:78659">
+      <data key="d2">1336.0</data>
+      <data key="d3">1253.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:9:0389">
+      <data key="d2">528.0</data>
+      <data key="d3">512.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:9:5849">
+      <data key="d2">783.0</data>
+      <data key="d3">746.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:9:42823">
+      <data key="d2">649.0</data>
+      <data key="d3">528.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:9:42833">
+      <data key="d2">706.0</data>
+      <data key="d3">597.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:9:486">
+      <data key="d2">624.0</data>
+      <data key="d3">604.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:9:5990">
+      <data key="d2">467.0</data>
+      <data key="d3">433.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:9:43491">
+      <data key="d2">265.0</data>
+      <data key="d3">261.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:10:N179">
+      <data key="d2">547.0</data>
+      <data key="d3">502.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:9:43411">
+      <data key="d2">114.0</data>
+      <data key="d3">112.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:10:J189">
+      <data key="d2">233.0</data>
+      <data key="d3">228.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:10:I472">
+      <data key="d2">55.0</data>
+      <data key="d3">45.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:9:6826">
+      <data key="d2">44.0</data>
+      <data key="d3">38.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:9:7802">
+      <data key="d2">172.0</data>
+      <data key="d3">168.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:10:Z5111">
+      <data key="d2">47.0</data>
+      <data key="d3">16.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:10:I132">
+      <data key="d2">54.0</data>
+      <data key="d3">35.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:10:I25118">
+      <data key="d2">43.0</data>
+      <data key="d3">41.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:9:78650">
+      <data key="d2">53.0</data>
+      <data key="d3">50.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:9:4373">
+      <data key="d2">10.0</data>
+      <data key="d3">8.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:10:R0789">
+      <data key="d2">249.0</data>
+      <data key="d3">230.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:9:49121">
+      <data key="d2">54.0</data>
+      <data key="d3">37.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:10:R55">
+      <data key="d2">31.0</data>
+      <data key="d3">31.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:10:J441">
+      <data key="d2">84.0</data>
+      <data key="d3">67.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:9:V5811">
+      <data key="d2">10.0</data>
+      <data key="d3">4.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:10:I639">
+      <data key="d2">31.0</data>
+      <data key="d3">31.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:10:E1152">
+      <data key="d2">25.0</data>
+      <data key="d3">14.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:9:43310">
+      <data key="d2">44.0</data>
+      <data key="d3">40.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:9:51881">
+      <data key="d2">10.0</data>
+      <data key="d3">8.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:10:U071">
+      <data key="d2">63.0</data>
+      <data key="d3">60.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:10:I25119">
+      <data key="d2">78.0</data>
+      <data key="d3">78.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:10:I5023">
+      <data key="d2">30.0</data>
+      <data key="d3">16.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:9:4359">
+      <data key="d2">10.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:10:I480">
+      <data key="d2">22.0</data>
+      <data key="d3">22.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:9:4271">
+      <data key="d2">12.0</data>
+      <data key="d3">8.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:10:I5033">
+      <data key="d2">10.0</data>
+      <data key="d3">8.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:9:5070">
+      <data key="d2">11.0</data>
+      <data key="d3">11.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:9:71536">
+      <data key="d2">10.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:10:K3184">
+      <data key="d2">24.0</data>
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="drug:aspirin" target="icd:10:K7031">
+      <data key="d2">10.0</data>
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="icd:10:I214" target="drug:atorvastatin">
+      <data key="d2">2524.0</data>
+      <data key="d3">2463.0</data>
+    </edge>
+    <edge source="icd:10:I214" target="drug:clopidogrel">
+      <data key="d2">932.0</data>
+      <data key="d3">887.0</data>
+    </edge>
+    <edge source="icd:10:I214" target="drug:furosemide">
+      <data key="d2">782.0</data>
+      <data key="d3">755.0</data>
+    </edge>
+    <edge source="icd:10:I214" target="drug:lisinopril">
+      <data key="d2">175.0</data>
+      <data key="d3">168.0</data>
+    </edge>
+    <edge source="icd:10:I214" target="drug:ondansetron">
+      <data key="d2">181.0</data>
+      <data key="d3">178.0</data>
+    </edge>
+    <edge source="icd:10:I214" target="drug:amlodipine">
+      <data key="d2">142.0</data>
+      <data key="d3">140.0</data>
+    </edge>
+    <edge source="icd:10:I214" target="drug:pantoprazole">
+      <data key="d2">169.0</data>
+      <data key="d3">156.0</data>
+    </edge>
+    <edge source="icd:10:I214" target="drug:omeprazole">
+      <data key="d2">151.0</data>
+      <data key="d3">146.0</data>
+    </edge>
+    <edge source="icd:10:I214" target="drug:carvedilol">
+      <data key="d2">11.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="icd:10:I214" target="drug:trazodone">
+      <data key="d2">20.0</data>
+      <data key="d3">19.0</data>
+    </edge>
+    <edge source="icd:10:I214" target="drug:hydralazine">
+      <data key="d2">10.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="icd:10:I214" target="drug:lorazepam">
+      <data key="d2">20.0</data>
+      <data key="d3">20.0</data>
+    </edge>
+    <edge source="icd:10:I214" target="drug:tamsulosin">
+      <data key="d2">11.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="drug:atorvastatin" target="icd:9:41071">
+      <data key="d2">1478.0</data>
+      <data key="d3">1447.0</data>
+    </edge>
+    <edge source="drug:atorvastatin" target="icd:10:I2510">
+      <data key="d2">880.0</data>
+      <data key="d3">863.0</data>
+    </edge>
+    <edge source="drug:atorvastatin" target="icd:10:I130">
+      <data key="d2">1715.0</data>
+      <data key="d3">1333.0</data>
+    </edge>
+    <edge source="drug:atorvastatin" target="icd:10:I25110">
+      <data key="d2">976.0</data>
+      <data key="d3">934.0</data>
+    </edge>
+    <edge source="drug:atorvastatin" target="icd:10:I110">
+      <data key="d2">925.0</data>
+      <data key="d3">814.0</data>
+    </edge>
+    <edge source="drug:atorvastatin" target="icd:10:I350">
+      <data key="d2">324.0</data>
+      <data key="d3">293.0</data>
+    </edge>
+    <edge source="drug:atorvastatin" target="icd:9:78659">
+      <data key="d2">252.0</data>
+      <data key="d3">235.0</data>
+    </edge>
+    <edge source="drug:atorvastatin" target="icd:10:A419">
+      <data key="d2">930.0</data>
+      <data key="d3">885.0</data>
+    </edge>
+    <edge source="drug:atorvastatin" target="icd:9:42823">
+      <data key="d2">136.0</data>
+      <data key="d3">91.0</data>
+    </edge>
+    <edge source="drug:atorvastatin" target="icd:9:4241">
+      <data key="d2">32.0</data>
+      <data key="d3">29.0</data>
+    </edge>
+    <edge source="drug:atorvastatin" target="icd:10:N179">
+      <data key="d2">370.0</data>
+      <data key="d3">338.0</data>
+    </edge>
+    <edge source="drug:atorvastatin" target="icd:10:I132">
+      <data key="d2">27.0</data>
+      <data key="d3">16.0</data>
+    </edge>
+    <edge source="drug:atorvastatin" target="icd:9:43411">
+      <data key="d2">20.0</data>
+      <data key="d3">20.0</data>
+    </edge>
+    <edge source="drug:atorvastatin" target="icd:10:J189">
+      <data key="d2">97.0</data>
+      <data key="d3">93.0</data>
+    </edge>
+    <edge source="drug:atorvastatin" target="icd:10:Z5111">
+      <data key="d2">17.0</data>
+      <data key="d3">7.0</data>
+    </edge>
+    <edge source="drug:atorvastatin" target="icd:10:I25118">
+      <data key="d2">10.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:atorvastatin" target="icd:10:U071">
+      <data key="d2">81.0</data>
+      <data key="d3">78.0</data>
+    </edge>
+    <edge source="drug:atorvastatin" target="icd:10:T82868A">
+      <data key="d2">10.0</data>
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="drug:atorvastatin" target="icd:10:R0789">
+      <data key="d2">125.0</data>
+      <data key="d3">114.0</data>
+    </edge>
+    <edge source="drug:atorvastatin" target="icd:10:K31811">
+      <data key="d2">11.0</data>
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="drug:atorvastatin" target="icd:10:N390">
+      <data key="d2">149.0</data>
+      <data key="d3">131.0</data>
+    </edge>
+    <edge source="drug:atorvastatin" target="icd:9:43491">
+      <data key="d2">10.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:atorvastatin" target="icd:10:I472">
+      <data key="d2">23.0</data>
+      <data key="d3">18.0</data>
+    </edge>
+    <edge source="drug:atorvastatin" target="icd:10:E1152">
+      <data key="d2">15.0</data>
+      <data key="d3">8.0</data>
+    </edge>
+    <edge source="drug:atorvastatin" target="icd:9:0389">
+      <data key="d2">11.0</data>
+      <data key="d3">11.0</data>
+    </edge>
+    <edge source="drug:atorvastatin" target="icd:9:486">
+      <data key="d2">33.0</data>
+      <data key="d3">31.0</data>
+    </edge>
+    <edge source="drug:atorvastatin" target="icd:10:I25119">
+      <data key="d2">22.0</data>
+      <data key="d3">22.0</data>
+    </edge>
+    <edge source="drug:atorvastatin" target="icd:9:42731">
+      <data key="d2">43.0</data>
+      <data key="d3">35.0</data>
+    </edge>
+    <edge source="drug:atorvastatin" target="icd:10:I5023">
+      <data key="d2">27.0</data>
+      <data key="d3">12.0</data>
+    </edge>
+    <edge source="drug:atorvastatin" target="icd:9:42833">
+      <data key="d2">77.0</data>
+      <data key="d3">61.0</data>
+    </edge>
+    <edge source="drug:atorvastatin" target="icd:9:49121">
+      <data key="d2">10.0</data>
+      <data key="d3">6.0</data>
+    </edge>
+    <edge source="drug:atorvastatin" target="icd:10:J441">
+      <data key="d2">24.0</data>
+      <data key="d3">19.0</data>
+    </edge>
+    <edge source="drug:atorvastatin" target="icd:9:5849">
+      <data key="d2">23.0</data>
+      <data key="d3">22.0</data>
+    </edge>
+    <edge source="drug:atorvastatin" target="icd:10:I480">
+      <data key="d2">21.0</data>
+      <data key="d3">20.0</data>
+    </edge>
+    <edge source="drug:atorvastatin" target="icd:9:5990">
+      <data key="d2">10.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="icd:10:A419" target="drug:pantoprazole">
+      <data key="d2">929.0</data>
+      <data key="d3">905.0</data>
+    </edge>
+    <edge source="icd:10:A419" target="drug:ondansetron">
+      <data key="d2">1114.0</data>
+      <data key="d3">1082.0</data>
+    </edge>
+    <edge source="icd:10:A419" target="drug:lorazepam">
+      <data key="d2">583.0</data>
+      <data key="d3">565.0</data>
+    </edge>
+    <edge source="icd:10:A419" target="drug:famotidine">
+      <data key="d2">393.0</data>
+      <data key="d3">377.0</data>
+    </edge>
+    <edge source="icd:10:A419" target="drug:furosemide">
+      <data key="d2">496.0</data>
+      <data key="d3">487.0</data>
+    </edge>
+    <edge source="icd:10:A419" target="drug:gabapentin">
+      <data key="d2">195.0</data>
+      <data key="d3">182.0</data>
+    </edge>
+    <edge source="icd:10:A419" target="drug:azithromycin">
+      <data key="d2">465.0</data>
+      <data key="d3">462.0</data>
+    </edge>
+    <edge source="icd:10:A419" target="drug:omeprazole">
+      <data key="d2">515.0</data>
+      <data key="d3">490.0</data>
+    </edge>
+    <edge source="icd:10:A419" target="drug:prednisone">
+      <data key="d2">73.0</data>
+      <data key="d3">65.0</data>
+    </edge>
+    <edge source="icd:10:A419" target="drug:folic acid">
+      <data key="d2">136.0</data>
+      <data key="d3">127.0</data>
+    </edge>
+    <edge source="icd:10:A419" target="drug:allopurinol">
+      <data key="d2">11.0</data>
+      <data key="d3">7.0</data>
+    </edge>
+    <edge source="icd:10:A419" target="drug:trazodone">
+      <data key="d2">10.0</data>
+      <data key="d3">8.0</data>
+    </edge>
+    <edge source="icd:10:A419" target="drug:mirtazapine">
+      <data key="d2">10.0</data>
+      <data key="d3">8.0</data>
+    </edge>
+    <edge source="icd:10:A419" target="drug:tamsulosin">
+      <data key="d2">10.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="icd:10:I2510" target="drug:ondansetron">
+      <data key="d2">562.0</data>
+      <data key="d3">560.0</data>
+    </edge>
+    <edge source="icd:10:I2510" target="drug:furosemide">
+      <data key="d2">506.0</data>
+      <data key="d3">503.0</data>
+    </edge>
+    <edge source="icd:10:I2510" target="drug:famotidine">
+      <data key="d2">10.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="icd:9:41071" target="drug:clopidogrel">
+      <data key="d2">1256.0</data>
+      <data key="d3">1229.0</data>
+    </edge>
+    <edge source="icd:9:41071" target="drug:furosemide">
+      <data key="d2">748.0</data>
+      <data key="d3">723.0</data>
+    </edge>
+    <edge source="icd:9:41071" target="drug:pantoprazole">
+      <data key="d2">159.0</data>
+      <data key="d3">153.0</data>
+    </edge>
+    <edge source="icd:9:41071" target="drug:lisinopril">
+      <data key="d2">513.0</data>
+      <data key="d3">499.0</data>
+    </edge>
+    <edge source="icd:9:41071" target="drug:omeprazole">
+      <data key="d2">43.0</data>
+      <data key="d3">40.0</data>
+    </edge>
+    <edge source="icd:9:41071" target="drug:trazodone">
+      <data key="d2">41.0</data>
+      <data key="d3">39.0</data>
+    </edge>
+    <edge source="icd:9:41071" target="drug:lorazepam">
+      <data key="d2">52.0</data>
+      <data key="d3">49.0</data>
+    </edge>
+    <edge source="icd:9:4241" target="drug:furosemide">
+      <data key="d2">920.0</data>
+      <data key="d3">869.0</data>
+    </edge>
+    <edge source="icd:9:4241" target="drug:lorazepam">
+      <data key="d2">10.0</data>
+      <data key="d3">7.0</data>
+    </edge>
+    <edge source="icd:9:4241" target="drug:simvastatin">
+      <data key="d2">20.0</data>
+      <data key="d3">18.0</data>
+    </edge>
+    <edge source="icd:9:4241" target="drug:ondansetron">
+      <data key="d2">22.0</data>
+      <data key="d3">22.0</data>
+    </edge>
+    <edge source="drug:lorazepam" target="icd:9:V5811">
+      <data key="d2">2035.0</data>
+      <data key="d3">847.0</data>
+    </edge>
+    <edge source="drug:lorazepam" target="icd:10:Z5111">
+      <data key="d2">2062.0</data>
+      <data key="d3">864.0</data>
+    </edge>
+    <edge source="drug:lorazepam" target="icd:9:0389">
+      <data key="d2">246.0</data>
+      <data key="d3">238.0</data>
+    </edge>
+    <edge source="drug:lorazepam" target="icd:9:25063">
+      <data key="d2">31.0</data>
+      <data key="d3">5.0</data>
+    </edge>
+    <edge source="drug:lorazepam" target="icd:9:5770">
+      <data key="d2">298.0</data>
+      <data key="d3">203.0</data>
+    </edge>
+    <edge source="drug:lorazepam" target="icd:9:78039">
+      <data key="d2">21.0</data>
+      <data key="d3">21.0</data>
+    </edge>
+    <edge source="drug:lorazepam" target="icd:9:34590">
+      <data key="d2">74.0</data>
+      <data key="d3">67.0</data>
+    </edge>
+    <edge source="drug:lorazepam" target="icd:10:I110">
+      <data key="d2">21.0</data>
+      <data key="d3">16.0</data>
+    </edge>
+    <edge source="drug:lorazepam" target="icd:9:V5812">
+      <data key="d2">120.0</data>
+      <data key="d3">59.0</data>
+    </edge>
+    <edge source="drug:lorazepam" target="icd:9:78701">
+      <data key="d2">10.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="drug:lorazepam" target="icd:9:78659">
+      <data key="d2">80.0</data>
+      <data key="d3">64.0</data>
+    </edge>
+    <edge source="drug:lorazepam" target="icd:9:486">
+      <data key="d2">176.0</data>
+      <data key="d3">165.0</data>
+    </edge>
+    <edge source="drug:lorazepam" target="icd:9:5609">
+      <data key="d2">32.0</data>
+      <data key="d3">23.0</data>
+    </edge>
+    <edge source="drug:lorazepam" target="icd:10:J441">
+      <data key="d2">11.0</data>
+      <data key="d3">6.0</data>
+    </edge>
+    <edge source="drug:lorazepam" target="icd:9:431">
+      <data key="d2">10.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="drug:lorazepam" target="icd:9:1983">
+      <data key="d2">26.0</data>
+      <data key="d3">23.0</data>
+    </edge>
+    <edge source="drug:lorazepam" target="icd:9:5849">
+      <data key="d2">31.0</data>
+      <data key="d3">27.0</data>
+    </edge>
+    <edge source="drug:lorazepam" target="icd:9:42731">
+      <data key="d2">22.0</data>
+      <data key="d3">20.0</data>
+    </edge>
+    <edge source="drug:lorazepam" target="icd:9:42833">
+      <data key="d2">10.0</data>
+      <data key="d3">6.0</data>
+    </edge>
+    <edge source="drug:lorazepam" target="icd:9:99859">
+      <data key="d2">56.0</data>
+      <data key="d3">41.0</data>
+    </edge>
+    <edge source="drug:lorazepam" target="icd:10:Z515">
+      <data key="d2">11.0</data>
+      <data key="d3">11.0</data>
+    </edge>
+    <edge source="drug:lorazepam" target="icd:9:29181">
+      <data key="d2">10.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="drug:lorazepam" target="icd:9:5990">
+      <data key="d2">21.0</data>
+      <data key="d3">19.0</data>
+    </edge>
+    <edge source="drug:lorazepam" target="icd:9:41519">
+      <data key="d2">10.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:lorazepam" target="icd:10:C241">
+      <data key="d2">10.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="drug:lorazepam" target="icd:10:Z516">
+      <data key="d2">10.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="drug:lorazepam" target="icd:9:42823">
+      <data key="d2">23.0</data>
+      <data key="d3">13.0</data>
+    </edge>
+    <edge source="drug:lorazepam" target="icd:10:C7931">
+      <data key="d2">11.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:lorazepam" target="icd:9:5363">
+      <data key="d2">11.0</data>
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="drug:lorazepam" target="icd:9:2798">
+      <data key="d2">12.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="drug:lorazepam" target="icd:10:K3184">
+      <data key="d2">25.0</data>
+      <data key="d3">6.0</data>
+    </edge>
+    <edge source="drug:lorazepam" target="icd:9:25061">
+      <data key="d2">10.0</data>
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="icd:9:V5811" target="drug:ondansetron">
+      <data key="d2">2516.0</data>
+      <data key="d3">1001.0</data>
+    </edge>
+    <edge source="icd:9:V5811" target="drug:acyclovir">
+      <data key="d2">1042.0</data>
+      <data key="d3">402.0</data>
+    </edge>
+    <edge source="icd:9:V5811" target="drug:famotidine">
+      <data key="d2">121.0</data>
+      <data key="d3">31.0</data>
+    </edge>
+    <edge source="icd:9:V5811" target="drug:gabapentin">
+      <data key="d2">83.0</data>
+      <data key="d3">26.0</data>
+    </edge>
+    <edge source="icd:9:V5811" target="drug:prednisone">
+      <data key="d2">247.0</data>
+      <data key="d3">81.0</data>
+    </edge>
+    <edge source="icd:9:V5811" target="drug:clonazepam">
+      <data key="d2">10.0</data>
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="icd:9:V5811" target="drug:pantoprazole">
+      <data key="d2">160.0</data>
+      <data key="d3">65.0</data>
+    </edge>
+    <edge source="icd:9:V5811" target="drug:levetiracetam">
+      <data key="d2">100.0</data>
+      <data key="d3">17.0</data>
+    </edge>
+    <edge source="icd:9:V5811" target="drug:simvastatin">
+      <data key="d2">13.0</data>
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="icd:9:V5811" target="drug:atenolol">
+      <data key="d2">12.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="icd:9:V5811" target="drug:omeprazole">
+      <data key="d2">148.0</data>
+      <data key="d3">66.0</data>
+    </edge>
+    <edge source="icd:9:V5811" target="drug:lisinopril">
+      <data key="d2">31.0</data>
+      <data key="d3">6.0</data>
+    </edge>
+    <edge source="icd:9:V5811" target="drug:furosemide">
+      <data key="d2">124.0</data>
+      <data key="d3">59.0</data>
+    </edge>
+    <edge source="icd:9:V5811" target="drug:methotrexate">
+      <data key="d2">249.0</data>
+      <data key="d3">49.0</data>
+    </edge>
+    <edge source="icd:9:V5811" target="drug:valsartan">
+      <data key="d2">12.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="icd:9:V5811" target="drug:ezetimibe">
+      <data key="d2">10.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="icd:9:V5811" target="drug:allopurinol">
+      <data key="d2">49.0</data>
+      <data key="d3">21.0</data>
+    </edge>
+    <edge source="icd:9:V5811" target="drug:sertraline">
+      <data key="d2">12.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="icd:9:V5811" target="drug:hydrochlorothiazide">
+      <data key="d2">10.0</data>
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="icd:9:V5811" target="drug:amlodipine">
+      <data key="d2">18.0</data>
+      <data key="d3">4.0</data>
+    </edge>
+    <edge source="icd:9:V5811" target="drug:trazodone">
+      <data key="d2">35.0</data>
+      <data key="d3">4.0</data>
+    </edge>
+    <edge source="icd:9:V5811" target="drug:citalopram">
+      <data key="d2">10.0</data>
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:10:Z5111">
+      <data key="d2">2808.0</data>
+      <data key="d3">1107.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:10:I671">
+      <data key="d2">651.0</data>
+      <data key="d3">601.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:0389">
+      <data key="d2">218.0</data>
+      <data key="d3">212.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:27801">
+      <data key="d2">638.0</data>
+      <data key="d3">638.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:5770">
+      <data key="d2">1731.0</data>
+      <data key="d3">1276.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:65421">
+      <data key="d2">909.0</data>
+      <data key="d3">909.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:99859">
+      <data key="d2">361.0</data>
+      <data key="d3">331.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:72210">
+      <data key="d2">179.0</data>
+      <data key="d3">169.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:10:O34211">
+      <data key="d2">165.0</data>
+      <data key="d3">165.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:1983">
+      <data key="d2">41.0</data>
+      <data key="d3">37.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:57400">
+      <data key="d2">51.0</data>
+      <data key="d3">50.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:25063">
+      <data key="d2">39.0</data>
+      <data key="d3">7.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:40301">
+      <data key="d2">12.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:56211">
+      <data key="d2">466.0</data>
+      <data key="d3">403.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:10:I350">
+      <data key="d2">251.0</data>
+      <data key="d3">249.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:25061">
+      <data key="d2">32.0</data>
+      <data key="d3">7.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:10:I25110">
+      <data key="d2">11.0</data>
+      <data key="d3">11.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:10:K9189">
+      <data key="d2">10.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:5849">
+      <data key="d2">407.0</data>
+      <data key="d3">389.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:71536">
+      <data key="d2">828.0</data>
+      <data key="d3">809.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:5609">
+      <data key="d2">197.0</data>
+      <data key="d3">175.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:10:E6601">
+      <data key="d2">87.0</data>
+      <data key="d3">87.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:5990">
+      <data key="d2">56.0</data>
+      <data key="d3">52.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:78701">
+      <data key="d2">103.0</data>
+      <data key="d3">92.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:5409">
+      <data key="d2">219.0</data>
+      <data key="d3">219.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:0088">
+      <data key="d2">165.0</data>
+      <data key="d3">160.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:71596">
+      <data key="d2">73.0</data>
+      <data key="d3">72.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:4373">
+      <data key="d2">41.0</data>
+      <data key="d3">35.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:5771">
+      <data key="d2">21.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:10:M1711">
+      <data key="d2">136.0</data>
+      <data key="d3">136.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:71535">
+      <data key="d2">125.0</data>
+      <data key="d3">122.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:78900">
+      <data key="d2">43.0</data>
+      <data key="d3">37.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:10:N179">
+      <data key="d2">202.0</data>
+      <data key="d3">186.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:10:N390">
+      <data key="d2">31.0</data>
+      <data key="d3">26.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:29181">
+      <data key="d2">20.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:486">
+      <data key="d2">147.0</data>
+      <data key="d3">140.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:10:K831">
+      <data key="d2">20.0</data>
+      <data key="d3">19.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:431">
+      <data key="d2">10.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:5762">
+      <data key="d2">20.0</data>
+      <data key="d3">19.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:78906">
+      <data key="d2">30.0</data>
+      <data key="d3">27.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:10:A084">
+      <data key="d2">10.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:25013">
+      <data key="d2">11.0</data>
+      <data key="d3">5.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:25060">
+      <data key="d2">14.0</data>
+      <data key="d3">4.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:00845">
+      <data key="d2">31.0</data>
+      <data key="d3">23.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:5589">
+      <data key="d2">10.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:78901">
+      <data key="d2">32.0</data>
+      <data key="d3">24.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:78659">
+      <data key="d2">12.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:57451">
+      <data key="d2">11.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:55321">
+      <data key="d2">32.0</data>
+      <data key="d3">32.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:64511">
+      <data key="d2">11.0</data>
+      <data key="d3">11.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:10:C241">
+      <data key="d2">10.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:10:M1611">
+      <data key="d2">10.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:57450">
+      <data key="d2">11.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:10:Z516">
+      <data key="d2">10.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:10:K8520">
+      <data key="d2">11.0</data>
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:65971">
+      <data key="d2">11.0</data>
+      <data key="d3">11.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:5761">
+      <data key="d2">14.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:10:M1712">
+      <data key="d2">33.0</data>
+      <data key="d3">33.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:10:K8590">
+      <data key="d2">24.0</data>
+      <data key="d3">18.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:042">
+      <data key="d2">12.0</data>
+      <data key="d3">5.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:10:C61">
+      <data key="d2">23.0</data>
+      <data key="d3">23.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:2798">
+      <data key="d2">13.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:5921">
+      <data key="d2">11.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:ondansetron" target="icd:9:56081">
+      <data key="d2">20.0</data>
+      <data key="d3">20.0</data>
+    </edge>
+    <edge source="icd:10:I671" target="drug:hydralazine">
+      <data key="d2">709.0</data>
+      <data key="d3">659.0</data>
+    </edge>
+    <edge source="icd:10:I671" target="drug:famotidine">
+      <data key="d2">280.0</data>
+      <data key="d3">260.0</data>
+    </edge>
+    <edge source="icd:10:I671" target="drug:clopidogrel">
+      <data key="d2">11.0</data>
+      <data key="d3">11.0</data>
+    </edge>
+    <edge source="drug:clopidogrel" target="icd:10:I350">
+      <data key="d2">113.0</data>
+      <data key="d3">107.0</data>
+    </edge>
+    <edge source="drug:clopidogrel" target="icd:9:42823">
+      <data key="d2">10.0</data>
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="drug:clopidogrel" target="icd:10:I130">
+      <data key="d2">75.0</data>
+      <data key="d3">48.0</data>
+    </edge>
+    <edge source="drug:clopidogrel" target="icd:10:I25110">
+      <data key="d2">279.0</data>
+      <data key="d3">260.0</data>
+    </edge>
+    <edge source="drug:clopidogrel" target="icd:9:44021">
+      <data key="d2">12.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="drug:clopidogrel" target="icd:9:78659">
+      <data key="d2">10.0</data>
+      <data key="d3">5.0</data>
+    </edge>
+    <edge source="drug:furosemide" target="icd:10:I130">
+      <data key="d2">2946.0</data>
+      <data key="d3">2318.0</data>
+    </edge>
+    <edge source="drug:furosemide" target="icd:10:I110">
+      <data key="d2">2096.0</data>
+      <data key="d3">1861.0</data>
+    </edge>
+    <edge source="drug:furosemide" target="icd:9:42823">
+      <data key="d2">1599.0</data>
+      <data key="d3">1268.0</data>
+    </edge>
+    <edge source="drug:furosemide" target="icd:9:42833">
+      <data key="d2">1968.0</data>
+      <data key="d3">1640.0</data>
+    </edge>
+    <edge source="drug:furosemide" target="icd:10:I350">
+      <data key="d2">228.0</data>
+      <data key="d3">216.0</data>
+    </edge>
+    <edge source="drug:furosemide" target="icd:10:K7031">
+      <data key="d2">144.0</data>
+      <data key="d3">99.0</data>
+    </edge>
+    <edge source="drug:furosemide" target="icd:9:5849">
+      <data key="d2">93.0</data>
+      <data key="d3">89.0</data>
+    </edge>
+    <edge source="drug:furosemide" target="icd:9:42731">
+      <data key="d2">634.0</data>
+      <data key="d3">578.0</data>
+    </edge>
+    <edge source="drug:furosemide" target="icd:9:0389">
+      <data key="d2">180.0</data>
+      <data key="d3">177.0</data>
+    </edge>
+    <edge source="drug:furosemide" target="icd:9:42843">
+      <data key="d2">106.0</data>
+      <data key="d3">87.0</data>
+    </edge>
+    <edge source="drug:furosemide" target="icd:9:486">
+      <data key="d2">247.0</data>
+      <data key="d3">235.0</data>
+    </edge>
+    <edge source="drug:furosemide" target="icd:9:78659">
+      <data key="d2">22.0</data>
+      <data key="d3">15.0</data>
+    </edge>
+    <edge source="drug:furosemide" target="icd:10:J441">
+      <data key="d2">10.0</data>
+      <data key="d3">5.0</data>
+    </edge>
+    <edge source="drug:furosemide" target="icd:10:I5023">
+      <data key="d2">191.0</data>
+      <data key="d3">143.0</data>
+    </edge>
+    <edge source="drug:furosemide" target="icd:10:I5033">
+      <data key="d2">267.0</data>
+      <data key="d3">229.0</data>
+    </edge>
+    <edge source="drug:furosemide" target="icd:10:I132">
+      <data key="d2">20.0</data>
+      <data key="d3">15.0</data>
+    </edge>
+    <edge source="drug:furosemide" target="icd:9:51881">
+      <data key="d2">22.0</data>
+      <data key="d3">19.0</data>
+    </edge>
+    <edge source="drug:furosemide" target="icd:9:6826">
+      <data key="d2">56.0</data>
+      <data key="d3">44.0</data>
+    </edge>
+    <edge source="drug:furosemide" target="icd:9:49322">
+      <data key="d2">20.0</data>
+      <data key="d3">13.0</data>
+    </edge>
+    <edge source="drug:furosemide" target="icd:10:U071">
+      <data key="d2">31.0</data>
+      <data key="d3">31.0</data>
+    </edge>
+    <edge source="drug:furosemide" target="icd:9:4240">
+      <data key="d2">31.0</data>
+      <data key="d3">30.0</data>
+    </edge>
+    <edge source="drug:furosemide" target="icd:9:4280">
+      <data key="d2">11.0</data>
+      <data key="d3">11.0</data>
+    </edge>
+    <edge source="drug:furosemide" target="icd:9:49121">
+      <data key="d2">21.0</data>
+      <data key="d3">12.0</data>
+    </edge>
+    <edge source="drug:furosemide" target="icd:10:J9601">
+      <data key="d2">10.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:furosemide" target="icd:9:5715">
+      <data key="d2">10.0</data>
+      <data key="d3">6.0</data>
+    </edge>
+    <edge source="drug:furosemide" target="icd:10:I25110">
+      <data key="d2">10.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:furosemide" target="icd:10:N390">
+      <data key="d2">12.0</data>
+      <data key="d3">8.0</data>
+    </edge>
+    <edge source="icd:9:42731" target="drug:warfarin">
+      <data key="d2">1329.0</data>
+      <data key="d3">1198.0</data>
+    </edge>
+    <edge source="icd:9:42731" target="drug:diltiazem">
+      <data key="d2">298.0</data>
+      <data key="d3">263.0</data>
+    </edge>
+    <edge source="icd:9:42731" target="drug:lisinopril">
+      <data key="d2">153.0</data>
+      <data key="d3">133.0</data>
+    </edge>
+    <edge source="icd:9:42731" target="drug:pantoprazole">
+      <data key="d2">11.0</data>
+      <data key="d3">8.0</data>
+    </edge>
+    <edge source="icd:9:42731" target="drug:omeprazole">
+      <data key="d2">182.0</data>
+      <data key="d3">171.0</data>
+    </edge>
+    <edge source="icd:9:42731" target="drug:trazodone">
+      <data key="d2">107.0</data>
+      <data key="d3">100.0</data>
+    </edge>
+    <edge source="icd:9:42731" target="drug:simvastatin">
+      <data key="d2">20.0</data>
+      <data key="d3">17.0</data>
+    </edge>
+    <edge source="icd:9:486" target="drug:gabapentin">
+      <data key="d2">98.0</data>
+      <data key="d3">85.0</data>
+    </edge>
+    <edge source="icd:9:486" target="drug:azithromycin">
+      <data key="d2">947.0</data>
+      <data key="d3">926.0</data>
+    </edge>
+    <edge source="icd:9:486" target="drug:trazodone">
+      <data key="d2">114.0</data>
+      <data key="d3">107.0</data>
+    </edge>
+    <edge source="icd:9:486" target="drug:pantoprazole">
+      <data key="d2">201.0</data>
+      <data key="d3">193.0</data>
+    </edge>
+    <edge source="icd:9:486" target="drug:prednisone">
+      <data key="d2">67.0</data>
+      <data key="d3">60.0</data>
+    </edge>
+    <edge source="icd:9:486" target="drug:omeprazole">
+      <data key="d2">147.0</data>
+      <data key="d3">133.0</data>
+    </edge>
+    <edge source="icd:9:486" target="drug:amlodipine">
+      <data key="d2">10.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="icd:9:486" target="drug:lisinopril">
+      <data key="d2">20.0</data>
+      <data key="d3">19.0</data>
+    </edge>
+    <edge source="icd:9:486" target="drug:benzonatate">
+      <data key="d2">43.0</data>
+      <data key="d3">40.0</data>
+    </edge>
+    <edge source="icd:9:486" target="drug:warfarin">
+      <data key="d2">11.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="icd:9:99859" target="drug:pantoprazole">
+      <data key="d2">24.0</data>
+      <data key="d3">15.0</data>
+    </edge>
+    <edge source="drug:hydralazine" target="icd:9:431">
+      <data key="d2">573.0</data>
+      <data key="d3">562.0</data>
+    </edge>
+    <edge source="drug:hydralazine" target="icd:10:I130">
+      <data key="d2">571.0</data>
+      <data key="d3">443.0</data>
+    </edge>
+    <edge source="drug:hydralazine" target="icd:9:40301">
+      <data key="d2">22.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="drug:hydralazine" target="icd:9:42823">
+      <data key="d2">15.0</data>
+      <data key="d3">6.0</data>
+    </edge>
+    <edge source="drug:hydralazine" target="icd:9:43491">
+      <data key="d2">194.0</data>
+      <data key="d3">190.0</data>
+    </edge>
+    <edge source="drug:hydralazine" target="icd:9:43411">
+      <data key="d2">160.0</data>
+      <data key="d3">159.0</data>
+    </edge>
+    <edge source="drug:hydralazine" target="icd:10:Z5111">
+      <data key="d2">25.0</data>
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="drug:hydralazine" target="icd:9:4373">
+      <data key="d2">13.0</data>
+      <data key="d3">11.0</data>
+    </edge>
+    <edge source="drug:hydralazine" target="icd:10:I63412">
+      <data key="d2">10.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:hydralazine" target="icd:10:I110">
+      <data key="d2">10.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="drug:hydralazine" target="icd:10:I639">
+      <data key="d2">10.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="icd:9:78659" target="drug:pantoprazole">
+      <data key="d2">352.0</data>
+      <data key="d3">286.0</data>
+    </edge>
+    <edge source="icd:9:78659" target="drug:lisinopril">
+      <data key="d2">213.0</data>
+      <data key="d3">192.0</data>
+    </edge>
+    <edge source="icd:9:78659" target="drug:simvastatin">
+      <data key="d2">85.0</data>
+      <data key="d3">71.0</data>
+    </edge>
+    <edge source="icd:9:78659" target="drug:gabapentin">
+      <data key="d2">53.0</data>
+      <data key="d3">41.0</data>
+    </edge>
+    <edge source="icd:9:78659" target="drug:omeprazole">
+      <data key="d2">178.0</data>
+      <data key="d3">169.0</data>
+    </edge>
+    <edge source="icd:9:78659" target="drug:warfarin">
+      <data key="d2">10.0</data>
+      <data key="d3">7.0</data>
+    </edge>
+    <edge source="icd:9:78659" target="drug:trazodone">
+      <data key="d2">59.0</data>
+      <data key="d3">41.0</data>
+    </edge>
+    <edge source="icd:9:78659" target="drug:amlodipine">
+      <data key="d2">21.0</data>
+      <data key="d3">14.0</data>
+    </edge>
+    <edge source="drug:warfarin" target="icd:9:41519">
+      <data key="d2">208.0</data>
+      <data key="d3">198.0</data>
+    </edge>
+    <edge source="drug:warfarin" target="icd:9:40301">
+      <data key="d2">16.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="drug:warfarin" target="icd:9:42823">
+      <data key="d2">177.0</data>
+      <data key="d3">146.0</data>
+    </edge>
+    <edge source="drug:warfarin" target="icd:9:42833">
+      <data key="d2">319.0</data>
+      <data key="d3">240.0</data>
+    </edge>
+    <edge source="drug:warfarin" target="icd:9:42732">
+      <data key="d2">20.0</data>
+      <data key="d3">19.0</data>
+    </edge>
+    <edge source="drug:warfarin" target="icd:10:I130">
+      <data key="d2">306.0</data>
+      <data key="d3">222.0</data>
+    </edge>
+    <edge source="drug:warfarin" target="icd:10:N179">
+      <data key="d2">10.0</data>
+      <data key="d3">6.0</data>
+    </edge>
+    <edge source="drug:warfarin" target="icd:10:I110">
+      <data key="d2">45.0</data>
+      <data key="d3">28.0</data>
+    </edge>
+    <edge source="drug:warfarin" target="icd:9:45341">
+      <data key="d2">10.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="drug:warfarin" target="icd:9:5849">
+      <data key="d2">21.0</data>
+      <data key="d3">19.0</data>
+    </edge>
+    <edge source="icd:10:Z5111" target="drug:acyclovir">
+      <data key="d2">1574.0</data>
+      <data key="d3">619.0</data>
+    </edge>
+    <edge source="icd:10:Z5111" target="drug:allopurinol">
+      <data key="d2">282.0</data>
+      <data key="d3">145.0</data>
+    </edge>
+    <edge source="icd:10:Z5111" target="drug:omeprazole">
+      <data key="d2">278.0</data>
+      <data key="d3">116.0</data>
+    </edge>
+    <edge source="icd:10:Z5111" target="drug:prednisone">
+      <data key="d2">259.0</data>
+      <data key="d3">108.0</data>
+    </edge>
+    <edge source="icd:10:Z5111" target="drug:famotidine">
+      <data key="d2">752.0</data>
+      <data key="d3">260.0</data>
+    </edge>
+    <edge source="icd:10:Z5111" target="drug:cetirizine">
+      <data key="d2">381.0</data>
+      <data key="d3">119.0</data>
+    </edge>
+    <edge source="icd:10:Z5111" target="drug:methotrexate">
+      <data key="d2">514.0</data>
+      <data key="d3">125.0</data>
+    </edge>
+    <edge source="icd:10:Z5111" target="drug:sertraline">
+      <data key="d2">39.0</data>
+      <data key="d3">7.0</data>
+    </edge>
+    <edge source="icd:10:Z5111" target="drug:levetiracetam">
+      <data key="d2">125.0</data>
+      <data key="d3">23.0</data>
+    </edge>
+    <edge source="icd:10:Z5111" target="drug:pantoprazole">
+      <data key="d2">134.0</data>
+      <data key="d3">44.0</data>
+    </edge>
+    <edge source="icd:10:Z5111" target="drug:gabapentin">
+      <data key="d2">50.0</data>
+      <data key="d3">16.0</data>
+    </edge>
+    <edge source="icd:10:Z5111" target="drug:amlodipine">
+      <data key="d2">161.0</data>
+      <data key="d3">40.0</data>
+    </edge>
+    <edge source="icd:10:Z5111" target="drug:lisinopril">
+      <data key="d2">23.0</data>
+      <data key="d3">12.0</data>
+    </edge>
+    <edge source="icd:10:Z5111" target="drug:trazodone">
+      <data key="d2">50.0</data>
+      <data key="d3">11.0</data>
+    </edge>
+    <edge source="icd:10:Z5111" target="drug:loratadine">
+      <data key="d2">10.0</data>
+      <data key="d3">5.0</data>
+    </edge>
+    <edge source="icd:10:Z5111" target="drug:apixaban">
+      <data key="d2">23.0</data>
+      <data key="d3">5.0</data>
+    </edge>
+    <edge source="icd:10:Z5111" target="drug:clonidine">
+      <data key="d2">11.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="icd:10:Z5111" target="drug:duloxetine">
+      <data key="d2">11.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="icd:10:Z5111" target="drug:mirtazapine">
+      <data key="d2">11.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="icd:10:Z5111" target="drug:montelukast">
+      <data key="d2">27.0</data>
+      <data key="d3">7.0</data>
+    </edge>
+    <edge source="icd:10:Z5111" target="drug:clonazepam">
+      <data key="d2">13.0</data>
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="icd:10:Z5111" target="drug:rivaroxaban">
+      <data key="d2">11.0</data>
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="icd:10:Z5111" target="drug:carvedilol">
+      <data key="d2">10.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="icd:10:Z5111" target="drug:alprazolam">
+      <data key="d2">12.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="icd:10:Z5111" target="drug:tramadol">
+      <data key="d2">10.0</data>
+      <data key="d3">5.0</data>
+    </edge>
+    <edge source="icd:10:I130" target="drug:pantoprazole">
+      <data key="d2">204.0</data>
+      <data key="d3">147.0</data>
+    </edge>
+    <edge source="icd:10:I130" target="drug:amlodipine">
+      <data key="d2">348.0</data>
+      <data key="d3">251.0</data>
+    </edge>
+    <edge source="icd:10:I130" target="drug:omeprazole">
+      <data key="d2">390.0</data>
+      <data key="d3">286.0</data>
+    </edge>
+    <edge source="icd:10:I130" target="drug:lisinopril">
+      <data key="d2">43.0</data>
+      <data key="d3">35.0</data>
+    </edge>
+    <edge source="icd:10:I130" target="drug:allopurinol">
+      <data key="d2">219.0</data>
+      <data key="d3">147.0</data>
+    </edge>
+    <edge source="icd:10:I130" target="drug:carvedilol">
+      <data key="d2">328.0</data>
+      <data key="d3">244.0</data>
+    </edge>
+    <edge source="icd:10:I130" target="drug:gabapentin">
+      <data key="d2">202.0</data>
+      <data key="d3">146.0</data>
+    </edge>
+    <edge source="icd:10:I130" target="drug:apixaban">
+      <data key="d2">308.0</data>
+      <data key="d3">227.0</data>
+    </edge>
+    <edge source="icd:10:I130" target="drug:prednisone">
+      <data key="d2">32.0</data>
+      <data key="d3">20.0</data>
+    </edge>
+    <edge source="icd:10:I130" target="drug:ferrous sulfate">
+      <data key="d2">91.0</data>
+      <data key="d3">67.0</data>
+    </edge>
+    <edge source="icd:10:I130" target="drug:cyanocobalamin">
+      <data key="d2">10.0</data>
+      <data key="d3">6.0</data>
+    </edge>
+    <edge source="icd:10:I130" target="drug:tamsulosin">
+      <data key="d2">13.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="icd:10:I130" target="drug:trazodone">
+      <data key="d2">90.0</data>
+      <data key="d3">58.0</data>
+    </edge>
+    <edge source="icd:10:I130" target="drug:pravastatin">
+      <data key="d2">10.0</data>
+      <data key="d3">4.0</data>
+    </edge>
+    <edge source="icd:10:I130" target="drug:spironolactone">
+      <data key="d2">33.0</data>
+      <data key="d3">24.0</data>
+    </edge>
+    <edge source="icd:10:I130" target="drug:finasteride">
+      <data key="d2">13.0</data>
+      <data key="d3">8.0</data>
+    </edge>
+    <edge source="icd:10:I130" target="drug:folic acid">
+      <data key="d2">21.0</data>
+      <data key="d3">14.0</data>
+    </edge>
+    <edge source="icd:10:I130" target="drug:tramadol">
+      <data key="d2">10.0</data>
+      <data key="d3">4.0</data>
+    </edge>
+    <edge source="icd:9:0389" target="drug:pantoprazole">
+      <data key="d2">499.0</data>
+      <data key="d3">487.0</data>
+    </edge>
+    <edge source="icd:9:0389" target="drug:famotidine">
+      <data key="d2">212.0</data>
+      <data key="d3">207.0</data>
+    </edge>
+    <edge source="icd:9:0389" target="drug:omeprazole">
+      <data key="d2">68.0</data>
+      <data key="d3">65.0</data>
+    </edge>
+    <edge source="icd:9:0389" target="drug:gabapentin">
+      <data key="d2">11.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="icd:10:I25110" target="drug:lisinopril">
+      <data key="d2">23.0</data>
+      <data key="d3">18.0</data>
+    </edge>
+    <edge source="icd:10:I25110" target="drug:amlodipine">
+      <data key="d2">21.0</data>
+      <data key="d3">20.0</data>
+    </edge>
+    <edge source="icd:10:I25110" target="drug:pantoprazole">
+      <data key="d2">10.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="icd:9:5849" target="drug:pantoprazole">
+      <data key="d2">363.0</data>
+      <data key="d3">334.0</data>
+    </edge>
+    <edge source="icd:9:5849" target="drug:omeprazole">
+      <data key="d2">219.0</data>
+      <data key="d3">202.0</data>
+    </edge>
+    <edge source="icd:9:5849" target="drug:prednisone">
+      <data key="d2">10.0</data>
+      <data key="d3">8.0</data>
+    </edge>
+    <edge source="icd:9:5849" target="drug:gabapentin">
+      <data key="d2">43.0</data>
+      <data key="d3">36.0</data>
+    </edge>
+    <edge source="icd:9:5849" target="drug:amlodipine">
+      <data key="d2">52.0</data>
+      <data key="d3">48.0</data>
+    </edge>
+    <edge source="icd:9:5849" target="drug:tamsulosin">
+      <data key="d2">21.0</data>
+      <data key="d3">16.0</data>
+    </edge>
+    <edge source="icd:9:5849" target="drug:trazodone">
+      <data key="d2">24.0</data>
+      <data key="d3">22.0</data>
+    </edge>
+    <edge source="icd:9:5849" target="drug:simvastatin">
+      <data key="d2">44.0</data>
+      <data key="d3">44.0</data>
+    </edge>
+    <edge source="icd:9:5849" target="drug:ferrous sulfate">
+      <data key="d2">21.0</data>
+      <data key="d3">19.0</data>
+    </edge>
+    <edge source="icd:9:72210" target="drug:gabapentin">
+      <data key="d2">11.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="icd:10:I110" target="drug:apixaban">
+      <data key="d2">148.0</data>
+      <data key="d3">118.0</data>
+    </edge>
+    <edge source="icd:10:I110" target="drug:omeprazole">
+      <data key="d2">173.0</data>
+      <data key="d3">136.0</data>
+    </edge>
+    <edge source="icd:10:I110" target="drug:lisinopril">
+      <data key="d2">99.0</data>
+      <data key="d3">84.0</data>
+    </edge>
+    <edge source="icd:10:I110" target="drug:spironolactone">
+      <data key="d2">101.0</data>
+      <data key="d3">72.0</data>
+    </edge>
+    <edge source="icd:10:I110" target="drug:gabapentin">
+      <data key="d2">90.0</data>
+      <data key="d3">61.0</data>
+    </edge>
+    <edge source="icd:10:I110" target="drug:amlodipine">
+      <data key="d2">31.0</data>
+      <data key="d3">25.0</data>
+    </edge>
+    <edge source="icd:10:I110" target="drug:tamsulosin">
+      <data key="d2">11.0</data>
+      <data key="d3">8.0</data>
+    </edge>
+    <edge source="icd:10:I110" target="drug:carvedilol">
+      <data key="d2">21.0</data>
+      <data key="d3">17.0</data>
+    </edge>
+    <edge source="icd:10:I110" target="drug:pantoprazole">
+      <data key="d2">10.0</data>
+      <data key="d3">7.0</data>
+    </edge>
+    <edge source="icd:10:I110" target="drug:trazodone">
+      <data key="d2">10.0</data>
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="drug:simvastatin" target="icd:9:42833">
+      <data key="d2">64.0</data>
+      <data key="d3">45.0</data>
+    </edge>
+    <edge source="drug:simvastatin" target="icd:9:7802">
+      <data key="d2">10.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:simvastatin" target="icd:9:43491">
+      <data key="d2">10.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:simvastatin" target="icd:9:5990">
+      <data key="d2">10.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="drug:simvastatin" target="icd:9:43411">
+      <data key="d2">12.0</data>
+      <data key="d3">12.0</data>
+    </edge>
+    <edge source="drug:simvastatin" target="icd:9:42823">
+      <data key="d2">10.0</data>
+      <data key="d3">8.0</data>
+    </edge>
+    <edge source="icd:10:N179" target="drug:omeprazole">
+      <data key="d2">176.0</data>
+      <data key="d3">165.0</data>
+    </edge>
+    <edge source="icd:10:N179" target="drug:pantoprazole">
+      <data key="d2">43.0</data>
+      <data key="d3">38.0</data>
+    </edge>
+    <edge source="icd:10:N179" target="drug:tamsulosin">
+      <data key="d2">26.0</data>
+      <data key="d3">24.0</data>
+    </edge>
+    <edge source="icd:10:N179" target="drug:prednisone">
+      <data key="d2">11.0</data>
+      <data key="d3">8.0</data>
+    </edge>
+    <edge source="icd:10:N179" target="drug:amlodipine">
+      <data key="d2">56.0</data>
+      <data key="d3">53.0</data>
+    </edge>
+    <edge source="icd:10:N179" target="drug:carvedilol">
+      <data key="d2">13.0</data>
+      <data key="d3">11.0</data>
+    </edge>
+    <edge source="icd:10:N179" target="drug:gabapentin">
+      <data key="d2">34.0</data>
+      <data key="d3">31.0</data>
+    </edge>
+    <edge source="icd:10:N179" target="drug:folic acid">
+      <data key="d2">14.0</data>
+      <data key="d3">13.0</data>
+    </edge>
+    <edge source="icd:9:27801" target="drug:famotidine">
+      <data key="d2">665.0</data>
+      <data key="d3">665.0</data>
+    </edge>
+    <edge source="icd:9:64511" target="drug:ibuprofen">
+      <data key="d2">1048.0</data>
+      <data key="d3">1048.0</data>
+    </edge>
+    <edge source="drug:famotidine" target="icd:10:E6601">
+      <data key="d2">86.0</data>
+      <data key="d3">86.0</data>
+    </edge>
+    <edge source="drug:famotidine" target="icd:9:431">
+      <data key="d2">122.0</data>
+      <data key="d3">121.0</data>
+    </edge>
+    <edge source="drug:famotidine" target="icd:9:4373">
+      <data key="d2">11.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:famotidine" target="icd:10:C7931">
+      <data key="d2">10.0</data>
+      <data key="d3">6.0</data>
+    </edge>
+    <edge source="drug:famotidine" target="icd:10:C241">
+      <data key="d2">10.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="drug:famotidine" target="icd:10:Z516">
+      <data key="d2">10.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="icd:9:5770" target="drug:folic acid">
+      <data key="d2">47.0</data>
+      <data key="d3">21.0</data>
+    </edge>
+    <edge source="icd:9:5770" target="drug:omeprazole">
+      <data key="d2">55.0</data>
+      <data key="d3">37.0</data>
+    </edge>
+    <edge source="icd:9:5770" target="drug:pantoprazole">
+      <data key="d2">451.0</data>
+      <data key="d3">352.0</data>
+    </edge>
+    <edge source="icd:9:5770" target="drug:amlodipine">
+      <data key="d2">13.0</data>
+      <data key="d3">5.0</data>
+    </edge>
+    <edge source="icd:9:5770" target="drug:lisinopril">
+      <data key="d2">12.0</data>
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="icd:9:5770" target="drug:amitriptyline">
+      <data key="d2">12.0</data>
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="icd:9:5770" target="drug:trazodone">
+      <data key="d2">42.0</data>
+      <data key="d3">22.0</data>
+    </edge>
+    <edge source="icd:9:5770" target="drug:gabapentin">
+      <data key="d2">11.0</data>
+      <data key="d3">7.0</data>
+    </edge>
+    <edge source="drug:pantoprazole" target="icd:9:5722">
+      <data key="d2">34.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:pantoprazole" target="icd:9:5789">
+      <data key="d2">280.0</data>
+      <data key="d3">254.0</data>
+    </edge>
+    <edge source="drug:pantoprazole" target="icd:9:40301">
+      <data key="d2">16.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="drug:pantoprazole" target="icd:9:25063">
+      <data key="d2">13.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="drug:pantoprazole" target="icd:9:5609">
+      <data key="d2">60.0</data>
+      <data key="d3">49.0</data>
+    </edge>
+    <edge source="drug:pantoprazole" target="icd:10:K7031">
+      <data key="d2">153.0</data>
+      <data key="d3">105.0</data>
+    </edge>
+    <edge source="drug:pantoprazole" target="icd:9:5715">
+      <data key="d2">10.0</data>
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="drug:pantoprazole" target="icd:9:42823">
+      <data key="d2">20.0</data>
+      <data key="d3">11.0</data>
+    </edge>
+    <edge source="drug:pantoprazole" target="icd:9:42833">
+      <data key="d2">108.0</data>
+      <data key="d3">76.0</data>
+    </edge>
+    <edge source="drug:pantoprazole" target="icd:10:K921">
+      <data key="d2">145.0</data>
+      <data key="d3">134.0</data>
+    </edge>
+    <edge source="drug:pantoprazole" target="icd:9:71536">
+      <data key="d2">167.0</data>
+      <data key="d3">165.0</data>
+    </edge>
+    <edge source="drug:pantoprazole" target="icd:10:K922">
+      <data key="d2">20.0</data>
+      <data key="d3">20.0</data>
+    </edge>
+    <edge source="drug:pantoprazole" target="icd:10:K31811">
+      <data key="d2">10.0</data>
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="drug:pantoprazole" target="icd:9:7802">
+      <data key="d2">20.0</data>
+      <data key="d3">15.0</data>
+    </edge>
+    <edge source="drug:pantoprazole" target="icd:9:29181">
+      <data key="d2">11.0</data>
+      <data key="d3">6.0</data>
+    </edge>
+    <edge source="drug:pantoprazole" target="icd:10:J398">
+      <data key="d2">25.0</data>
+      <data key="d3">4.0</data>
+    </edge>
+    <edge source="drug:pantoprazole" target="icd:9:25060">
+      <data key="d2">14.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="drug:pantoprazole" target="icd:10:J189">
+      <data key="d2">11.0</data>
+      <data key="d3">7.0</data>
+    </edge>
+    <edge source="drug:pantoprazole" target="icd:9:0088">
+      <data key="d2">10.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="drug:pantoprazole" target="icd:9:5761">
+      <data key="d2">11.0</data>
+      <data key="d3">4.0</data>
+    </edge>
+    <edge source="drug:pantoprazole" target="icd:9:5712">
+      <data key="d2">12.0</data>
+      <data key="d3">8.0</data>
+    </edge>
+    <edge source="drug:pantoprazole" target="icd:9:5990">
+      <data key="d2">11.0</data>
+      <data key="d3">11.0</data>
+    </edge>
+    <edge source="drug:pantoprazole" target="icd:9:25541">
+      <data key="d2">10.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="drug:pantoprazole" target="icd:10:K8520">
+      <data key="d2">11.0</data>
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="drug:pantoprazole" target="icd:9:78906">
+      <data key="d2">10.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:pantoprazole" target="icd:9:41519">
+      <data key="d2">10.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="drug:pantoprazole" target="icd:10:M1712">
+      <data key="d2">21.0</data>
+      <data key="d3">21.0</data>
+    </edge>
+    <edge source="drug:pantoprazole" target="icd:9:1983">
+      <data key="d2">10.0</data>
+      <data key="d3">8.0</data>
+    </edge>
+    <edge source="icd:9:5990" target="drug:omeprazole">
+      <data key="d2">110.0</data>
+      <data key="d3">103.0</data>
+    </edge>
+    <edge source="icd:9:5990" target="drug:gabapentin">
+      <data key="d2">20.0</data>
+      <data key="d3">14.0</data>
+    </edge>
+    <edge source="icd:9:5990" target="drug:amlodipine">
+      <data key="d2">11.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="icd:9:5990" target="drug:lisinopril">
+      <data key="d2">20.0</data>
+      <data key="d3">18.0</data>
+    </edge>
+    <edge source="icd:9:5990" target="drug:trazodone">
+      <data key="d2">11.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="icd:9:5990" target="drug:ferrous sulfate">
+      <data key="d2">10.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:lisinopril" target="icd:9:42823">
+      <data key="d2">116.0</data>
+      <data key="d3">91.0</data>
+    </edge>
+    <edge source="drug:lisinopril" target="icd:9:7802">
+      <data key="d2">10.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="drug:lisinopril" target="icd:9:25060">
+      <data key="d2">14.0</data>
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="drug:lisinopril" target="icd:9:42833">
+      <data key="d2">39.0</data>
+      <data key="d3">24.0</data>
+    </edge>
+    <edge source="drug:lisinopril" target="icd:9:49322">
+      <data key="d2">11.0</data>
+      <data key="d3">5.0</data>
+    </edge>
+    <edge source="drug:lisinopril" target="icd:9:71536">
+      <data key="d2">10.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="icd:9:42823" target="drug:spironolactone">
+      <data key="d2">10.0</data>
+      <data key="d3">5.0</data>
+    </edge>
+    <edge source="icd:9:42823" target="drug:trazodone">
+      <data key="d2">56.0</data>
+      <data key="d3">40.0</data>
+    </edge>
+    <edge source="icd:9:42823" target="drug:carvedilol">
+      <data key="d2">82.0</data>
+      <data key="d3">57.0</data>
+    </edge>
+    <edge source="icd:9:42823" target="drug:omeprazole">
+      <data key="d2">86.0</data>
+      <data key="d3">62.0</data>
+    </edge>
+    <edge source="icd:10:N390" target="drug:omeprazole">
+      <data key="d2">97.0</data>
+      <data key="d3">80.0</data>
+    </edge>
+    <edge source="icd:10:N390" target="drug:gabapentin">
+      <data key="d2">11.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="icd:9:42833" target="drug:omeprazole">
+      <data key="d2">89.0</data>
+      <data key="d3">71.0</data>
+    </edge>
+    <edge source="icd:9:42833" target="drug:carvedilol">
+      <data key="d2">22.0</data>
+      <data key="d3">13.0</data>
+    </edge>
+    <edge source="icd:9:42833" target="drug:amlodipine">
+      <data key="d2">33.0</data>
+      <data key="d3">25.0</data>
+    </edge>
+    <edge source="icd:9:42833" target="drug:pravastatin">
+      <data key="d2">10.0</data>
+      <data key="d3">5.0</data>
+    </edge>
+    <edge source="icd:9:42833" target="drug:trazodone">
+      <data key="d2">10.0</data>
+      <data key="d3">8.0</data>
+    </edge>
+    <edge source="icd:9:42833" target="drug:gabapentin">
+      <data key="d2">23.0</data>
+      <data key="d3">15.0</data>
+    </edge>
+    <edge source="icd:9:42833" target="drug:ferrous sulfate">
+      <data key="d2">10.0</data>
+      <data key="d3">7.0</data>
+    </edge>
+    <edge source="icd:9:42833" target="drug:valsartan">
+      <data key="d2">10.0</data>
+      <data key="d3">4.0</data>
+    </edge>
+    <edge source="drug:gabapentin" target="icd:9:40301">
+      <data key="d2">12.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="drug:gabapentin" target="icd:9:29181">
+      <data key="d2">10.0</data>
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="drug:gabapentin" target="icd:10:E1152">
+      <data key="d2">12.0</data>
+      <data key="d3">7.0</data>
+    </edge>
+    <edge source="drug:gabapentin" target="icd:9:25060">
+      <data key="d2">15.0</data>
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="drug:gabapentin" target="icd:10:J189">
+      <data key="d2">10.0</data>
+      <data key="d3">6.0</data>
+    </edge>
+    <edge source="drug:gabapentin" target="icd:10:I5023">
+      <data key="d2">12.0</data>
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="drug:gabapentin" target="icd:10:J690">
+      <data key="d2">11.0</data>
+      <data key="d3">5.0</data>
+    </edge>
+    <edge source="drug:gabapentin" target="icd:9:44024">
+      <data key="d2">11.0</data>
+      <data key="d3">6.0</data>
+    </edge>
+    <edge source="drug:gabapentin" target="icd:9:25063">
+      <data key="d2">11.0</data>
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="drug:gabapentin" target="icd:9:49322">
+      <data key="d2">13.0</data>
+      <data key="d3">5.0</data>
+    </edge>
+    <edge source="drug:gabapentin" target="icd:10:M1712">
+      <data key="d2">12.0</data>
+      <data key="d3">12.0</data>
+    </edge>
+    <edge source="drug:gabapentin" target="icd:10:D5700">
+      <data key="d2">10.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="icd:10:J189" target="drug:azithromycin">
+      <data key="d2">890.0</data>
+      <data key="d3">878.0</data>
+    </edge>
+    <edge source="icd:10:J189" target="drug:omeprazole">
+      <data key="d2">97.0</data>
+      <data key="d3">92.0</data>
+    </edge>
+    <edge source="icd:10:J189" target="drug:benzonatate">
+      <data key="d2">10.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="icd:10:J189" target="drug:prednisone">
+      <data key="d2">10.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="drug:ibuprofen" target="icd:9:66411">
+      <data key="d2">873.0</data>
+      <data key="d3">873.0</data>
+    </edge>
+    <edge source="drug:ibuprofen" target="icd:9:65421">
+      <data key="d2">1016.0</data>
+      <data key="d3">1016.0</data>
+    </edge>
+    <edge source="drug:ibuprofen" target="icd:10:O34211">
+      <data key="d2">256.0</data>
+      <data key="d3">256.0</data>
+    </edge>
+    <edge source="drug:ibuprofen" target="icd:9:65811">
+      <data key="d2">128.0</data>
+      <data key="d3">128.0</data>
+    </edge>
+    <edge source="drug:ibuprofen" target="icd:9:66401">
+      <data key="d2">145.0</data>
+      <data key="d3">145.0</data>
+    </edge>
+    <edge source="drug:ibuprofen" target="icd:10:O480">
+      <data key="d2">293.0</data>
+      <data key="d3">293.0</data>
+    </edge>
+    <edge source="drug:ibuprofen" target="icd:9:65971">
+      <data key="d2">62.0</data>
+      <data key="d3">62.0</data>
+    </edge>
+    <edge source="drug:ibuprofen" target="icd:9:2189">
+      <data key="d2">10.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:ibuprofen" target="icd:9:64891">
+      <data key="d2">244.0</data>
+      <data key="d3">244.0</data>
+    </edge>
+    <edge source="drug:ibuprofen" target="icd:10:O701">
+      <data key="d2">43.0</data>
+      <data key="d3">43.0</data>
+    </edge>
+    <edge source="drug:ibuprofen" target="icd:10:O134">
+      <data key="d2">21.0</data>
+      <data key="d3">21.0</data>
+    </edge>
+    <edge source="drug:ibuprofen" target="icd:10:O99824">
+      <data key="d2">46.0</data>
+      <data key="d3">46.0</data>
+    </edge>
+    <edge source="drug:ibuprofen" target="icd:10:O4202">
+      <data key="d2">30.0</data>
+      <data key="d3">30.0</data>
+    </edge>
+    <edge source="drug:ibuprofen" target="icd:9:65801">
+      <data key="d2">10.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:folic acid" target="icd:10:K7031">
+      <data key="d2">367.0</data>
+      <data key="d3">254.0</data>
+    </edge>
+    <edge source="drug:folic acid" target="icd:9:29181">
+      <data key="d2">421.0</data>
+      <data key="d3">320.0</data>
+    </edge>
+    <edge source="drug:folic acid" target="icd:10:F10239">
+      <data key="d2">64.0</data>
+      <data key="d3">52.0</data>
+    </edge>
+    <edge source="drug:folic acid" target="icd:10:K7011">
+      <data key="d2">11.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="drug:folic acid" target="icd:10:D5700">
+      <data key="d2">20.0</data>
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="drug:folic acid" target="icd:10:I5023">
+      <data key="d2">12.0</data>
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="drug:folic acid" target="icd:10:K7040">
+      <data key="d2">10.0</data>
+      <data key="d3">8.0</data>
+    </edge>
+    <edge source="drug:folic acid" target="icd:10:K8520">
+      <data key="d2">10.0</data>
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="drug:folic acid" target="icd:9:49121">
+      <data key="d2">24.0</data>
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="icd:10:K7031" target="drug:spironolactone">
+      <data key="d2">36.0</data>
+      <data key="d3">24.0</data>
+    </edge>
+    <edge source="icd:10:K7031" target="drug:omeprazole">
+      <data key="d2">10.0</data>
+      <data key="d3">7.0</data>
+    </edge>
+    <edge source="icd:10:U071" target="drug:benzonatate">
+      <data key="d2">61.0</data>
+      <data key="d3">59.0</data>
+    </edge>
+    <edge source="icd:10:U071" target="drug:omeprazole">
+      <data key="d2">22.0</data>
+      <data key="d3">22.0</data>
+    </edge>
+    <edge source="icd:10:U071" target="drug:azithromycin">
+      <data key="d2">21.0</data>
+      <data key="d3">21.0</data>
+    </edge>
+    <edge source="drug:prednisone" target="icd:9:49121">
+      <data key="d2">557.0</data>
+      <data key="d3">434.0</data>
+    </edge>
+    <edge source="drug:prednisone" target="icd:10:J441">
+      <data key="d2">622.0</data>
+      <data key="d3">495.0</data>
+    </edge>
+    <edge source="drug:prednisone" target="icd:9:49322">
+      <data key="d2">194.0</data>
+      <data key="d3">134.0</data>
+    </edge>
+    <edge source="drug:prednisone" target="icd:9:49392">
+      <data key="d2">75.0</data>
+      <data key="d3">63.0</data>
+    </edge>
+    <edge source="drug:prednisone" target="icd:10:J398">
+      <data key="d2">10.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="drug:prednisone" target="icd:10:J45901">
+      <data key="d2">31.0</data>
+      <data key="d3">24.0</data>
+    </edge>
+    <edge source="icd:9:5722" target="drug:spironolactone">
+      <data key="d2">11.0</data>
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="drug:omeprazole" target="icd:10:I480">
+      <data key="d2">31.0</data>
+      <data key="d3">28.0</data>
+    </edge>
+    <edge source="drug:omeprazole" target="icd:9:49121">
+      <data key="d2">10.0</data>
+      <data key="d3">7.0</data>
+    </edge>
+    <edge source="drug:omeprazole" target="icd:10:I132">
+      <data key="d2">11.0</data>
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="drug:omeprazole" target="icd:10:K7290">
+      <data key="d2">10.0</data>
+      <data key="d3">9.0</data>
+    </edge>
+    <edge source="drug:omeprazole" target="icd:10:J441">
+      <data key="d2">11.0</data>
+      <data key="d3">6.0</data>
+    </edge>
+    <edge source="drug:omeprazole" target="icd:10:K3184">
+      <data key="d2">21.0</data>
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="icd:9:1983" target="drug:levetiracetam">
+      <data key="d2">42.0</data>
+      <data key="d3">33.0</data>
+    </edge>
+    <edge source="icd:10:C7931" target="drug:levetiracetam">
+      <data key="d2">77.0</data>
+      <data key="d3">61.0</data>
+    </edge>
+    <edge source="icd:10:S065X0A" target="drug:levetiracetam">
+      <data key="d2">42.0</data>
+      <data key="d3">40.0</data>
+    </edge>
+    <edge source="drug:levetiracetam" target="icd:10:S065X9A">
+      <data key="d2">10.0</data>
+      <data key="d3">10.0</data>
+    </edge>
+    <edge source="drug:levetiracetam" target="icd:9:34590">
+      <data key="d2">20.0</data>
+      <data key="d3">19.0</data>
+    </edge>
+    <edge source="drug:azithromycin" target="icd:9:49121">
+      <data key="d2">338.0</data>
+      <data key="d3">266.0</data>
+    </edge>
+    <edge source="drug:azithromycin" target="icd:10:J441">
+      <data key="d2">388.0</data>
+      <data key="d3">313.0</data>
+    </edge>
+    <edge source="drug:azithromycin" target="icd:9:49322">
+      <data key="d2">83.0</data>
+      <data key="d3">57.0</data>
+    </edge>
+    <edge source="drug:cetirizine" target="icd:10:C241">
+      <data key="d2">10.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="drug:cetirizine" target="icd:10:Z516">
+      <data key="d2">10.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="drug:amlodipine" target="icd:10:I132">
+      <data key="d2">12.0</data>
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="drug:amlodipine" target="icd:9:49121">
+      <data key="d2">11.0</data>
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="drug:amlodipine" target="icd:10:K3184">
+      <data key="d2">12.0</data>
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="drug:sertraline" target="icd:9:25060">
+      <data key="d2">14.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="drug:sertraline" target="icd:10:K8520">
+      <data key="d2">10.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="icd:10:I132" target="drug:carvedilol">
+      <data key="d2">13.0</data>
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="icd:10:I132" target="drug:paroxetine">
+      <data key="d2">10.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="icd:10:I480" target="drug:apixaban">
+      <data key="d2">54.0</data>
+      <data key="d3">53.0</data>
+    </edge>
+    <edge source="icd:10:D5700" target="drug:citalopram">
+      <data key="d2">10.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="icd:10:C241" target="drug:montelukast">
+      <data key="d2">10.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="drug:buspirone" target="icd:10:K8520">
+      <data key="d2">11.0</data>
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="icd:10:K8520" target="drug:hydroxyzine">
+      <data key="d2">10.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="drug:hydroxyzine" target="icd:9:2798">
+      <data key="d2">10.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="drug:duloxetine" target="icd:9:2798">
+      <data key="d2">10.0</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="icd:10:K3184" target="drug:pregabalin">
+      <data key="d2">14.0</data>
+      <data key="d3">2.0</data>
+    </edge>
+  </graph>
+</graphml>
