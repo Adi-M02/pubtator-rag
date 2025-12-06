@@ -21,6 +21,8 @@ RUN_DIR.mkdir(parents=True, exist_ok=True)
 LOG_PATH = RUN_DIR / f"pipeline_{RUN_ID}.log"
 JSON_PATH = RUN_DIR / f"pipeline_{RUN_ID}.json"
 CSV_PATH  = RUN_DIR / f"pipeline_{RUN_ID}_summary.csv"
+REL_JSON_PATH = RUN_DIR / f"pipeline_{RUN_ID}_relations_stage3.json"
+REL_CSV_PATH  = RUN_DIR / f"pipeline_{RUN_ID}_relations_stage3.csv"
 
 logging.basicConfig(
     level=logging.INFO,
@@ -47,6 +49,7 @@ def _chem_id_for(name: str) -> str:
     return "@CHEMICAL_" + re.sub(r"[^a-z0-9]+", "_", name.lower()).strip("_")
 
 HARDCODED_DRUGS = ["Atorvastatin", "Metformin", "Levothyroxine", "Lisinopril", "Amlodipine", "Metoprolol", "Albuterol", "Losartan", "Gabapentin", "Omeprazole", "Sertraline", "Rosuvastatin", "Pantoprazole", "Escitalopram", "Dextroamphetamine", "Hydrochlorothiazide", "Bupropion", "Fluoxetine", "Semaglutide", "Montelukast", "Trazodone", "Simvastatin", "Amoxicillin", "Tamsulosin", "Hydrocodone", "Fluticasone", "Meloxicam", "Apixaban", "Furosemide", "Insulin Glargine", "Duloxetine", "Ibuprofen", "Famotidine", "Empagliflozin", "Carvedilol", "Tramadol", "Alprazolam", "Prednisone", "Hydroxyzine", "Buspirone", "Clopidogrel", "Glipizide", "Citalopram", "Potassium Chloride", "Allopurinol", "Aspirin", "Cyclobenzaprine", "Ergocalciferol", "Oxycodone", "Methylphenidate", "Venlafaxine", "Spironolactone", "Ondansetron", "Zolpidem", "Cetirizine", "Estradiol", "Pravastatin", "Lamotrigine", "Quetiapine", "Salmeterol", "Clonazepam", "Dulaglutide", "Azithromycin", "Clavulanate", "Latanoprost", "Cholecalciferol", "Propranolol", "Ezetimibe", "Topiramate", "Paroxetine", "Diclofenac", "Formoterol", "Atenolol", "Lisdexamfetamine", "Doxycycline", "Pregabalin", "Norethindrone", "Glimepiride", "Tizanidine", "Clonidine", "Fenofibrate", "Insulin Lispro", "Valsartan", "Cephalexin", "Baclofen", "Rivaroxaban", "Ferrous Sulfate", "Amitriptyline", "Finasteride", "Dapagliflozin", "Folic Acid", "Aripiprazole", "Olmesartan", "Norgestimate", "Valacyclovir", "Mirtazapine", "Lorazepam", "Levetiracetam", "Insulin Aspart", "Naproxen", "Cyanocobalamin", "Loratadine", "Diltiazem", "Sumatriptan", "Triamcinolone", "Hydralazine", "Tirzepatide", "Celecoxib", "Acetaminophen", "Alendronate", "Oxybutynin", "Triamterene", "Warfarin", "Progesterone", "Vilanterol", "Testosterone", "Nifedipine", "Methocarbamol", "Benzonatate", "Sitagliptin", "Chlorthalidone", "Isosorbide", "Donepezil", "Dexmethylphenidate", "Sulfamethoxazole", "Clobetasol", "Methotrexate", "Hydroxychloroquine", "Lovastatin", "Pioglitazone", "Irbesartan", "Methylprednisolone", "Ethinyl Estradiol", "Meclizine", "Levonorgestrel", "Ketoconazole", "Thyroid", "Azelastine", "Nitrofurantoin", "Adalimumab", "Memantine", "Prednisolone", "Esomeprazole", "Docusate", "Clindamycin", "Acyclovir", "Sildenafil", "Ciprofloxacin", "Levocetirizine", "Valproate" ]
+# HARDCODED_DRUGS = ["Atorvastatin"]
 
 def resolve_chemical_ids(drug_name: str, limit: int = 10):
     m1, t1 = pubtator_entity_autocomplete(drug_name, concept="CHEMICAL", limit=limit)
@@ -163,7 +166,7 @@ def main():
         ex_dis = de["example_disease"]
         for cid in de["entity_ids"]:
             rel_map, dis_total = treatment_diseases_for_drug(
-                cid, relation_type="treat", limit=25
+                cid, relation_type="treat"
             )
             diseases = rel_map.get(cid, [])
             if dis_total == 0 or not diseases:
@@ -182,7 +185,45 @@ def main():
                 }
             )
 
-    log.info("\nStage 4: fetching PMIDs per drug disease (first page)")
+    # >>> new block here <<<
+    log.info("\nSaving Stage 3 drug–disease relations (no PMIDs yet)")
+
+    artifact_stage3 = {
+        "run_id": RUN_ID,
+        "drugs": [d["drug"] for d in drugs_items],
+        "drug_entities": drug_entities,
+        "indications": indications,
+        "dropped_no_relations": dropped_no_rel,
+        "started_at": START_STR,
+        "hardcoded_drugs": True,
+    }
+    with open(REL_JSON_PATH, "w", encoding="utf-8") as f:
+        json.dump(artifact_stage3, f, ensure_ascii=False, indent=2)
+
+    with open(REL_CSV_PATH, "w", newline="", encoding="utf-8") as f:
+        w = csv.writer(f)
+        w.writerow(
+            [
+                "drug_name",
+                "drug_id",
+                "disease_name",
+                "disease_id",
+                "total_disease_entities",
+            ]
+        )
+        for ind in indications:
+            for did in ind["disease_ids"]:
+                w.writerow(
+                    [
+                        ind["drug_name"],
+                        ind["drug_id"],
+                        _pretty(did),
+                        did,
+                        ind["total_disease_entities"],
+                    ]
+                )
+
+    log.info("\nStage 4: fetching PMIDs per drug disease (up to 100 articles)")
     for ind in indications:
         cid = ind["drug_id"]
         for did in ind["disease_ids"]:
@@ -199,15 +240,36 @@ def main():
                 )
                 results, article_total = [], 0
 
-            pmids = _uniq([str(r.get("pmid")) for r in results if r.get("pmid")])[:50]
+            articles = []
+            seen = set()
+            for r in results:
+                pm = r.get("pmid")
+                if not pm:
+                    continue
+                if pm in seen:
+                    continue
+                seen.add(pm)
+                articles.append(
+                    {
+                        "pmid": str(pm),
+                        "date": r.get("date"),  # ISO string "2023-10-01T00:00:00Z"
+                    }
+                )
+                if len(articles) >= 100:
+                    break
+
+            pmids = [a["pmid"] for a in articles]
+
             ind["evidence"].append(
                 {
                     "disease_id": did,
                     "disease_name": _pretty(did),
                     "pmids": pmids,
+                    "articles": articles,  # pmid + date
                     "total_articles": int(article_total),
                 }
             )
+
             head = ", ".join(pmids[:10]) + ("..." if len(pmids) > 10 else "")
             log.info(
                 f"  {_pretty(cid)} ~ {_pretty(did)}: {len(pmids)} PMIDs "
