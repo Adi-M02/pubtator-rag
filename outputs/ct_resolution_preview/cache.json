@@ -1,0 +1,721 @@
+{
+  "Healthy": {
+    "best_id": "@DISEASE_Obesity_Metabolically_Benign",
+    "best_label": "Obesity Metabolically Benign",
+    "status": "ambiguous",
+    "candidates": [
+      [
+        "Obesity Metabolically Benign",
+        "@DISEASE_Obesity_Metabolically_Benign"
+      ],
+      [
+        "Orthorexia Nervosa",
+        "@DISEASE_Orthorexia_Nervosa"
+      ]
+    ],
+    "total_count": 2
+  },
+  "Hypertension": {
+    "best_id": "@DISEASE_Hypertension",
+    "best_label": "Hypertension",
+    "status": "exact",
+    "candidates": [
+      [
+        "Hypertension",
+        "@DISEASE_Hypertension"
+      ],
+      [
+        "Hypertension Pulmonary",
+        "@DISEASE_Hypertension_Pulmonary"
+      ],
+      [
+        "Hypertension Portal",
+        "@DISEASE_Hypertension_Portal"
+      ],
+      [
+        "Hypertension Pregnancy-Induced",
+        "@DISEASE_Hypertension_Pregnancy_Induced"
+      ],
+      [
+        "Pre-Eclampsia",
+        "@DISEASE_Pre_Eclampsia"
+      ]
+    ],
+    "total_count": 5
+  },
+  "Diabetes Mellitus, Type 2": {
+    "best_id": "@DISEASE_Diabetes_Mellitus_Type_2",
+    "best_label": "Diabetes Mellitus Type 2",
+    "status": "exact",
+    "candidates": [
+      [
+        "Diabetes Mellitus Type 2",
+        "@DISEASE_Diabetes_Mellitus_Type_2"
+      ],
+      [
+        "Noninsulin-dependent diabetes mellitus with deafness",
+        "@DISEASE_Noninsulin_dependent_diabetes_mellitus_with_deafness"
+      ],
+      [
+        "Maturity-Onset Diabetes of the Young Type 2",
+        "@DISEASE_Maturity_Onset_Diabetes_of_the_Young_Type_2"
+      ],
+      [
+        "Polyendocrinopathies Autoimmune",
+        "@DISEASE_Polyendocrinopathies_Autoimmune"
+      ]
+    ],
+    "total_count": 4
+  },
+  "Asthma": {
+    "best_id": "@DISEASE_Asthma",
+    "best_label": "Asthma",
+    "status": "exact",
+    "candidates": [
+      [
+        "Asthma",
+        "@DISEASE_Asthma"
+      ],
+      [
+        "Status Asthmaticus",
+        "@DISEASE_Status_Asthmaticus"
+      ],
+      [
+        "Asthma-Chronic Obstructive Pulmonary Disease Overlap Syndrome",
+        "@DISEASE_Asthma_Chronic_Obstructive_Pulmonary_Disease_Overlap_Syndrome"
+      ],
+      [
+        "Ige Responsiveness Atopic",
+        "@DISEASE_Ige_Responsiveness_Atopic"
+      ],
+      [
+        "Asthma Aspirin-Induced",
+        "@DISEASE_Asthma_Aspirin_Induced"
+      ]
+    ],
+    "total_count": 5
+  },
+  "Type 2 Diabetes Mellitus": {
+    "best_id": "@DISEASE_Diabetes_Mellitus_Type_2",
+    "best_label": "Diabetes Mellitus Type 2",
+    "status": "ambiguous",
+    "candidates": [
+      [
+        "Diabetes Mellitus Type 2",
+        "@DISEASE_Diabetes_Mellitus_Type_2"
+      ],
+      [
+        "Polyendocrinopathies Autoimmune",
+        "@DISEASE_Polyendocrinopathies_Autoimmune"
+      ],
+      [
+        "Maturity-Onset Diabetes of the Young Type 2",
+        "@DISEASE_Maturity_Onset_Diabetes_of_the_Young_Type_2"
+      ],
+      [
+        "Noninsulin-dependent diabetes mellitus with deafness",
+        "@DISEASE_Noninsulin_dependent_diabetes_mellitus_with_deafness"
+      ]
+    ],
+    "total_count": 4
+  },
+  "Obesity": {
+    "best_id": "@DISEASE_Obesity",
+    "best_label": "Obesity",
+    "status": "exact",
+    "candidates": [
+      [
+        "Obesity",
+        "@DISEASE_Obesity"
+      ],
+      [
+        "Obesity Maternal",
+        "@DISEASE_Obesity_Maternal"
+      ],
+      [
+        "Obesity Abdominal",
+        "@DISEASE_Obesity_Abdominal"
+      ],
+      [
+        "Obesity Metabolically Benign",
+        "@DISEASE_Obesity_Metabolically_Benign"
+      ],
+      [
+        "Obesity Morbid",
+        "@DISEASE_Obesity_Morbid"
+      ]
+    ],
+    "total_count": 5
+  },
+  "Diabetes": {
+    "best_id": "@DISEASE_Diabetes_Mellitus",
+    "best_label": "Diabetes Mellitus",
+    "status": "ambiguous",
+    "candidates": [
+      [
+        "Diabetes Mellitus",
+        "@DISEASE_Diabetes_Mellitus"
+      ],
+      [
+        "Diabetes Mellitus Type 2",
+        "@DISEASE_Diabetes_Mellitus_Type_2"
+      ],
+      [
+        "Diabetes Mellitus Type 1",
+        "@DISEASE_Diabetes_Mellitus_Type_1"
+      ],
+      [
+        "Diabetes Gestational",
+        "@DISEASE_Diabetes_Gestational"
+      ],
+      [
+        "Diabetes Complications",
+        "@DISEASE_Diabetes_Complications"
+      ]
+    ],
+    "total_count": 5
+  },
+  "Depression": {
+    "best_id": "@DISEASE_Depression_Postpartum",
+    "best_label": "Depression Postpartum",
+    "status": "contains",
+    "candidates": [
+      [
+        "Depressive Disorder",
+        "@DISEASE_Depressive_Disorder"
+      ],
+      [
+        "Respiratory Insufficiency",
+        "@DISEASE_Respiratory_Insufficiency"
+      ],
+      [
+        "Depression Postpartum",
+        "@DISEASE_Depression_Postpartum"
+      ],
+      [
+        "Bipolar Disorder",
+        "@DISEASE_Bipolar_Disorder"
+      ],
+      [
+        "Depressive Disorder Major",
+        "@DISEASE_Depressive_Disorder_Major"
+      ]
+    ],
+    "total_count": 5
+  },
+  "Pain": {
+    "best_id": "@DISEASE_Pain",
+    "best_label": "Pain",
+    "status": "exact",
+    "candidates": [
+      [
+        "Pain",
+        "@DISEASE_Pain"
+      ],
+      [
+        "Pain Postoperative",
+        "@DISEASE_Pain_Postoperative"
+      ],
+      [
+        "Headache",
+        "@DISEASE_Headache"
+      ],
+      [
+        "Pain Insensitivity Congenital",
+        "@DISEASE_Pain_Insensitivity_Congenital"
+      ],
+      [
+        "Abdominal Pain",
+        "@DISEASE_Abdominal_Pain"
+      ]
+    ],
+    "total_count": 5
+  },
+  "Type 2 Diabetes": {
+    "best_id": "@DISEASE_Diabetes_Mellitus_Type_2",
+    "best_label": "Diabetes Mellitus Type 2",
+    "status": "ambiguous",
+    "candidates": [
+      [
+        "Diabetes Mellitus Type 2",
+        "@DISEASE_Diabetes_Mellitus_Type_2"
+      ],
+      [
+        "Polyendocrinopathies Autoimmune",
+        "@DISEASE_Polyendocrinopathies_Autoimmune"
+      ],
+      [
+        "Maturity-Onset Diabetes of the Young Type 2",
+        "@DISEASE_Maturity_Onset_Diabetes_of_the_Young_Type_2"
+      ],
+      [
+        "Lipodystrophy Congenital Generalized",
+        "@DISEASE_Lipodystrophy_Congenital_Generalized"
+      ],
+      [
+        "Noninsulin-dependent diabetes mellitus with deafness",
+        "@DISEASE_Noninsulin_dependent_diabetes_mellitus_with_deafness"
+      ]
+    ],
+    "total_count": 5
+  },
+  "Schizophrenia": {
+    "best_id": "@DISEASE_Schizophrenia",
+    "best_label": "Schizophrenia",
+    "status": "exact",
+    "candidates": [
+      [
+        "Schizophrenia",
+        "@DISEASE_Schizophrenia"
+      ],
+      [
+        "Schizophrenia Paranoid",
+        "@DISEASE_Schizophrenia_Paranoid"
+      ],
+      [
+        "Schizophrenia Spectrum and Other Psychotic Disorders",
+        "@DISEASE_Schizophrenia_Spectrum_and_Other_Psychotic_Disorders"
+      ],
+      [
+        "Schizophrenia Disorganized",
+        "@DISEASE_Schizophrenia_Disorganized"
+      ],
+      [
+        "Schizophrenia Catatonic",
+        "@DISEASE_Schizophrenia_Catatonic"
+      ]
+    ],
+    "total_count": 5
+  },
+  "Major Depressive Disorder": {
+    "best_id": "@DISEASE_Major_Depressive_Disorder_1",
+    "best_label": "Major Depressive Disorder 1",
+    "status": "ambiguous",
+    "candidates": [
+      [
+        "Depressive Disorder Major",
+        "@DISEASE_Depressive_Disorder_Major"
+      ],
+      [
+        "Major Affective Disorder 2",
+        "@DISEASE_Major_Affective_Disorder_2"
+      ],
+      [
+        "Major Affective Disorder 1",
+        "@DISEASE_Major_Affective_Disorder_1"
+      ],
+      [
+        "Major Depressive Disorder 1",
+        "@DISEASE_Major_Depressive_Disorder_1"
+      ],
+      [
+        "Major Depressive Disorder 2",
+        "@DISEASE_Major_Depressive_Disorder_2"
+      ]
+    ],
+    "total_count": 5
+  },
+  "Atrial Fibrillation": {
+    "best_id": "@DISEASE_Atrial_Fibrillation",
+    "best_label": "Atrial Fibrillation",
+    "status": "exact",
+    "candidates": [
+      [
+        "Atrial Fibrillation",
+        "@DISEASE_Atrial_Fibrillation"
+      ],
+      [
+        "Atrial fibrillation familial 1",
+        "@DISEASE_Atrial_fibrillation_familial_1"
+      ],
+      [
+        "Atrial Fibrillation Familial 3",
+        "@DISEASE_Atrial_Fibrillation_Familial_3"
+      ],
+      [
+        "Atrial Fibrillation Familial 2",
+        "@DISEASE_Atrial_Fibrillation_Familial_2"
+      ],
+      [
+        "Atrial Fibrillation Familial 4",
+        "@DISEASE_Atrial_Fibrillation_Familial_4"
+      ]
+    ],
+    "total_count": 5
+  },
+  "Heart Failure": {
+    "best_id": "@DISEASE_Heart_Failure",
+    "best_label": "Heart Failure",
+    "status": "exact",
+    "candidates": [
+      [
+        "Heart Failure",
+        "@DISEASE_Heart_Failure"
+      ],
+      [
+        "Heart Failure Diastolic",
+        "@DISEASE_Heart_Failure_Diastolic"
+      ],
+      [
+        "Heart Failure Systolic",
+        "@DISEASE_Heart_Failure_Systolic"
+      ],
+      [
+        "Lowry Maclean syndrome",
+        "@DISEASE_Lowry_Maclean_syndrome"
+      ]
+    ],
+    "total_count": 4
+  },
+  "Breast Cancer": {
+    "best_id": "@DISEASE_Breast_Cancer_Lymphedema",
+    "best_label": "Breast Cancer Lymphedema",
+    "status": "ambiguous",
+    "candidates": [
+      [
+        "Breast Neoplasms",
+        "@DISEASE_Breast_Neoplasms"
+      ],
+      [
+        "Triple Negative Breast Neoplasms",
+        "@DISEASE_Triple_Negative_Breast_Neoplasms"
+      ],
+      [
+        "Hereditary Breast and Ovarian Cancer Syndrome",
+        "@DISEASE_Hereditary_Breast_and_Ovarian_Cancer_Syndrome"
+      ],
+      [
+        "Breast Neoplasms Male",
+        "@DISEASE_Breast_Neoplasms_Male"
+      ],
+      [
+        "Inflammatory Breast Neoplasms",
+        "@DISEASE_Inflammatory_Breast_Neoplasms"
+      ]
+    ],
+    "total_count": 5
+  },
+  "Rheumatoid Arthritis": {
+    "best_id": "@DISEASE_Rheumatoid_Arthritis_Systemic_Juvenile",
+    "best_label": "Rheumatoid Arthritis Systemic Juvenile",
+    "status": "contains",
+    "candidates": [
+      [
+        "Arthritis Rheumatoid",
+        "@DISEASE_Arthritis_Rheumatoid"
+      ],
+      [
+        "Arthritis Juvenile",
+        "@DISEASE_Arthritis_Juvenile"
+      ],
+      [
+        "Rheumatoid Arthritis Systemic Juvenile",
+        "@DISEASE_Rheumatoid_Arthritis_Systemic_Juvenile"
+      ],
+      [
+        "Felty Syndrome",
+        "@DISEASE_Felty_Syndrome"
+      ]
+    ],
+    "total_count": 4
+  },
+  "Healthy Volunteers": {
+    "best_id": "",
+    "best_label": "",
+    "status": "unresolved",
+    "candidates": [],
+    "total_count": 0
+  },
+  "Diabetes Mellitus": {
+    "best_id": "@DISEASE_Diabetes_Mellitus",
+    "best_label": "Diabetes Mellitus",
+    "status": "exact",
+    "candidates": [
+      [
+        "Diabetes Mellitus",
+        "@DISEASE_Diabetes_Mellitus"
+      ],
+      [
+        "Diabetes Mellitus Type 2",
+        "@DISEASE_Diabetes_Mellitus_Type_2"
+      ],
+      [
+        "Diabetes Mellitus Type 1",
+        "@DISEASE_Diabetes_Mellitus_Type_1"
+      ],
+      [
+        "Diabetes Gestational",
+        "@DISEASE_Diabetes_Gestational"
+      ],
+      [
+        "Diabetes Complications",
+        "@DISEASE_Diabetes_Complications"
+      ]
+    ],
+    "total_count": 5
+  },
+  "Epilepsy": {
+    "best_id": "@DISEASE_Epilepsy",
+    "best_label": "Epilepsy",
+    "status": "exact",
+    "candidates": [
+      [
+        "Epilepsy",
+        "@DISEASE_Epilepsy"
+      ],
+      [
+        "Epilepsy Post-Traumatic",
+        "@DISEASE_Epilepsy_Post_Traumatic"
+      ],
+      [
+        "Epilepsy Tonic-Clonic",
+        "@DISEASE_Epilepsy_Tonic_Clonic"
+      ],
+      [
+        "Epilepsy Temporal Lobe",
+        "@DISEASE_Epilepsy_Temporal_Lobe"
+      ],
+      [
+        "Epilepsy Absence",
+        "@DISEASE_Epilepsy_Absence"
+      ]
+    ],
+    "total_count": 5
+  },
+  "Hypercholesterolemia": {
+    "best_id": "@DISEASE_Hypercholesterolemia",
+    "best_label": "Hypercholesterolemia",
+    "status": "exact",
+    "candidates": [
+      [
+        "Hypercholesterolemia",
+        "@DISEASE_Hypercholesterolemia"
+      ],
+      [
+        "Hyperlipoproteinemia Type II",
+        "@DISEASE_Hyperlipoproteinemia_Type_II"
+      ],
+      [
+        "Hyperlipoproteinemia Type III",
+        "@DISEASE_Hyperlipoproteinemia_Type_III"
+      ],
+      [
+        "Hypercholesterolemia Autosomal Recessive",
+        "@DISEASE_Hypercholesterolemia_Autosomal_Recessive"
+      ],
+      [
+        "Homozygous Familial Hypercholesterolemia",
+        "@DISEASE_Homozygous_Familial_Hypercholesterolemia"
+      ]
+    ],
+    "total_count": 5
+  },
+  "HIV Infections": {
+    "best_id": "@DISEASE_HIV_Infections",
+    "best_label": "HIV Infections",
+    "status": "exact",
+    "candidates": [
+      [
+        "HIV Infections",
+        "@DISEASE_HIV_Infections"
+      ],
+      [
+        "AIDS-Related Opportunistic Infections",
+        "@DISEASE_AIDS_Related_Opportunistic_Infections"
+      ]
+    ],
+    "total_count": 2
+  },
+  "Coronary Artery Disease": {
+    "best_id": "@DISEASE_Coronary_Artery_Disease",
+    "best_label": "Coronary Artery Disease",
+    "status": "exact",
+    "candidates": [
+      [
+        "Coronary Artery Disease",
+        "@DISEASE_Coronary_Artery_Disease"
+      ],
+      [
+        "Coronary Artery Disease Autosomal Dominant 1",
+        "@DISEASE_Coronary_Artery_Disease_Autosomal_Dominant_1"
+      ],
+      [
+        "Coronary Artery Disease Development of in HIV",
+        "@DISEASE_Coronary_Artery_Disease_Development_of_in_HIV"
+      ],
+      [
+        "Coronary Artery Disease Autosomal Dominant 2",
+        "@DISEASE_Coronary_Artery_Disease_Autosomal_Dominant_2"
+      ]
+    ],
+    "total_count": 4
+  },
+  "Bipolar Disorder": {
+    "best_id": "@DISEASE_Bipolar_Disorder",
+    "best_label": "Bipolar Disorder",
+    "status": "exact",
+    "candidates": [
+      [
+        "Bipolar Disorder",
+        "@DISEASE_Bipolar_Disorder"
+      ],
+      [
+        "Bipolar and Related Disorders",
+        "@DISEASE_Bipolar_and_Related_Disorders"
+      ],
+      [
+        "Major Affective Disorder 3",
+        "@DISEASE_Major_Affective_Disorder_3"
+      ]
+    ],
+    "total_count": 3
+  },
+  "Diabetes Mellitus, Type 1": {
+    "best_id": "@DISEASE_Diabetes_Mellitus_Type_1",
+    "best_label": "Diabetes Mellitus Type 1",
+    "status": "exact",
+    "candidates": [
+      [
+        "Diabetes Mellitus Type 1",
+        "@DISEASE_Diabetes_Mellitus_Type_1"
+      ],
+      [
+        "Latent Autoimmune Diabetes in Adults",
+        "@DISEASE_Latent_Autoimmune_Diabetes_in_Adults"
+      ],
+      [
+        "Maturity-Onset Diabetes of the Young Type 1",
+        "@DISEASE_Maturity_Onset_Diabetes_of_the_Young_Type_1"
+      ],
+      [
+        "Polyendocrinopathies Autoimmune",
+        "@DISEASE_Polyendocrinopathies_Autoimmune"
+      ],
+      [
+        "Diabulimia",
+        "@DISEASE_Diabulimia"
+      ]
+    ],
+    "total_count": 5
+  },
+  "Postoperative Pain": {
+    "best_id": "@DISEASE_Pain_Postoperative",
+    "best_label": "Pain Postoperative",
+    "status": "ambiguous",
+    "candidates": [
+      [
+        "Pain Postoperative",
+        "@DISEASE_Pain_Postoperative"
+      ]
+    ],
+    "total_count": 1
+  },
+  "Prostate Cancer": {
+    "best_id": "@DISEASE_Prostate_cancer_familial",
+    "best_label": "Prostate cancer familial",
+    "status": "ambiguous",
+    "candidates": [
+      [
+        "Prostatic Neoplasms",
+        "@DISEASE_Prostatic_Neoplasms"
+      ],
+      [
+        "Prostate cancer familial",
+        "@DISEASE_Prostate_cancer_familial"
+      ],
+      [
+        "Prostate Cancer Hereditary 7",
+        "@DISEASE_Prostate_Cancer_Hereditary_7"
+      ],
+      [
+        "Prostate Cancer Hereditary 3",
+        "@DISEASE_Prostate_Cancer_Hereditary_3"
+      ],
+      [
+        "Prostate Cancer Hereditary 8",
+        "@DISEASE_Prostate_Cancer_Hereditary_8"
+      ]
+    ],
+    "total_count": 5
+  },
+  "Ocular Hypertension": {
+    "best_id": "@DISEASE_Ocular_Hypertension",
+    "best_label": "Ocular Hypertension",
+    "status": "exact",
+    "candidates": [
+      [
+        "Ocular Hypertension",
+        "@DISEASE_Ocular_Hypertension"
+      ],
+      [
+        "Renal Failure Progressive with Hypertension",
+        "@DISEASE_Renal_Failure_Progressive_with_Hypertension"
+      ]
+    ],
+    "total_count": 2
+  },
+  "Alzheimer's Disease": {
+    "best_id": "@DISEASE_Alzheimer's_disease_without_Neurofibrillary_tangles",
+    "best_label": "Alzheimer's disease without Neurofibrillary tangles",
+    "status": "contains",
+    "candidates": [
+      [
+        "Alzheimer Disease",
+        "@DISEASE_Alzheimer_Disease"
+      ],
+      [
+        "Alzheimer's disease without Neurofibrillary tangles",
+        "@DISEASE_Alzheimer's_disease_without_Neurofibrillary_tangles"
+      ]
+    ],
+    "total_count": 2
+  },
+  "Osteoporosis": {
+    "best_id": "@DISEASE_Osteoporosis",
+    "best_label": "Osteoporosis",
+    "status": "exact",
+    "candidates": [
+      [
+        "Osteoporosis",
+        "@DISEASE_Osteoporosis"
+      ],
+      [
+        "Osteoporosis-pseudoglioma syndrome",
+        "@DISEASE_Osteoporosis_pseudoglioma_syndrome"
+      ],
+      [
+        "Osteoporosis Postmenopausal",
+        "@DISEASE_Osteoporosis_Postmenopausal"
+      ],
+      [
+        "Hajdu-Cheney Syndrome",
+        "@DISEASE_Hajdu_Cheney_Syndrome"
+      ],
+      [
+        "Juvenile osteoporosis",
+        "@DISEASE_Juvenile_osteoporosis"
+      ]
+    ],
+    "total_count": 5
+  },
+  "Pulmonary Disease, Chronic Obstructive": {
+    "best_id": "@DISEASE_Pulmonary_Disease_Chronic_Obstructive",
+    "best_label": "Pulmonary Disease Chronic Obstructive",
+    "status": "exact",
+    "candidates": [
+      [
+        "Pulmonary Disease Chronic Obstructive",
+        "@DISEASE_Pulmonary_Disease_Chronic_Obstructive"
+      ],
+      [
+        "Asthma-Chronic Obstructive Pulmonary Disease Overlap Syndrome",
+        "@DISEASE_Asthma_Chronic_Obstructive_Pulmonary_Disease_Overlap_Syndrome"
+      ],
+      [
+        "Pulmonary Disease Chronic Obstructive Severe Early-Onset",
+        "@DISEASE_Pulmonary_Disease_Chronic_Obstructive_Severe_Early_Onset"
+      ]
+    ],
+    "total_count": 3
+  }
+}

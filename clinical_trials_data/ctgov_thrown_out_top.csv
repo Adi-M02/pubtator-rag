@@ -1,0 +1,51 @@
+disease_raw,reject_reason,resolve_status,n_trials,n_rows
+Healthy,blocked_non_disease,blocked_non_disease,1145,1344
+Diabetes,no_high_conf_match,unresolved,322,383
+Depression,no_high_conf_match,unresolved,318,565
+Type 2 Diabetes,no_high_conf_match,unresolved,304,411
+Breast Cancer,no_high_conf_match,unresolved,210,243
+Healthy Volunteers,blocked_non_disease,blocked_non_disease,200,241
+Prostate Cancer,no_high_conf_match,unresolved,156,179
+Alzheimer's Disease,no_high_conf_match,unresolved,144,161
+Helicobacter Pylori Infection,no_candidates,unresolved,129,214
+Migraine,no_high_conf_match,unresolved,103,144
+Attention Deficit Hyperactivity Disorder,no_candidates,unresolved,102,121
+Type 1 Diabetes,no_high_conf_match,unresolved,100,119
+COVID-19,no_candidates,unresolved,95,133
+Healthy Subjects,no_candidates,unresolved,89,113
+Contraception,no_candidates,unresolved,83,112
+Chronic Kidney Disease,no_high_conf_match,unresolved,81,98
+Pharmacokinetics,no_candidates,unresolved,77,98
+Cardiovascular Disease,no_high_conf_match,unresolved,74,115
+COPD,no_high_conf_match,unresolved,71,104
+Covid19,no_candidates,unresolved,71,101
+Atherosclerosis,no_candidates,unresolved,68,119
+Colorectal Cancer,no_high_conf_match,unresolved,66,76
+Cancer,no_high_conf_match,unresolved,65,87
+Opioid Use,no_high_conf_match,unresolved,64,133
+Insomnia,no_high_conf_match,unresolved,63,84
+ADHD,no_high_conf_match,unresolved,63,72
+Healthy Participants,no_candidates,unresolved,58,75
+Thyroid Cancer,no_high_conf_match,unresolved,58,59
+Chronic Kidney Diseases,no_high_conf_match,unresolved,56,71
+Menopause,no_candidates,unresolved,54,69
+Pregnancy,no_high_conf_match,unresolved,53,69
+HIV,no_high_conf_match,unresolved,53,67
+Benign Prostatic Hyperplasia,no_high_conf_match,unresolved,52,57
+Schizoaffective Disorder,no_high_conf_match,unresolved,51,65
+Cirrhosis,no_high_conf_match,unresolved,49,60
+Multiple Sclerosis,no_candidates,unresolved,48,65
+Quality of Life,no_candidates,unresolved,45,61
+Smoking Cessation,no_candidates,unresolved,45,45
+Overactive Bladder,no_high_conf_match,unresolved,44,50
+Anesthesia,no_high_conf_match,unresolved,43,63
+Alcohol Dependence,no_high_conf_match,unresolved,43,47
+Mild Cognitive Impairment,no_high_conf_match,unresolved,42,73
+Bioequivalence,no_candidates,unresolved,42,55
+Crohn's Disease,no_high_conf_match,unresolved,42,47
+Generalized Anxiety Disorder,no_candidates,unresolved,40,57
+Neuropathic Pain,no_high_conf_match,unresolved,40,47
+Pancreatic Cancer,no_high_conf_match,unresolved,40,45
+Major Depression,no_high_conf_match,unresolved,39,85
+Chronic Obstructive Pulmonary Disease (COPD),no_high_conf_match,unresolved,39,55
+Post Operative Pain,no_high_conf_match,unresolved,39,54

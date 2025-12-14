@@ -1,5 +1,6 @@
 # pubtator_api.py
 import time, requests, random
+import re
 from typing import Any, Dict, List, Tuple, Optional
 
 BASE = "https://www.ncbi.nlm.nih.gov/research/pubtator3-api"
@@ -8,13 +9,16 @@ _SESSION = requests.Session()
 _MIN_INTERVAL = 1.0 / 3.0  # 3 requests/second
 _last_ts = 0.0
 
+
 def _throttle():
     global _last_ts
     dt = time.time() - _last_ts
     if dt < _MIN_INTERVAL:
         time.sleep((_MIN_INTERVAL - dt) + 0.05 * random.random())
 
+
 def _get(path: str, params: Dict[str, Any], timeout: float, retries: int = 3) -> requests.Response:
+    global _last_ts  # critical: ensure _throttle sees updated timestamps
     url = f"{BASE}{path}"
     backoff = 0.5
     for i in range(retries + 1):
@@ -23,17 +27,21 @@ def _get(path: str, params: Dict[str, Any], timeout: float, retries: int = 3) ->
             r = _SESSION.get(url, params=params, timeout=timeout)
             _last_ts = time.time()
             if r.status_code in (429, 500, 502, 503, 504) and i < retries:
-                time.sleep(backoff); backoff *= 2
+                time.sleep(backoff)
+                backoff *= 2
                 continue
             return r
         except requests.RequestException:
             if i < retries:
-                time.sleep(backoff); backoff *= 2
+                time.sleep(backoff)
+                backoff *= 2
                 continue
             raise
 
+
 def _same_id(a, b) -> bool:
     return str(a or "").lower() == str(b or "").lower()
+
 
 def pubtator_entity_autocomplete(
     query: str,
@@ -84,6 +92,7 @@ def pubtator_entity_autocomplete(
             out[name] = ent_id
     return out, total_count
 
+
 def treatment_drugs_for_disease(
     disease_id: str,
     relation_type: str = "treat",
@@ -92,7 +101,6 @@ def treatment_drugs_for_disease(
     strict: bool = False,
 ) -> Tuple[Dict[str, List[str]], int]:
     """({disease_id:[@CHEMICAL_*...]}, total_unique_chemicals)."""
-    # PubTator expects lowercase entity type here
     params = {"e1": disease_id, "type": relation_type, "e2": "chemical"}
     r = _get("/relations", params, timeout)
     try:
@@ -112,11 +120,14 @@ def treatment_drugs_for_disease(
     for it in items:
         src = it["source"]
         if src not in seen:
-            seen.add(src); chem_ids.append(src)
-            if limit and len(chem_ids) >= limit: break
+            seen.add(src)
+            chem_ids.append(src)
+            if limit and len(chem_ids) >= limit:
+                break
 
     count = len({it["source"] for it in items})
     return {disease_id: chem_ids[:limit] if limit else chem_ids}, count
+
 
 def treatment_diseases_for_drug(
     chemical_id: str,
@@ -126,7 +137,7 @@ def treatment_diseases_for_drug(
     strict: bool = False,
 ) -> Tuple[Dict[str, List[str]], int]:
     """({chemical_id:[@DISEASE_*...]}, total_unique_diseases)"""
-    params = {"e1": chemical_id, "type": relation_type, "e2": "disease"}  # e1 EXACT, e2 lowercase
+    params = {"e1": chemical_id, "type": relation_type, "e2": "disease"}
     r = _get("/relations", params, timeout)
     try:
         r.raise_for_status()
@@ -140,12 +151,12 @@ def treatment_diseases_for_drug(
 
     def _same_id(a, b): return str(a or "").lower() == str(b or "").lower()
 
-    # For chemical e1, rows have source==chemical_id and target==@DISEASE_*
-    items = [it for it in data
-             if _same_id(it.get("source"), chemical_id)
-             and isinstance(it.get("target"), str)
-             and it["target"].lower().startswith("@disease_")]
-
+    items = [
+        it for it in data
+        if _same_id(it.get("source"), chemical_id)
+        and isinstance(it.get("target"), str)
+        and it["target"].lower().startswith("@disease_")
+    ]
     items.sort(key=lambda it: it.get("publications", 0), reverse=True)
 
     seen, dis_ids = set(), []
@@ -160,6 +171,7 @@ def treatment_diseases_for_drug(
 
     total_unique = len({it["target"].lower() for it in items})
     return {chemical_id: dis_ids}, total_unique
+
 
 def search_treatment_evidence(
     disease_id: str,
@@ -176,7 +188,6 @@ def search_treatment_evidence(
     """
     q = f"relations:ANY|{chemical_id}|{disease_id}"
 
-    # First page (keep original error semantics)
     params: Dict[str, Any] = {"text": q, "page": page}
     r = _get("/search/", params, timeout)
     try:
@@ -193,15 +204,12 @@ def search_treatment_evidence(
     all_results: List[Dict] = list(first_results)
     page_size = len(first_results)
 
-    # If nothing on the first page, nothing more to do
     if page_size == 0 or total_count <= page_size:
         return all_results[:100], total_count
 
-    # Compute maximum number of pages available
     max_pages = (total_count + page_size - 1) // page_size
-    last_page = min(page + 9, max_pages)  # at most 10 pages total
+    last_page = min(page + 9, max_pages)
 
-    # Fetch additional pages
     for p in range(page + 1, last_page + 1):
         if len(all_results) >= 100:
             break
@@ -220,3 +228,185 @@ def search_treatment_evidence(
         all_results.extend(results_p)
 
     return all_results[:100], total_count
+
+
+def _norm_basic(s: str) -> str:
+    s = "" if s is None else str(s)
+    s = s.lower()
+    s = re.sub(r"[^a-z0-9]+", " ", s).strip()
+    return s
+
+
+def _norm_basic_singular(s: str) -> str:
+    toks = _norm_basic(s).split()
+    out = []
+    for t in toks:
+        if len(t) > 4 and t.endswith("ies"):
+            out.append(t[:-3] + "y")
+        elif len(t) > 4 and t.endswith("ses"):
+            out.append(t[:-2])
+        elif len(t) > 3 and t.endswith("s") and not t.endswith("ss"):
+            out.append(t[:-1])
+        else:
+            out.append(t)
+    return " ".join(out)
+
+
+def pubtator_resolve_best_entity(
+    query: str,
+    concept: Optional[str] = None,
+    limit: int = 10,
+    timeout: float = 15.0,
+    strict: bool = False,
+    norm_mode: str = "basic",
+) -> Dict[str, Any]:
+    """
+    Returns:
+      {
+        "best_id": str,
+        "best_label": str,
+        "status": "exact" | "singular_exact" | "contains" | "ambiguous" | "unresolved",
+        "candidates": List[Tuple[label, id]],
+        "total_count": int
+      }
+    """
+    items, total = pubtator_entity_autocomplete_list(
+        query=query, concept=concept, limit=limit, timeout=timeout, strict=strict
+    )
+    if not items:
+        return {
+            "best_id": "",
+            "best_label": "",
+            "status": "unresolved",
+            "candidates": [],
+            "total_count": int(total),
+        }
+
+    if norm_mode not in {"basic", "basic_singular"}:
+        raise ValueError(f"norm_mode must be one of {{'basic','basic_singular'}}, got {norm_mode}")
+
+    nrm = _norm_basic_singular if norm_mode == "basic_singular" else _norm_basic
+    qn = nrm(query)
+
+    exact = [(lab, eid) for lab, eid in items if nrm(lab) == qn]
+    if len(exact) == 1:
+        lab, eid = exact[0]
+        return {"best_id": eid, "best_label": lab, "status": "exact", "candidates": items, "total_count": int(total)}
+    if len(exact) > 1:
+        lab, eid = exact[0]
+        return {"best_id": eid, "best_label": lab, "status": "ambiguous", "candidates": items, "total_count": int(total)}
+
+    if norm_mode != "basic_singular":
+        qn2 = _norm_basic_singular(query)
+        exact2 = [(lab, eid) for lab, eid in items if _norm_basic_singular(lab) == qn2]
+        if len(exact2) == 1:
+            lab, eid = exact2[0]
+            return {"best_id": eid, "best_label": lab, "status": "singular_exact", "candidates": items, "total_count": int(total)}
+        if len(exact2) > 1:
+            lab, eid = exact2[0]
+            return {"best_id": eid, "best_label": lab, "status": "ambiguous", "candidates": items, "total_count": int(total)}
+
+    contains = [(lab, eid) for lab, eid in items if qn and qn in nrm(lab)]
+    if len(contains) == 1:
+        lab, eid = contains[0]
+        return {"best_id": eid, "best_label": lab, "status": "contains", "candidates": items, "total_count": int(total)}
+    if len(contains) > 1:
+        lab, eid = contains[0]
+        return {"best_id": eid, "best_label": lab, "status": "ambiguous", "candidates": items, "total_count": int(total)}
+
+    lab, eid = items[0]
+    return {"best_id": eid, "best_label": lab, "status": "ambiguous", "candidates": items, "total_count": int(total)}
+
+
+def pubtator_entity_autocomplete_list(
+    query: str,
+    concept: Optional[str] = None,
+    limit: Optional[int] = None,
+    timeout: float = 15.0,
+    strict: bool = False,
+) -> Tuple[List[Tuple[str, str]], int]:
+    """Return ([(label, id), ...], total_count). Keeps ordering, no label de-dupe."""
+
+    def to_list(d: Any) -> List[Dict[str, Any]]:
+        if isinstance(d, list): return d
+        if isinstance(d, dict):
+            if isinstance(d.get("results"), list): return d["results"]
+            if isinstance(d.get("data"), list):    return d["data"]
+        return []
+
+    base_params: Dict[str, Any] = {"query": query}
+    if concept: base_params["concept"] = concept
+
+    r1 = _get("/entity/autocomplete/", base_params, timeout)
+    try:
+        r1.raise_for_status()
+    except requests.HTTPError:
+        if strict: raise
+        return [], 0
+
+    d1 = r1.json()
+    total_count = len(to_list(d1))
+
+    if limit is not None:
+        params2 = dict(base_params); params2["limit"] = int(limit)
+        r2 = _get("/entity/autocomplete/", params2, timeout)
+        try:
+            r2.raise_for_status()
+        except requests.HTTPError:
+            if strict: raise
+            return [], total_count
+        data = to_list(r2.json())
+    else:
+        data = to_list(d1)
+
+    out: List[Tuple[str, str]] = []
+    for it in data:
+        name = it.get("label") or it.get("name") or it.get("text")
+        ent_id = it.get("id") or it.get("identifier") or it.get("entity_id") or it.get("_id")
+        if name and ent_id:
+            out.append((str(name), str(ent_id)))
+
+    return out, total_count
+
+
+def pubtator_entity_autocomplete_list_fast(
+    query: str,
+    concept: Optional[str] = None,
+    limit: int = 10,
+    timeout: float = 15.0,
+    strict: bool = False,
+) -> List[Tuple[str, str]]:
+    """
+    Single-call autocomplete for workflows that do not need total_count.
+    Returns only the top `limit` candidates in API order.
+
+    This does not change behavior of existing functions.
+    """
+
+    def to_list(d: Any) -> List[Dict[str, Any]]:
+        if isinstance(d, list): return d
+        if isinstance(d, dict):
+            if isinstance(d.get("results"), list): return d["results"]
+            if isinstance(d.get("data"), list):    return d["data"]
+        return []
+
+    params: Dict[str, Any] = {"query": query, "limit": int(limit)}
+    if concept:
+        params["concept"] = concept
+
+    r = _get("/entity/autocomplete/", params, timeout)
+    try:
+        r.raise_for_status()
+    except requests.HTTPError:
+        if strict:
+            raise
+        return []
+
+    data = to_list(r.json())
+    out: List[Tuple[str, str]] = []
+    for it in data:
+        name = it.get("label") or it.get("name") or it.get("text")
+        ent_id = it.get("id") or it.get("identifier") or it.get("entity_id") or it.get("_id")
+        if name and ent_id:
+            out.append((str(name), str(ent_id)))
+    return out

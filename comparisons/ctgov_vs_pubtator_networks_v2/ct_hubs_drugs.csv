@@ -1,0 +1,51 @@
+node,degree,weighted_degree
+folic acid,344,467.0
+methotrexate,367,456.0
+acyclovir,344,400.0
+estradiol,265,392.0
+thyroid,260,375.0
+propranolol,285,364.0
+testosterone,234,353.0
+methylphenidate,168,348.0
+spironolactone,259,347.0
+ondansetron,252,346.0
+progesterone,244,346.0
+sulfamethoxazole trimethoprim,252,340.0
+methylprednisolone,289,333.0
+prednisolone,289,333.0
+prednisone,251,332.0
+acetaminophen oxycodone,222,330.0
+tramadol,238,326.0
+hydroxychloroquine,209,320.0
+cyanocobalamin,270,319.0
+clonidine,269,318.0
+amoxicillin clavulanate,240,310.0
+acetaminophen,272,309.0
+celecoxib,246,308.0
+apixaban,203,302.0
+amoxicillin,186,300.0
+oxycodone,214,296.0
+semaglutide,177,295.0
+gabapentin,235,287.0
+rivaroxaban,197,284.0
+levothyroxine,197,283.0
+furosemide,184,283.0
+cholecalciferol,231,278.0
+sertraline,150,276.0
+aspirin,226,275.0
+doxycycline,226,274.0
+pregabalin,203,273.0
+azithromycin,201,273.0
+bupropion,157,273.0
+atorvastatin,226,271.0
+warfarin,201,270.0
+potassium chloride,217,269.0
+triamcinolone,216,265.0
+esomeprazole,125,265.0
+clindamycin,217,263.0
+clopidogrel,195,263.0
+memantine,162,251.0
+dapagliflozin,165,250.0
+empagliflozin,162,250.0
+donepezil,121,248.0
+levetiracetam,206,245.0

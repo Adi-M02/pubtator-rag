@@ -1,0 +1,151 @@
+drug_key,drug,n_ct_diseases,n_ct_trials_sum,example_drug_name,n_drug_ids,n_diseases_max,n_edges_max,pmid_count_sum_max,total_articles_sum_max,total_articles_median_median,link_status
+acetaminophen,Acetaminophen,397,554,Acetaminophen,7.0,995.0,995.0,10842.0,25266.0,1.0,matched
+acetaminophen hydrocodone,Acetaminophen; Hydrocodone,219,389,,,,,,,,no_pubtator_match
+acetaminophen oxycodone,Acetaminophen; Oxycodone,294,545,,,,,,,,no_pubtator_match
+acyclovir,Acyclovir,421,645,Acyclovir,6.0,1179.0,1179.0,9471.0,14520.0,1.0,matched
+adalimumab,Adalimumab,130,398,Adalimumab,1.0,893.0,893.0,6518.0,13578.0,2.0,matched
+albuterol,Albuterol,113,361,Albuterol,2.0,480.0,480.0,3396.0,6387.0,1.5,matched
+alendronate,Alendronate,129,303,Alendronate,2.0,568.0,568.0,4090.0,7737.0,1.5,matched
+allopurinol,Allopurinol,253,451,Allopurinol,3.0,871.0,871.0,6711.0,8800.0,1.0,matched
+alprazolam,Alprazolam,79,114,Alprazolam,1.0,296.0,296.0,1652.0,2088.0,2.0,matched
+amitriptyline,Amitriptyline,178,251,Amitriptyline,4.0,660.0,660.0,4786.0,6563.0,1.5,matched
+amlodipine,Amlodipine,137,398,Amlodipine,7.0,582.0,582.0,4562.0,7189.0,1.0,matched
+amoxicillin,Amoxicillin,262,433,Amoxicillin,3.0,997.0,997.0,7566.0,10554.0,2.0,matched
+amoxicillin clavulanate,Amoxicillin; Clavulanate,333,491,,,,,,,,no_pubtator_match
+apixaban,Apixaban,261,551,Apixaban,1.0,474.0,474.0,3644.0,8073.0,2.0,matched
+aripiprazole,Aripiprazole,151,460,Aripiprazole,3.0,448.0,448.0,4552.0,7044.0,2.0,matched
+aspirin,Aspirin,320,503,Aspirin,10.0,2056.0,2056.0,29078.0,68847.0,1.0,matched
+atenolol,Atenolol,105,206,Atenolol,2.0,538.0,538.0,3904.0,5786.0,1.5,matched
+atorvastatin,Atorvastatin,300,508,Atorvastatin,3.0,1026.0,1026.0,8798.0,12486.0,1.0,matched
+azelastine,Azelastine,19,71,Azelastine,1.0,163.0,163.0,947.0,980.0,1.0,matched
+azithromycin,Azithromycin,297,493,,,,,,,,no_pubtator_match
+baclofen,Baclofen,140,218,Baclofen,1.0,620.0,620.0,5134.0,6911.0,2.0,matched
+benzonatate,Benzonatate,1,3,,,,,,,,no_pubtator_match
+budesonide formoterol,Budesonide; Formoterol,87,351,,,,,,,,no_pubtator_match
+bupropion,Bupropion,208,451,Bupropion,3.0,363.0,363.0,3334.0,4810.0,1.0,matched
+buspirone,Buspirone,76,107,Buspirone,1.0,299.0,299.0,1690.0,1925.0,2.0,matched
+carvedilol,Carvedilol,243,470,Carvedilol,1.0,576.0,576.0,4126.0,5560.0,2.0,matched
+celecoxib,Celecoxib,326,474,Celecoxib,4.0,952.0,952.0,6667.0,9273.0,1.0,matched
+cephalexin,Cephalexin,144,179,Cephalexin,2.0,312.0,312.0,1226.0,1307.0,1.0,matched
+cetirizine,Cetirizine,91,161,Cetirizine,2.0,279.0,279.0,1677.0,1734.0,1.5,matched
+chlorthalidone,Chlorthalidone,66,179,Chlorthalidone,2.0,135.0,135.0,857.0,1363.0,1.5,matched
+cholecalciferol,Cholecalciferol,331,518,Cholecalciferol,4.0,1045.0,1045.0,7333.0,8768.0,1.75,matched
+citalopram,Citalopram,195,435,Citalopram,1.0,399.0,399.0,2778.0,3993.0,2.0,matched
+clindamycin,Clindamycin,312,478,Clindamycin,5.0,1022.0,1022.0,7650.0,9338.0,1.0,matched
+clobetasol,Clobetasol,78,147,Clobetasol,2.0,264.0,264.0,1242.0,1347.0,1.5,matched
+clonazepam,Clonazepam,46,71,,,,,,,,no_pubtator_match
+clonidine,Clonidine,364,512,Clonidine,4.0,912.0,912.0,8070.0,11160.0,1.5,matched
+clopidogrel,Clopidogrel,264,539,Clopidogrel,3.0,786.0,786.0,7881.0,18810.0,1.0,matched
+cyanocobalamin,Cyanocobalamin,377,494,Cyanocobalamin,4.0,1066.0,1066.0,9083.0,11023.0,1.0,matched
+cyclobenzaprine,Cyclobenzaprine,62,93,Cyclobenzaprine,1.0,83.0,83.0,278.0,278.0,1.0,matched
+dapagliflozin,Dapagliflozin,225,449,Dapagliflozin,1.0,391.0,391.0,3563.0,5535.0,2.0,matched
+dexmethylphenidate,Dexmethylphenidate,26,56,,,,,,,,no_pubtator_match
+dextroamphetamine dextroamphetamine saccharate amphetamine amphetamine aspartate,Dextroamphetamine; Dextroamphetamine Saccharate; Amphetamine; Amphetamine Aspartate,2,5,,,,,,,,no_pubtator_match
+diclofenac,Diclofenac,299,430,Diclofenac,6.0,853.0,853.0,6632.0,9858.0,1.0,matched
+diltiazem,Diltiazem,130,189,Diltiazem,1.0,691.0,691.0,5625.0,6844.0,2.0,matched
+docusate,Docusate,79,96,Docusate,1.0,34.0,34.0,91.0,91.0,1.0,matched
+donepezil,Donepezil,165,392,Donepezil,3.0,436.0,436.0,3039.0,5637.0,1.0,matched
+doxycycline,Doxycycline,355,479,Doxycycline,2.0,1887.0,1887.0,15996.0,19297.0,2.0,matched
+dulaglutide,Dulaglutide,77,181,,,,,,,,no_pubtator_match
+duloxetine,Duloxetine,222,456,Duloxetine,2.0,432.0,432.0,3439.0,5317.0,1.5,matched
+empagliflozin,Empagliflozin,217,450,Empagliflozin,1.0,409.0,409.0,3461.0,5558.0,2.0,matched
+ergocalciferol,Ergocalciferol,166,279,Ergocalciferol,1.0,263.0,263.0,1187.0,1220.0,2.0,matched
+escitalopram,Escitalopram,195,435,Escitalopram,2.0,373.0,373.0,2217.0,3765.0,1.5,matched
+esomeprazole,Esomeprazole,180,377,Esomeprazole,1.0,237.0,237.0,1479.0,1838.0,2.0,matched
+estradiol,Estradiol,319,498,Estradiol,8.0,1256.0,1256.0,17274.0,23921.0,1.5,matched
+ethinyl estradiol levonorgestrel,Ethinyl Estradiol; Levonorgestrel,125,161,,,,,,,,no_pubtator_match
+ethinyl estradiol norethindrone,Ethinyl Estradiol; Norethindrone,57,71,,,,,,,,no_pubtator_match
+ethinyl estradiol norgestimate,Ethinyl Estradiol; Norgestimate,231,320,,,,,,,,no_pubtator_match
+ezetimibe,Ezetimibe,178,479,Ezetimibe,1.0,315.0,315.0,2598.0,3400.0,2.0,matched
+famotidine,Famotidine,185,255,Famotidine,1.0,306.0,306.0,1549.0,1656.0,1.0,matched
+fenofibrate,Fenofibrate,143,311,Fenofibrate,1.0,507.0,507.0,3635.0,4381.0,2.0,matched
+ferrous sulfate,Ferrous Sulfate,214,518,Ferrous Sulfate,3.0,183.0,183.0,748.0,827.0,1.0,matched
+finasteride,Finasteride,66,115,Finasteride,1.0,257.0,257.0,1826.0,3262.0,2.0,matched
+fluoxetine,Fluoxetine,225,483,Fluoxetine,2.0,788.0,788.0,7714.0,11872.0,2.5,matched
+fluticasone,Fluticasone,90,340,Fluticasone,5.0,297.0,297.0,2189.0,3970.0,1.0,matched
+fluticasone salmeterol,Fluticasone; Salmeterol,45,319,,,,,,,,no_pubtator_match
+fluticasone umeclidinium vilanterol,Fluticasone; Umeclidinium; Vilanterol,9,49,,,,,,,,no_pubtator_match
+fluticasone vilanterol,Fluticasone; Vilanterol,14,104,,,,,,,,no_pubtator_match
+folic acid,Folic Acid,425,601,Folic Acid,1.0,1434.0,1434.0,15833.0,25564.0,3.0,matched
+furosemide,Furosemide,265,469,Furosemide,2.0,862.0,862.0,6361.0,8136.0,1.5,matched
+gabapentin,Gabapentin,326,490,Gabapentin,3.0,948.0,948.0,7893.0,11766.0,1.0,matched
+glimepiride,Glimepiride,59,304,Glimepiride,1.0,133.0,133.0,749.0,1315.0,2.0,matched
+glipizide,Glipizide,37,69,Glipizide,1.0,85.0,85.0,494.0,674.0,1.0,matched
+hydralazine,Hydralazine,80,114,Hydralazine,4.0,409.0,409.0,2682.0,3974.0,2.0,matched
+hydrochlorothiazide,Hydrochlorothiazide,130,378,Hydrochlorothiazide,8.0,417.0,417.0,3050.0,5655.0,1.0,matched
+hydrochlorothiazide lisinopril,Hydrochlorothiazide; Lisinopril,32,55,,,,,,,,no_pubtator_match
+hydrochlorothiazide losartan,Hydrochlorothiazide; Losartan,30,94,,,,,,,,no_pubtator_match
+hydrochlorothiazide triamterene,Hydrochlorothiazide; Triamterene,12,16,,,,,,,,no_pubtator_match
+hydroxychloroquine,Hydroxychloroquine,266,487,Hydroxychloroquine,1.0,1067.0,1067.0,8626.0,13360.0,2.0,matched
+hydroxyzine,Hydroxyzine,120,178,Hydroxyzine,1.0,222.0,222.0,795.0,795.0,1.0,matched
+ibuprofen,Ibuprofen,294,450,Ibuprofen,7.0,1065.0,1065.0,8119.0,11754.0,1.0,matched
+insulin aspart,Insulin Aspart,82,505,Insulin Aspart,2.0,40.0,40.0,419.0,561.0,3.0,matched
+insulin glargine,Insulin Glargine,78,392,Insulin Glargine,2.0,98.0,98.0,858.0,1895.0,2.75,matched
+insulin lispro,Insulin Lispro,81,359,Insulin Lispro,1.0,49.0,49.0,514.0,645.0,2.0,matched
+irbesartan,Irbesartan,101,198,Irbesartan,1.0,302.0,302.0,1844.0,2270.0,2.0,matched
+isosorbide,Isosorbide,114,155,Isosorbide,6.0,299.0,299.0,1885.0,2234.0,1.0,matched
+ketoconazole,Ketoconazole,158,234,Ketoconazole,1.0,796.0,796.0,5025.0,5505.0,2.0,matched
+lamotrigine,Lamotrigine,133,297,Lamotrigine,1.0,531.0,531.0,4676.0,7873.0,2.0,matched
+latanoprost,Latanoprost,63,451,,,,,,,,no_pubtator_match
+levetiracetam,Levetiracetam,285,505,Levetiracetam,1.0,686.0,686.0,4860.0,8395.0,2.0,matched
+levothyroxine,Levothyroxine,274,487,Levothyroxine,1.0,1216.0,1216.0,10113.0,17445.0,3.0,matched
+lisdexamfetamine,Lisdexamfetamine,60,163,Lisdexamfetamine,1.0,91.0,91.0,643.0,855.0,2.0,matched
+lisinopril,Lisinopril,145,248,Lisinopril,3.0,390.0,390.0,2409.0,3062.0,1.0,matched
+loratadine,Loratadine,65,115,Loratadine,1.0,199.0,199.0,1008.0,1050.0,1.0,matched
+lorazepam,Lorazepam,211,301,Lorazepam,1.0,407.0,407.0,2828.0,3453.0,2.0,matched
+losartan,Losartan,276,477,Losartan,3.0,838.0,838.0,6027.0,8942.0,1.0,matched
+lovastatin,Lovastatin,244,453,Lovastatin,2.0,503.0,503.0,2658.0,2965.0,1.75,matched
+meclizine,Meclizine,11,11,Meclizine,1.0,99.0,99.0,218.0,218.0,1.0,matched
+meloxicam,Meloxicam,108,193,Meloxicam,2.0,480.0,480.0,2126.0,2557.0,2.0,matched
+memantine,Memantine,234,423,Memantine,2.0,565.0,565.0,3931.0,5632.0,1.5,matched
+metformin,Metformin,208,427,Metformin,5.0,1489.0,1489.0,17666.0,45141.0,1.0,matched
+methocarbamol,Methocarbamol,68,76,Methocarbamol,1.0,75.0,75.0,168.0,168.0,1.0,matched
+methotrexate,Methotrexate,432,686,Methotrexate,8.0,2121.0,2121.0,29474.0,59886.0,1.25,matched
+methylphenidate,Methylphenidate,229,476,Methylphenidate,1.0,514.0,514.0,4781.0,9484.0,2.0,matched
+methylprednisolone,Methylprednisolone,428,548,Methylprednisolone,9.0,2307.0,2307.0,22133.0,26516.0,1.0,matched
+metoprolol,Metoprolol,262,468,Metoprolol,1.0,577.0,577.0,4752.0,6322.0,2.0,matched
+mirtazapine,Mirtazapine,135,248,Mirtazapine,1.0,427.0,427.0,2619.0,3283.0,2.0,matched
+montelukast,Montelukast,167,380,Montelukast,1.0,570.0,570.0,2903.0,4228.0,2.0,matched
+naproxen,Naproxen,209,391,Naproxen,3.0,574.0,574.0,3661.0,4734.0,1.0,matched
+nifedipine,Nifedipine,248,372,Nifedipine,2.0,1029.0,1029.0,9028.0,12829.0,1.5,matched
+nitrofurantoin,Nitrofurantoin,97,142,Nitrofurantoin,1.0,221.0,221.0,1294.0,2017.0,1.0,matched
+norethindrone,Norethindrone,118,193,Norethindrone,5.0,163.0,163.0,537.0,537.0,1.5,matched
+olmesartan,Olmesartan,76,201,Olmesartan,2.0,270.0,270.0,1591.0,1915.0,1.0,matched
+omeprazole,Omeprazole,212,341,Omeprazole,3.0,588.0,588.0,4493.0,7748.0,1.5,matched
+ondansetron,Ondansetron,304,511,Ondansetron,1.0,520.0,520.0,3084.0,5801.0,2.0,matched
+oxybutynin,Oxybutynin,104,160,Oxybutynin,1.0,177.0,177.0,1265.0,1666.0,2.0,matched
+oxycodone,Oxycodone,289,523,Oxycodone,6.0,343.0,343.0,2645.0,3952.0,1.25,matched
+pantoprazole,Pantoprazole,196,314,Pantoprazole,1.0,312.0,312.0,1791.0,2003.0,2.0,matched
+paroxetine,Paroxetine,168,419,Paroxetine,1.0,454.0,454.0,3761.0,5332.0,3.0,matched
+pioglitazone,Pioglitazone,205,447,Pioglitazone,1.0,795.0,795.0,6139.0,9594.0,2.0,matched
+potassium chloride,Potassium Chloride,304,423,Potassium Chloride,5.0,442.0,442.0,2690.0,2975.0,1.0,matched
+pravastatin,Pravastatin,186,326,Pravastatin,1.0,461.0,461.0,3280.0,3796.0,2.0,matched
+prednisolone,Prednisolone,428,548,Prednisolone,9.0,2779.0,2779.0,30148.0,37561.0,1.0,matched
+prednisone,Prednisone,327,492,Prednisone,1.0,2686.0,2686.0,27579.0,34764.0,3.0,matched
+pregabalin,Pregabalin,273,452,Pregabalin,1.0,603.0,603.0,4861.0,7954.0,2.0,matched
+progesterone,Progesterone,310,505,Progesterone,5.0,1010.0,1010.0,11290.0,14475.0,1.0,matched
+propranolol,Propranolol,389,562,Propranolol,3.0,1548.0,1548.0,14413.0,20665.0,1.0,matched
+quetiapine,Quetiapine,154,453,Quetiapine,1.0,460.0,460.0,4576.0,7100.0,2.0,matched
+rivaroxaban,Rivaroxaban,260,551,Rivaroxaban,1.0,642.0,642.0,5861.0,13220.0,2.0,matched
+rosuvastatin,Rosuvastatin,249,417,Rosuvastatin,2.0,495.0,495.0,3999.0,4582.0,1.5,matched
+semaglutide,Semaglutide,227,527,,,,,,,,no_pubtator_match
+sertraline,Sertraline,218,488,Sertraline,1.0,526.0,526.0,3787.0,5693.0,2.0,matched
+simvastatin,Simvastatin,244,451,Simvastatin,4.0,1062.0,1062.0,8417.0,10877.0,1.0,matched
+sitagliptin,Sitagliptin,128,382,Sitagliptin,1.0,373.0,373.0,2222.0,3651.0,2.0,matched
+spironolactone,Spironolactone,369,591,Spironolactone,3.0,779.0,779.0,5439.0,7304.0,1.0,matched
+sulfamethoxazole trimethoprim,Sulfamethoxazole; Trimethoprim,348,590,,,,,,,,no_pubtator_match
+sumatriptan,Sumatriptan,66,164,Sumatriptan,1.0,201.0,201.0,1359.0,2927.0,2.0,matched
+tamsulosin,Tamsulosin,161,379,Tamsulosin,1.0,168.0,168.0,1842.0,2753.0,2.0,matched
+testosterone,Testosterone,316,530,Testosterone,10.0,1216.0,1216.0,17787.0,29226.0,1.0,matched
+thyroid,Thyroid,347,556,Thyroid,5.0,765.0,765.0,6956.0,9729.0,2.0,matched
+tirzepatide,Tirzepatide,151,341,,,,,,,,no_pubtator_match
+tizanidine,Tizanidine,51,63,Tizanidine,1.0,166.0,166.0,676.0,723.0,1.5,matched
+topiramate,Topiramate,206,482,Topiramate,1.0,656.0,656.0,5848.0,8663.0,2.0,matched
+tramadol,Tramadol,299,515,Tramadol,3.0,514.0,514.0,4273.0,6709.0,1.0,matched
+trazodone,Trazodone,88,129,Trazodone,1.0,303.0,303.0,1869.0,2172.0,2.0,matched
+triamcinolone,Triamcinolone,305,441,Triamcinolone,7.0,694.0,694.0,4460.0,5359.0,1.0,matched
+valacyclovir,Valacyclovir,117,224,Valacyclovir,2.0,418.0,418.0,2046.0,2268.0,1.0,matched
+valsartan,Valsartan,189,440,Valsartan,2.0,418.0,418.0,3665.0,5858.0,2.0,matched
+venlafaxine,Venlafaxine,156,390,Venlafaxine,2.0,390.0,390.0,3171.0,4522.0,1.5,matched
+warfarin,Warfarin,279,535,Warfarin,1.0,1349.0,1349.0,13888.0,33862.0,3.0,matched
+zolpidem,Zolpidem,159,260,Zolpidem,1.0,268.0,268.0,1555.0,1927.0,2.0,matched

@@ -1,0 +1,51 @@
+disease_raw,reject_reason_minoverlap,resolve_status,n_trials,n_rows
+Healthy,blocked_non_disease,blocked_non_disease,1145,1344
+Hypertension,min_overlap_excluded,,770,1280
+"Diabetes Mellitus, Type 2",min_overlap_excluded,,596,780
+Asthma,min_overlap_excluded,,554,738
+Type 2 Diabetes Mellitus,min_overlap_excluded,,362,486
+Obesity,min_overlap_excluded,,342,388
+Diabetes,,,322,383
+Depression,,,318,565
+Pain,min_overlap_excluded,,311,490
+Type 2 Diabetes,,,304,411
+Schizophrenia,min_overlap_excluded,,296,369
+Major Depressive Disorder,min_overlap_excluded,,288,562
+Atrial Fibrillation,min_overlap_excluded,,242,370
+Heart Failure,min_overlap_excluded,,239,312
+Breast Cancer,,,210,243
+Rheumatoid Arthritis,min_overlap_excluded,,207,265
+Healthy Volunteers,blocked_non_disease,blocked_non_disease,200,241
+Diabetes Mellitus,min_overlap_excluded,,198,290
+Epilepsy,min_overlap_excluded,,184,239
+Hypercholesterolemia,min_overlap_excluded,,181,335
+HIV Infections,min_overlap_excluded,,181,205
+Coronary Artery Disease,min_overlap_excluded,,173,229
+Bipolar Disorder,min_overlap_excluded,,172,218
+"Diabetes Mellitus, Type 1",min_overlap_excluded,,158,176
+Postoperative Pain,min_overlap_excluded,,157,212
+Prostate Cancer,,,156,179
+Ocular Hypertension,min_overlap_excluded,,146,148
+Alzheimer's Disease,,,144,161
+Osteoporosis,min_overlap_excluded,,134,142
+"Pulmonary Disease, Chronic Obstructive",min_overlap_excluded,,131,234
+Helicobacter Pylori Infection,,,129,214
+"Pain, Postoperative",min_overlap_excluded,,129,212
+Cardiovascular Diseases,min_overlap_excluded,,125,216
+Chronic Obstructive Pulmonary Disease,min_overlap_excluded,,117,151
+Alzheimer Disease,min_overlap_excluded,,116,132
+Stroke,min_overlap_excluded,,114,188
+Osteoarthritis,min_overlap_excluded,,112,148
+Vitamin D Deficiency,min_overlap_excluded,,112,122
+Migraine,,,103,144
+Attention Deficit Hyperactivity Disorder,,,102,121
+Type 1 Diabetes,,,100,119
+Glaucoma,min_overlap_excluded,,99,100
+COVID-19,,,95,133
+Essential Hypertension,min_overlap_excluded,,93,159
+Healthy Subjects,,,89,113
+Hyperlipidemia,min_overlap_excluded,,87,125
+Lymphoma,min_overlap_excluded,,87,124
+Contraception,,,83,112
+Chronic Kidney Disease,,,81,98
+Type 1 Diabetes Mellitus,min_overlap_excluded,,81,97

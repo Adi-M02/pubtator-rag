@@ -1,0 +1,35 @@
+{
+  "inputs": {
+    "ct_in": "clinical_trials_data/ctgov_results.csv",
+    "split": ";",
+    "use_default_blocklist": true,
+    "blocklist_path": null
+  },
+  "counts": {
+    "rows_in": 33795,
+    "rows_out_kept": 31968,
+    "rows_out_dropped_all_terms_removed": 1827,
+    "total_terms_removed": 2272,
+    "unique_removed_terms": [
+      "anesthesia",
+      "bioequivalence",
+      "contraception",
+      "healthy",
+      "healthy adult",
+      "healthy adults",
+      "healthy controls",
+      "healthy participants",
+      "healthy subjects",
+      "healthy volunteer",
+      "healthy volunteers",
+      "pharmacokinetics",
+      "quality of life",
+      "smoking cessation"
+    ]
+  },
+  "outputs": {
+    "manual_filtered": "ct_manual_filter/ctgov_manual_filtered.csv",
+    "dropped_rows": "ct_manual_filter/ctgov_manual_dropped_rows.csv",
+    "removed_terms_long": "ct_manual_filter/ctgov_manual_removed_terms_long.csv"
+  }
+}

@@ -1,0 +1,21 @@
+disease_a_label	disease_b_label	disease_a	disease_b	shared_drugs
+breast cancer	prostate cancer	CT_UNMAPPED::breast cancer	CT_UNMAPPED::prostate cancer	34
+breast cancer	cancer	CT_UNMAPPED::breast cancer	CT_UNMAPPED::cancer	34
+diabetes	type 2 diabetes	CT_UNMAPPED::diabetes	CT_UNMAPPED::type 2 diabetes	34
+chronic kidney disease	diabetes	CT_UNMAPPED::chronic kidney disease	CT_UNMAPPED::diabetes	33
+cardiovascular disease	diabetes	CT_UNMAPPED::cardiovascular disease	CT_UNMAPPED::diabetes	32
+breast cancer	depression	CT_UNMAPPED::breast cancer	CT_UNMAPPED::depression	28
+chronic kidney diseases	diabetes	CT_UNMAPPED::chronic kidney diseases	CT_UNMAPPED::diabetes	28
+cardiovascular disease	chronic kidney disease	CT_UNMAPPED::cardiovascular disease	CT_UNMAPPED::chronic kidney disease	27
+depression	psychosomatic disorders	CT_UNMAPPED::depression	CT_UNMAPPED::psychosomatic disorders	26
+breast cancer	mild cognitive impairment	CT_UNMAPPED::breast cancer	CT_UNMAPPED::mild cognitive impairment	26
+cardiovascular disease	type 2 diabetes	CT_UNMAPPED::cardiovascular disease	CT_UNMAPPED::type 2 diabetes	26
+breast cancer	covid19	CT_UNMAPPED::breast cancer	CT_UNMAPPED::covid19	25
+breast cancer	head and neck cancer	CT_UNMAPPED::breast cancer	CT_UNMAPPED::head and neck cancer	25
+depression	mild cognitive impairment	CT_UNMAPPED::depression	CT_UNMAPPED::mild cognitive impairment	25
+chronic kidney disease	type 2 diabetes	CT_UNMAPPED::chronic kidney disease	CT_UNMAPPED::type 2 diabetes	25
+breast cancer	diabetes	CT_UNMAPPED::breast cancer	CT_UNMAPPED::diabetes	25
+breast cancer	pregnancy	CT_UNMAPPED::breast cancer	CT_UNMAPPED::pregnancy	25
+breast cancer	colorectal cancer	CT_UNMAPPED::breast cancer	CT_UNMAPPED::colorectal cancer	25
+breast cancer	hiv	CT_UNMAPPED::breast cancer	CT_UNMAPPED::hiv	24
+aging	breast cancer	CT_UNMAPPED::aging	CT_UNMAPPED::breast cancer	24

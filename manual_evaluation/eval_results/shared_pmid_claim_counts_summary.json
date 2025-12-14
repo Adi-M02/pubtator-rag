@@ -1,0 +1,15 @@
+{
+  "pub_rows_loaded_after_drop_empty": 786322,
+  "rentrez_rows_loaded_after_drop_empty": 10121,
+  "pub_unique_pmids": 418724,
+  "rentrez_unique_pmids": 6490,
+  "shared_unique_pmids": 3706,
+  "shared_pmids_pub_multi_unique": 2266,
+  "shared_pmids_rentrez_multi_unique": 1516,
+  "shared_pmids_either_multi_unique": 2747,
+  "shared_pmids_pub_multi_rows": 2266,
+  "shared_pmids_rentrez_multi_rows": 1516,
+  "shared_pmids_either_multi_rows": 2747,
+  "shared_pmids_total_unique_claims_ge_3": 2747,
+  "shared_pmids_total_rows_ge_3": 2747
+}

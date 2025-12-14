@@ -1,0 +1,15 @@
+{
+  "run_id": "20251120_191408",
+  "started_at": "2025-11-20 19:14:08",
+  "input_hardcoded_drugs": 150,
+  "resolved_drug_names": 140,
+  "unresolved_drug_names": 10,
+  "drug_ids_total": 367,
+  "drug_names_total": 139,
+  "diseases_total": 6515,
+  "edges_total": 93664,
+  "edges_with_pmids": 93244,
+  "pmid_count_sum_observed": 775312,
+  "total_articles_sum_reported": 1197881,
+  "dropped_no_treat_relations": 146
+}

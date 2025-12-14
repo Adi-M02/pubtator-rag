@@ -1,0 +1,51 @@
+node,degree,weighted_degree
+CT_UNMAPPED::depression,48,565.0
+CT_UNMAPPED::type 2 diabetes,47,413.0
+CT_UNMAPPED::diabetes,53,383.0
+CT_UNMAPPED::breast cancer,71,243.0
+CT_UNMAPPED::helicobacter pylori infection,11,214.0
+CT_UNMAPPED::prostate cancer,46,179.0
+CT_UNMAPPED::alzheimer s disease,31,163.0
+CT_UNMAPPED::attention deficit hyperactivity disorder,12,153.0
+CT_UNMAPPED::migraine,32,143.0
+CT_UNMAPPED::opioid use,23,133.0
+CT_UNMAPPED::covid19,45,119.0
+CT_UNMAPPED::type 1 diabetes,23,119.0
+CT_UNMAPPED::cardiovascular disease,43,115.0
+CT_UNMAPPED::copd,21,111.0
+CT_UNMAPPED::chronic kidney disease,41,98.0
+CT_UNMAPPED::post operative pain,21,88.0
+CT_UNMAPPED::cancer,47,87.0
+CT_UNMAPPED::major depression,18,85.0
+CT_UNMAPPED::insomnia,21,84.0
+CT_UNMAPPED::colorectal cancer,29,76.0
+CT_UNMAPPED::adhd,11,74.0
+CT_UNMAPPED::mild cognitive impairment,43,73.0
+CT_UNMAPPED::hiv,39,73.0
+CT_UNMAPPED::chronic kidney diseases,38,71.0
+CT_UNMAPPED::menopause,22,69.0
+CT_UNMAPPED::surgery,37,68.0
+CT_UNMAPPED::pregnancy,36,68.0
+CT_UNMAPPED::schizoaffective disorder,24,65.0
+CT_UNMAPPED::end stage renal disease,38,64.0
+CT_UNMAPPED::cirrhosis,22,60.0
+CT_UNMAPPED::pain management,17,59.0
+CT_UNMAPPED::thyroid cancer,3,59.0
+CT_UNMAPPED::blood pressure,27,58.0
+CT_UNMAPPED::generalized anxiety disorder,15,57.0
+CT_UNMAPPED::chronic obstructive pulmonary disease copd,9,57.0
+CT_UNMAPPED::benign prostatic hyperplasia,5,57.0
+CT_UNMAPPED::coronary heart disease,24,55.0
+CT_UNMAPPED::chronic low back pain,28,54.0
+CT_UNMAPPED::gastroesophageal reflux disease,5,51.0
+CT_UNMAPPED::overactive bladder,15,50.0
+CT_UNMAPPED::analgesia,19,49.0
+CT_UNMAPPED::crohn s disease,17,48.0
+CT_UNMAPPED::congestive heart failure,17,48.0
+CT_UNMAPPED::neuropathic pain,19,47.0
+CT_UNMAPPED::alcohol dependence,19,47.0
+CT_UNMAPPED::aging,34,45.0
+CT_UNMAPPED::cognitive impairment,33,45.0
+CT_UNMAPPED::head and neck cancer,28,45.0
+CT_UNMAPPED::pancreatic cancer,26,45.0
+CT_UNMAPPED::gerd,9,45.0

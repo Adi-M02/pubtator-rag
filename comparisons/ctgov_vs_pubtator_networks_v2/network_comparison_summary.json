@@ -1,0 +1,79 @@
+{
+  "paths": {
+    "ct_path": "ct_manual_filter/ctgov_manual_filtered_final.csv",
+    "pub_edges_path": "outputs/pipeline_20251120_191408/pipeline_20251120_191408_summary.csv",
+    "out_dir": "comparisons/ctgov_vs_pubtator_networks_v2"
+  },
+  "ct_mapping": {
+    "match_status_counts": {
+      "unmatched": 9913,
+      "matched_exact": 36,
+      "ambiguous": 1995,
+      "matched_token_set": 14
+    },
+    "n_unique_ct_disease_strings": 11958
+  },
+  "graphs": {
+    "ct_graph": {
+      "n_nodes": 9840,
+      "n_edges": 20212,
+      "n_drugs": 149,
+      "n_diseases": 9691,
+      "density_undirected": 0.00041753532689305957,
+      "n_components": 1,
+      "largest_component_size": 9840,
+      "largest_component_fraction": 1.0,
+      "largest_component_avg_path_length": 3.9798033915139435,
+      "largest_component_diameter": 8,
+      "degree_stats": {
+        "min": 1,
+        "max": 367,
+        "mean": 4.108130081300813
+      },
+      "weighted_degree_stats": {
+        "min": 1,
+        "max": 565,
+        "mean": 5.761788617886179
+      }
+    },
+    "pubtator_graph": {
+      "n_nodes": 6655,
+      "n_edges": 88983,
+      "n_drugs": 140,
+      "n_diseases": 6515,
+      "density_undirected": 0.004018890587834391,
+      "n_components": 1,
+      "largest_component_size": 6655,
+      "largest_component_fraction": 1.0,
+      "largest_component_avg_path_length": 2.9026875481145207,
+      "largest_component_diameter": 4,
+      "degree_stats": {
+        "min": 1,
+        "max": 2809,
+        "mean": 26.741697971450037
+      },
+      "weighted_degree_stats": {
+        "min": 0,
+        "max": 70464,
+        "mean": 366.93163035311795
+      }
+    }
+  },
+  "alignment": {
+    "n_drugs_with_any_alignment": 162,
+    "mean_jaccard_over_drugs_with_union": 7.298949484116624e-05,
+    "alignment_csv": "per_drug_disease_alignment.csv"
+  },
+  "outputs": {
+    "ct_hubs_drugs_csv": "ct_hubs_drugs.csv",
+    "pubtator_hubs_drugs_csv": "pubtator_hubs_drugs.csv",
+    "ct_hubs_diseases_csv": "ct_hubs_diseases.csv",
+    "pubtator_hubs_diseases_csv": "pubtator_hubs_diseases.csv",
+    "ct_disease_shared_drugs_top_pairs_csv": "ct_disease_shared_drugs_top_pairs.csv",
+    "pubtator_disease_shared_drugs_top_pairs_csv": "pubtator_disease_shared_drugs_top_pairs.csv"
+  },
+  "weights": {
+    "ct_edge_weight": "n_trials (unique NCT ids) per drug_key and disease_concept_id",
+    "pubtator_edge_weight": "total_articles per drug_key and disease_id"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "paths": {
+    "ct_path": "ct_manual_filter/ctgov_manual_filtered_final.csv",
+    "pub_year_counts_path": "outputs/pipeline_20251120_191408/analysis_summary/pub_year_counts.csv",
+    "pub_drug_summary_path": "outputs/pipeline_20251120_191408/analysis_summary/drug_summary.csv",
+    "pub_disease_frequency_path": "outputs/pipeline_20251120_191408/analysis_summary/disease_frequency.csv",
+    "out_dir": "comparisons/ctgov_vs_pubtator_summary_v1"
+  },
+  "ct_diseases": {
+    "n_ct_disease_strings": 11958,
+    "n_ct_disease_concepts_after_collapsing": 11260,
+    "n_ct_diseases_mapped_to_pubtator_ids": 1616,
+    "match_status_counts": {
+      "unmatched": 9913,
+      "matched_exact": 1557,
+      "matched_token_set": 488
+    }
+  },
+  "pubtator_diseases": {
+    "n_pubtator_diseases": 6515
+  },
+  "drugs": {
+    "n_ct_drugs": 150,
+    "n_pubtator_drugs": 139,
+    "n_drugs_with_normalized_overlap": 127
+  },
+  "year_curves": {
+    "ct_yearly_trials_csv": "ct_yearly_trials.csv",
+    "pubtator_year_counts_csv": "pubtator_year_counts_copy.csv"
+  },
+  "notes": {
+    "weights_interpretation": {
+      "ct": "n_trials is unique NCT ids per disease_concept_id and drug_key",
+      "pubtator_disease_frequency": "pmid_count_sum and total_articles_sum reflect literature volume per disease",
+      "pubtator_drug_summary": "pmid_count_sum_max and total_articles_sum_max summarize literature volume per normalized drug name"
+    },
+    "entity_resolution_policy": {
+      "disease": "exact normalized label match else token multiset match with simple singularization, ambiguous and blocked removed from overlap tables, unmatched diseases kept as CT_unique concepts",
+      "drug": "linking based on normalized drug_key = norm_basic(drug_name) in both sources, without synonym expansion at this stage"
+    },
+    "dropped_analyses": "Per_drug Jaccard and edge level network comparisons are omitted because the current PubTator export does not include per_drug_per_disease edge rows in these summary files."
+  }
+}

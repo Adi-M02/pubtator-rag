@@ -1,0 +1,17 @@
+metric	ct_value	pubtator_value
+number_of_nodes	9840.0	6655.0
+number_of_edges	20212.0	88983.0
+number_of_drug_nodes	149.0	140.0
+number_of_disease_nodes	9691.0	6515.0
+density_undirected	0.0004	0.004
+number_of_components	1.0	1.0
+largest_component_size	9840.0	6655.0
+largest_component_fraction	1.0	1.0
+largest_component_avg_path_length	3.9798	2.9027
+largest_component_diameter	8.0	4.0
+degree_min	1.0	1.0
+degree_mean	4.1081	26.7417
+degree_max	367.0	2809.0
+weighted_degree_min	1.0	0.0
+weighted_degree_mean	5.7618	366.9316
+weighted_degree_max	565.0	70464.0

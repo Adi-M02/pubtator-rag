@@ -1,0 +1,1 @@
+drug,nct_id,title,status,phase,disease,first_submit,_row_id,disease_raw,disease_resolved_label,disease_resolved_id,resolve_status,reject_reason,flag_ambiguous,flag_too_specific,flag_low_conf,top5_candidates,extra_tokens,shared_tokens,n_candidates_returned,accept_any,accept_minoverlap,reject_reason_minoverlap

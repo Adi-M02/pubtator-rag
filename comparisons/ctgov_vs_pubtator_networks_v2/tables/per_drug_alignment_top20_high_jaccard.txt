@@ -1,0 +1,21 @@
+drug_label	example_ct_drug	example_pubtator_drug	n_ct_diseases	n_pubtator_diseases	n_shared_diseases	n_union_diseases	jaccard_rounded
+Tamsulosin	Tamsulosin	Tamsulosin	123	168	1	290	0.0034
+Baclofen	Baclofen	Baclofen	88	620	2	706	0.0028
+Doxycycline	Doxycycline	Doxycycline	226	1887	3	2110	0.0014
+Allopurinol	Allopurinol	Allopurinol	182	871	1	1052	0.001
+Celecoxib	Celecoxib	Celecoxib	246	954	1	1199	0.0008
+Cyanocobalamin	Cyanocobalamin	Cyanocobalamin	270	1068	1	1337	0.0007
+Warfarin	Warfarin	Warfarin	201	1349	1	1549	0.0006
+Acyclovir	Acyclovir	Acyclovir	344	1269	1	1612	0.0006
+Prednisolone	Prednisolone	Prednisolone	289	2809	1	3097	0.0003
+Acetaminophen	Acetaminophen	Acetaminophen	272	1003	0	1275	0.0
+Acetaminophen; Hydrocodone	Acetaminophen; Hydrocodone		159	0	0	159	0.0
+Acetaminophen; Oxycodone	Acetaminophen; Oxycodone		222	0	0	222	0.0
+Adalimumab	Adalimumab	Adalimumab	88	893	0	981	0.0
+Albuterol	Albuterol	Albuterol	85	480	0	565	0.0
+Alendronate	Alendronate	Alendronate	88	569	0	657	0.0
+Alprazolam	Alprazolam	Alprazolam	61	296	0	357	0.0
+Amitriptyline	Amitriptyline	Amitriptyline	115	660	0	775	0.0
+Amlodipine	Amlodipine	Amlodipine	98	584	0	682	0.0
+Amoxicillin	Amoxicillin	Amoxicillin	186	1252	0	1438	0.0
+Amoxicillin; Clavulanate	Amoxicillin; Clavulanate		240	0	0	240	0.0

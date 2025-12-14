@@ -1,0 +1,33 @@
+{
+  "inputs": {
+    "ct_in": "clinical_trials_data/ctgov_results.csv",
+    "split": ";",
+    "singularize": true,
+    "max_extra_tokens": 1,
+    "min_shared_tokens": 1,
+    "limit": 10
+  },
+  "cache": {
+    "cache_in": "outputs/ctgov_resolution_cache.json",
+    "cache_out": "ct_filtering_testing/ctgov_resolution_cache.json",
+    "cache_size": 11970
+  },
+  "counts": {
+    "ct_rows_total_after_split": 54862,
+    "blocked_rows": 1621,
+    "no_candidates_rows": 0,
+    "verified_any_rows": 23913,
+    "thrown_any_rows": 30949,
+    "verified_minoverlap_rows": 0,
+    "thrown_minoverlap_rows": 54862
+  },
+  "outputs": {
+    "verified_any": "ct_filtering_testing/ctgov_verified_long_any.csv",
+    "thrown_any": "ct_filtering_testing/ctgov_thrown_out_long_any.csv",
+    "verified_minoverlap": "ct_filtering_testing/ctgov_verified_long_minoverlap1.csv",
+    "thrown_minoverlap": "ct_filtering_testing/ctgov_thrown_out_long_minoverlap1.csv",
+    "top_any": "ct_filtering_testing/ctgov_thrown_out_top_any.csv",
+    "top_minoverlap": "ct_filtering_testing/ctgov_thrown_out_top_minoverlap1.csv",
+    "disease_table": "ct_filtering_testing/ctgov_disease_resolution_table.csv"
+  }
+}

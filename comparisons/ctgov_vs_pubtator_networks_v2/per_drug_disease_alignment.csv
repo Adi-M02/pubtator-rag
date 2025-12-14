@@ -1,0 +1,163 @@
+drug_key,example_ct_drug,example_pubtator_drug,n_ct_diseases,n_pubtator_diseases,n_shared_diseases,n_union_diseases,jaccard_disease_alignment
+tamsulosin,Tamsulosin,Tamsulosin,123,168,1,290,0.0034482758620689655
+baclofen,Baclofen,Baclofen,88,620,2,706,0.0028328611898017
+doxycycline,Doxycycline,Doxycycline,226,1887,3,2110,0.0014218009478672985
+allopurinol,Allopurinol,Allopurinol,182,871,1,1052,0.0009505703422053232
+celecoxib,Celecoxib,Celecoxib,246,954,1,1199,0.0008340283569641367
+cyanocobalamin,Cyanocobalamin,Cyanocobalamin,270,1068,1,1337,0.0007479431563201197
+warfarin,Warfarin,Warfarin,201,1349,1,1549,0.0006455777921239509
+acyclovir,Acyclovir,Acyclovir,344,1269,1,1612,0.0006203473945409429
+prednisolone,Prednisolone,Prednisolone,289,2809,1,3097,0.00032289312237649337
+acetaminophen,Acetaminophen,Acetaminophen,272,1003,0,1275,0.0
+acetaminophen hydrocodone,Acetaminophen; Hydrocodone,,159,0,0,159,0.0
+acetaminophen oxycodone,Acetaminophen; Oxycodone,,222,0,0,222,0.0
+adalimumab,Adalimumab,Adalimumab,88,893,0,981,0.0
+albuterol,Albuterol,Albuterol,85,480,0,565,0.0
+alendronate,Alendronate,Alendronate,88,569,0,657,0.0
+alprazolam,Alprazolam,Alprazolam,61,296,0,357,0.0
+amitriptyline,Amitriptyline,Amitriptyline,115,660,0,775,0.0
+amlodipine,Amlodipine,Amlodipine,98,584,0,682,0.0
+amoxicillin,Amoxicillin,Amoxicillin,186,1252,0,1438,0.0
+amoxicillin clavulanate,Amoxicillin; Clavulanate,,240,0,0,240,0.0
+apixaban,Apixaban,Apixaban,203,474,0,677,0.0
+aripiprazole,Aripiprazole,Aripiprazole,109,448,0,557,0.0
+aspirin,Aspirin,Aspirin,226,2097,0,2323,0.0
+atenolol,Atenolol,Atenolol,62,538,0,600,0.0
+atorvastatin,Atorvastatin,Atorvastatin,226,1026,0,1252,0.0
+azelastine,Azelastine,Azelastine,12,163,0,175,0.0
+azithromycin,Azithromycin,,201,0,0,201,0.0
+budesonide formoterol,Budesonide; Formoterol,,67,0,0,67,0.0
+bupropion,Bupropion,Bupropion,157,364,0,521,0.0
+buspirone,Buspirone,Buspirone,44,299,0,343,0.0
+carvedilol,Carvedilol,Carvedilol,168,576,0,744,0.0
+cephalexin,Cephalexin,Cephalexin,100,312,0,412,0.0
+cetirizine,Cetirizine,Cetirizine,65,306,0,371,0.0
+chlorthalidone,Chlorthalidone,Chlorthalidone,41,135,0,176,0.0
+cholecalciferol,Cholecalciferol,Cholecalciferol,231,1045,0,1276,0.0
+ciprofloxacin,,Ciprofloxacin,0,1336,0,1336,0.0
+citalopram,Citalopram,Citalopram,125,399,0,524,0.0
+clindamycin,Clindamycin,Clindamycin,217,1034,0,1251,0.0
+clobetasol,Clobetasol,Clobetasol,58,264,0,322,0.0
+clonazepam,Clonazepam,,26,0,0,26,0.0
+clonidine,Clonidine,Clonidine,269,913,0,1182,0.0
+clopidogrel,Clopidogrel,Clopidogrel,195,786,0,981,0.0
+cyclobenzaprine,Cyclobenzaprine,Cyclobenzaprine,34,83,0,117,0.0
+dapagliflozin,Dapagliflozin,Dapagliflozin,165,391,0,556,0.0
+dexmethylphenidate,Dexmethylphenidate,,18,0,0,18,0.0
+dextroamphetamine,,Dextroamphetamine,0,290,0,290,0.0
+dextroamphetamine dextroamphetamine saccharate amphetamine amphetamine aspartate,Dextroamphetamine; Dextroamphetamine Saccharate; Amphetamine; Amphetamine Aspartate,,1,0,0,1,0.0
+diclofenac,Diclofenac,Diclofenac,202,872,0,1074,0.0
+diltiazem,Diltiazem,Diltiazem,88,691,0,779,0.0
+docusate,Docusate,Docusate,57,34,0,91,0.0
+donepezil,Donepezil,Donepezil,121,436,0,557,0.0
+dulaglutide,Dulaglutide,,58,0,0,58,0.0
+duloxetine,Duloxetine,Duloxetine,160,432,0,592,0.0
+empagliflozin,Empagliflozin,Empagliflozin,162,409,0,571,0.0
+ergocalciferol,Ergocalciferol,Ergocalciferol,109,263,0,372,0.0
+escitalopram,Escitalopram,Escitalopram,125,373,0,498,0.0
+esomeprazole,Esomeprazole,Esomeprazole,125,237,0,362,0.0
+estradiol,Estradiol,Estradiol,265,1404,0,1669,0.0
+ethinyl estradiol,,Ethinyl Estradiol,0,337,0,337,0.0
+ethinyl estradiol levonorgestrel,Ethinyl Estradiol; Levonorgestrel,,87,0,0,87,0.0
+ethinyl estradiol norethindrone,Ethinyl Estradiol; Norethindrone,,32,0,0,32,0.0
+ethinyl estradiol norgestimate,Ethinyl Estradiol; Norgestimate,,151,0,0,151,0.0
+ezetimibe,Ezetimibe,Ezetimibe,142,322,0,464,0.0
+famotidine,Famotidine,Famotidine,142,306,0,448,0.0
+fenofibrate,Fenofibrate,Fenofibrate,90,507,0,597,0.0
+ferrous sulfate,Ferrous Sulfate,Ferrous Sulfate,166,184,0,350,0.0
+finasteride,Finasteride,Finasteride,50,257,0,307,0.0
+fluoxetine,Fluoxetine,Fluoxetine,145,788,0,933,0.0
+fluticasone,Fluticasone,Fluticasone,58,310,0,368,0.0
+fluticasone salmeterol,Fluticasone; Salmeterol,,31,0,0,31,0.0
+fluticasone umeclidinium vilanterol,Fluticasone; Umeclidinium; Vilanterol,,7,0,0,7,0.0
+fluticasone vilanterol,Fluticasone; Vilanterol,,12,0,0,12,0.0
+folic acid,Folic Acid,Folic Acid,344,1434,0,1778,0.0
+formoterol,,Formoterol,0,170,0,170,0.0
+furosemide,Furosemide,Furosemide,184,862,0,1046,0.0
+gabapentin,Gabapentin,Gabapentin,235,949,0,1184,0.0
+glimepiride,Glimepiride,Glimepiride,45,133,0,178,0.0
+glipizide,Glipizide,Glipizide,25,85,0,110,0.0
+hydralazine,Hydralazine,Hydralazine,53,412,0,465,0.0
+hydrochlorothiazide,Hydrochlorothiazide,Hydrochlorothiazide,83,419,0,502,0.0
+hydrochlorothiazide lisinopril,Hydrochlorothiazide; Lisinopril,,18,0,0,18,0.0
+hydrochlorothiazide losartan,Hydrochlorothiazide; Losartan,,19,0,0,19,0.0
+hydrochlorothiazide triamterene,Hydrochlorothiazide; Triamterene,,2,0,0,2,0.0
+hydrocodone,,Hydrocodone,0,108,0,108,0.0
+hydroxychloroquine,Hydroxychloroquine,Hydroxychloroquine,209,1067,0,1276,0.0
+hydroxyzine,Hydroxyzine,Hydroxyzine,82,222,0,304,0.0
+ibuprofen,Ibuprofen,Ibuprofen,204,1068,0,1272,0.0
+insulin aspart,Insulin Aspart,Insulin Aspart,57,41,0,98,0.0
+insulin glargine,Insulin Glargine,Insulin Glargine,57,98,0,155,0.0
+insulin lispro,Insulin Lispro,Insulin Lispro,56,49,0,105,0.0
+irbesartan,Irbesartan,Irbesartan,61,302,0,363,0.0
+isosorbide,Isosorbide,Isosorbide,74,406,0,480,0.0
+ketoconazole,Ketoconazole,Ketoconazole,99,796,0,895,0.0
+lamotrigine,Lamotrigine,Lamotrigine,91,531,0,622,0.0
+latanoprost,Latanoprost,,51,0,0,51,0.0
+levetiracetam,Levetiracetam,Levetiracetam,206,686,0,892,0.0
+levocetirizine,,Levocetirizine,0,91,0,91,0.0
+levonorgestrel,,Levonorgestrel,0,269,0,269,0.0
+levothyroxine,Levothyroxine,Levothyroxine,197,1216,0,1413,0.0
+lisdexamfetamine,Lisdexamfetamine,Lisdexamfetamine,43,91,0,134,0.0
+lisinopril,Lisinopril,Lisinopril,86,394,0,480,0.0
+loratadine,Loratadine,Loratadine,42,199,0,241,0.0
+lorazepam,Lorazepam,Lorazepam,154,407,0,561,0.0
+losartan,Losartan,Losartan,198,845,0,1043,0.0
+lovastatin,Lovastatin,Lovastatin,155,503,0,658,0.0
+meclizine,Meclizine,Meclizine,7,99,0,106,0.0
+meloxicam,Meloxicam,Meloxicam,75,480,0,555,0.0
+memantine,Memantine,Memantine,162,565,0,727,0.0
+metformin,Metformin,Metformin,156,1490,0,1646,0.0
+methocarbamol,Methocarbamol,Methocarbamol,38,75,0,113,0.0
+methotrexate,Methotrexate,Methotrexate,367,2121,0,2488,0.0
+methylphenidate,Methylphenidate,Methylphenidate,168,514,0,682,0.0
+methylprednisolone,Methylprednisolone,Methylprednisolone,289,2388,0,2677,0.0
+metoprolol,Metoprolol,Metoprolol,181,577,0,758,0.0
+mirtazapine,Mirtazapine,Mirtazapine,86,427,0,513,0.0
+montelukast,Montelukast,Montelukast,105,570,0,675,0.0
+naproxen,Naproxen,Naproxen,152,583,0,735,0.0
+nifedipine,Nifedipine,Nifedipine,165,1029,0,1194,0.0
+nitrofurantoin,Nitrofurantoin,Nitrofurantoin,78,221,0,299,0.0
+norethindrone,Norethindrone,Norethindrone,77,228,0,305,0.0
+norgestimate,,Norgestimate,0,47,0,47,0.0
+olmesartan,Olmesartan,Olmesartan,49,298,0,347,0.0
+omeprazole,Omeprazole,Omeprazole,140,588,0,728,0.0
+ondansetron,Ondansetron,Ondansetron,252,520,0,772,0.0
+oxybutynin,Oxybutynin,Oxybutynin,68,177,0,245,0.0
+oxycodone,Oxycodone,Oxycodone,214,348,0,562,0.0
+pantoprazole,Pantoprazole,Pantoprazole,144,312,0,456,0.0
+paroxetine,Paroxetine,Paroxetine,108,454,0,562,0.0
+pioglitazone,Pioglitazone,Pioglitazone,140,795,0,935,0.0
+potassium chloride,Potassium Chloride,Potassium Chloride,217,568,0,785,0.0
+pravastatin,Pravastatin,Pravastatin,128,461,0,589,0.0
+prednisone,Prednisone,Prednisone,251,2686,0,2937,0.0
+pregabalin,Pregabalin,Pregabalin,203,603,0,806,0.0
+progesterone,Progesterone,Progesterone,244,1036,0,1280,0.0
+propranolol,Propranolol,Propranolol,285,1548,0,1833,0.0
+quetiapine,Quetiapine,Quetiapine,112,460,0,572,0.0
+rivaroxaban,Rivaroxaban,Rivaroxaban,197,642,0,839,0.0
+rosuvastatin,Rosuvastatin,Rosuvastatin,185,495,0,680,0.0
+semaglutide,Semaglutide,,177,0,0,177,0.0
+sertraline,Sertraline,Sertraline,150,526,0,676,0.0
+sildenafil,,Sildenafil,0,849,0,849,0.0
+simvastatin,Simvastatin,Simvastatin,166,1067,0,1233,0.0
+sitagliptin,Sitagliptin,Sitagliptin,90,373,0,463,0.0
+spironolactone,Spironolactone,Spironolactone,259,779,0,1038,0.0
+sulfamethoxazole,,Sulfamethoxazole,0,1301,0,1301,0.0
+sulfamethoxazole trimethoprim,Sulfamethoxazole; Trimethoprim,,252,0,0,252,0.0
+sumatriptan,Sumatriptan,Sumatriptan,44,203,0,247,0.0
+testosterone,Testosterone,Testosterone,234,1288,0,1522,0.0
+thyroid,Thyroid,Thyroid,260,1541,0,1801,0.0
+tirzepatide,Tirzepatide,,114,0,0,114,0.0
+tizanidine,Tizanidine,Tizanidine,31,166,0,197,0.0
+topiramate,Topiramate,Topiramate,126,656,0,782,0.0
+tramadol,Tramadol,Tramadol,238,514,0,752,0.0
+trazodone,Trazodone,Trazodone,63,303,0,366,0.0
+triamcinolone,Triamcinolone,Triamcinolone,216,992,0,1208,0.0
+triamterene,,Triamterene,0,102,0,102,0.0
+valacyclovir,Valacyclovir,Valacyclovir,85,418,0,503,0.0
+valproate,,Valproate,0,1337,0,1337,0.0
+valsartan,Valsartan,Valsartan,134,448,0,582,0.0
+venlafaxine,Venlafaxine,Venlafaxine,107,390,0,497,0.0
+vilanterol,,Vilanterol,0,31,0,31,0.0
+zolpidem,Zolpidem,Zolpidem,105,268,0,373,0.0

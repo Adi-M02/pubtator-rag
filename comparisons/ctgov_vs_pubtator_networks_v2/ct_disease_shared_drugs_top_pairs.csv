@@ -1,0 +1,1001 @@
+disease_a,disease_b,shared_drugs
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::prostate cancer,34
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::cancer,34
+CT_UNMAPPED::diabetes,CT_UNMAPPED::type 2 diabetes,34
+CT_UNMAPPED::chronic kidney disease,CT_UNMAPPED::diabetes,33
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::diabetes,32
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::depression,28
+CT_UNMAPPED::chronic kidney diseases,CT_UNMAPPED::diabetes,28
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::chronic kidney disease,27
+CT_UNMAPPED::depression,CT_UNMAPPED::psychosomatic disorders,26
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::mild cognitive impairment,26
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::type 2 diabetes,26
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::covid19,25
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::head and neck cancer,25
+CT_UNMAPPED::depression,CT_UNMAPPED::mild cognitive impairment,25
+CT_UNMAPPED::chronic kidney disease,CT_UNMAPPED::type 2 diabetes,25
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::diabetes,25
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::pregnancy,25
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::colorectal cancer,25
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::hiv,24
+CT_UNMAPPED::aging,CT_UNMAPPED::breast cancer,24
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::type 2 diabetes,24
+CT_UNMAPPED::chronic kidney disease,CT_UNMAPPED::chronic kidney diseases,23
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::breast cancer,23
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::surgery,22
+CT_UNMAPPED::chronic kidney disease,CT_UNMAPPED::end stage renal disease,22
+CT_UNMAPPED::diabetes,CT_UNMAPPED::end stage renal disease,22
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::depression,22
+CT_UNMAPPED::aging,CT_UNMAPPED::diabetes,22
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::lung cancer,22
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::chronic low back pain,21
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::migraine,21
+CT_UNMAPPED::cancer,CT_UNMAPPED::mild cognitive impairment,21
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::chronic kidney diseases,21
+CT_UNMAPPED::aging,CT_UNMAPPED::chronic kidney disease,21
+CT_UNMAPPED::chronic kidney diseases,CT_UNMAPPED::type 2 diabetes,21
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::cardiovascular disease,21
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::pancreatic cancer,21
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::cognitive impairment,20
+CT_UNMAPPED::cancer,CT_UNMAPPED::prostate cancer,20
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::covid19,20
+CT_UNMAPPED::blood pressure,CT_UNMAPPED::diabetes,20
+CT_UNMAPPED::diabetes,CT_UNMAPPED::type 1 diabetes,20
+CT_UNMAPPED::type 1 diabetes,CT_UNMAPPED::type 2 diabetes,20
+CT_UNMAPPED::cancer,CT_UNMAPPED::covid19,20
+CT_UNMAPPED::chronic kidney diseases,CT_UNMAPPED::covid19,20
+CT_UNMAPPED::covid19,CT_UNMAPPED::diabetes,20
+CT_UNMAPPED::covid19,CT_UNMAPPED::end stage renal disease,20
+CT_UNMAPPED::aging,CT_UNMAPPED::cardiovascular disease,20
+CT_UNMAPPED::mild cognitive impairment,CT_UNMAPPED::type 2 diabetes,20
+CT_UNMAPPED::prostate cancer,CT_UNMAPPED::type 2 diabetes,20
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::ovarian cancer,19
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::end stage renal disease,19
+CT_UNMAPPED::chronic kidney diseases,CT_UNMAPPED::end stage renal disease,19
+CT_UNMAPPED::cancer,CT_UNMAPPED::depression,19
+CT_UNMAPPED::aging,CT_UNMAPPED::type 2 diabetes,19
+CT_UNMAPPED::cancer,CT_UNMAPPED::pregnancy,19
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::unspecified adult solid tumor protocol specific,18
+CT_UNMAPPED::cancer,CT_UNMAPPED::end stage renal disease,18
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::end stage renal disease,18
+CT_UNMAPPED::cancer,CT_UNMAPPED::diabetes,18
+CT_UNMAPPED::cognitive impairment,CT_UNMAPPED::depression,18
+CT_UNMAPPED::diabetes,CT_UNMAPPED::hiv,18
+CT_UNMAPPED::hiv,CT_UNMAPPED::type 2 diabetes,18
+CT_UNMAPPED::covid19,CT_UNMAPPED::prostate cancer,18
+CT_UNMAPPED::diabetes,CT_UNMAPPED::mild cognitive impairment,18
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::mild cognitive impairment,18
+CT_UNMAPPED::mild cognitive impairment,CT_UNMAPPED::pregnancy,18
+CT_UNMAPPED::covid19,CT_UNMAPPED::type 2 diabetes,18
+CT_UNMAPPED::aging,CT_UNMAPPED::prostate cancer,18
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::chronic kidney disease,18
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::menopause,18
+CT_UNMAPPED::diabetes,CT_UNMAPPED::prostate cancer,18
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::non small cell lung cancer,18
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::sickle cell disease,17
+CT_UNMAPPED::opioid use,CT_UNMAPPED::surgery,17
+CT_UNMAPPED::cancer,CT_UNMAPPED::hiv,17
+CT_UNMAPPED::cancer,CT_UNMAPPED::lung cancer,17
+CT_UNMAPPED::hiv,CT_UNMAPPED::prostate cancer,17
+CT_UNMAPPED::mild cognitive impairment,CT_UNMAPPED::prostate cancer,17
+CT_UNMAPPED::blood pressure,CT_UNMAPPED::chronic kidney diseases,17
+CT_UNMAPPED::end stage renal disease,CT_UNMAPPED::type 2 diabetes,17
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::chronic kidney diseases,17
+CT_UNMAPPED::coronary heart disease,CT_UNMAPPED::diabetes,17
+CT_UNMAPPED::cancer,CT_UNMAPPED::pancreatic cancer,17
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::hiv,17
+CT_UNMAPPED::analgesia,CT_UNMAPPED::breast cancer,16
+CT_UNMAPPED::analgesia,CT_UNMAPPED::post operative pain,16
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::insomnia,16
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::opioid use,16
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::pain management,16
+CT_UNMAPPED::chronic low back pain,CT_UNMAPPED::opioid use,16
+CT_UNMAPPED::chronic low back pain,CT_UNMAPPED::post operative pain,16
+CT_UNMAPPED::covid19,CT_UNMAPPED::surgery,16
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::neuropathic pain,16
+CT_UNMAPPED::head and neck cancer,CT_UNMAPPED::prostate cancer,16
+CT_UNMAPPED::cognitive impairment,CT_UNMAPPED::prostate cancer,16
+CT_UNMAPPED::prostate cancer,CT_UNMAPPED::unspecified adult solid tumor protocol specific,16
+CT_UNMAPPED::end stage renal disease,CT_UNMAPPED::prostate cancer,16
+CT_UNMAPPED::hiv,CT_UNMAPPED::mild cognitive impairment,16
+CT_UNMAPPED::depression,CT_UNMAPPED::prostate cancer,16
+CT_UNMAPPED::blood pressure,CT_UNMAPPED::cardiovascular disease,16
+CT_UNMAPPED::blood pressure,CT_UNMAPPED::chronic kidney disease,16
+CT_UNMAPPED::cancer,CT_UNMAPPED::chronic kidney diseases,16
+CT_UNMAPPED::cirrhosis,CT_UNMAPPED::diabetes,16
+CT_UNMAPPED::cancer,CT_UNMAPPED::head and neck cancer,16
+CT_UNMAPPED::depression,CT_UNMAPPED::major depression,16
+CT_UNMAPPED::depression,CT_UNMAPPED::treatment resistant depression,16
+CT_UNMAPPED::mild cognitive impairment,CT_UNMAPPED::psychosomatic disorders,16
+CT_UNMAPPED::psychosomatic disorders,CT_UNMAPPED::treatment resistant depression,16
+CT_UNMAPPED::chronic kidney disease,CT_UNMAPPED::covid19,16
+CT_UNMAPPED::chronic kidney disease,CT_UNMAPPED::prostate cancer,16
+CT_UNMAPPED::cancer,CT_UNMAPPED::surgery,16
+CT_UNMAPPED::depression,CT_UNMAPPED::pregnancy,16
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::coronary heart disease,16
+CT_UNMAPPED::covid,CT_UNMAPPED::diabetes,16
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::cancer,16
+CT_UNMAPPED::cognitive impairment,CT_UNMAPPED::mild cognitive impairment,16
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::gastric cancer,16
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::schizoaffective disorder,16
+CT_UNMAPPED::cognitive impairment,CT_UNMAPPED::pregnancy,16
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::post operative pain,15
+CT_UNMAPPED::chronic low back pain,CT_UNMAPPED::surgery,15
+CT_UNMAPPED::opioid use,CT_UNMAPPED::post operative pain,15
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::pregnancy related,15
+CT_UNMAPPED::drug interactions,CT_UNMAPPED::prostate cancer,15
+CT_UNMAPPED::end stage renal disease,CT_UNMAPPED::mild cognitive impairment,15
+CT_UNMAPPED::blood pressure,CT_UNMAPPED::end stage renal disease,15
+CT_UNMAPPED::chronic heart failure,CT_UNMAPPED::diabetes,15
+CT_UNMAPPED::chronic kidney disease,CT_UNMAPPED::type 1 diabetes,15
+CT_UNMAPPED::congestive heart failure,CT_UNMAPPED::diabetes,15
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::psychosomatic disorders,15
+CT_UNMAPPED::depression,CT_UNMAPPED::generalized anxiety disorder,15
+CT_UNMAPPED::depression,CT_UNMAPPED::migraine,15
+CT_UNMAPPED::generalized anxiety disorder,CT_UNMAPPED::psychosomatic disorders,15
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::psychosomatic disorders,15
+CT_UNMAPPED::major depression,CT_UNMAPPED::mild cognitive impairment,15
+CT_UNMAPPED::major depression,CT_UNMAPPED::psychosomatic disorders,15
+CT_UNMAPPED::blood pressure,CT_UNMAPPED::type 2 diabetes,15
+CT_UNMAPPED::chronic kidney disease,CT_UNMAPPED::hiv,15
+CT_UNMAPPED::alcohol dependence,CT_UNMAPPED::depression,15
+CT_UNMAPPED::alcohol dependence,CT_UNMAPPED::psychosomatic disorders,15
+CT_UNMAPPED::depression,CT_UNMAPPED::ptsd,15
+CT_UNMAPPED::coronary heart disease,CT_UNMAPPED::type 2 diabetes,15
+CT_UNMAPPED::aging,CT_UNMAPPED::chronic kidney diseases,15
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::prostate cancer,15
+CT_UNMAPPED::hiv,CT_UNMAPPED::pregnancy,15
+CT_UNMAPPED::cancer,CT_UNMAPPED::chronic low back pain,15
+CT_UNMAPPED::depression,CT_UNMAPPED::lung cancer,15
+CT_UNMAPPED::aging,CT_UNMAPPED::end stage renal disease,15
+CT_UNMAPPED::depression,CT_UNMAPPED::menopause,15
+CT_UNMAPPED::prediabetes,CT_UNMAPPED::type 2 diabetes,15
+CT_UNMAPPED::analgesia,CT_UNMAPPED::opioid use,14
+CT_UNMAPPED::analgesia,CT_UNMAPPED::surgery,14
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::drug interactions,14
+CT_UNMAPPED::head and neck cancer,CT_UNMAPPED::surgery,14
+CT_UNMAPPED::opioid use,CT_UNMAPPED::pain management,14
+CT_UNMAPPED::pain management,CT_UNMAPPED::post operative pain,14
+CT_UNMAPPED::prostate cancer,CT_UNMAPPED::surgery,14
+CT_UNMAPPED::end stage renal disease,CT_UNMAPPED::hiv,14
+CT_UNMAPPED::end stage renal disease,CT_UNMAPPED::kidney disease,14
+CT_UNMAPPED::lung cancer,CT_UNMAPPED::prostate cancer,14
+CT_UNMAPPED::non small cell lung cancer,CT_UNMAPPED::prostate cancer,14
+CT_UNMAPPED::cancer,CT_UNMAPPED::cardiovascular disease,14
+CT_UNMAPPED::chronic heart failure,CT_UNMAPPED::chronic kidney disease,14
+CT_UNMAPPED::chronic kidney disease,CT_UNMAPPED::kidney disease,14
+CT_UNMAPPED::depression,CT_UNMAPPED::head and neck cancer,14
+CT_UNMAPPED::depression,CT_UNMAPPED::insomnia,14
+CT_UNMAPPED::major depression,CT_UNMAPPED::treatment resistant depression,14
+CT_UNMAPPED::depression,CT_UNMAPPED::type 2 diabetes,14
+CT_UNMAPPED::colorectal cancer,CT_UNMAPPED::prostate cancer,14
+CT_UNMAPPED::covid19,CT_UNMAPPED::mild cognitive impairment,14
+CT_UNMAPPED::bipolar depression,CT_UNMAPPED::depression,14
+CT_UNMAPPED::chronic low back pain,CT_UNMAPPED::depression,14
+CT_UNMAPPED::cocaine dependence,CT_UNMAPPED::depression,14
+CT_UNMAPPED::depression,CT_UNMAPPED::schizoaffective disorder,14
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::covid,14
+CT_UNMAPPED::diabetes mellitus type ii,CT_UNMAPPED::type 2 diabetes,14
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::type 2 diabetes,14
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::drug interaction,14
+CT_UNMAPPED::diabetes,CT_UNMAPPED::endothelial dysfunction,14
+CT_UNMAPPED::menopause,CT_UNMAPPED::mild cognitive impairment,14
+CT_UNMAPPED::pregnancy,CT_UNMAPPED::pregnancy related,14
+CT_UNMAPPED::depression,CT_UNMAPPED::parkinson s disease,14
+CT_UNMAPPED::menopause,CT_UNMAPPED::pregnancy,14
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::parkinson s disease,14
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::ptsd,14
+CT_UNMAPPED::cancer,CT_UNMAPPED::ptsd,14
+CT_UNMAPPED::analgesia,CT_UNMAPPED::pain management,13
+CT_UNMAPPED::chronic low back pain,CT_UNMAPPED::head and neck cancer,13
+CT_UNMAPPED::post operative pain,CT_UNMAPPED::surgery,13
+CT_UNMAPPED::chronic low back pain,CT_UNMAPPED::prostate cancer,13
+CT_UNMAPPED::migraine,CT_UNMAPPED::surgery,13
+CT_UNMAPPED::cancer,CT_UNMAPPED::non small cell lung cancer,13
+CT_UNMAPPED::cancer,CT_UNMAPPED::ovarian cancer,13
+CT_UNMAPPED::lung cancer,CT_UNMAPPED::mild cognitive impairment,13
+CT_UNMAPPED::lung cancer,CT_UNMAPPED::non small cell lung cancer,13
+CT_UNMAPPED::mild cognitive impairment,CT_UNMAPPED::non small cell lung cancer,13
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::endothelial dysfunction,13
+CT_UNMAPPED::depression,CT_UNMAPPED::hiv,13
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::chronic heart failure,13
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::kidney disease,13
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::type 1 diabetes,13
+CT_UNMAPPED::chronic kidney diseases,CT_UNMAPPED::kidney disease,13
+CT_UNMAPPED::diabetes,CT_UNMAPPED::kidney disease,13
+CT_UNMAPPED::end stage renal disease,CT_UNMAPPED::type 1 diabetes,13
+CT_UNMAPPED::migraine,CT_UNMAPPED::mild cognitive impairment,13
+CT_UNMAPPED::aging,CT_UNMAPPED::hiv,13
+CT_UNMAPPED::aging,CT_UNMAPPED::type 1 diabetes,13
+CT_UNMAPPED::diabetes,CT_UNMAPPED::drug drug interaction,13
+CT_UNMAPPED::diabetes,CT_UNMAPPED::heart failure with preserved ejection fraction,13
+CT_UNMAPPED::diabetes,CT_UNMAPPED::high blood pressure,13
+CT_UNMAPPED::drug drug interaction,CT_UNMAPPED::type 2 diabetes,13
+CT_UNMAPPED::colorectal cancer,CT_UNMAPPED::covid19,13
+CT_UNMAPPED::congenital heart disease,CT_UNMAPPED::diabetes,13
+CT_UNMAPPED::diabetes,CT_UNMAPPED::surgery,13
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::pregnancy,13
+CT_UNMAPPED::depression,CT_UNMAPPED::magnetic resonance imaging,13
+CT_UNMAPPED::major depression,CT_UNMAPPED::pregnancy,13
+CT_UNMAPPED::mild cognitive impairment,CT_UNMAPPED::ptsd,13
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::preeclampsia,13
+CT_UNMAPPED::endothelial dysfunction,CT_UNMAPPED::type 2 diabetes,13
+CT_UNMAPPED::preeclampsia,CT_UNMAPPED::type 2 diabetes,13
+CT_UNMAPPED::chronic kidney disease,CT_UNMAPPED::covid,13
+CT_UNMAPPED::aging,CT_UNMAPPED::covid19,13
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::prostate cancer,13
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::metastatic breast cancer,13
+CT_UNMAPPED::cancer,CT_UNMAPPED::cognitive impairment,13
+CT_UNMAPPED::cancer,CT_UNMAPPED::menopause,13
+CT_UNMAPPED::cancer,CT_UNMAPPED::type 2 diabetes,13
+CT_UNMAPPED::covid19,CT_UNMAPPED::ovarian cancer,13
+CT_UNMAPPED::alcohol use disorder,CT_UNMAPPED::breast cancer,13
+CT_UNMAPPED::alcohol use disorder,CT_UNMAPPED::depression,13
+CT_UNMAPPED::cancer,CT_UNMAPPED::gastric cancer,13
+CT_UNMAPPED::lung cancer,CT_UNMAPPED::pancreatic cancer,13
+CT_UNMAPPED::depression,CT_UNMAPPED::posttraumatic stress disorder,13
+CT_UNMAPPED::cancer,CT_UNMAPPED::colorectal cancer,13
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::endometrial cancer,13
+CT_UNMAPPED::pregnancy,CT_UNMAPPED::prostate cancer,13
+CT_UNMAPPED::posttraumatic stress disorder,CT_UNMAPPED::ptsd,13
+CT_UNMAPPED::type 2 diabetes,CT_UNMAPPED::type2 diabetes,13
+CT_UNMAPPED::analgesia,CT_UNMAPPED::chronic low back pain,12
+CT_UNMAPPED::analgesia,CT_UNMAPPED::head and neck cancer,12
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::cirrhosis,12
+CT_UNMAPPED::chronic low back pain,CT_UNMAPPED::pain management,12
+CT_UNMAPPED::covid19,CT_UNMAPPED::kidney disease,12
+CT_UNMAPPED::covid19,CT_UNMAPPED::sickle cell disease,12
+CT_UNMAPPED::pain management,CT_UNMAPPED::surgery,12
+CT_UNMAPPED::post operative pain,CT_UNMAPPED::total knee arthroplasty,12
+CT_UNMAPPED::migraine,CT_UNMAPPED::neuropathic pain,12
+CT_UNMAPPED::surgery,CT_UNMAPPED::surgery complications,12
+CT_UNMAPPED::end stage renal disease,CT_UNMAPPED::kidney transplant,12
+CT_UNMAPPED::hiv,CT_UNMAPPED::non small cell lung cancer,12
+CT_UNMAPPED::blood pressure,CT_UNMAPPED::kidney disease,12
+CT_UNMAPPED::chronic kidney diseases,CT_UNMAPPED::type 1 diabetes,12
+CT_UNMAPPED::diabetes,CT_UNMAPPED::prediabetes,12
+CT_UNMAPPED::depression,CT_UNMAPPED::sleep disorders,12
+CT_UNMAPPED::cancer,CT_UNMAPPED::major depression,12
+CT_UNMAPPED::cancer,CT_UNMAPPED::unspecified adult solid tumor protocol specific,12
+CT_UNMAPPED::depression,CT_UNMAPPED::unspecified adult solid tumor protocol specific,12
+CT_UNMAPPED::head and neck cancer,CT_UNMAPPED::mild cognitive impairment,12
+CT_UNMAPPED::insomnia,CT_UNMAPPED::psychosomatic disorders,12
+CT_UNMAPPED::mild cognitive impairment,CT_UNMAPPED::treatment resistant depression,12
+CT_UNMAPPED::mild cognitive impairment,CT_UNMAPPED::unspecified adult solid tumor protocol specific,12
+CT_UNMAPPED::aging,CT_UNMAPPED::cognitive impairment,12
+CT_UNMAPPED::blood pressure,CT_UNMAPPED::hiv,12
+CT_UNMAPPED::chronic kidney disease,CT_UNMAPPED::cognitive impairment,12
+CT_UNMAPPED::cognitive impairment,CT_UNMAPPED::diabetes,12
+CT_UNMAPPED::type 2 diabetes,CT_UNMAPPED::type ii diabetes mellitus,12
+CT_UNMAPPED::colorectal cancer,CT_UNMAPPED::head and neck cancer,12
+CT_UNMAPPED::chronic kidney disease,CT_UNMAPPED::hemodialysis,12
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::diabetes,12
+CT_UNMAPPED::autism,CT_UNMAPPED::depression,12
+CT_UNMAPPED::bipolar depression,CT_UNMAPPED::psychosomatic disorders,12
+CT_UNMAPPED::cognition,CT_UNMAPPED::depression,12
+CT_UNMAPPED::diabetes,CT_UNMAPPED::pregnancy,12
+CT_UNMAPPED::magnetic resonance imaging,CT_UNMAPPED::major depression,12
+CT_UNMAPPED::magnetic resonance imaging,CT_UNMAPPED::psychosomatic disorders,12
+CT_UNMAPPED::magnetic resonance imaging,CT_UNMAPPED::treatment resistant depression,12
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::drug drug interaction,12
+CT_UNMAPPED::chronic kidney diseases,CT_UNMAPPED::covid,12
+CT_UNMAPPED::coronary heart disease,CT_UNMAPPED::covid19,12
+CT_UNMAPPED::covid,CT_UNMAPPED::type 2 diabetes,12
+CT_UNMAPPED::impaired glucose tolerance,CT_UNMAPPED::type 2 diabetes,12
+CT_UNMAPPED::blood pressure,CT_UNMAPPED::covid,12
+CT_UNMAPPED::chronic kidney diseases,CT_UNMAPPED::heart failure with preserved ejection fraction,12
+CT_UNMAPPED::diabetes,CT_UNMAPPED::preeclampsia,12
+CT_UNMAPPED::aging,CT_UNMAPPED::cancer,12
+CT_UNMAPPED::aging,CT_UNMAPPED::mild cognitive impairment,12
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::hiv 1 infection,12
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::cognitive impairment,12
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::mild cognitive impairment,12
+CT_UNMAPPED::chronic kidney disease,CT_UNMAPPED::mild cognitive impairment,12
+CT_UNMAPPED::chronic kidney diseases,CT_UNMAPPED::prostate cancer,12
+CT_UNMAPPED::cognitive impairment,CT_UNMAPPED::menopause,12
+CT_UNMAPPED::alcohol use disorder,CT_UNMAPPED::mild cognitive impairment,12
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::lung cancer,12
+CT_UNMAPPED::bladder cancer,CT_UNMAPPED::breast cancer,12
+CT_UNMAPPED::blood pressure,CT_UNMAPPED::breast cancer,12
+CT_UNMAPPED::head and neck cancer,CT_UNMAPPED::pancreatic cancer,12
+CT_UNMAPPED::insomnia,CT_UNMAPPED::pregnancy,12
+CT_UNMAPPED::pregnancy,CT_UNMAPPED::type 2 diabetes,12
+CT_UNMAPPED::diabetes,CT_UNMAPPED::heart failure with reduced ejection fraction,12
+CT_UNMAPPED::colorectal cancer,CT_UNMAPPED::depression,12
+CT_UNMAPPED::pancreatic cancer,CT_UNMAPPED::prostate cancer,12
+CT_UNMAPPED::diabetes,CT_UNMAPPED::diabetes mellitus type ii,12
+CT_UNMAPPED::cancer,CT_UNMAPPED::posttraumatic stress disorder,12
+CT_UNMAPPED::diabetes,CT_UNMAPPED::type2 diabetes,12
+CT_UNMAPPED::bariatric surgery candidate,CT_UNMAPPED::breast cancer,11
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::children,11
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::narcotic use,11
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::rotator cuff tear,11
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::total knee arthroplasty,11
+CT_UNMAPPED::chronic low back pain,CT_UNMAPPED::total knee arthroplasty,11
+CT_UNMAPPED::covid 19 pneumonia,CT_UNMAPPED::covid19,11
+CT_UNMAPPED::narcotic use,CT_UNMAPPED::opioid use,11
+CT_UNMAPPED::narcotic use,CT_UNMAPPED::pain management,11
+CT_UNMAPPED::opioid use,CT_UNMAPPED::total knee arthroplasty,11
+CT_UNMAPPED::pain management,CT_UNMAPPED::total knee arthroplasty,11
+CT_UNMAPPED::rotator cuff tear,CT_UNMAPPED::surgery,11
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::colon cancer,11
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::sleep,11
+CT_UNMAPPED::migraine,CT_UNMAPPED::opioid use,11
+CT_UNMAPPED::pregnancy related,CT_UNMAPPED::prostate cancer,11
+CT_UNMAPPED::pregnancy related,CT_UNMAPPED::surgery,11
+CT_UNMAPPED::surgery,CT_UNMAPPED::trauma,11
+CT_UNMAPPED::chronic myeloproliferative disorders,CT_UNMAPPED::multiple myeloma and plasma cell neoplasm,11
+CT_UNMAPPED::complications,CT_UNMAPPED::end stage renal disease,11
+CT_UNMAPPED::ovarian cancer,CT_UNMAPPED::prostate cancer,11
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::congestive heart failure,11
+CT_UNMAPPED::depression,CT_UNMAPPED::end stage renal disease,11
+CT_UNMAPPED::cancer,CT_UNMAPPED::chronic kidney disease,11
+CT_UNMAPPED::cancer,CT_UNMAPPED::cirrhosis,11
+CT_UNMAPPED::cancer,CT_UNMAPPED::schizoaffective disorder,11
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::prediabetes,11
+CT_UNMAPPED::chronic kidney disease,CT_UNMAPPED::cirrhosis,11
+CT_UNMAPPED::chronic kidney disease,CT_UNMAPPED::congestive heart failure,11
+CT_UNMAPPED::chronic kidney diseases,CT_UNMAPPED::cirrhosis,11
+CT_UNMAPPED::migraine,CT_UNMAPPED::psychosomatic disorders,11
+CT_UNMAPPED::brain tumors,CT_UNMAPPED::mild cognitive impairment,11
+CT_UNMAPPED::cancer,CT_UNMAPPED::psychosomatic disorders,11
+CT_UNMAPPED::depression,CT_UNMAPPED::unipolar depression,11
+CT_UNMAPPED::insomnia,CT_UNMAPPED::treatment resistant depression,11
+CT_UNMAPPED::migraine,CT_UNMAPPED::neuropathy,11
+CT_UNMAPPED::chronic heart failure,CT_UNMAPPED::type 2 diabetes,11
+CT_UNMAPPED::chronic kidney disease,CT_UNMAPPED::heart failure with preserved ejection fraction,11
+CT_UNMAPPED::cognitive impairment,CT_UNMAPPED::type 2 diabetes,11
+CT_UNMAPPED::depression,CT_UNMAPPED::diabetes,11
+CT_UNMAPPED::diabetes,CT_UNMAPPED::type ii diabetes mellitus,11
+CT_UNMAPPED::drug drug interaction,CT_UNMAPPED::hiv,11
+CT_UNMAPPED::colorectal cancer,CT_UNMAPPED::gastric cancer,11
+CT_UNMAPPED::cancer,CT_UNMAPPED::sickle cell disease,11
+CT_UNMAPPED::chronic kidney diseases,CT_UNMAPPED::mild cognitive impairment,11
+CT_UNMAPPED::complications,CT_UNMAPPED::covid19,11
+CT_UNMAPPED::complications,CT_UNMAPPED::diabetes,11
+CT_UNMAPPED::alcohol dependence,CT_UNMAPPED::cocaine dependence,11
+CT_UNMAPPED::alcohol dependence,CT_UNMAPPED::major depression,11
+CT_UNMAPPED::alcohol dependence,CT_UNMAPPED::treatment resistant depression,11
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::schizoaffective disorder,11
+CT_UNMAPPED::cocaine dependence,CT_UNMAPPED::psychosomatic disorders,11
+CT_UNMAPPED::magnetic resonance imaging,CT_UNMAPPED::pregnancy,11
+CT_UNMAPPED::pregnancy,CT_UNMAPPED::psychosomatic disorders,11
+CT_UNMAPPED::pregnancy,CT_UNMAPPED::ptsd,11
+CT_UNMAPPED::pregnancy,CT_UNMAPPED::treatment resistant depression,11
+CT_UNMAPPED::psychosomatic disorders,CT_UNMAPPED::ptsd,11
+CT_UNMAPPED::psychosomatic disorders,CT_UNMAPPED::schizoaffective disorder,11
+CT_UNMAPPED::chronic kidney diseases,CT_UNMAPPED::endothelial dysfunction,11
+CT_UNMAPPED::chronic kidney diseases,CT_UNMAPPED::hemodialysis,11
+CT_UNMAPPED::coronary heart disease,CT_UNMAPPED::drug drug interaction,11
+CT_UNMAPPED::atherosclerotic cardiovascular disease,CT_UNMAPPED::diabetes,11
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::heart disease,11
+CT_UNMAPPED::chronic kidney disease,CT_UNMAPPED::preeclampsia,11
+CT_UNMAPPED::diabetes,CT_UNMAPPED::hemodialysis,11
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::cognitive impairment,11
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::drug interaction,11
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::copd,11
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::coronary heart disease,11
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::type 1 diabetes,11
+CT_UNMAPPED::cancer,CT_UNMAPPED::drug interactions,11
+CT_UNMAPPED::coronary heart disease,CT_UNMAPPED::prostate cancer,11
+CT_UNMAPPED::diabetes,CT_UNMAPPED::oxidative stress,11
+CT_UNMAPPED::menopause,CT_UNMAPPED::type 2 diabetes,11
+CT_UNMAPPED::mild cognitive impairment,CT_UNMAPPED::type 1 diabetes,11
+CT_UNMAPPED::prostate cancer,CT_UNMAPPED::type 1 diabetes,11
+CT_UNMAPPED::coronary heart disease,CT_UNMAPPED::hiv,11
+CT_UNMAPPED::covid19,CT_UNMAPPED::hiv,11
+CT_UNMAPPED::covid19,CT_UNMAPPED::pregnancy,11
+CT_UNMAPPED::alcohol dependence,CT_UNMAPPED::alcohol use disorder,11
+CT_UNMAPPED::alcohol dependence,CT_UNMAPPED::breast cancer,11
+CT_UNMAPPED::cancer,CT_UNMAPPED::opioid use,11
+CT_UNMAPPED::chronic kidney diseases,CT_UNMAPPED::hiv,11
+CT_UNMAPPED::depression,CT_UNMAPPED::suicidal ideation,11
+CT_UNMAPPED::gastric cancer,CT_UNMAPPED::pancreatic cancer,11
+CT_UNMAPPED::lung cancer,CT_UNMAPPED::pregnancy,11
+CT_UNMAPPED::non small cell lung cancer,CT_UNMAPPED::pancreatic cancer,11
+CT_UNMAPPED::non small cell lung cancer,CT_UNMAPPED::type 2 diabetes,11
+CT_UNMAPPED::parkinson s disease,CT_UNMAPPED::psychosomatic disorders,11
+CT_UNMAPPED::posttraumatic stress disorder,CT_UNMAPPED::psychosomatic disorders,11
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::congenital heart disease,11
+CT_UNMAPPED::chronic kidney disease,CT_UNMAPPED::heart failure with reduced ejection fraction,11
+CT_UNMAPPED::chronic kidney diseases,CT_UNMAPPED::heart failure with reduced ejection fraction,11
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::lumbar spinal stenosis,11
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::preeclampsia,11
+CT_UNMAPPED::cancer,CT_UNMAPPED::post operative pain,11
+CT_UNMAPPED::colorectal cancer,CT_UNMAPPED::lung cancer,11
+CT_UNMAPPED::pancreatic cancer,CT_UNMAPPED::surgery,11
+CT_UNMAPPED::covid,CT_UNMAPPED::high blood pressure,11
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::colorectal cancer,11
+CT_UNMAPPED::blood pressure,CT_UNMAPPED::covid19,11
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::crohn s disease,11
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::pregnancy,11
+CT_UNMAPPED::cognitive impairment,CT_UNMAPPED::lung cancer,11
+CT_UNMAPPED::colorectal cancer,CT_UNMAPPED::pregnancy,11
+CT_UNMAPPED::colorectal cancer,CT_UNMAPPED::type 2 diabetes,11
+CT_UNMAPPED::kidney disease,CT_UNMAPPED::type 2 diabetes,11
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::parkinson s disease,11
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::posttraumatic stress disorder,11
+CT_UNMAPPED::pre diabetes,CT_UNMAPPED::type 2 diabetes,11
+CT_UNMAPPED::diabetes,CT_UNMAPPED::diabetes type 2,11
+CT_UNMAPPED::mild cognitive impairment,CT_UNMAPPED::posttraumatic stress disorder,11
+CT_UNMAPPED::analgesia,CT_UNMAPPED::narcotic use,10
+CT_UNMAPPED::bariatric surgery candidate,CT_UNMAPPED::surgery,10
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::esophageal cancer,10
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::sclerosis systemic,10
+CT_UNMAPPED::chronic low back pain,CT_UNMAPPED::covid19,10
+CT_UNMAPPED::chronic low back pain,CT_UNMAPPED::narcotic use,10
+CT_UNMAPPED::chronic low back pain,CT_UNMAPPED::rotator cuff tear,10
+CT_UNMAPPED::covid19,CT_UNMAPPED::drug interactions,10
+CT_UNMAPPED::covid19,CT_UNMAPPED::kidney transplant,10
+CT_UNMAPPED::covid19,CT_UNMAPPED::sclerosis systemic,10
+CT_UNMAPPED::head and neck cancer,CT_UNMAPPED::post operative pain,10
+CT_UNMAPPED::narcotic use,CT_UNMAPPED::post operative pain,10
+CT_UNMAPPED::opioid use,CT_UNMAPPED::rotator cuff tear,10
+CT_UNMAPPED::pain management,CT_UNMAPPED::rotator cuff tear,10
+CT_UNMAPPED::post operative pain,CT_UNMAPPED::rotator cuff tear,10
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::opioid use disorder,10
+CT_UNMAPPED::chronic low back pain,CT_UNMAPPED::migraine,10
+CT_UNMAPPED::chronic low back pain,CT_UNMAPPED::neuropathic pain,10
+CT_UNMAPPED::migraine,CT_UNMAPPED::post operative pain,10
+CT_UNMAPPED::migraine,CT_UNMAPPED::prostate cancer,10
+CT_UNMAPPED::neuropathic pain,CT_UNMAPPED::pain management,10
+CT_UNMAPPED::neuropathic pain,CT_UNMAPPED::post operative pain,10
+CT_UNMAPPED::pain management,CT_UNMAPPED::prostate cancer,10
+CT_UNMAPPED::post operative pain,CT_UNMAPPED::prostate cancer,10
+CT_UNMAPPED::cognitive impairment,CT_UNMAPPED::migraine,10
+CT_UNMAPPED::migraine,CT_UNMAPPED::unspecified adult solid tumor protocol specific,10
+CT_UNMAPPED::cancer,CT_UNMAPPED::intracerebral hemorrhage,10
+CT_UNMAPPED::complications,CT_UNMAPPED::kidney transplant,10
+CT_UNMAPPED::end stage renal disease,CT_UNMAPPED::lung cancer,10
+CT_UNMAPPED::hiv,CT_UNMAPPED::lung cancer,10
+CT_UNMAPPED::lung cancer,CT_UNMAPPED::ovarian cancer,10
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::copd,10
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::non small cell lung cancer,10
+CT_UNMAPPED::covid19,CT_UNMAPPED::non small cell lung cancer,10
+CT_UNMAPPED::prostate cancer,CT_UNMAPPED::sickle cell disease,10
+CT_UNMAPPED::blood pressure,CT_UNMAPPED::cancer,10
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::cirrhosis,10
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::ovarian cancer,10
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::pre diabetes,10
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::schizoaffective disorder,10
+CT_UNMAPPED::chronic heart failure,CT_UNMAPPED::chronic kidney diseases,10
+CT_UNMAPPED::chronic heart failure,CT_UNMAPPED::kidney disease,10
+CT_UNMAPPED::chronic kidney diseases,CT_UNMAPPED::congestive heart failure,10
+CT_UNMAPPED::chronic kidney diseases,CT_UNMAPPED::ischemic heart disease,10
+CT_UNMAPPED::cirrhosis,CT_UNMAPPED::end stage renal disease,10
+CT_UNMAPPED::congestive heart failure,CT_UNMAPPED::end stage renal disease,10
+CT_UNMAPPED::diabetes,CT_UNMAPPED::ischemic heart disease,10
+CT_UNMAPPED::diabetes,CT_UNMAPPED::pre diabetes,10
+CT_UNMAPPED::end stage renal disease,CT_UNMAPPED::ischemic heart disease,10
+CT_UNMAPPED::prediabetes,CT_UNMAPPED::type 1 diabetes,10
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::generalized anxiety disorder,10
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::sleep disorders,10
+CT_UNMAPPED::brain tumors,CT_UNMAPPED::migraine,10
+CT_UNMAPPED::brain tumors,CT_UNMAPPED::neuropathy,10
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::major depression,10
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::treatment resistant depression,10
+CT_UNMAPPED::cancer,CT_UNMAPPED::treatment resistant depression,10
+CT_UNMAPPED::insomnia,CT_UNMAPPED::major depression,10
+CT_UNMAPPED::insomnia,CT_UNMAPPED::mild cognitive impairment,10
+CT_UNMAPPED::major depression,CT_UNMAPPED::unipolar depression,10
+CT_UNMAPPED::mild cognitive impairment,CT_UNMAPPED::neuropathy,10
+CT_UNMAPPED::psychosomatic disorders,CT_UNMAPPED::unipolar depression,10
+CT_UNMAPPED::aging,CT_UNMAPPED::blood pressure,10
+CT_UNMAPPED::aging,CT_UNMAPPED::depression,10
+CT_UNMAPPED::arterial hypertension,CT_UNMAPPED::chronic kidney disease,10
+CT_UNMAPPED::arterial hypertension,CT_UNMAPPED::diabetes,10
+CT_UNMAPPED::blood pressure,CT_UNMAPPED::high blood pressure,10
+CT_UNMAPPED::chronic kidney disease,CT_UNMAPPED::drug drug interaction,10
+CT_UNMAPPED::chronic kidney disease,CT_UNMAPPED::high blood pressure,10
+CT_UNMAPPED::cognitive impairment,CT_UNMAPPED::hiv,10
+CT_UNMAPPED::congestive heart failure,CT_UNMAPPED::type 2 diabetes,10
+CT_UNMAPPED::diabetes,CT_UNMAPPED::intracerebral hemorrhage,10
+CT_UNMAPPED::bladder cancer,CT_UNMAPPED::head and neck cancer,10
+CT_UNMAPPED::colorectal cancer,CT_UNMAPPED::surgery,10
+CT_UNMAPPED::bladder cancer,CT_UNMAPPED::prostate cancer,10
+CT_UNMAPPED::acute ischemic stroke,CT_UNMAPPED::covid19,10
+CT_UNMAPPED::acute myocardial infarction,CT_UNMAPPED::chronic kidney diseases,10
+CT_UNMAPPED::acute myocardial infarction,CT_UNMAPPED::covid19,10
+CT_UNMAPPED::acute myocardial infarction,CT_UNMAPPED::diabetes,10
+CT_UNMAPPED::chronic kidney diseases,CT_UNMAPPED::surgery,10
+CT_UNMAPPED::diabetes,CT_UNMAPPED::sickle cell disease,10
+CT_UNMAPPED::alcohol dependence,CT_UNMAPPED::bipolar depression,10
+CT_UNMAPPED::alcohol dependence,CT_UNMAPPED::mild cognitive impairment,10
+CT_UNMAPPED::alcohol dependence,CT_UNMAPPED::pregnancy,10
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::chronic low back pain,10
+CT_UNMAPPED::autism,CT_UNMAPPED::mild cognitive impairment,10
+CT_UNMAPPED::autism,CT_UNMAPPED::psychosomatic disorders,10
+CT_UNMAPPED::bipolar depression,CT_UNMAPPED::generalized anxiety disorder,10
+CT_UNMAPPED::bipolar depression,CT_UNMAPPED::magnetic resonance imaging,10
+CT_UNMAPPED::bipolar depression,CT_UNMAPPED::major depression,10
+CT_UNMAPPED::bipolar depression,CT_UNMAPPED::treatment resistant depression,10
+CT_UNMAPPED::chronic low back pain,CT_UNMAPPED::mild cognitive impairment,10
+CT_UNMAPPED::depression,CT_UNMAPPED::major depressive disorder mdd,10
+CT_UNMAPPED::generalized anxiety disorder,CT_UNMAPPED::treatment resistant depression,10
+CT_UNMAPPED::major depression,CT_UNMAPPED::ptsd,10
+CT_UNMAPPED::major depressive disorder mdd,CT_UNMAPPED::psychosomatic disorders,10
+CT_UNMAPPED::schizoaffective disorder,CT_UNMAPPED::schizophreniform disorder,10
+CT_UNMAPPED::acute ischemic stroke,CT_UNMAPPED::cardiovascular disease,10
+CT_UNMAPPED::acute myocardial infarction,CT_UNMAPPED::cardiovascular disease,10
+CT_UNMAPPED::acute myocardial infarction,CT_UNMAPPED::coronary heart disease,10
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::percutaneous coronary intervention,10
+CT_UNMAPPED::chronic kidney diseases,CT_UNMAPPED::coronary heart disease,10
+CT_UNMAPPED::covid,CT_UNMAPPED::covid19,10
+CT_UNMAPPED::covid19,CT_UNMAPPED::endothelial dysfunction,10
+CT_UNMAPPED::diabetes type 2,CT_UNMAPPED::type 2 diabetes,10
+CT_UNMAPPED::atherosclerotic cardiovascular disease,CT_UNMAPPED::cardiovascular disease,10
+CT_UNMAPPED::aging,CT_UNMAPPED::alzheimer s disease,10
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::cardiovascular disease,10
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::sickle cell disease,10
+CT_UNMAPPED::atherosclerotic cardiovascular disease,CT_UNMAPPED::type 2 diabetes,10
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::oxidative stress,10
+CT_UNMAPPED::chronic kidney disease,CT_UNMAPPED::coronary heart disease,10
+CT_UNMAPPED::chronic kidney disease,CT_UNMAPPED::oxidative stress,10
+CT_UNMAPPED::chronic kidney diseases,CT_UNMAPPED::cognitive impairment,10
+CT_UNMAPPED::covid19,CT_UNMAPPED::type 1 diabetes,10
+CT_UNMAPPED::drug interaction,CT_UNMAPPED::type 2 diabetes,10
+CT_UNMAPPED::menopause,CT_UNMAPPED::prostate cancer,10
+CT_UNMAPPED::ovarian cancer,CT_UNMAPPED::type 2 diabetes,10
+CT_UNMAPPED::oxidative stress,CT_UNMAPPED::type 2 diabetes,10
+CT_UNMAPPED::alcohol use disorder,CT_UNMAPPED::cocaine dependence,10
+CT_UNMAPPED::alcohol dependence,CT_UNMAPPED::cancer,10
+CT_UNMAPPED::alcohol use disorder,CT_UNMAPPED::cancer,10
+CT_UNMAPPED::alcohol use disorder,CT_UNMAPPED::hiv,10
+CT_UNMAPPED::alcohol use disorder,CT_UNMAPPED::psychosomatic disorders,10
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::end stage renal disease,10
+CT_UNMAPPED::depression,CT_UNMAPPED::pancreatic cancer,10
+CT_UNMAPPED::head and neck cancer,CT_UNMAPPED::lung cancer,10
+CT_UNMAPPED::head and neck cancer,CT_UNMAPPED::non small cell lung cancer,10
+CT_UNMAPPED::head and neck cancer,CT_UNMAPPED::pregnancy,10
+CT_UNMAPPED::lung cancer,CT_UNMAPPED::psychosomatic disorders,10
+CT_UNMAPPED::lung cancer,CT_UNMAPPED::schizoaffective disorder,10
+CT_UNMAPPED::mild cognitive impairment,CT_UNMAPPED::pregnancy related,10
+CT_UNMAPPED::mild cognitive impairment,CT_UNMAPPED::suicidal ideation,10
+CT_UNMAPPED::obese,CT_UNMAPPED::type 2 diabetes,10
+CT_UNMAPPED::psychosomatic disorders,CT_UNMAPPED::suicidal ideation,10
+CT_UNMAPPED::aging,CT_UNMAPPED::covid,10
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::hemodialysis,10
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::heart failure with reduced ejection fraction,10
+CT_UNMAPPED::chronic kidney disease,CT_UNMAPPED::congenital heart disease,10
+CT_UNMAPPED::cirrhosis,CT_UNMAPPED::coronary heart disease,10
+CT_UNMAPPED::covid,CT_UNMAPPED::kidney disease,10
+CT_UNMAPPED::hematopoietic and lymphoid cell neoplasm,CT_UNMAPPED::prostate cancer,10
+CT_UNMAPPED::cancer,CT_UNMAPPED::lumbar spinal stenosis,10
+CT_UNMAPPED::chronic low back pain,CT_UNMAPPED::lumbar spinal stenosis,10
+CT_UNMAPPED::colorectal cancer,CT_UNMAPPED::ovarian cancer,10
+CT_UNMAPPED::colorectal cancer,CT_UNMAPPED::pancreatic cancer,10
+CT_UNMAPPED::covid19,CT_UNMAPPED::lung cancer,10
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::complications,10
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::cognition,10
+CT_UNMAPPED::acute heart failure,CT_UNMAPPED::diabetes,10
+CT_UNMAPPED::arterial hypertension,CT_UNMAPPED::cardiovascular disease,10
+CT_UNMAPPED::arterial hypertension,CT_UNMAPPED::covid,10
+CT_UNMAPPED::aging,CT_UNMAPPED::colorectal cancer,10
+CT_UNMAPPED::aging,CT_UNMAPPED::pregnancy,10
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::colorectal cancer,10
+CT_UNMAPPED::chronic kidney diseases,CT_UNMAPPED::crohn s disease,10
+CT_UNMAPPED::crohn s disease,CT_UNMAPPED::end stage renal disease,10
+CT_UNMAPPED::crohn s disease,CT_UNMAPPED::prostate cancer,10
+CT_UNMAPPED::bipolar depression,CT_UNMAPPED::cognitive impairment,10
+CT_UNMAPPED::cognitive impairment,CT_UNMAPPED::major depression,10
+CT_UNMAPPED::cognitive impairment,CT_UNMAPPED::psychosomatic disorders,10
+CT_UNMAPPED::major depression,CT_UNMAPPED::posttraumatic stress disorder,10
+CT_UNMAPPED::menopause,CT_UNMAPPED::posttraumatic stress disorder,10
+CT_UNMAPPED::menopause,CT_UNMAPPED::ptsd,10
+CT_UNMAPPED::diabetes,CT_UNMAPPED::impaired glucose tolerance,10
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::type2 diabetes,10
+CT_UNMAPPED::diabetes,CT_UNMAPPED::diabetic kidney disease,10
+CT_UNMAPPED::diabetic kidney disease,CT_UNMAPPED::type 2 diabetes,10
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::drug drug interaction,10
+CT_UNMAPPED::hiv,CT_UNMAPPED::hiv 1 infection,10
+CT_UNMAPPED::prostate cancer,CT_UNMAPPED::schizoaffective disorder,10
+CT_UNMAPPED::analgesia,CT_UNMAPPED::total knee arthroplasty,9
+CT_UNMAPPED::bariatric surgery candidate,CT_UNMAPPED::head and neck cancer,9
+CT_UNMAPPED::bariatric surgery candidate,CT_UNMAPPED::opioid use,9
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::cesarean section,9
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::neuropathy,9
+CT_UNMAPPED::cesarean section,CT_UNMAPPED::post operative pain,9
+CT_UNMAPPED::children,CT_UNMAPPED::covid19,9
+CT_UNMAPPED::chronic low back pain,CT_UNMAPPED::insomnia,9
+CT_UNMAPPED::covid19,CT_UNMAPPED::head and neck cancer,9
+CT_UNMAPPED::head and neck cancer,CT_UNMAPPED::opioid use,9
+CT_UNMAPPED::head and neck cancer,CT_UNMAPPED::pain management,9
+CT_UNMAPPED::narcotic use,CT_UNMAPPED::surgery,9
+CT_UNMAPPED::sickle cell disease,CT_UNMAPPED::surgery,9
+CT_UNMAPPED::analgesia,CT_UNMAPPED::neuropathic pain,9
+CT_UNMAPPED::analgesia,CT_UNMAPPED::prostate cancer,9
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::opioid dependence,9
+CT_UNMAPPED::chronic low back pain,CT_UNMAPPED::sleep,9
+CT_UNMAPPED::colon cancer,CT_UNMAPPED::head and neck cancer,9
+CT_UNMAPPED::colon cancer,CT_UNMAPPED::surgery,9
+CT_UNMAPPED::migraine,CT_UNMAPPED::pain management,9
+CT_UNMAPPED::neuropathic pain,CT_UNMAPPED::opioid use,9
+CT_UNMAPPED::neuropathic pain,CT_UNMAPPED::prostate cancer,9
+CT_UNMAPPED::opioid dependence,CT_UNMAPPED::surgery,9
+CT_UNMAPPED::opioid use,CT_UNMAPPED::opioid use disorder,9
+CT_UNMAPPED::opioid use,CT_UNMAPPED::prostate cancer,9
+CT_UNMAPPED::opioid use,CT_UNMAPPED::surgery complications,9
+CT_UNMAPPED::cognitive impairment,CT_UNMAPPED::head and neck cancer,9
+CT_UNMAPPED::head and neck cancer,CT_UNMAPPED::unspecified adult solid tumor protocol specific,9
+CT_UNMAPPED::pregnancy related,CT_UNMAPPED::unspecified adult solid tumor protocol specific,9
+CT_UNMAPPED::surgery,CT_UNMAPPED::unspecified adult solid tumor protocol specific,9
+CT_UNMAPPED::complications,CT_UNMAPPED::prostate cancer,9
+CT_UNMAPPED::kidney transplant,CT_UNMAPPED::prostate cancer,9
+CT_UNMAPPED::kidney transplantation,CT_UNMAPPED::prostate cancer,9
+CT_UNMAPPED::non small cell lung cancer,CT_UNMAPPED::ovarian cancer,9
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::pancreatic cancer,9
+CT_UNMAPPED::acute lymphoblastic leukemia,CT_UNMAPPED::end stage renal disease,9
+CT_UNMAPPED::blood pressure,CT_UNMAPPED::congestive heart failure,9
+CT_UNMAPPED::chronic heart failure,CT_UNMAPPED::congestive heart failure,9
+CT_UNMAPPED::chronic heart failure,CT_UNMAPPED::end stage renal disease,9
+CT_UNMAPPED::chronic kidney disease,CT_UNMAPPED::ischemic heart disease,9
+CT_UNMAPPED::chronic kidney disease,CT_UNMAPPED::prediabetes,9
+CT_UNMAPPED::diabetes,CT_UNMAPPED::heart failure congestive,9
+CT_UNMAPPED::diabetes,CT_UNMAPPED::ovarian cancer,9
+CT_UNMAPPED::end stage renal disease,CT_UNMAPPED::schizoaffective disorder,9
+CT_UNMAPPED::psychosomatic disorders,CT_UNMAPPED::sleep disorders,9
+CT_UNMAPPED::brain tumors,CT_UNMAPPED::depression,9
+CT_UNMAPPED::cancer,CT_UNMAPPED::insomnia,9
+CT_UNMAPPED::cancer,CT_UNMAPPED::unipolar depression,9
+CT_UNMAPPED::depression,CT_UNMAPPED::neuropathy,9
+CT_UNMAPPED::head and neck cancer,CT_UNMAPPED::hiv,9
+CT_UNMAPPED::hiv,CT_UNMAPPED::insomnia,9
+CT_UNMAPPED::neuropathy,CT_UNMAPPED::psychosomatic disorders,9
+CT_UNMAPPED::treatment resistant depression,CT_UNMAPPED::unipolar depression,9
+CT_UNMAPPED::aging,CT_UNMAPPED::arterial hypertension,9
+CT_UNMAPPED::cognitive impairment,CT_UNMAPPED::drug drug interaction,9
+CT_UNMAPPED::endometrial cancer,CT_UNMAPPED::hiv,9
+CT_UNMAPPED::hiv,CT_UNMAPPED::type 1 diabetes,9
+CT_UNMAPPED::bladder cancer,CT_UNMAPPED::colorectal cancer,9
+CT_UNMAPPED::chronic kidney disease,CT_UNMAPPED::pregnancy related,9
+CT_UNMAPPED::colorectal cancer,CT_UNMAPPED::metastatic colorectal cancer,9
+CT_UNMAPPED::cirrhosis,CT_UNMAPPED::prostate cancer,9
+CT_UNMAPPED::colorectal cancer,CT_UNMAPPED::unspecified adult solid tumor protocol specific,9
+CT_UNMAPPED::covid19,CT_UNMAPPED::hemodialysis,9
+CT_UNMAPPED::acute ischemic stroke,CT_UNMAPPED::diabetes,9
+CT_UNMAPPED::acute myocardial infarction,CT_UNMAPPED::end stage renal disease,9
+CT_UNMAPPED::cancer,CT_UNMAPPED::congenital heart disease,9
+CT_UNMAPPED::chronic kidney diseases,CT_UNMAPPED::congenital heart disease,9
+CT_UNMAPPED::cirrhosis,CT_UNMAPPED::congenital heart disease,9
+CT_UNMAPPED::covid19,CT_UNMAPPED::stemi,9
+CT_UNMAPPED::mild cognitive impairment,CT_UNMAPPED::sickle cell disease,9
+CT_UNMAPPED::adhd,CT_UNMAPPED::depression,9
+CT_UNMAPPED::alcohol dependence,CT_UNMAPPED::alzheimer s disease,9
+CT_UNMAPPED::alcohol dependence,CT_UNMAPPED::generalized anxiety disorder,9
+CT_UNMAPPED::alcohol dependence,CT_UNMAPPED::magnetic resonance imaging,9
+CT_UNMAPPED::alcohol dependence,CT_UNMAPPED::ptsd,9
+CT_UNMAPPED::alcohol dependence,CT_UNMAPPED::schizoaffective disorder,9
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::autism,9
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::bipolar depression,9
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::cocaine dependence,9
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::cognition,9
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::magnetic resonance imaging,9
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::major depression,9
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::ptsd,9
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::treatment resistant depression,9
+CT_UNMAPPED::autism,CT_UNMAPPED::ptsd,9
+CT_UNMAPPED::bipolar depression,CT_UNMAPPED::mild cognitive impairment,9
+CT_UNMAPPED::bipolar depression,CT_UNMAPPED::pregnancy,9
+CT_UNMAPPED::chronic low back pain,CT_UNMAPPED::pregnancy,9
+CT_UNMAPPED::chronic low back pain,CT_UNMAPPED::psychosomatic disorders,9
+CT_UNMAPPED::cocaine dependence,CT_UNMAPPED::mild cognitive impairment,9
+CT_UNMAPPED::depression,CT_UNMAPPED::psychosis,9
+CT_UNMAPPED::generalized anxiety disorder,CT_UNMAPPED::magnetic resonance imaging,9
+CT_UNMAPPED::generalized anxiety disorder,CT_UNMAPPED::major depression,9
+CT_UNMAPPED::generalized anxiety disorder,CT_UNMAPPED::major depressive disorder mdd,9
+CT_UNMAPPED::generalized anxiety disorder,CT_UNMAPPED::mild cognitive impairment,9
+CT_UNMAPPED::generalized anxiety disorder,CT_UNMAPPED::pregnancy,9
+CT_UNMAPPED::generalized anxiety disorder,CT_UNMAPPED::ptsd,9
+CT_UNMAPPED::magnetic resonance imaging,CT_UNMAPPED::mild cognitive impairment,9
+CT_UNMAPPED::magnetic resonance imaging,CT_UNMAPPED::ptsd,9
+CT_UNMAPPED::psychosis,CT_UNMAPPED::schizoaffective disorder,9
+CT_UNMAPPED::ptsd,CT_UNMAPPED::treatment resistant depression,9
+CT_UNMAPPED::acute ischemic stroke,CT_UNMAPPED::coronary heart disease,9
+CT_UNMAPPED::acute ischemic stroke,CT_UNMAPPED::percutaneous coronary intervention,9
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::cerebrovascular accident,9
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::diabetes mellitus type ii,9
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::hemodialysis,9
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::hiv 1 infection,9
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::impaired glucose tolerance,9
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::peripheral artery disease,9
+CT_UNMAPPED::chronic kidney diseases,CT_UNMAPPED::diabetes mellitus type ii,9
+CT_UNMAPPED::chronic kidney diseases,CT_UNMAPPED::drug drug interaction,9
+CT_UNMAPPED::chronic kidney diseases,CT_UNMAPPED::impaired glucose tolerance,9
+CT_UNMAPPED::coronary heart disease,CT_UNMAPPED::end stage renal disease,9
+CT_UNMAPPED::coronary heart disease,CT_UNMAPPED::hiv 1 infection,9
+CT_UNMAPPED::coronary heart disease,CT_UNMAPPED::percutaneous coronary intervention,9
+CT_UNMAPPED::covid,CT_UNMAPPED::end stage renal disease,9
+CT_UNMAPPED::covid,CT_UNMAPPED::preeclampsia,9
+CT_UNMAPPED::diabetes mellitus type ii,CT_UNMAPPED::impaired glucose tolerance,9
+CT_UNMAPPED::end stage renal disease,CT_UNMAPPED::hemodialysis,9
+CT_UNMAPPED::end stage renal disease,CT_UNMAPPED::preeclampsia,9
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::heart failure with preserved ejection fraction,9
+CT_UNMAPPED::diabetes,CT_UNMAPPED::heart disease,9
+CT_UNMAPPED::diabetes,CT_UNMAPPED::pregnancy related,9
+CT_UNMAPPED::aging,CT_UNMAPPED::coronary heart disease,9
+CT_UNMAPPED::aging,CT_UNMAPPED::ovarian cancer,9
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::chronic kidney disease,9
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::endothelial dysfunction,9
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::intracerebral hemorrhage,9
+CT_UNMAPPED::cancer,CT_UNMAPPED::drug interaction,9
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::drug interaction,9
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::menopause,9
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::oxidative stress,9
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::type ii diabetes mellitus,9
+CT_UNMAPPED::chronic kidney disease,CT_UNMAPPED::endothelial dysfunction,9
+CT_UNMAPPED::chronic kidney disease,CT_UNMAPPED::percutaneous coronary intervention,9
+CT_UNMAPPED::cognitive impairment,CT_UNMAPPED::covid19,9
+CT_UNMAPPED::coronary heart disease,CT_UNMAPPED::drug interaction,9
+CT_UNMAPPED::diabetes,CT_UNMAPPED::drug interactions,9
+CT_UNMAPPED::diabetes,CT_UNMAPPED::percutaneous coronary intervention,9
+CT_UNMAPPED::drug interaction,CT_UNMAPPED::prostate cancer,9
+CT_UNMAPPED::drug interaction,CT_UNMAPPED::sickle cell disease,9
+CT_UNMAPPED::drug interactions,CT_UNMAPPED::type 2 diabetes,9
+CT_UNMAPPED::metastatic breast cancer,CT_UNMAPPED::prostate cancer,9
+CT_UNMAPPED::mild cognitive impairment,CT_UNMAPPED::oxidative stress,9
+CT_UNMAPPED::sickle cell disease,CT_UNMAPPED::type 2 diabetes,9
+CT_UNMAPPED::cirrhosis,CT_UNMAPPED::migraine,9
+CT_UNMAPPED::alcohol dependence,CT_UNMAPPED::lung cancer,9
+CT_UNMAPPED::alcohol use disorder,CT_UNMAPPED::type 2 diabetes,9
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::insomnia,9
+CT_UNMAPPED::bipolar depression,CT_UNMAPPED::cancer,9
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::magnetic resonance imaging,9
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::sleep disorders,9
+CT_UNMAPPED::cancer,CT_UNMAPPED::magnetic resonance imaging,9
+CT_UNMAPPED::cancer,CT_UNMAPPED::pregnancy related,9
+CT_UNMAPPED::chronic low back pain,CT_UNMAPPED::pancreatic cancer,9
+CT_UNMAPPED::depression,CT_UNMAPPED::opioid use,9
+CT_UNMAPPED::esophageal cancer,CT_UNMAPPED::lung cancer,9
+CT_UNMAPPED::gastric cancer,CT_UNMAPPED::lung cancer,9
+CT_UNMAPPED::hiv,CT_UNMAPPED::pancreatic cancer,9
+CT_UNMAPPED::hiv,CT_UNMAPPED::pregnancy related,9
+CT_UNMAPPED::major depression,CT_UNMAPPED::suicidal ideation,9
+CT_UNMAPPED::suicidal ideation,CT_UNMAPPED::treatment resistant depression,9
+CT_UNMAPPED::aging,CT_UNMAPPED::cirrhosis,9
+CT_UNMAPPED::aging,CT_UNMAPPED::congenital heart disease,9
+CT_UNMAPPED::aging,CT_UNMAPPED::kidney disease,9
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::congenital heart disease,9
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::covid,9
+CT_UNMAPPED::chronic heart failure,CT_UNMAPPED::covid,9
+CT_UNMAPPED::congenital heart disease,CT_UNMAPPED::heart failure with preserved ejection fraction,9
+CT_UNMAPPED::heart failure with preserved ejection fraction,CT_UNMAPPED::heart failure with reduced ejection fraction,9
+CT_UNMAPPED::analgesia,CT_UNMAPPED::cancer,9
+CT_UNMAPPED::covid19,CT_UNMAPPED::depression,9
+CT_UNMAPPED::depression,CT_UNMAPPED::surgery,9
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::overactive bladder,9
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::depression,9
+CT_UNMAPPED::cognitive impairment,CT_UNMAPPED::end stage renal disease,9
+CT_UNMAPPED::colorectal cancer,CT_UNMAPPED::mild cognitive impairment,9
+CT_UNMAPPED::covid19,CT_UNMAPPED::crohn s disease,9
+CT_UNMAPPED::crohn s disease,CT_UNMAPPED::diabetes,9
+CT_UNMAPPED::type 2 diabetes,CT_UNMAPPED::type2 diabetes mellitus,9
+CT_UNMAPPED::alcohol dependence,CT_UNMAPPED::menopause,9
+CT_UNMAPPED::autism,CT_UNMAPPED::breast cancer,9
+CT_UNMAPPED::autism,CT_UNMAPPED::cancer,9
+CT_UNMAPPED::cancer,CT_UNMAPPED::parkinson s disease,9
+CT_UNMAPPED::cognitive impairment,CT_UNMAPPED::generalized anxiety disorder,9
+CT_UNMAPPED::cognitive impairment,CT_UNMAPPED::parkinson s disease,9
+CT_UNMAPPED::cognitive impairment,CT_UNMAPPED::ptsd,9
+CT_UNMAPPED::hiv,CT_UNMAPPED::menopause,9
+CT_UNMAPPED::insomnia,CT_UNMAPPED::menopause,9
+CT_UNMAPPED::magnetic resonance imaging,CT_UNMAPPED::posttraumatic stress disorder,9
+CT_UNMAPPED::menopause,CT_UNMAPPED::psychosomatic disorders,9
+CT_UNMAPPED::menopause,CT_UNMAPPED::treatment resistant depression,9
+CT_UNMAPPED::parkinson s disease,CT_UNMAPPED::ptsd,9
+CT_UNMAPPED::posttraumatic stress disorder,CT_UNMAPPED::pregnancy,9
+CT_UNMAPPED::posttraumatic stress disorder,CT_UNMAPPED::treatment resistant depression,9
+CT_UNMAPPED::depression,CT_UNMAPPED::neuropathic pain,9
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::prediabetes,9
+CT_UNMAPPED::mild cognitive impairment,CT_UNMAPPED::parkinson s disease,9
+CT_UNMAPPED::nafld,CT_UNMAPPED::type 2 diabetes,9
+CT_UNMAPPED::prediabetes,CT_UNMAPPED::prostate cancer,9
+CT_UNMAPPED::depression,CT_UNMAPPED::sleep,9
+CT_UNMAPPED::chronic kidney disease,CT_UNMAPPED::type2 diabetes,9
+CT_UNMAPPED::chronic kidney diseases,CT_UNMAPPED::type2 diabetes,9
+CT_UNMAPPED::diabetes,CT_UNMAPPED::t2dm,9
+CT_UNMAPPED::diabetes,CT_UNMAPPED::type 2 diabetes mellitus t2dm,9
+CT_UNMAPPED::t2dm,CT_UNMAPPED::type 2 diabetes,9
+CT_UNMAPPED::colorectal cancer,CT_UNMAPPED::migraine,9
+CT_UNMAPPED::diabetes,CT_UNMAPPED::migraine,9
+CT_UNMAPPED::diabetes,CT_UNMAPPED::metabolic disease,9
+CT_UNMAPPED::metabolic disease,CT_UNMAPPED::type 2 diabetes,9
+CT_UNMAPPED::alcohol use disorder,CT_UNMAPPED::prostate cancer,9
+CT_UNMAPPED::drug drug interaction,CT_UNMAPPED::prostate cancer,9
+CT_UNMAPPED::cancer,CT_UNMAPPED::solid tumors,9
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::solid tumors,9
+CT_UNMAPPED::endometrial cancer,CT_UNMAPPED::pregnancy,9
+CT_UNMAPPED::cancer,CT_UNMAPPED::drug drug interaction,9
+CT_UNMAPPED::diabetes,CT_UNMAPPED::obese,9
+CT_UNMAPPED::analgesia,CT_UNMAPPED::cesarean section,8
+CT_UNMAPPED::analgesia,CT_UNMAPPED::rotator cuff tear,8
+CT_UNMAPPED::bleeding,CT_UNMAPPED::surgery,8
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::kidney disease,8
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::obese,8
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::osteoarthritis of the knee,8
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::overweight or obesity,8
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::pain post operative,8
+CT_UNMAPPED::cesarean section,CT_UNMAPPED::surgery,8
+CT_UNMAPPED::chronic low back pain,CT_UNMAPPED::drug interactions,8
+CT_UNMAPPED::cirrhosis,CT_UNMAPPED::covid19,8
+CT_UNMAPPED::cirrhosis,CT_UNMAPPED::sickle cell disease,8
+CT_UNMAPPED::covid19,CT_UNMAPPED::post operative pain,8
+CT_UNMAPPED::drug interactions,CT_UNMAPPED::post operative pain,8
+CT_UNMAPPED::head and neck cancer,CT_UNMAPPED::insomnia,8
+CT_UNMAPPED::impacted third molar tooth,CT_UNMAPPED::surgery,8
+CT_UNMAPPED::kidney transplant,CT_UNMAPPED::kidney transplantation,8
+CT_UNMAPPED::narcotic use,CT_UNMAPPED::rotator cuff tear,8
+CT_UNMAPPED::narcotic use,CT_UNMAPPED::total knee arthroplasty,8
+CT_UNMAPPED::obese,CT_UNMAPPED::sickle cell disease,8
+CT_UNMAPPED::opioid use,CT_UNMAPPED::pain post operative,8
+CT_UNMAPPED::pain management,CT_UNMAPPED::pain post operative,8
+CT_UNMAPPED::pain post operative,CT_UNMAPPED::post operative pain,8
+CT_UNMAPPED::pain post operative,CT_UNMAPPED::rotator cuff tear,8
+CT_UNMAPPED::rotator cuff tear,CT_UNMAPPED::total knee arthroplasty,8
+CT_UNMAPPED::sclerosis systemic,CT_UNMAPPED::surgery,8
+CT_UNMAPPED::surgery,CT_UNMAPPED::total knee arthroplasty,8
+CT_UNMAPPED::analgesia,CT_UNMAPPED::opioid dependence,8
+CT_UNMAPPED::analgesia,CT_UNMAPPED::opioid use disorder,8
+CT_UNMAPPED::bariatric surgery candidate,CT_UNMAPPED::pregnancy related,8
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::post operative pain control,8
+CT_UNMAPPED::children,CT_UNMAPPED::prostate cancer,8
+CT_UNMAPPED::chronic low back pain,CT_UNMAPPED::opioid use disorder,8
+CT_UNMAPPED::chronic low back pain,CT_UNMAPPED::surgery complications,8
+CT_UNMAPPED::drug interactions,CT_UNMAPPED::pregnancy related,8
+CT_UNMAPPED::head and neck cancer,CT_UNMAPPED::pregnancy related,8
+CT_UNMAPPED::migraine,CT_UNMAPPED::rotator cuff tear,8
+CT_UNMAPPED::migraine,CT_UNMAPPED::sleep,8
+CT_UNMAPPED::narcotic use,CT_UNMAPPED::neuropathic pain,8
+CT_UNMAPPED::narcotic use,CT_UNMAPPED::prostate cancer,8
+CT_UNMAPPED::opioid dependence,CT_UNMAPPED::opioid use,8
+CT_UNMAPPED::opioid dependence,CT_UNMAPPED::opioid use disorder,8
+CT_UNMAPPED::opioid dependence,CT_UNMAPPED::pain management,8
+CT_UNMAPPED::opioid dependence,CT_UNMAPPED::post operative pain,8
+CT_UNMAPPED::opioid use,CT_UNMAPPED::sleep,8
+CT_UNMAPPED::opioid use disorder,CT_UNMAPPED::pain management,8
+CT_UNMAPPED::opioid use disorder,CT_UNMAPPED::post operative pain,8
+CT_UNMAPPED::opioid use disorder,CT_UNMAPPED::surgery,8
+CT_UNMAPPED::pain management,CT_UNMAPPED::post operative pain control,8
+CT_UNMAPPED::post operative pain,CT_UNMAPPED::sleep,8
+CT_UNMAPPED::post operative pain control,CT_UNMAPPED::prostate cancer,8
+CT_UNMAPPED::prostate cancer,CT_UNMAPPED::total knee arthroplasty,8
+CT_UNMAPPED::sleep,CT_UNMAPPED::surgery,8
+CT_UNMAPPED::analgesia,CT_UNMAPPED::unspecified adult solid tumor protocol specific,8
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::trauma,8
+CT_UNMAPPED::chronic low back pain,CT_UNMAPPED::cognitive impairment,8
+CT_UNMAPPED::chronic low back pain,CT_UNMAPPED::unspecified adult solid tumor protocol specific,8
+CT_UNMAPPED::cognitive impairment,CT_UNMAPPED::neuropathic pain,8
+CT_UNMAPPED::cognitive impairment,CT_UNMAPPED::pregnancy related,8
+CT_UNMAPPED::cognitive impairment,CT_UNMAPPED::surgery,8
+CT_UNMAPPED::cognitive impairment,CT_UNMAPPED::unspecified adult solid tumor protocol specific,8
+CT_UNMAPPED::post operative pain,CT_UNMAPPED::unspecified adult solid tumor protocol specific,8
+CT_UNMAPPED::cancer,CT_UNMAPPED::children,8
+CT_UNMAPPED::cancer,CT_UNMAPPED::complications,8
+CT_UNMAPPED::cancer,CT_UNMAPPED::kidney disease,8
+CT_UNMAPPED::cancer,CT_UNMAPPED::multiple myeloma and plasma cell neoplasm,8
+CT_UNMAPPED::end stage renal disease,CT_UNMAPPED::kidney transplantation,8
+CT_UNMAPPED::hiv,CT_UNMAPPED::kidney disease,8
+CT_UNMAPPED::intracerebral hemorrhage,CT_UNMAPPED::mild cognitive impairment,8
+CT_UNMAPPED::kidney disease,CT_UNMAPPED::prostate cancer,8
+CT_UNMAPPED::mild cognitive impairment,CT_UNMAPPED::ovarian cancer,8
+CT_UNMAPPED::multiple myeloma and plasma cell neoplasm,CT_UNMAPPED::prostate cancer,8
+CT_UNMAPPED::congestive heart failure,CT_UNMAPPED::covid19,8
+CT_UNMAPPED::copd,CT_UNMAPPED::covid19,8
+CT_UNMAPPED::depression,CT_UNMAPPED::esophageal cancer,8
+CT_UNMAPPED::depression,CT_UNMAPPED::sickle cell disease,8
+CT_UNMAPPED::end stage renal disease,CT_UNMAPPED::sickle cell disease,8
+CT_UNMAPPED::hiv,CT_UNMAPPED::sickle cell disease,8
+CT_UNMAPPED::ovarian cancer,CT_UNMAPPED::sickle cell disease,8
+CT_UNMAPPED::blood pressure,CT_UNMAPPED::chronic heart failure,8
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::ischemic heart disease,8
+CT_UNMAPPED::chronic kidney disease,CT_UNMAPPED::ovarian cancer,8
+CT_UNMAPPED::chronic kidney diseases,CT_UNMAPPED::prediabetes,8
+CT_UNMAPPED::chronic kidney diseases,CT_UNMAPPED::schizoaffective disorder,8
+CT_UNMAPPED::congestive heart failure,CT_UNMAPPED::heart failure congestive,8
+CT_UNMAPPED::kidney disease,CT_UNMAPPED::type 1 diabetes,8
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::migraine,8
+CT_UNMAPPED::brain tumors,CT_UNMAPPED::breast cancer,8
+CT_UNMAPPED::brain tumors,CT_UNMAPPED::psychosomatic disorders,8
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::drug interaction potentiation,8
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::unipolar depression,8
+CT_UNMAPPED::cancer,CT_UNMAPPED::drug interaction potentiation,8
+CT_UNMAPPED::cancer,CT_UNMAPPED::migraine,8
+CT_UNMAPPED::chronic migraine,CT_UNMAPPED::migraine,8
+CT_UNMAPPED::mild cognitive impairment,CT_UNMAPPED::unipolar depression,8
+CT_UNMAPPED::aging,CT_UNMAPPED::chronic heart failure,8
+CT_UNMAPPED::aging,CT_UNMAPPED::drug drug interaction,8
+CT_UNMAPPED::aging,CT_UNMAPPED::high blood pressure,8
+CT_UNMAPPED::arterial hypertension,CT_UNMAPPED::type 2 diabetes,8
+CT_UNMAPPED::blood pressure,CT_UNMAPPED::depression,8
+CT_UNMAPPED::cerebrovascular accident,CT_UNMAPPED::chronic kidney disease,8
+CT_UNMAPPED::cerebrovascular accident,CT_UNMAPPED::depression,8
+CT_UNMAPPED::cerebrovascular accident,CT_UNMAPPED::diabetes,8
+CT_UNMAPPED::cerebrovascular accident,CT_UNMAPPED::type 2 diabetes,8
+CT_UNMAPPED::congestive heart failure,CT_UNMAPPED::heart failure with preserved ejection fraction,8
+CT_UNMAPPED::diabetes,CT_UNMAPPED::insulin sensitivity,8
+CT_UNMAPPED::diabetes,CT_UNMAPPED::metabolic syndrome x,8
+CT_UNMAPPED::diabetes,CT_UNMAPPED::sleep apnea,8
+CT_UNMAPPED::high blood pressure,CT_UNMAPPED::type 2 diabetes,8
+CT_UNMAPPED::insulin sensitivity,CT_UNMAPPED::type 2 diabetes,8
+CT_UNMAPPED::metabolic syndrome x,CT_UNMAPPED::type 2 diabetes,8
+CT_UNMAPPED::bladder cancer,CT_UNMAPPED::chronic kidney disease,8
+CT_UNMAPPED::bladder cancer,CT_UNMAPPED::surgery,8
+CT_UNMAPPED::chronic kidney disease,CT_UNMAPPED::colorectal cancer,8
+CT_UNMAPPED::chronic kidney disease,CT_UNMAPPED::preterm birth,8
+CT_UNMAPPED::chronic kidney disease,CT_UNMAPPED::surgery,8
+CT_UNMAPPED::colorectal cancer,CT_UNMAPPED::community acquired pneumonia,8
+CT_UNMAPPED::gastric cancer,CT_UNMAPPED::head and neck cancer,8
+CT_UNMAPPED::head and neck cancer,CT_UNMAPPED::metastatic colorectal cancer,8
+CT_UNMAPPED::covid19,CT_UNMAPPED::unspecified adult solid tumor protocol specific,8
+CT_UNMAPPED::acute ischemic stroke,CT_UNMAPPED::acute myocardial infarction,8
+CT_UNMAPPED::acute ischemic stroke,CT_UNMAPPED::end stage renal disease,8
+CT_UNMAPPED::acute ischemic stroke,CT_UNMAPPED::stemi,8
+CT_UNMAPPED::acute myocardial infarction,CT_UNMAPPED::stemi,8
+CT_UNMAPPED::cancer,CT_UNMAPPED::hematopoietic and lymphoid cell neoplasm,8
+CT_UNMAPPED::cancer,CT_UNMAPPED::sclerosis systemic,8
+CT_UNMAPPED::chronic kidney diseases,CT_UNMAPPED::complications,8
+CT_UNMAPPED::chronic kidney diseases,CT_UNMAPPED::kidney transplant,8
+CT_UNMAPPED::cirrhosis,CT_UNMAPPED::mild cognitive impairment,8
+CT_UNMAPPED::complications,CT_UNMAPPED::surgery,8
+CT_UNMAPPED::congenital heart disease,CT_UNMAPPED::covid19,8
+CT_UNMAPPED::corona virus infection,CT_UNMAPPED::covid19,8
+CT_UNMAPPED::end stage renal disease,CT_UNMAPPED::surgery,8
+CT_UNMAPPED::mild cognitive impairment,CT_UNMAPPED::surgery,8
+CT_UNMAPPED::alcohol abuse,CT_UNMAPPED::alcohol dependence,8
+CT_UNMAPPED::alcohol abuse,CT_UNMAPPED::depression,8
+CT_UNMAPPED::alcohol abuse,CT_UNMAPPED::psychosomatic disorders,8
+CT_UNMAPPED::alcohol dependence,CT_UNMAPPED::autism,8
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::major depressive disorder mdd,8
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::psychosis,8
+CT_UNMAPPED::attention deficit hyperactivity disorder,CT_UNMAPPED::depression,8
+CT_UNMAPPED::bipolar depression,CT_UNMAPPED::major depressive disorder mdd,8
+CT_UNMAPPED::bipolar depression,CT_UNMAPPED::ptsd,8
+CT_UNMAPPED::chronic low back pain,CT_UNMAPPED::ptsd,8
+CT_UNMAPPED::chronic low back pain,CT_UNMAPPED::treatment resistant depression,8
+CT_UNMAPPED::cognition,CT_UNMAPPED::psychosomatic disorders,8
+CT_UNMAPPED::diabetes,CT_UNMAPPED::nafld,8
+CT_UNMAPPED::magnetic resonance imaging,CT_UNMAPPED::major depressive disorder mdd,8
+CT_UNMAPPED::major depression,CT_UNMAPPED::major depressive disorder mdd,8
+CT_UNMAPPED::major depressive disorder mdd,CT_UNMAPPED::pregnancy,8
+CT_UNMAPPED::major depressive disorder mdd,CT_UNMAPPED::ptsd,8
+CT_UNMAPPED::major depressive disorder mdd,CT_UNMAPPED::treatment resistant depression,8
+CT_UNMAPPED::mild cognitive impairment,CT_UNMAPPED::schizoaffective disorder,8
+CT_UNMAPPED::pregnancy,CT_UNMAPPED::schizoaffective disorder,8
+CT_UNMAPPED::psychosis,CT_UNMAPPED::psychosomatic disorders,8
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::diabetes type 2,8
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::surgery,8
+CT_UNMAPPED::chronic kidney diseases,CT_UNMAPPED::percutaneous coronary intervention,8
+CT_UNMAPPED::coronary heart disease,CT_UNMAPPED::peripheral artery disease,8
+CT_UNMAPPED::covid,CT_UNMAPPED::hemodialysis,8
+CT_UNMAPPED::covid19,CT_UNMAPPED::preeclampsia,8
+CT_UNMAPPED::drug drug interaction,CT_UNMAPPED::end stage renal disease,8
+CT_UNMAPPED::hiv 1 infection,CT_UNMAPPED::type 2 diabetes,8
+CT_UNMAPPED::percutaneous coronary intervention,CT_UNMAPPED::type 2 diabetes,8
+CT_UNMAPPED::preterm birth,CT_UNMAPPED::type 2 diabetes,8
+CT_UNMAPPED::schizoaffective disorder,CT_UNMAPPED::type 2 diabetes,8
+CT_UNMAPPED::acute myocardial infarction,CT_UNMAPPED::chronic kidney disease,8
+CT_UNMAPPED::acute myocardial infarction,CT_UNMAPPED::heart failure with preserved ejection fraction,8
+CT_UNMAPPED::covid,CT_UNMAPPED::heart failure with preserved ejection fraction,8
+CT_UNMAPPED::aging,CT_UNMAPPED::drug interaction,8
+CT_UNMAPPED::aging,CT_UNMAPPED::endothelial dysfunction,8
+CT_UNMAPPED::aging,CT_UNMAPPED::menopause,8
+CT_UNMAPPED::aging,CT_UNMAPPED::oxidative stress,8
+CT_UNMAPPED::aging,CT_UNMAPPED::sickle cell disease,8
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::covid19,8
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::menopause,8
+CT_UNMAPPED::alzheimer s disease,CT_UNMAPPED::oxidative stress,8
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::cognitive decline,8
+CT_UNMAPPED::breast cancer,CT_UNMAPPED::smoking,8
+CT_UNMAPPED::cancer,CT_UNMAPPED::copd,8
+CT_UNMAPPED::cancer,CT_UNMAPPED::metastatic breast cancer,8
+CT_UNMAPPED::cardiovascular disease,CT_UNMAPPED::sickle cell disease,8
+CT_UNMAPPED::chronic kidney disease,CT_UNMAPPED::sickle cell disease,8
+CT_UNMAPPED::coronary heart disease,CT_UNMAPPED::mild cognitive impairment,8
+CT_UNMAPPED::diabetes,CT_UNMAPPED::hiv 1 infection,8
+CT_UNMAPPED::diabetes,CT_UNMAPPED::menopause,8
+CT_UNMAPPED::oxidative stress,CT_UNMAPPED::prostate cancer,8
+CT_UNMAPPED::complications,CT_UNMAPPED::pregnancy,8
+CT_UNMAPPED::copd,CT_UNMAPPED::hiv,8
+CT_UNMAPPED::covid,CT_UNMAPPED::hiv,8
+CT_UNMAPPED::adhd,CT_UNMAPPED::breast cancer,8
+CT_UNMAPPED::alcohol dependence,CT_UNMAPPED::pancreatic cancer,8
+CT_UNMAPPED::alcohol dependence,CT_UNMAPPED::unipolar depression,8

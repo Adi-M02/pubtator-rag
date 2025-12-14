@@ -1,0 +1,2273 @@
+row_index,nct_id,drug,removed_term,original_disease_field
+20,NCT04325009,Atorvastatin,Healthy,Healthy
+33,NCT00681525,Atorvastatin,Pharmacokinetics,Pharmacokinetics
+39,NCT02245269,Atorvastatin,Healthy,Healthy
+54,NCT01518166,Atorvastatin,Healthy,Diabetes; Healthy
+59,NCT01645449,Atorvastatin,Healthy,Healthy
+60,NCT00344955,Atorvastatin,Healthy,Healthy
+90,NCT01645384,Atorvastatin,Healthy,Healthy
+103,NCT02501200,Atorvastatin,Healthy,Healthy
+149,NCT06191991,Atorvastatin,Healthy Volunteers,Healthy Volunteers
+200,NCT00960323,Atorvastatin,Healthy,Healthy
+205,NCT04270370,Atorvastatin,Healthy,Healthy
+239,NCT00678522,Atorvastatin,Healthy Subjects,Healthy Subjects
+254,NCT05464628,Atorvastatin,Healthy,Healthy
+314,NCT01273571,Metformin,Healthy,Healthy
+318,NCT02183571,Metformin,Healthy,Healthy
+346,NCT04859452,Metformin,Healthy Subjects,Healthy Subjects
+368,NCT01560481,Metformin,Healthy,Healthy
+373,NCT00865748,Metformin,Healthy,Healthy
+376,NCT01454622,Metformin,Healthy,Healthy
+381,NCT03826641,Metformin,Healthy,Healthy
+384,NCT02212756,Metformin,Healthy,Healthy
+388,NCT03393208,Metformin,Healthy,Healthy
+390,NCT01662674,Metformin,Healthy,Healthy
+406,NCT07121959,Metformin,Healthy,Healthy
+425,NCT02745912,Metformin,Healthy Subjects,Healthy Subjects
+433,NCT06335134,Metformin,Healthy Volunteers,Healthy Volunteers
+460,NCT02223026,Metformin,Healthy,Healthy
+501,NCT01540487,Metformin,Healthy,Healthy
+503,NCT07216131,Metformin,Healthy Participants,Healthy Participants
+504,NCT04621656,Metformin,Healthy,Type 2 Diabetes; Pre-Diabetes; Healthy
+522,NCT07222098,Metformin,Healthy,Healthy
+525,NCT00864734,Metformin,Healthy,Healthy
+558,NCT06244407,Metformin,Healthy Volunteer,Healthy Volunteer
+565,NCT05965219,Metformin,Healthy Volunteers,Healthy Volunteers
+568,NCT02230995,Metformin,Healthy,Healthy
+573,NCT05124717,Metformin,Pharmacokinetics,Pharmacokinetics
+578,NCT06893978,Metformin,Healthy,Preeclampsia; Pregnancy Loss; Preterm Birth; Healthy
+594,NCT03270553,Metformin,Healthy Volunteers,Healthy Volunteers
+620,NCT01465646,Levothyroxine,Pharmacokinetics,Pharmacokinetics
+630,NCT03043521,Levothyroxine,Healthy,Healthy
+649,NCT00312715,Levothyroxine,Healthy Volunteers,Healthy Volunteers
+667,NCT03098433,Levothyroxine,Healthy,Healthy
+668,NCT03880578,Levothyroxine,Quality of Life,Thyroid; Deficiency; Quality of Life
+670,NCT06547242,Levothyroxine,Healthy,Healthy
+688,NCT06625814,Levothyroxine,Healthy,Healthy
+727,NCT00648882,Levothyroxine,Healthy,Healthy
+733,NCT03856970,Levothyroxine,Healthy Volunteers,Healthy Volunteers
+757,NCT04037748,Levothyroxine,Healthy,Healthy
+759,NCT00647855,Levothyroxine,Healthy,Healthy
+774,NCT02570581,Levothyroxine,Healthy,Healthy
+802,NCT04573907,Levothyroxine,Healthy,Healthy
+814,NCT01465633,Levothyroxine,Pharmacokinetics,Pharmacokinetics
+817,NCT03907280,Levothyroxine,Healthy,Healthy
+830,NCT05174000,Levothyroxine,Healthy,Healthy
+842,NCT00648557,Levothyroxine,Healthy,Healthy
+844,NCT01581463,Levothyroxine,Healthy,Healthy
+863,NCT03979274,Levothyroxine,Healthy,Healthy
+874,NCT00648700,Levothyroxine,Healthy,Healthy
+878,NCT02920385,Levothyroxine,Healthy,Diabetes; Healthy
+879,NCT03617835,Levothyroxine,Healthy,Healthy
+883,NCT04167423,Levothyroxine,Quality of Life,Thyroid Diseases; Pregnancy Related; Quality of Life
+899,NCT00531713,Levothyroxine,Quality of Life,Quality of Life; Depression
+909,NCT01518166,Lisinopril,Healthy,Diabetes; Healthy
+914,NCT01375244,Lisinopril,Healthy,Healthy
+939,NCT02070510,Lisinopril,Healthy,Diabetes; Healthy
+944,NCT03967496,Lisinopril,Anesthesia,Delirium; Anesthesia; Adverse Effect
+996,NCT01936012,Lisinopril,Healthy,Healthy
+1001,NCT06772779,Lisinopril,Healthy,Healthy
+1024,NCT02641899,Lisinopril,Healthy,Healthy
+1034,NCT05061901,Lisinopril,Bioequivalence,Bioequivalence
+1039,NCT03599466,Lisinopril,Healthy,Healthy
+1062,NCT01181011,Amlodipine,Healthy,Healthy
+1066,NCT02089399,Amlodipine,Healthy,Healthy
+1101,NCT02259790,Amlodipine,Healthy,Healthy
+1116,NCT04322266,Amlodipine,Healthy,Healthy
+1127,NCT01823913,Amlodipine,Healthy,Healthy
+1130,NCT02194309,Amlodipine,Healthy,Healthy
+1140,NCT04411875,Amlodipine,Healthy Subjects,Healthy Subjects
+1147,NCT00841542,Amlodipine,Healthy,Healthy
+1155,NCT00870571,Amlodipine,Healthy,Healthy
+1159,NCT01197014,Amlodipine,Healthy,Healthy
+1160,NCT01197001,Amlodipine,Healthy,Healthy
+1161,NCT05688098,Amlodipine,Healthy Volunteers,Healthy Volunteers
+1174,NCT05688085,Amlodipine,Healthy Volunteers,Healthy Volunteers
+1175,NCT00835367,Amlodipine,Healthy,Healthy
+1184,NCT01344629,Amlodipine,Healthy,Healthy
+1187,NCT01155895,Amlodipine,Healthy,Healthy
+1214,NCT00932880,Amlodipine,Healthy,Healthy
+1220,NCT00775151,Amlodipine,Healthy,Healthy
+1240,NCT02962258,Amlodipine,Healthy Subjects,Healthy Subjects
+1242,NCT02099123,Amlodipine,Healthy,Independent Living; Disability Free Survival; Elderly; Healthy
+1246,NCT02962336,Amlodipine,Healthy Subjects,Healthy Subjects
+1259,NCT01004614,Amlodipine,Healthy,Healthy
+1261,NCT00932763,Amlodipine,Healthy,Healthy
+1262,NCT02060019,Amlodipine,Healthy,Healthy
+1266,NCT00775905,Amlodipine,Healthy,Healthy
+1270,NCT02259803,Amlodipine,Healthy,Healthy
+1273,NCT02259829,Amlodipine,Healthy,Healthy
+1274,NCT05470764,Amlodipine,Bioequivalence,Bioequivalence; Healthy Subjects
+1274,NCT05470764,Amlodipine,Healthy Subjects,Bioequivalence; Healthy Subjects
+1280,NCT04245046,Amlodipine,Healthy Volunteers,Healthy Volunteers
+1282,NCT03967496,Amlodipine,Anesthesia,Delirium; Anesthesia; Adverse Effect
+1303,NCT00834977,Amlodipine,Healthy,Healthy
+1305,NCT02974439,Amlodipine,Bioequivalence,Bioequivalence
+1309,NCT01845272,Amlodipine,Healthy,Healthy
+1321,NCT02166398,Amlodipine,Healthy,Healthy
+1336,NCT02183675,Amlodipine,Healthy,Healthy
+1339,NCT02259816,Amlodipine,Healthy,Healthy
+1344,NCT01494727,Amlodipine,Healthy,Healthy
+1352,NCT02739672,Amlodipine,Healthy,Healthy
+1372,NCT01673997,Metoprolol,Healthy,Healthy
+1392,NCT01659944,Metoprolol,Healthy,Healthy
+1394,NCT03457597,Metoprolol,Healthy,Healthy
+1397,NCT04840641,Metoprolol,Healthy Volunteers,Healthy Volunteers; Drug Drug Interaction
+1398,NCT03082352,Metoprolol,Healthy,Healthy
+1417,NCT00649233,Metoprolol,Healthy,Healthy
+1422,NCT01478490,Metoprolol,Healthy Subjects,Pharmacokinetics of Mirabegron; Healthy Subjects
+1430,NCT06808802,Metoprolol,Healthy,Healthy
+1438,NCT01187862,Metoprolol,Pharmacokinetics,Cytochrome; Pharmacokinetics
+1448,NCT02361619,Metoprolol,Healthy Volunteers,Healthy Volunteers
+1466,NCT03612180,Metoprolol,Pharmacokinetics,Hemodialysis; Pharmacokinetics
+1474,NCT03441412,Metoprolol,Healthy Volunteers,Healthy Volunteers
+1477,NCT04713254,Metoprolol,Healthy,Healthy
+1486,NCT02264002,Metoprolol,Healthy,Healthy
+1488,NCT05368831,Metoprolol,Healthy Volunteers,Healthy Volunteers
+1494,NCT00649688,Metoprolol,Healthy,Healthy
+1506,NCT03070184,Metoprolol,Healthy,Healthy; Pre Hypertension
+1510,NCT02254148,Metoprolol,Healthy,Healthy
+1547,NCT00649116,Metoprolol,Healthy,Healthy
+1612,NCT00648271,Metoprolol,Healthy,Healthy
+1639,NCT01902550,Metoprolol,Healthy,Healthy
+1663,NCT03975166,Albuterol,Bioequivalence,Bioequivalence
+1721,NCT01213706,Albuterol,Healthy,Healthy; Smokers; Asthma
+1733,NCT04914273,Albuterol,Healthy,Healthy; Lung Pharmacokinetic
+1737,NCT00674050,Albuterol,Healthy Subjects,Diabetes Mellitus; Healthy Subjects
+1744,NCT00649779,Albuterol,Healthy,Healthy
+1753,NCT03894280,Albuterol,Bioequivalence,Bioequivalence
+1786,NCT06433908,Albuterol,Healthy Participants,Asthma; Healthy Participants
+1790,NCT04803734,Albuterol,Healthy,Healthy
+1795,NCT06514157,Albuterol,Healthy Volunteer,Healthy Volunteer
+1804,NCT06027606,Albuterol,Healthy,Healthy
+1810,NCT02173678,Albuterol,Healthy,Healthy
+1827,NCT01880723,Albuterol,Healthy,Cystic Fibrosis; Healthy
+1833,NCT05749523,Albuterol,Healthy,Healthy
+1841,NCT04124094,Albuterol,Bioequivalence,Bioequivalence
+1852,NCT03524066,Albuterol,Healthy,Healthy
+1857,NCT04488705,Albuterol,Healthy,Healthy
+1858,NCT03751202,Albuterol,Bioequivalence,Bioequivalence
+1862,NCT00730197,Albuterol,Healthy,Healthy
+1908,NCT07037511,Albuterol,Healthy,Asthma; Healthy; Effect of Drug
+1913,NCT01657487,Albuterol,Quality of Life,Percentage of Annual Acute Exacerbation; Quality of Life
+1960,NCT01218711,Losartan,Healthy,Healthy
+1973,NCT01570569,Losartan,Healthy,Healthy
+1996,NCT04322266,Losartan,Healthy,Healthy
+1997,NCT01124175,Losartan,Healthy,Healthy
+2005,NCT02056743,Losartan,Healthy,Healthy
+2010,NCT04840641,Losartan,Healthy Volunteers,Healthy Volunteers; Drug Drug Interaction
+2012,NCT01149473,Losartan,Healthy,Healthy
+2016,NCT04604756,Losartan,Healthy,Healthy
+2021,NCT01197014,Losartan,Healthy,Healthy
+2022,NCT01197001,Losartan,Healthy,Healthy
+2029,NCT01218022,Losartan,Healthy,Healthy
+2035,NCT04606225,Losartan,Healthy,Healthy
+2046,NCT01187862,Losartan,Pharmacokinetics,Cytochrome; Pharmacokinetics
+2096,NCT01218724,Losartan,Healthy,Healthy
+2097,NCT01149486,Losartan,Healthy,Healthy
+2106,NCT02166398,Losartan,Healthy,Healthy
+2139,NCT03459911,Losartan,Healthy,Healthy
+2140,NCT01692717,Losartan,Healthy Subjects,Healthy Subjects
+2153,NCT04604938,Losartan,Healthy,Healthy
+2155,NCT04606212,Losartan,Healthy,Healthy
+2169,NCT03912285,Losartan,Healthy,Healthy
+2185,NCT01124162,Losartan,Healthy,Healthy
+2192,NCT02212769,Losartan,Healthy,Healthy
+2210,NCT01934569,Losartan,Healthy,Healthy
+2226,NCT04081844,Losartan,Healthy,Healthy
+2243,NCT05090449,Losartan,Healthy,Healthy
+2250,NCT03396523,Losartan,Healthy,Healthy
+2291,NCT00865423,Gabapentin,Healthy,Healthy
+2310,NCT04144933,Gabapentin,Anesthesia,"Anesthesia; General Anesthesia; Analgesics, Opioid; Opioid Free Anesthesia; Postoperative Ileus; Colorectal Surgery; Laparoscopic Surgery; Analgesia; Dexmedetomidine; Lidocaine; Ketamine"
+2311,NCT00864058,Gabapentin,Healthy,Healthy
+2317,NCT05436886,Gabapentin,Healthy Volunteers,Healthy Volunteers; Bioequivalence Study
+2329,NCT00094510,Gabapentin,Healthy,Healthy
+2332,NCT04805827,Gabapentin,Healthy,Healthy
+2334,NCT00865631,Gabapentin,Healthy,Healthy
+2364,NCT00187707,Gabapentin,Healthy,Healthy
+2375,NCT00864305,Gabapentin,Healthy,Healthy
+2377,NCT00778765,Gabapentin,Healthy,Healthy
+2382,NCT00833391,Gabapentin,Pharmacokinetics,Pharmacokinetics; Healthy Volunteer
+2382,NCT00833391,Gabapentin,Healthy Volunteer,Pharmacokinetics; Healthy Volunteer
+2385,NCT02632331,Gabapentin,Healthy Volunteers,Healthy Volunteers
+2394,NCT05626998,Gabapentin,Anesthesia,Anesthesia
+2483,NCT03921034,Gabapentin,Anesthesia,Arthropathy of Knee; Anesthesia
+2487,NCT01119222,Gabapentin,Healthy,Healthy
+2531,NCT00778232,Gabapentin,Healthy,Healthy
+2559,NCT04368585,Omeprazole,Healthy Volunteers,Healthy Volunteers
+2563,NCT04679948,Omeprazole,Healthy,Healthy
+2565,NCT07018635,Omeprazole,Healthy Participants,Healthy Participants
+2575,NCT00526006,Omeprazole,Healthy,Healthy
+2577,NCT00230516,Omeprazole,Healthy,Healthy
+2581,NCT04468815,Omeprazole,Healthy Participants,Healthy Participants
+2582,NCT01129414,Omeprazole,Healthy,Healthy
+2590,NCT02783040,Omeprazole,Healthy,Healthy
+2593,NCT01570569,Omeprazole,Healthy,Healthy
+2598,NCT07014930,Omeprazole,Healthy Volunteers,Healthy Volunteers
+2601,NCT06193811,Omeprazole,Healthy,Healthy
+2603,NCT03105375,Omeprazole,Healthy Volunteers,Healthy Volunteers
+2610,NCT06561542,Omeprazole,Healthy,Healthy
+2616,NCT00441519,Omeprazole,Healthy,Healthy
+2620,NCT01731067,Omeprazole,Healthy Volunteers,Healthy Volunteers
+2627,NCT02789527,Omeprazole,Healthy,Healthy
+2662,NCT02659683,Omeprazole,Healthy Subjects,Healthy Subjects
+2673,NCT02790840,Omeprazole,Healthy,Healthy
+2674,NCT00350155,Omeprazole,Healthy Volunteers,Healthy Volunteers
+2675,NCT02056743,Omeprazole,Healthy,Healthy
+2682,NCT03457597,Omeprazole,Healthy,Healthy
+2684,NCT04840641,Omeprazole,Healthy Volunteers,Healthy Volunteers; Drug Drug Interaction
+2694,NCT02680119,Omeprazole,Healthy,Healthy
+2695,NCT01199328,Omeprazole,Healthy Volunteers,Healthy Volunteers
+2700,NCT01170169,Omeprazole,Healthy,Healthy
+2706,NCT01361217,Omeprazole,Healthy Volunteers,Drug-Drug Interaction; Healthy Volunteers
+2712,NCT00442052,Omeprazole,Healthy,Healthy
+2725,NCT01153659,Omeprazole,Healthy,Healthy
+2733,NCT05319899,Omeprazole,Healthy,Healthy
+2736,NCT06233149,Omeprazole,Healthy Subjects,Healthy Subjects
+2737,NCT07149415,Omeprazole,Healthy Volunteer,Healthy Volunteer
+2739,NCT05586568,Omeprazole,Healthy Subjects,Healthy Subjects
+2741,NCT05822544,Omeprazole,Healthy Subjects,Healthy Subjects; Obesity; Type 2 Diabetes
+2743,NCT01820143,Omeprazole,Healthy,Healthy; Pharmacokinetics; Pharmacodynamics; Ilaprazole
+2743,NCT01820143,Omeprazole,Pharmacokinetics,Healthy; Pharmacokinetics; Pharmacodynamics; Ilaprazole
+2746,NCT01415349,Omeprazole,Healthy,Healthy
+2751,NCT01925144,Omeprazole,Healthy Volunteers,Healthy Volunteers
+2756,NCT02023125,Omeprazole,Healthy Volunteer,Healthy Volunteer
+2757,NCT06233097,Omeprazole,Healthy Subjects,Healthy Subjects
+2769,NCT00524251,Omeprazole,Quality of Life,GERD; Quality of Life
+2776,NCT03058419,Omeprazole,Healthy,Healthy
+2781,NCT00474019,Omeprazole,Pharmacokinetics,Pharmacokinetics
+2786,NCT05438303,Omeprazole,Healthy Volunteers,Healthy Volunteers
+2791,NCT02473627,Omeprazole,Healthy,Healthy
+2794,NCT01129388,Omeprazole,Healthy,Healthy
+2795,NCT01187862,Omeprazole,Pharmacokinetics,Cytochrome; Pharmacokinetics
+2799,NCT05467475,Omeprazole,Healthy,Healthy
+2801,NCT03866434,Omeprazole,Healthy Volunteers,Healthy Volunteers
+2806,NCT02524210,Omeprazole,Healthy,Healthy
+2816,NCT02361619,Omeprazole,Healthy Volunteers,Healthy Volunteers
+2819,NCT01045434,Omeprazole,Healthy,Healthy
+2822,NCT02249936,Omeprazole,Healthy,Healthy
+2823,NCT00251030,Omeprazole,Healthy Volunteers,Healthy Volunteers
+2826,NCT00903448,Omeprazole,Healthy,Healthy
+2829,NCT04840888,Omeprazole,Healthy,Healthy
+2834,NCT06494761,Omeprazole,Healthy,Healthy
+2857,NCT00779350,Sertraline,Healthy,Healthy
+2887,NCT04806230,Sertraline,Pharmacokinetics,Pharmacokinetics; Antidepressive Agents; Pregnancy
+2915,NCT00864019,Sertraline,Healthy,Healthy
+2930,NCT00969852,Sertraline,Healthy,Healthy
+2936,NCT00864344,Sertraline,Healthy,Healthy
+2958,NCT01267396,Sertraline,Healthy,Healthy
+2969,NCT00648856,Sertraline,Healthy,Healthy
+2994,NCT01235195,Sertraline,Healthy,Healthy
+2996,NCT00778973,Sertraline,Healthy,Healthy
+2997,NCT01916824,Sertraline,Healthy Controls,Major Depressive Disorder; Healthy Controls
+3029,NCT02088697,Sertraline,Healthy Volunteers,Healthy Volunteers
+3091,NCT02655354,Sertraline,Quality of Life,Posttraumatic Stress Disorder; Depression; Alcohol-Related Disorders; Suicidal Ideation; Substance-Related Disorders; Mild Cognitive Impairment; Quality of Life; Pain; Wounds and Injury; Brain Injuries; Chronic Disease
+3107,NCT00944242,Sertraline,Healthy,Healthy
+3110,NCT01267383,Sertraline,Healthy,Healthy
+3117,NCT01699724,Sertraline,Healthy,Healthy
+3125,NCT02651623,Sertraline,Healthy,Healthy
+3159,NCT04515628,Rosuvastatin,Healthy Participants,Healthy Participants
+3165,NCT02089399,Rosuvastatin,Healthy,Healthy
+3169,NCT05176314,Rosuvastatin,Healthy,Healthy
+3179,NCT02730689,Rosuvastatin,Healthy Volunteers,Healthy Volunteers
+3181,NCT02542969,Rosuvastatin,Healthy,Healthy
+3185,NCT05480475,Rosuvastatin,Healthy,Healthy
+3188,NCT06335134,Rosuvastatin,Healthy Volunteers,Healthy Volunteers
+3189,NCT05373277,Rosuvastatin,Pharmacokinetics,Pharmacokinetics
+3191,NCT04257032,Rosuvastatin,Healthy,Healthy
+3193,NCT07158398,Rosuvastatin,Healthy Participants,Healthy Participants
+3205,NCT01415466,Rosuvastatin,Healthy,Healthy
+3210,NCT04749914,Rosuvastatin,Healthy,Healthy
+3216,NCT06594159,Rosuvastatin,Healthy,Healthy
+3218,NCT07222098,Rosuvastatin,Healthy,Healthy
+3230,NCT01469416,Rosuvastatin,Healthy,Healthy
+3233,NCT04322266,Rosuvastatin,Healthy,Healthy
+3241,NCT06491550,Rosuvastatin,Healthy Participants,Healthy Participants
+3242,NCT06186622,Rosuvastatin,Healthy,Healthy; Obese; Overweight
+3264,NCT06191991,Rosuvastatin,Healthy Volunteers,Healthy Volunteers
+3270,NCT02962323,Rosuvastatin,Healthy Subjects,Healthy Subjects
+3271,NCT04542382,Rosuvastatin,Healthy Volunteers,Healthy Volunteers
+3275,NCT05045638,Rosuvastatin,Healthy Participants,Healthy Participants
+3293,NCT03010475,Rosuvastatin,Healthy,Diabetes; Healthy
+3296,NCT01200836,Rosuvastatin,Healthy Volunteers,Healthy Volunteers; Statins; Immune Modulation
+3301,NCT01823133,Rosuvastatin,Healthy,Healthy
+3305,NCT04099732,Rosuvastatin,Healthy,Healthy
+3320,NCT03307252,Rosuvastatin,Healthy,Healthy
+3326,NCT03174041,Rosuvastatin,Healthy Participants,Healthy Participants
+3328,NCT06779253,Rosuvastatin,Healthy Subjects,Healthy Subjects
+3329,NCT02574845,Rosuvastatin,Healthy,Healthy
+3342,NCT01548157,Rosuvastatin,Healthy,Healthy
+3343,NCT01992601,Rosuvastatin,Healthy Volunteer,Healthy Volunteer
+3344,NCT04231435,Rosuvastatin,Healthy Volunteers,Healthy Volunteers
+3351,NCT05389722,Rosuvastatin,Healthy Volunteers,Healthy Volunteers
+3355,NCT05652660,Rosuvastatin,Healthy,Healthy
+3362,NCT07182383,Rosuvastatin,Healthy Subjects,Healthy Subjects
+3374,NCT02767310,Rosuvastatin,Healthy,Healthy
+3376,NCT01831479,Rosuvastatin,Healthy,Healthy
+3384,NCT01925300,Rosuvastatin,Healthy,Healthy
+3393,NCT02611518,Rosuvastatin,Healthy,Healthy
+3401,NCT04253353,Rosuvastatin,Healthy Volunteers,Healthy Volunteers
+3403,NCT03806101,Rosuvastatin,Healthy,Healthy
+3404,NCT04211272,Rosuvastatin,Healthy,Healthy
+3415,NCT06329895,Rosuvastatin,Healthy Volunteers,Advanced Non-small Cell Lung Cancer; EGFR Mutation; HER2 Mutation; Healthy Volunteers
+3419,NCT02709187,Rosuvastatin,Healthy,Healthy
+3420,NCT06160414,Rosuvastatin,Healthy,Healthy
+3422,NCT00874757,Rosuvastatin,Healthy,Healthy
+3424,NCT01964365,Rosuvastatin,Healthy,Healthy
+3430,NCT01929070,Rosuvastatin,Healthy,Healthy
+3432,NCT02060019,Rosuvastatin,Healthy,Healthy
+3464,NCT02170766,Pantoprazole,Healthy,Healthy
+3468,NCT02264119,Pantoprazole,Healthy,Healthy
+3472,NCT01418417,Pantoprazole,Healthy,Healthy
+3474,NCT00600041,Pantoprazole,Healthy,Healthy
+3476,NCT02170740,Pantoprazole,Healthy,Healthy
+3504,NCT00835588,Pantoprazole,Healthy,Healthy
+3505,NCT02502877,Pantoprazole,Anesthesia,Body Temperature Changes; Anesthesia
+3510,NCT01179659,Pantoprazole,Healthy,Healthy
+3513,NCT02170805,Pantoprazole,Healthy,Healthy
+3517,NCT01179646,Pantoprazole,Healthy,Healthy
+3525,NCT02170623,Pantoprazole,Healthy,Healthy
+3530,NCT00668902,Pantoprazole,Healthy,Healthy
+3546,NCT01654705,Pantoprazole,Healthy,Healthy
+3556,NCT00383916,Pantoprazole,Healthy Subjects,Healthy Subjects
+3562,NCT04935112,Pantoprazole,Healthy Adults,Healthy Adults
+3566,NCT01654718,Pantoprazole,Healthy,Healthy
+3567,NCT02170610,Pantoprazole,Healthy,Healthy
+3581,NCT02173730,Pantoprazole,Healthy,Healthy
+3582,NCT02170896,Pantoprazole,Healthy,Healthy
+3587,NCT05255276,Pantoprazole,Healthy Adults,Healthy Adults
+3592,NCT00915239,Pantoprazole,Healthy,Healthy
+3595,NCT02209831,Pantoprazole,Healthy,Healthy
+3597,NCT01129427,Pantoprazole,Healthy,Healthy
+3623,NCT01418443,Pantoprazole,Healthy,Healthy
+3628,NCT00206050,Pantoprazole,Healthy,Healthy
+3635,NCT02170636,Pantoprazole,Healthy,Healthy
+3640,NCT01703858,Pantoprazole,Healthy,Healthy
+3687,NCT01857609,Pantoprazole,Healthy,Healthy
+3689,NCT02264106,Pantoprazole,Healthy,Healthy
+3691,NCT00835393,Pantoprazole,Healthy,Healthy
+3723,NCT03907215,Escitalopram,Healthy,Healthy
+3725,NCT01951053,Escitalopram,Healthy,Healthy
+3737,NCT01149967,Escitalopram,Healthy,Healthy
+3746,NCT00386841,Escitalopram,Healthy,Healthy
+3762,NCT04806230,Escitalopram,Pharmacokinetics,Pharmacokinetics; Antidepressive Agents; Pregnancy
+3783,NCT02122939,Escitalopram,Healthy,Healthy
+3785,NCT00648661,Escitalopram,Healthy,Healthy
+3836,NCT00940238,Escitalopram,Healthy,Healthy
+3840,NCT01638689,Escitalopram,Healthy,Healthy
+3886,NCT01871701,Escitalopram,Healthy,Healthy
+3898,NCT00939835,Escitalopram,Healthy,Healthy
+3906,NCT00550485,Escitalopram,Pharmacokinetics,Pharmacokinetics
+3936,NCT01916824,Escitalopram,Healthy Controls,Major Depressive Disorder; Healthy Controls
+3941,NCT01395433,Escitalopram,Healthy,Healthy
+3969,NCT00865085,Escitalopram,Healthy,Healthy
+4003,NCT00649441,Hydrochlorothiazide,Healthy,Healthy
+4014,NCT01218711,Hydrochlorothiazide,Healthy,Healthy
+4049,NCT01294631,Hydrochlorothiazide,Healthy,Healthy
+4058,NCT01149473,Hydrochlorothiazide,Healthy,Healthy
+4071,NCT00872781,Hydrochlorothiazide,Healthy,Healthy
+4075,NCT00776646,Hydrochlorothiazide,Healthy,Healthy
+4078,NCT01020214,Hydrochlorothiazide,Healthy,Healthy
+4079,NCT00649233,Hydrochlorothiazide,Healthy,Healthy
+4082,NCT02276378,Hydrochlorothiazide,Healthy,Healthy
+4096,NCT00834067,Hydrochlorothiazide,Healthy,Healthy
+4097,NCT00990301,Hydrochlorothiazide,Healthy,Healthy
+4115,NCT00649597,Hydrochlorothiazide,Healthy,Healthy
+4131,NCT02962258,Hydrochlorothiazide,Healthy Subjects,Healthy Subjects
+4134,NCT02962336,Hydrochlorothiazide,Healthy Subjects,Healthy Subjects
+4144,NCT02176512,Hydrochlorothiazide,Healthy,Healthy
+4164,NCT04138888,Hydrochlorothiazide,Bioequivalence,Bioequivalence
+4170,NCT01218724,Hydrochlorothiazide,Healthy,Healthy
+4171,NCT01149486,Hydrochlorothiazide,Healthy,Healthy
+4189,NCT02187523,Hydrochlorothiazide,Healthy,Healthy
+4197,NCT02183675,Hydrochlorothiazide,Healthy,Healthy
+4201,NCT06205407,Hydrochlorothiazide,Healthy Participants,Healthy Participants
+4204,NCT00649688,Hydrochlorothiazide,Healthy,Healthy
+4215,NCT02739672,Hydrochlorothiazide,Healthy,Healthy
+4228,NCT00778713,Hydrochlorothiazide,Healthy,Healthy
+4235,NCT01692717,Hydrochlorothiazide,Healthy Subjects,Healthy Subjects
+4248,NCT00778674,Hydrochlorothiazide,Healthy,Healthy
+4294,NCT00777972,Hydrochlorothiazide,Healthy,Healthy
+4296,NCT05685277,Hydrochlorothiazide,Bioequivalence,Bioequivalence
+4299,NCT02262572,Hydrochlorothiazide,Healthy,Healthy
+4313,NCT04757532,Bupropion,Healthy Volunteers,Healthy Volunteers
+4314,NCT00440115,Bupropion,Smoking Cessation,Smoking Cessation
+4316,NCT01106456,Bupropion,Smoking Cessation,Smoking Cessation
+4318,NCT01165255,Bupropion,Smoking Cessation,Depressive Disorder; Pregnancy; Smoking Cessation
+4319,NCT02568176,Bupropion,Healthy,Healthy
+4323,NCT02745912,Bupropion,Healthy Subjects,Healthy Subjects
+4330,NCT03342027,Bupropion,Smoking Cessation,HIV; Smoking Cessation
+4332,NCT01731067,Bupropion,Healthy Volunteers,Healthy Volunteers
+4337,NCT02789527,Bupropion,Healthy,Healthy
+4345,NCT01875172,Bupropion,Smoking Cessation,Smoking Cessation; Pregnancy
+4347,NCT01309217,Bupropion,Smoking Cessation,Smoking Cessation
+4355,NCT04464577,Bupropion,Healthy Participants,Healthy Participants
+4356,NCT00304707,Bupropion,Smoking Cessation,Smoking Cessation; Alcohol-Related Disorders
+4358,NCT00322205,Bupropion,Smoking Cessation,Smoking Cessation
+4359,NCT01257490,Bupropion,Smoking Cessation,Smoking Cessation
+4364,NCT04899674,Bupropion,Healthy,Healthy
+4367,NCT00894166,Bupropion,Smoking Cessation,Smoking Cessation
+4379,NCT03950427,Bupropion,Smoking Cessation,"Smoking Cessation; Smoking, Tobacco; Mental Illness; Tobacco Use Disorder"
+4387,NCT00962988,Bupropion,Smoking Cessation,Cerebrovascular Disorders; Smoking Cessation
+4396,NCT01111149,Bupropion,Smoking Cessation,Schizophrenia; Smoking Cessation
+4397,NCT06374290,Bupropion,Smoking Cessation,Smoking Cessation
+4405,NCT04107857,Bupropion,Smoking Cessation,Smoking Cessation
+4407,NCT00865111,Bupropion,Healthy,Healthy
+4412,NCT04035603,Bupropion,Smoking Cessation,Smoking Cessation
+4415,NCT03058419,Bupropion,Healthy,Healthy
+4422,NCT02473627,Bupropion,Healthy,Healthy
+4428,NCT00125905,Bupropion,Smoking Cessation,Smoking Cessation
+4436,NCT04634071,Bupropion,Smoking Cessation,"Smoking Cessation; Cancer, Treatment-Related"
+4439,NCT03471767,Bupropion,Smoking Cessation,"Smoking Cessation; Smoking, Cigarette; Nicotine Dependence"
+4442,NCT04654585,Bupropion,Smoking Cessation,Smoking; Smoking Cessation
+4448,NCT03897439,Bupropion,Smoking Cessation,Smoking Cessation
+4458,NCT04717544,Bupropion,Smoking Cessation,Smoking Cessation
+4463,NCT01299896,Bupropion,Smoking Cessation,Smoking; Smoking Cessation
+4464,NCT01916824,Bupropion,Healthy Controls,Major Depressive Disorder; Healthy Controls
+4465,NCT00791869,Bupropion,Pharmacokinetics,Metabolism; Pharmacokinetics
+4474,NCT00818207,Bupropion,Smoking Cessation,Smoking Cessation; Insurance Coverage
+4479,NCT01871506,Bupropion,Smoking Cessation,Smoking Cessation
+4484,NCT03140527,Bupropion,Healthy Volunteer,Healthy Volunteer; Cystic Fibrosis
+4487,NCT06973005,Bupropion,Healthy Participants,Advanced Chronic Liver Disease; Healthy Participants
+4490,NCT02328794,Bupropion,Smoking Cessation,Smoking Cessation
+4492,NCT01935505,Bupropion,Smoking Cessation,Smoking Cessation
+4493,NCT04713254,Bupropion,Healthy,Healthy
+4494,NCT02676375,Bupropion,Smoking Cessation,Smoking Cessation; Schizophrenia
+4505,NCT06367153,Bupropion,Healthy,Healthy
+4510,NCT00330434,Bupropion,Smoking Cessation,Alcohol Drinking; Depression; Smoking Cessation; Attention Deficit Disorder
+4511,NCT02401256,Bupropion,Healthy,Healthy
+4518,NCT00690131,Bupropion,Smoking Cessation,Smoking Cessation
+4524,NCT00143364,Bupropion,Smoking Cessation,Smoking Cessation
+4526,NCT00770666,Bupropion,Smoking Cessation,Smoking Cessation
+4529,NCT05932277,Bupropion,Healthy Volunteers,Healthy Volunteers
+4535,NCT01015170,Bupropion,Smoking Cessation,Cigarette Smoking; Nicotine Addiction; Smoking Cessation
+4536,NCT00883155,Bupropion,Healthy,Healthy
+4542,NCT02259179,Bupropion,Healthy,Healthy
+4558,NCT00507728,Bupropion,Smoking Cessation,Tobacco Use Disorder; Smoking Cessation
+4560,NCT01771874,Bupropion,Healthy,Healthy; Substance-related Disorders
+4566,NCT05160090,Bupropion,Bioequivalence,Bioequivalence
+4567,NCT02995915,Bupropion,Smoking Cessation,Smoking Cessation; Alcohol Drinking
+4576,NCT03670316,Bupropion,Smoking Cessation,HIV; AIDS; Smoking Cessation
+4583,NCT05812183,Bupropion,Quality of Life,Dyspnea; Quality of Life
+4590,NCT01286402,Bupropion,Smoking Cessation,Smoking Cessation
+4591,NCT00863941,Bupropion,Healthy,Healthy
+4600,NCT01574703,Bupropion,Smoking Cessation,Smoking Cessation
+4643,NCT02965274,Fluoxetine,Healthy Subjects,Healthy Subjects
+4652,NCT01361217,Fluoxetine,Healthy Volunteers,Drug-Drug Interaction; Healthy Volunteers
+4661,NCT05532332,Fluoxetine,Healthy Subjects,Healthy Subjects
+4706,NCT01916824,Fluoxetine,Healthy Controls,Major Depressive Disorder; Healthy Controls
+4730,NCT02965261,Fluoxetine,Healthy Subjects,Healthy Subjects
+4759,NCT01166087,Fluoxetine,Healthy,Healthy
+4788,NCT02655354,Fluoxetine,Quality of Life,Posttraumatic Stress Disorder; Depression; Alcohol-Related Disorders; Suicidal Ideation; Substance-Related Disorders; Mild Cognitive Impairment; Quality of Life; Pain; Wounds and Injury; Brain Injuries; Chronic Disease
+4800,NCT01569126,Fluoxetine,Healthy Volunteer,Healthy Volunteer
+4812,NCT01247285,Fluoxetine,Healthy,Healthy
+4819,NCT00778024,Fluoxetine,Healthy,Healthy
+4869,NCT01967979,Fluoxetine,Healthy Volunteer,Healthy Volunteer
+4870,NCT00649636,Fluoxetine,Healthy,Healthy
+4903,NCT02231684,Semaglutide,Healthy,Diabetes; Healthy
+4913,NCT02064348,Semaglutide,Healthy,Diabetes; Healthy
+4918,NCT02146079,Semaglutide,Healthy,"Diabetes; Diabetes Mellitus, Type 2; Healthy"
+4945,NCT00851773,Semaglutide,Healthy,Diabetes; Healthy
+4947,NCT04109508,Semaglutide,Healthy Volunteers,Healthy Volunteers; Type 2 Diabetes
+4964,NCT02060266,Semaglutide,Healthy,Diabetes; Healthy
+4987,NCT03010475,Semaglutide,Healthy,Diabetes; Healthy
+4996,NCT01272973,Semaglutide,Healthy,"Diabetes; Diabetes Mellitus, Type 2; Healthy"
+5001,NCT06699329,Semaglutide,Healthy,Healthy
+5011,NCT02249910,Semaglutide,Healthy,Diabetes; Healthy
+5043,NCT02557620,Semaglutide,Healthy,Diabetes; Healthy
+5054,NCT01766245,Semaglutide,Healthy,Diabetes; Healthy
+5058,NCT04016974,Semaglutide,Healthy Volunteers,"Healthy Volunteers; Diabetes Mellitus, Type 2"
+5069,NCT05784402,Semaglutide,Healthy Participants,Healthy Participants
+5076,NCT02070510,Semaglutide,Healthy,Diabetes; Healthy
+5077,NCT02161588,Semaglutide,Healthy,"Diabetes; Diabetes Mellitus, Type 2; Healthy"
+5125,NCT05689099,Semaglutide,Healthy Participants,"Diabetes Mellitus, Type 2; Healthy Participants"
+5135,NCT02016911,Semaglutide,Healthy,"Diabetes; Diabetes Mellitus, Type 2; Healthy"
+5137,NCT04865744,Semaglutide,Healthy,Healthy
+5168,NCT05429593,Semaglutide,Healthy Volunteers,Healthy Volunteers
+5188,NCT01572753,Semaglutide,Healthy,"Diabetes; Diabetes Mellitus, Type 2; Healthy"
+5219,NCT04322422,Montelukast,Quality of Life,Asthma; Chest Syndrome; Clinical Anxiety; Clinical Depression; Lung Function; Quality of Life; Eosinophilia; Nitric Oxide; Airway Responsiveness; Induced Sputum
+5222,NCT05528198,Montelukast,Healthy Volunteers,Healthy Volunteers
+5238,NCT01931514,Montelukast,Healthy,Healthy
+5259,NCT01691469,Montelukast,Healthy,Healthy
+5278,NCT01691456,Montelukast,Healthy,Healthy
+5336,NCT05531994,Montelukast,Healthy Volunteers,Healthy Volunteers
+5346,NCT02401256,Montelukast,Healthy,Healthy
+5352,NCT02479854,Montelukast,Healthy,Healthy
+5407,NCT02321748,Montelukast,Healthy,Healthy
+5412,NCT01928056,Montelukast,Healthy,Healthy
+5422,NCT06535087,Montelukast,Quality of Life,"Pediatric Asthma; Rhinitis, Allergic; Quality of Life"
+5427,NCT01931501,Montelukast,Healthy,Healthy
+5433,NCT01674504,Montelukast,Healthy,Healthy
+5443,NCT01671722,Montelukast,Healthy,Healthy
+5450,NCT04275115,Montelukast,Healthy,Healthy
+5452,NCT01928069,Montelukast,Healthy,Healthy
+5456,NCT03371849,Montelukast,Healthy,Healthy
+5463,NCT03898193,Montelukast,Healthy Adults,Healthy Adults
+5464,NCT02480049,Montelukast,Healthy,Healthy
+5470,NCT05852769,Montelukast,Healthy Volunteers,Healthy Volunteers
+5521,NCT01400165,Trazodone,Healthy,Healthy
+5534,NCT03516630,Trazodone,Healthy,Healthy
+5540,NCT01121900,Trazodone,Healthy,Healthy
+5549,NCT01121913,Trazodone,Healthy,Healthy
+5553,NCT02655354,Trazodone,Quality of Life,Posttraumatic Stress Disorder; Depression; Alcohol-Related Disorders; Suicidal Ideation; Substance-Related Disorders; Mild Cognitive Impairment; Quality of Life; Pain; Wounds and Injury; Brain Injuries; Chronic Disease
+5566,NCT00839072,Trazodone,Healthy,Healthy
+5572,NCT01121926,Trazodone,Healthy Subjects,Healthy Subjects; Bioavailability; Pharmacokinetics
+5572,NCT01121926,Trazodone,Pharmacokinetics,Healthy Subjects; Bioavailability; Pharmacokinetics
+5576,NCT05136521,Trazodone,Healthy,Healthy
+5577,NCT05085808,Trazodone,Quality of Life,Delirium; Morality; Quality of Life; Psych; Treatment Side Effects
+5581,NCT01632566,Simvastatin,Healthy Volunteers,Healthy Volunteers
+5584,NCT04859452,Simvastatin,Healthy Subjects,Healthy Subjects
+5599,NCT02542969,Simvastatin,Healthy,Healthy
+5642,NCT06186622,Simvastatin,Healthy,Healthy; Obese; Overweight
+5645,NCT01304329,Simvastatin,Healthy,Healthy
+5690,NCT03174041,Simvastatin,Healthy Participants,Healthy Participants
+5746,NCT01960140,Simvastatin,Healthy Volunteers,Healthy Volunteers
+5753,NCT06379958,Simvastatin,Pharmacokinetics,Pharmacokinetics
+5756,NCT01979185,Simvastatin,Healthy,Healthy
+5768,NCT02533141,Simvastatin,Healthy,Healthy
+5781,NCT00359281,Simvastatin,Healthy,Healthy
+5791,NCT05580250,Simvastatin,Healthy,Healthy
+5799,NCT01167894,Simvastatin,Healthy,Healthy
+5831,NCT01689623,Simvastatin,Healthy Participants,Healthy Participants
+5878,NCT01383395,Simvastatin,Healthy,Healthy
+5920,NCT03487562,Amoxicillin,Healthy,Healthy
+5938,NCT00835705,Amoxicillin,Healthy,Healthy
+5963,NCT00778284,Amoxicillin,Healthy,Healthy
+5981,NCT03410771,Amoxicillin,Pharmacokinetics,Electric Impedance; Pharmacokinetics; Capillary Leak Syndrome
+6052,NCT06277609,Amoxicillin,Healthy Participants,Healthy Participants
+6073,NCT00778414,Amoxicillin,Healthy,Healthy
+6093,NCT00778661,Amoxicillin,Healthy,Healthy
+6132,NCT01829529,Amoxicillin,Healthy,Healthy
+6145,NCT02143323,Amoxicillin,Healthy,Healthy
+6176,NCT06613776,Amoxicillin,Healthy,Healthy; Third Molar Extraction Surgery; Antibiotic Prophylaxis; Amoxicillin
+6199,NCT02264184,Tamsulosin,Healthy,Healthy
+6209,NCT02634489,Tamsulosin,Healthy,Phase 1; Healthy; Benign Prostatic Hyperplasia; Lower Urinary Tract Symptoms
+6228,NCT06558032,Tamsulosin,Healthy,Healthy
+6231,NCT02266537,Tamsulosin,Healthy,Healthy
+6237,NCT01149746,Tamsulosin,Healthy,Healthy
+6260,NCT02072213,Tamsulosin,Healthy,Healthy
+6272,NCT04084197,Tamsulosin,Healthy,Healthy
+6275,NCT01489696,Tamsulosin,Healthy Subjects,Cardiovascular; Healthy Subjects; Pharmacokinetics
+6275,NCT01489696,Tamsulosin,Pharmacokinetics,Cardiovascular; Healthy Subjects; Pharmacokinetics
+6287,NCT02169713,Tamsulosin,Healthy Subjects,Healthy Subjects; Pharmacokinetics; Drug-Drug Interaction (DDI)
+6287,NCT02169713,Tamsulosin,Pharmacokinetics,Healthy Subjects; Pharmacokinetics; Drug-Drug Interaction (DDI)
+6300,NCT03709992,Tamsulosin,Quality of Life,Ureter Stone; Quality of Life; Ureter Obstruction
+6317,NCT02264171,Tamsulosin,Healthy,Healthy
+6325,NCT07091669,Tamsulosin,Healthy Volunteers,Healthy Volunteers; Male
+6343,NCT02247518,Tamsulosin,Healthy,Healthy
+6360,NCT01149733,Tamsulosin,Healthy,Healthy
+6375,NCT01953848,Tamsulosin,Pharmacokinetics,EC905; Pharmacokinetics; Multiple Dose; Healthy Subjects
+6375,NCT01953848,Tamsulosin,Healthy Subjects,EC905; Pharmacokinetics; Multiple Dose; Healthy Subjects
+6377,NCT01953887,Tamsulosin,Pharmacokinetics,EC905; Pharmacokinetics; Healthy Subjects
+6377,NCT01953887,Tamsulosin,Healthy Subjects,EC905; Pharmacokinetics; Healthy Subjects
+6384,NCT05537272,Tamsulosin,Quality of Life,Lower Urinary Tract Symptoms; Voiding Disorders; Pain; Quality of Life
+6393,NCT02529800,Tamsulosin,Healthy,Healthy
+6415,NCT01943487,Tamsulosin,Healthy Subjects,Drug-Drug Interaction (DDI); Healthy Subjects
+6429,NCT02138773,Tamsulosin,Healthy,Healthy; Pharmacokinetics of Tamsulosin Hydrochloride
+6444,NCT02266511,Tamsulosin,Healthy,Healthy
+6448,NCT01953861,Tamsulosin,Pharmacokinetics,EC905; Pharmacokinetics; Healthy Subjects
+6448,NCT01953861,Tamsulosin,Healthy Subjects,EC905; Pharmacokinetics; Healthy Subjects
+6461,NCT01456520,Acetaminophen; Hydrocodone,Healthy,Healthy
+6497,NCT02991222,Acetaminophen; Hydrocodone,Healthy,Healthy
+6505,NCT02465866,Acetaminophen; Hydrocodone,Healthy,Healthy
+6514,NCT02618395,Acetaminophen; Hydrocodone,Healthy,Healthy
+6518,NCT02312739,Acetaminophen; Hydrocodone,Contraception,Contraception; Inhalation of Nitrous Oxide
+6524,NCT03567941,Acetaminophen; Hydrocodone,Healthy,Healthy
+6578,NCT02991261,Acetaminophen; Hydrocodone,Healthy,Healthy
+6594,NCT02966860,Acetaminophen; Hydrocodone,Healthy Volunteers,Healthy Volunteers
+6645,NCT02826551,Acetaminophen; Hydrocodone,Anesthesia,Anesthesia
+6688,NCT03975166,Fluticasone,Bioequivalence,Bioequivalence
+6752,NCT00674050,Fluticasone,Healthy Subjects,Diabetes Mellitus; Healthy Subjects
+6766,NCT03894280,Fluticasone,Bioequivalence,Bioequivalence
+6822,NCT00280358,Fluticasone,Healthy,Healthy
+6832,NCT02476825,Fluticasone,Healthy,Healthy
+6842,NCT04124094,Fluticasone,Bioequivalence,Bioequivalence
+6853,NCT03524066,Fluticasone,Healthy,Healthy
+6856,NCT03751202,Fluticasone,Bioequivalence,Bioequivalence
+6903,NCT01657487,Fluticasone,Quality of Life,Percentage of Annual Acute Exacerbation; Quality of Life
+6907,NCT01400568,Fluticasone,Healthy,Healthy
+6946,NCT05697003,Fluticasone,Bioequivalence,Bioequivalence
+6967,NCT04466176,Fluticasone,Bioequivalence,Bioequivalence
+6973,NCT02232087,Fluticasone,Healthy,Healthy
+6980,NCT02183103,Meloxicam,Healthy,Healthy
+6988,NCT00649675,Meloxicam,Healthy,Healthy
+6989,NCT02187562,Meloxicam,Healthy,Healthy
+6990,NCT02183155,Meloxicam,Healthy,Healthy
+6994,NCT01161147,Meloxicam,Healthy,Healthy
+7011,NCT02181322,Meloxicam,Healthy,Healthy
+7013,NCT03354117,Meloxicam,Contraception,Contraception
+7018,NCT04322175,Meloxicam,Healthy Volunteers,Healthy Volunteers
+7034,NCT02183090,Meloxicam,Healthy,Healthy
+7039,NCT02183142,Meloxicam,Healthy,Healthy
+7054,NCT00840879,Meloxicam,Healthy,Healthy
+7058,NCT03684265,Meloxicam,Healthy,Healthy
+7066,NCT02181309,Meloxicam,Healthy,Healthy
+7070,NCT02183077,Meloxicam,Healthy,Healthy
+7077,NCT02183181,Meloxicam,Healthy,Healthy
+7079,NCT01161134,Meloxicam,Healthy,Healthy
+7080,NCT02276352,Meloxicam,Healthy,Healthy
+7098,NCT05125588,Meloxicam,Pharmacokinetics,Pharmacokinetics
+7099,NCT00649077,Meloxicam,Healthy,Healthy
+7101,NCT00840476,Meloxicam,Healthy,Healthy
+7108,NCT01839643,Meloxicam,Contraception,Contraception; Bleeding Pattern
+7109,NCT04766996,Meloxicam,Anesthesia,Anesthesia; Opioid Use
+7174,NCT02034565,Apixaban,Healthy Volunteers,Healthy Volunteers
+7179,NCT03509883,Apixaban,Healthy Volunteers,Healthy Volunteers
+7248,NCT03288454,Apixaban,Healthy,Healthy
+7249,NCT06388239,Apixaban,Healthy Volunteer,Healthy Volunteer
+7260,NCT05841446,Apixaban,Healthy,Healthy
+7283,NCT02034591,Apixaban,Healthy Subjects,Healthy Subjects
+7311,NCT03864406,Apixaban,Healthy Volunteers,Healthy Volunteers
+7324,NCT01758432,Apixaban,Healthy Volunteers,Healthy Volunteers
+7370,NCT01437839,Apixaban,Healthy,Healthy
+7414,NCT04593784,Apixaban,Healthy,Healthy
+7447,NCT00778180,Furosemide,Healthy,Healthy
+7459,NCT04130815,Furosemide,Healthy Volunteers,Healthy Volunteers
+7468,NCT06491550,Furosemide,Healthy Participants,Healthy Participants
+7471,NCT06467825,Furosemide,Healthy,Healthy
+7487,NCT03010475,Furosemide,Healthy,Diabetes; Healthy
+7492,NCT01438359,Furosemide,Healthy,Healthy
+7499,NCT03307252,Furosemide,Healthy,Healthy
+7500,NCT01440764,Furosemide,Healthy,Healthy; Dyspnea
+7504,NCT02574845,Furosemide,Healthy,Healthy
+7526,NCT04085094,Furosemide,Healthy Controls,Chronic Renal Failure; Healthy Controls
+7577,NCT02854527,Furosemide,Healthy,Healthy
+7624,NCT02570581,Furosemide,Healthy,Healthy
+7632,NCT04763226,Furosemide,Healthy Participants,Healthy Participants
+7666,NCT02231931,Furosemide,Healthy,Healthy
+7685,NCT01611415,Furosemide,Healthy Subjects,Healthy Subjects; Pharmacokinetics of Ipragliflozin
+7728,NCT02479022,Insulin Glargine,Healthy,"Diabetes; Diabetes Mellitus, Type 2; Healthy"
+7738,NCT02220296,Insulin Glargine,Healthy,"Healthy; Diabetes; Diabetes Mellitus, Type 1"
+7918,NCT01688635,Insulin Glargine,Healthy,Healthy
+7928,NCT03965013,Insulin Glargine,Healthy Volunteers,"Diabetes Mellitus, Type 1; Healthy Volunteers"
+7936,NCT03555305,Insulin Glargine,Healthy,Healthy
+7963,NCT03025009,Insulin Glargine,Healthy,Healthy
+7995,NCT06627478,Insulin Glargine,Healthy Participants,Healthy Participants
+8049,NCT02291367,Duloxetine,Healthy,Healthy
+8052,NCT01443520,Duloxetine,Healthy,Healthy
+8066,NCT02291341,Duloxetine,Healthy,Healthy
+8072,NCT03054220,Duloxetine,Healthy,Healthy
+8078,NCT04723238,Duloxetine,Bioequivalence,Bioequivalence
+8124,NCT02232542,Duloxetine,Healthy,Healthy
+8153,NCT01916824,Duloxetine,Healthy Controls,Major Depressive Disorder; Healthy Controls
+8154,NCT03794154,Duloxetine,Healthy,Healthy
+8167,NCT05050656,Duloxetine,Anesthesia,Anesthesia
+8262,NCT02655354,Duloxetine,Quality of Life,Posttraumatic Stress Disorder; Depression; Alcohol-Related Disorders; Suicidal Ideation; Substance-Related Disorders; Mild Cognitive Impairment; Quality of Life; Pain; Wounds and Injury; Brain Injuries; Chronic Disease
+8285,NCT00660751,Duloxetine,Healthy,Healthy
+8301,NCT01051466,Duloxetine,Healthy Participants,Major Depressive Disorder; Healthy Participants
+8377,NCT01170637,Ibuprofen,Healthy,Healthy
+8383,NCT03658720,Ibuprofen,Healthy,Healthy
+8385,NCT00962663,Ibuprofen,Healthy,Healthy
+8391,NCT02349607,Ibuprofen,Healthy,Healthy
+8402,NCT03694587,Ibuprofen,Healthy,Healthy
+8431,NCT01501747,Ibuprofen,Pharmacokinetics,Placebo Effect; Drug Half Life; Pharmacokinetics
+8443,NCT01149941,Ibuprofen,Healthy,Healthy
+8458,NCT03952715,Ibuprofen,Healthy,Healthy; Placebo Response
+8466,NCT02260947,Ibuprofen,Healthy,Healthy
+8480,NCT01053338,Ibuprofen,Healthy,Healthy
+8482,NCT06077786,Ibuprofen,Healthy Participants,Healthy Participants
+8591,NCT02465866,Ibuprofen,Healthy,Healthy
+8615,NCT02482324,Ibuprofen,Healthy Volunteers,Healthy Volunteers
+8627,NCT07018635,Famotidine,Healthy Participants,Healthy Participants
+8640,NCT06170723,Famotidine,Healthy Participants,Healthy Participants
+8644,NCT01079065,Famotidine,Healthy,Healthy
+8648,NCT04470778,Famotidine,Healthy Participants,Healthy Participants
+8654,NCT04949269,Famotidine,Healthy Participants,Healthy Participants
+8657,NCT04903093,Famotidine,Healthy Volunteers,Healthy Volunteers
+8659,NCT03451110,Famotidine,Healthy Subjects,Healthy Subjects
+8664,NCT04175925,Famotidine,Healthy Participants,Healthy Participants
+8666,NCT04536961,Famotidine,Healthy Volunteers,Healthy Volunteers
+8668,NCT01734759,Famotidine,Healthy,Healthy
+8677,NCT04550195,Famotidine,Healthy Volunteers,Healthy Volunteers
+8678,NCT04935112,Famotidine,Healthy Adults,Healthy Adults
+8683,NCT01511731,Famotidine,Healthy,Healthy
+8688,NCT05599828,Famotidine,Healthy Participants,Healthy Participants
+8690,NCT02790125,Famotidine,Healthy,Healthy
+8699,NCT05255276,Famotidine,Healthy Adults,Healthy Adults
+8700,NCT01079052,Famotidine,Healthy,Healthy
+8712,NCT06054464,Famotidine,Healthy Volunteers,Healthy Volunteers
+8713,NCT04209699,Famotidine,Healthy Participants,Healthy Participants
+8719,NCT02684799,Famotidine,Healthy,Healthy
+8720,NCT04453189,Famotidine,Healthy Participants,Healthy Participants
+8721,NCT05866627,Famotidine,Healthy Volunteers,Healthy Volunteers
+8729,NCT02534636,Famotidine,Healthy Subjects,Healthy Subjects
+8739,NCT07171619,Famotidine,Healthy,Healthy
+8741,NCT02922933,Famotidine,Healthy Volunteers,Volunteers; Healthy Volunteers; Human Volunteers; Normal Volunteers
+8749,NCT06507904,Famotidine,Healthy,Healthy
+8755,NCT04766996,Famotidine,Anesthesia,Anesthesia; Opioid Use
+8757,NCT02097329,Famotidine,Healthy,Healthy
+8758,NCT06481306,Famotidine,Healthy Volunteers,"Anemia, Sickle Cell; Healthy Volunteers"
+8761,NCT06851871,Famotidine,Healthy Participants,Healthy Participants
+8768,NCT01910090,Famotidine,Healthy,Healthy
+8771,NCT04390334,Famotidine,Healthy,Healthy
+8772,NCT06332638,Famotidine,Healthy,Healthy
+8773,NCT04941755,Famotidine,Healthy Participants,Healthy Participants
+8775,NCT06213818,Famotidine,Healthy Participants,Healthy Participants
+8778,NCT06144697,Famotidine,Healthy Participants,Healthy Participants
+8786,NCT03895229,Empagliflozin,Pharmacokinetics,Diabetes Mellitus; Pharmacokinetics; Pharmacodynamics
+8788,NCT07035457,Empagliflozin,Healthy,Healthy
+8801,NCT02758171,Empagliflozin,Healthy,Healthy
+8820,NCT02230995,Empagliflozin,Healthy,Healthy
+8821,NCT02182453,Empagliflozin,Healthy,Healthy
+8828,NCT05956522,Empagliflozin,Healthy,Healthy
+8830,NCT01304329,Empagliflozin,Healthy,Healthy
+8838,NCT05823870,Empagliflozin,Healthy Subjects,Healthy Subjects
+8841,NCT01634100,Empagliflozin,Healthy,Healthy
+8871,NCT03629054,Empagliflozin,Healthy,Healthy
+8887,NCT01975220,Empagliflozin,Healthy,Healthy
+8904,NCT02266472,Empagliflozin,Healthy,Healthy
+8922,NCT02172248,Empagliflozin,Healthy,Healthy
+8926,NCT01111318,Empagliflozin,Healthy,Hepatic Insufficiency; Healthy
+8942,NCT01301742,Empagliflozin,Healthy,Healthy
+8953,NCT01276301,Empagliflozin,Healthy,Healthy
+8958,NCT02028767,Empagliflozin,Healthy,Healthy
+8990,NCT02172196,Empagliflozin,Healthy,Healthy
+8994,NCT02276365,Empagliflozin,Healthy,Healthy
+9012,NCT06339788,Empagliflozin,Healthy Volunteers,Healthy Volunteers
+9023,NCT02172222,Empagliflozin,Healthy,Healthy
+9037,NCT02172235,Empagliflozin,Healthy,Healthy
+9039,NCT05132023,Empagliflozin,Healthy,Healthy
+9046,NCT01189201,Empagliflozin,Healthy,Healthy
+9053,NCT01328184,Empagliflozin,Healthy,Healthy
+9061,NCT07102719,Empagliflozin,Healthy Volunteers,Healthy Volunteers
+9074,NCT02102932,Empagliflozin,Healthy,Healthy
+9088,NCT00834795,Carvedilol,Healthy,Healthy
+9105,NCT00775619,Carvedilol,Healthy,Healthy
+9109,NCT00834873,Carvedilol,Healthy,Healthy
+9123,NCT00650416,Carvedilol,Healthy,Healthy
+9149,NCT01064154,Carvedilol,Healthy,Healthy
+9188,NCT00648622,Carvedilol,Healthy,Healthy
+9267,NCT00864149,Carvedilol,Healthy,Healthy
+9285,NCT00776113,Carvedilol,Healthy,Healthy
+9319,NCT01064180,Carvedilol,Healthy,Healthy
+9328,NCT00864435,Carvedilol,Healthy,Healthy
+9332,NCT02286934,Carvedilol,Healthy,Healthy
+9355,NCT05822492,Tramadol,Anesthesia,Anesthesia; Analgesia; Patient Controlled Analgesia; Quadratus Lumborum Block; Erector Spina Plane Block
+9376,NCT06653439,Tramadol,Anesthesia,Anesthesia; Regional Anesthesia; Post Operative Pain
+9379,NCT03781544,Tramadol,Healthy,Osteoarthritis of Multiple Joints of Ankle or Foot; Healthy
+9380,NCT01443520,Tramadol,Healthy,Healthy
+9382,NCT02277080,Tramadol,Quality of Life,Pain; Opioids; Immune System; Endocrine System; Quality of Life
+9395,NCT05533073,Tramadol,Healthy,Healthy
+9402,NCT01214941,Tramadol,Pharmacokinetics,Pharmacokinetics; Pharmacodynamics
+9413,NCT04894864,Tramadol,Anesthesia,Elective Surgical Procedures; Postoperative Pain; Anesthesia; Opioid Use; Abdominal Aortic Aneurysm Without Rupture; Vascular Surgical Procedure; Interleukin 6; Immunomodulators
+9415,NCT04521556,Tramadol,Anesthesia,Anesthesia; Anesthesia Recovery Period; Nephrectomy; Patient Satisfaction; Postoperative Period; Quality of Life; Analgesia; Epidural
+9415,NCT04521556,Tramadol,Quality of Life,Anesthesia; Anesthesia Recovery Period; Nephrectomy; Patient Satisfaction; Postoperative Period; Quality of Life; Analgesia; Epidural
+9420,NCT01304069,Tramadol,Healthy,Healthy
+9429,NCT04587505,Tramadol,Anesthesia,Anesthesia; Anesthesia Recovery Period; Radical Prostatectomy; Patient Satisfaction; Postoperative Period; Quality of Life; Analgesia; Epidural; Quality of Recovery
+9429,NCT04587505,Tramadol,Quality of Life,Anesthesia; Anesthesia Recovery Period; Radical Prostatectomy; Patient Satisfaction; Postoperative Period; Quality of Life; Analgesia; Epidural; Quality of Recovery
+9430,NCT03054220,Tramadol,Healthy,Healthy
+9451,NCT00834912,Tramadol,Healthy,Healthy
+9459,NCT00834808,Tramadol,Healthy,Healthy
+9460,NCT07032558,Tramadol,Healthy Volunteer,Healthy Volunteer
+9479,NCT05822479,Tramadol,Anesthesia,Anesthesia; Regional Anesthesia; Morbid Obesity; Postoperative Pain
+9503,NCT00834366,Tramadol,Healthy,Healthy
+9515,NCT02465866,Tramadol,Healthy,Healthy
+9522,NCT06449599,Tramadol,Anesthesia,"Anesthesia; Postoperative Pain; Arrhythmias, Cardiac"
+9532,NCT00834288,Tramadol,Healthy Subjects,Healthy Subjects; Pharmacokinetics; Bioavailability
+9532,NCT00834288,Tramadol,Pharmacokinetics,Healthy Subjects; Pharmacokinetics; Bioavailability
+9551,NCT04294394,Tramadol,Anesthesia,Anesthesia
+9586,NCT01947920,Tramadol,Healthy,Healthy
+9597,NCT05939635,Tramadol,Anesthesia,Anesthesia; Regional Anesthesia; Postoperative Pain
+9621,NCT02307864,Tramadol,Healthy,Healthy
+9645,NCT03509285,Alprazolam,Healthy Volunteer,Healthy Volunteer
+9651,NCT05626439,Alprazolam,Healthy Participants,Healthy Participants
+9655,NCT00810316,Alprazolam,Pharmacokinetics,Pharmacokinetics
+9660,NCT00860119,Alprazolam,Healthy,Healthy
+9661,NCT01322867,Alprazolam,Healthy,Healthy
+9663,NCT01188031,Alprazolam,Healthy,Healthy
+9667,NCT00877955,Alprazolam,Healthy,Healthy
+9670,NCT03516305,Alprazolam,Healthy,Healthy
+9675,NCT01161472,Alprazolam,Healthy,Healthy
+9676,NCT01046162,Alprazolam,Healthy,Healthy
+9679,NCT00647634,Alprazolam,Healthy,Healthy
+9682,NCT00647894,Alprazolam,Healthy,Healthy
+9684,NCT01285505,Alprazolam,Healthy,Healthy
+9688,NCT00878514,Alprazolam,Healthy,Healthy
+9691,NCT05602818,Alprazolam,Healthy Volunteers,Healthy Volunteers
+9694,NCT01188057,Alprazolam,Healthy,Healthy
+9695,NCT02570581,Alprazolam,Healthy,Healthy
+9696,NCT01330472,Alprazolam,Healthy Subjects,Healthy Subjects
+9697,NCT00444522,Alprazolam,Healthy,Healthy
+9698,NCT00865761,Alprazolam,Healthy,Healthy
+9699,NCT00829426,Alprazolam,Healthy,Healthy
+9703,NCT07020988,Alprazolam,Healthy Participants,Healthy Participants
+9713,NCT00878865,Alprazolam,Healthy,Healthy
+9722,NCT00580190,Alprazolam,Healthy,Healthy
+9728,NCT01027689,Alprazolam,Healthy,Healthy
+9734,NCT02033707,Alprazolam,Healthy,Healthy
+9735,NCT00865657,Alprazolam,Healthy,Healthy
+9744,NCT00830024,Alprazolam,Healthy,Healthy
+9745,NCT01898897,Alprazolam,Anesthesia,Anesthesia; Reaction; Adverse Effect of Other General Anesthetics; Adverse Anesthesia Outcome; Acute Kidney Injury
+9747,NCT00650299,Alprazolam,Healthy,Healthy
+9838,NCT02268149,Prednisone,Healthy,Healthy
+9912,NCT05003713,Prednisone,Healthy,Healthy
+10054,NCT01064102,Hydroxyzine,Healthy,Healthy
+10055,NCT00776139,Hydroxyzine,Healthy,Healthy
+10063,NCT00776022,Hydroxyzine,Healthy,Healthy
+10074,NCT00650065,Hydroxyzine,Healthy,Healthy
+10083,NCT00863902,Hydroxyzine,Healthy,Healthy
+10101,NCT06080100,Hydroxyzine,Anesthesia,Psychological Stress; Anesthesia; Anxiety; Xenon
+10107,NCT04188106,Hydroxyzine,Smoking Cessation,Smoking Cessation; Stress; Sleep Disturbance; Nausea
+10108,NCT01496911,Hydroxyzine,Healthy Volunteers,Healthy Volunteers
+10114,NCT01064115,Hydroxyzine,Healthy,Healthy
+10115,NCT00864279,Hydroxyzine,Healthy,Healthy
+10118,NCT00649857,Hydroxyzine,Healthy,Healthy
+10134,NCT06535087,Hydroxyzine,Quality of Life,"Pediatric Asthma; Rhinitis, Allergic; Quality of Life"
+10154,NCT00162786,Hydroxyzine,Healthy,Healthy
+10160,NCT02535416,Hydroxyzine,Healthy,Healthy
+10167,NCT02756624,Hydroxyzine,Healthy Subjects,Healthy Subjects
+10193,NCT01699828,Buspirone,Smoking Cessation,Smoking Cessation; Tobacco Use Cessation
+10212,NCT00840606,Buspirone,Healthy,Healthy
+10225,NCT00840398,Buspirone,Healthy,Healthy
+10271,NCT01129414,Clopidogrel,Healthy,Healthy
+10305,NCT04642209,Clopidogrel,Anesthesia,"Hip Fractures; Clopidogrel, Poor Metabolism of; Anesthesia"
+10306,NCT05934799,Clopidogrel,Bioequivalence,Bioequivalence
+10329,NCT02222987,Clopidogrel,Healthy,Healthy
+10341,NCT01108588,Clopidogrel,Healthy Volunteers,Healthy Volunteers
+10355,NCT01469416,Clopidogrel,Healthy,Healthy
+10378,NCT00650169,Clopidogrel,Healthy,Healthy
+10381,NCT03430661,Clopidogrel,Healthy,Healthy
+10458,NCT01129271,Clopidogrel,Healthy,Healthy
+10459,NCT04822363,Clopidogrel,Healthy,Platelet Activation Testing Before/after Anti-platelet Therapy; Healthy
+10489,NCT01409616,Clopidogrel,Healthy Subjects,Pharmacodynamic Interaction; Healthy Subjects
+10519,NCT01129388,Clopidogrel,Healthy,Healthy
+10560,NCT00648505,Glipizide,Healthy,Healthy
+10563,NCT00835497,Glipizide,Healthy,Healthy
+10575,NCT00806013,Glipizide,Healthy,Healthy
+10581,NCT00649454,Glipizide,Healthy,Healthy
+10586,NCT00834587,Glipizide,Healthy,Healthy
+10618,NCT03907215,Citalopram,Healthy,Healthy
+10620,NCT01951053,Citalopram,Healthy,Healthy
+10632,NCT01149967,Citalopram,Healthy,Healthy
+10641,NCT00386841,Citalopram,Healthy,Healthy
+10657,NCT04806230,Citalopram,Pharmacokinetics,Pharmacokinetics; Antidepressive Agents; Pregnancy
+10678,NCT02122939,Citalopram,Healthy,Healthy
+10680,NCT00648661,Citalopram,Healthy,Healthy
+10731,NCT00940238,Citalopram,Healthy,Healthy
+10735,NCT01638689,Citalopram,Healthy,Healthy
+10781,NCT01871701,Citalopram,Healthy,Healthy
+10793,NCT00939835,Citalopram,Healthy,Healthy
+10801,NCT00550485,Citalopram,Pharmacokinetics,Pharmacokinetics
+10831,NCT01916824,Citalopram,Healthy Controls,Major Depressive Disorder; Healthy Controls
+10836,NCT01395433,Citalopram,Healthy,Healthy
+10864,NCT00865085,Citalopram,Healthy,Healthy
+10907,NCT01218711,Potassium Chloride,Healthy,Healthy
+10961,NCT03105375,Potassium Chloride,Healthy Volunteers,Healthy Volunteers
+10966,NCT06578832,Potassium Chloride,Quality of Life,"Chronic Kidney Diseases; Caries,Dental; Quality of Life; Saliva Altered; Periodontitis"
+10977,NCT00835705,Potassium Chloride,Healthy,Healthy
+10982,NCT06944223,Potassium Chloride,Healthy,Kidney Stone; Healthy
+11004,NCT00564772,Potassium Chloride,Healthy,Healthy
+11006,NCT01064739,Potassium Chloride,Healthy Participants,Healthy Participants
+11029,NCT05323084,Potassium Chloride,Quality of Life,Quality of Life
+11032,NCT00778284,Potassium Chloride,Healthy,Healthy
+11082,NCT04322266,Potassium Chloride,Healthy,Healthy
+11090,NCT00927017,Potassium Chloride,Healthy,Healthy
+11110,NCT00809718,Potassium Chloride,Healthy,Healthy
+11111,NCT06467825,Potassium Chloride,Healthy,Healthy
+11126,NCT06401278,Potassium Chloride,Quality of Life,Hypertension; Quality of Life
+11138,NCT01149473,Potassium Chloride,Healthy,Healthy
+11155,NCT00802074,Potassium Chloride,Healthy,Healthy
+11181,NCT06277609,Potassium Chloride,Healthy Participants,Healthy Participants
+11241,NCT02581553,Allopurinol,Healthy,Healthy
+11313,NCT05360628,Allopurinol,Healthy,Healthy
+11317,NCT04347005,Allopurinol,Healthy Volunteers,Healthy Volunteers
+11378,NCT02398448,Allopurinol,Healthy,Healthy
+11407,NCT02888054,Allopurinol,Healthy,Healthy
+11498,NCT02268773,Aspirin,Healthy,Healthy
+11523,NCT05625334,Aspirin,Healthy Volunteers,Healthy Volunteers
+11554,NCT03590821,Aspirin,Healthy,Healthy
+11568,NCT00441519,Aspirin,Healthy,Healthy
+11577,NCT04146532,Aspirin,Healthy Adults,Healthy Adults
+11578,NCT02187562,Aspirin,Healthy,Healthy
+11606,NCT01108588,Aspirin,Healthy Volunteers,Healthy Volunteers
+11646,NCT06893978,Aspirin,Healthy,Preeclampsia; Pregnancy Loss; Preterm Birth; Healthy
+11659,NCT01081353,Aspirin,Pharmacokinetics,Pharmacokinetics
+11682,NCT02273479,Aspirin,Healthy,Healthy
+11703,NCT05166096,Aspirin,Healthy,Healthy
+11712,NCT01199328,Aspirin,Healthy Volunteers,Healthy Volunteers
+11718,NCT04407377,Cyclobenzaprine,Healthy,Healthy
+11721,NCT01634412,Cyclobenzaprine,Healthy Adults,Healthy Adults
+11735,NCT01889173,Cyclobenzaprine,Healthy Adults,Healthy Adults
+11736,NCT03443960,Cyclobenzaprine,Healthy Subjects,Healthy Subjects
+11738,NCT01689259,Cyclobenzaprine,Healthy Adults,Healthy Adults
+11743,NCT03168022,Cyclobenzaprine,Healthy Adults,Healthy Adults
+11748,NCT04164719,Cyclobenzaprine,Healthy Subjects,Healthy Subjects
+11749,NCT01490788,Cyclobenzaprine,Healthy,Healthy
+11762,NCT00778037,Cyclobenzaprine,Healthy,Healthy
+11841,NCT01139840,Ergocalciferol,Healthy,Healthy
+11855,NCT02720575,Ergocalciferol,Healthy,Healthy
+11869,NCT05673980,Ergocalciferol,Healthy Volunteers,Healthy Volunteers
+11890,NCT01190137,Ergocalciferol,Healthy,Healthy
+11897,NCT01180946,Ergocalciferol,Healthy,Healthy; Vitamin D Deficiency
+11902,NCT00742235,Ergocalciferol,Healthy Subjects,Healthy Subjects; Vitamin D Deficiency
+11949,NCT02211625,Oxycodone,Healthy,Healthy
+11955,NCT01456520,Oxycodone,Healthy,Healthy
+11959,NCT03145272,Oxycodone,Pharmacokinetics,Pharmacokinetics; Pharmacogenomics; Oxycodone
+11960,NCT01782612,Oxycodone,Anesthesia,Anesthesia; Hip Osteoarthritis
+11963,NCT02277080,Oxycodone,Quality of Life,Pain; Opioids; Immune System; Endocrine System; Quality of Life
+12011,NCT03364088,Oxycodone,Anesthesia,Knee Osteoarthritis; Arthropathy of Knee Joint; Knee Pain Chronic; Rheumatoid Arthritis; Anesthesia
+12029,NCT01568450,Oxycodone,Healthy,Healthy
+12033,NCT01924676,Oxycodone,Healthy,Healthy
+12037,NCT00853736,Oxycodone,Healthy,Healthy
+12048,NCT04223609,Oxycodone,Healthy,Healthy
+12054,NCT01393652,Oxycodone,Healthy Volunteers,Healthy Volunteers
+12059,NCT06665048,Oxycodone,Anesthesia,"Anesthesia; Oxycodone; Analgesia, Postoperative"
+12060,NCT00853216,Oxycodone,Healthy,Healthy
+12080,NCT03747341,Oxycodone,Healthy,Healthy; Opioid Use
+12084,NCT01101165,Oxycodone,Healthy,Healthy
+12094,NCT01717027,Oxycodone,Healthy,Healthy
+12112,NCT00955110,Oxycodone,Healthy,Healthy
+12144,NCT03427736,Oxycodone,Anesthesia,Anesthesia; Pain
+12184,NCT01127906,Oxycodone,Healthy,Healthy
+12209,NCT02089295,Oxycodone,Healthy,Healthy
+12216,NCT07223450,Oxycodone,Healthy Volunteers,Physiologically Based Pharmacokinetic; Healthy Volunteers
+12235,NCT00031798,Methylphenidate,Quality of Life,Brain and Central Nervous System Tumors; Cognitive/Functional Effects; Depression; Fatigue; Quality of Life
+12265,NCT01852344,Methylphenidate,Healthy,Healthy
+12272,NCT02453698,Methylphenidate,Healthy Volunteers,Healthy Volunteers
+12278,NCT01465685,Methylphenidate,Healthy,Healthy
+12316,NCT04384562,Methylphenidate,Healthy,Decision Making; Healthy
+12366,NCT01118702,Methylphenidate,Pharmacokinetics,Pharmacokinetics
+12381,NCT00301639,Methylphenidate,Healthy Volunteers,Healthy Volunteers
+12387,NCT00829673,Methylphenidate,Healthy,Healthy
+12392,NCT01993147,Methylphenidate,Healthy,Healthy
+12417,NCT01993108,Methylphenidate,Healthy,Healthy; Attention Deficit Hyperactivity Disorder
+12419,NCT00829712,Methylphenidate,Healthy,Healthy
+12433,NCT00302367,Methylphenidate,Healthy Volunteers,Healthy Volunteers
+12434,NCT01202734,Methylphenidate,Healthy,Healthy
+12447,NCT00815841,Methylphenidate,Healthy,Healthy
+12454,NCT03610282,Methylphenidate,Anesthesia,Anesthesia
+12470,NCT03280251,Methylphenidate,Healthy Volunteers,Healthy Volunteers
+12525,NCT01418625,Venlafaxine,Healthy,Healthy
+12534,NCT01443520,Venlafaxine,Healthy,Healthy
+12539,NCT02637193,Venlafaxine,Healthy Subjects,Healthy Subjects
+12543,NCT04806230,Venlafaxine,Pharmacokinetics,Pharmacokinetics; Antidepressive Agents; Pregnancy
+12560,NCT00329186,Venlafaxine,Healthy,Healthy
+12571,NCT01235338,Venlafaxine,Healthy,Healthy
+12573,NCT00834249,Venlafaxine,Healthy,Healthy
+12585,NCT01418612,Venlafaxine,Healthy,Healthy
+12592,NCT00834964,Venlafaxine,Healthy,Healthy
+12595,NCT01260896,Venlafaxine,Healthy,Healthy
+12608,NCT01916824,Venlafaxine,Healthy Controls,Major Depressive Disorder; Healthy Controls
+12652,NCT01282801,Venlafaxine,Healthy,Healthy
+12669,NCT02655354,Venlafaxine,Quality of Life,Posttraumatic Stress Disorder; Depression; Alcohol-Related Disorders; Suicidal Ideation; Substance-Related Disorders; Mild Cognitive Impairment; Quality of Life; Pain; Wounds and Injury; Brain Injuries; Chronic Disease
+12673,NCT00871364,Venlafaxine,Healthy,Healthy
+12689,NCT00676039,Venlafaxine,Healthy,Healthy
+12691,NCT01512459,Venlafaxine,Healthy,Healthy
+12707,NCT00001478,Venlafaxine,Healthy,Healthy; Mood Disorders
+12708,NCT01282814,Venlafaxine,Healthy,Healthy
+12718,NCT00362271,Venlafaxine,Healthy,Healthy
+12746,NCT00727064,Venlafaxine,Healthy,Healthy
+12903,NCT01083290,Spironolactone,Healthy,Healthy
+12913,NCT06205407,Spironolactone,Healthy Participants,Healthy Participants
+12925,NCT01314898,Spironolactone,Healthy Volunteers,Healthy Volunteers
+12962,NCT03429946,Spironolactone,Healthy,Hypoglycemia; Healthy
+13004,NCT01821703,Spironolactone,Healthy Volunteers,Healthy Volunteers
+13016,NCT01431326,Spironolactone,Anesthesia,Adenovirus; Anesthesia; Anxiety; Anxiolysis; Autism; Autistic Disorder; Bacterial Meningitis; Bacterial Septicemia; Benzodiazepine; Bipolar Disorder; Bone and Joint Infections; Central Nervous System Infections; Convulsions; Cytomegalovirus Retinitis; Early-onset Schizophrenia Spectrum Disorders; Epilepsy; General Anesthesia; Gynecologic Infections; Herpes Simplex Virus; Infantile Hemangioma; Infection; Inflammation; Inflammatory Conditions; Intra-abdominal Infections; Lower Respiratory Tract Infections; Migraines; Pain; Pneumonia; Schizophrenia; Sedation; Seizures; Skeletal Muscle Spasms; Skin and Skin-structure Infections; Treatment-resistant Schizophrenia; Urinary Tract Infections; Withdrawal; Sepsis; Gram-negative Infection; Bradycardia; Cardiac Arrest; Cardiac Arrhythmia; Staphylococcal Infections; Nosocomial Pneumonia; Neuromuscular Blockade; Methicillin Resistant Staphylococcus Aureus; Endocarditis; Neutropenia; Headache; Fibrinolytic Bleeding; Pulmonary Arterial Hypertension; CMV Retinitis; Hypertension; Chronic Kidney Diseases; Hyperaldosteronism; Hypokalemia; Heart Failure; Hemophilia; Heavy Menstrual Bleeding; Insomnia
+13101,NCT05822492,Ondansetron,Anesthesia,Anesthesia; Analgesia; Patient Controlled Analgesia; Quadratus Lumborum Block; Erector Spina Plane Block
+13122,NCT01220167,Ondansetron,Healthy Participants,Healthy Participants
+13127,NCT06653439,Ondansetron,Anesthesia,Anesthesia; Regional Anesthesia; Post Operative Pain
+13130,NCT03117894,Ondansetron,Anesthesia,Breast Neoplasm Female; Regional Anesthesia; Anesthesia; Regional Anesthesia Morbidity; Anesthesia Morbidity
+13134,NCT02652312,Ondansetron,Anesthesia,Anesthesia
+13142,NCT00649532,Ondansetron,Healthy,Healthy
+13159,NCT00648804,Ondansetron,Healthy,Healthy
+13160,NCT04894864,Ondansetron,Anesthesia,Elective Surgical Procedures; Postoperative Pain; Anesthesia; Opioid Use; Abdominal Aortic Aneurysm Without Rupture; Vascular Surgical Procedure; Interleukin 6; Immunomodulators
+13168,NCT04144933,Ondansetron,Anesthesia,"Anesthesia; General Anesthesia; Analgesics, Opioid; Opioid Free Anesthesia; Postoperative Ileus; Colorectal Surgery; Laparoscopic Surgery; Analgesia; Dexmedetomidine; Lidocaine; Ketamine"
+13214,NCT01511705,Ondansetron,Healthy,Healthy
+13237,NCT03747341,Ondansetron,Healthy,Healthy; Opioid Use
+13271,NCT00934921,Ondansetron,Healthy,Healthy
+13287,NCT00659685,Ondansetron,Healthy,Healthy
+13302,NCT01523093,Ondansetron,Healthy,Healthy
+13308,NCT02460341,Ondansetron,Healthy Adults,Brain Function; Healthy Adults
+13351,NCT05939635,Ondansetron,Anesthesia,Anesthesia; Regional Anesthesia; Postoperative Pain
+13391,NCT00781482,Zolpidem,Healthy,Healthy
+13392,NCT01071889,Zolpidem,Healthy,Healthy
+13394,NCT00658541,Zolpidem,Healthy,Healthy; Therapeutic Equivalency
+13397,NCT00939536,Zolpidem,Healthy,Healthy
+13405,NCT00779441,Zolpidem,Healthy,Healthy
+13447,NCT00833521,Zolpidem,Healthy,Healthy
+13451,NCT00684814,Zolpidem,Healthy,Healthy
+13458,NCT00833937,Zolpidem,Healthy,Healthy
+13459,NCT02817750,Zolpidem,Healthy,Healthy
+13473,NCT02578472,Zolpidem,Healthy,Healthy
+13476,NCT02607696,Zolpidem,Healthy Volunteers,Healthy Volunteers
+13480,NCT06800378,Zolpidem,Healthy,Healthy
+13486,NCT01431326,Zolpidem,Anesthesia,Adenovirus; Anesthesia; Anxiety; Anxiolysis; Autism; Autistic Disorder; Bacterial Meningitis; Bacterial Septicemia; Benzodiazepine; Bipolar Disorder; Bone and Joint Infections; Central Nervous System Infections; Convulsions; Cytomegalovirus Retinitis; Early-onset Schizophrenia Spectrum Disorders; Epilepsy; General Anesthesia; Gynecologic Infections; Herpes Simplex Virus; Infantile Hemangioma; Infection; Inflammation; Inflammatory Conditions; Intra-abdominal Infections; Lower Respiratory Tract Infections; Migraines; Pain; Pneumonia; Schizophrenia; Sedation; Seizures; Skeletal Muscle Spasms; Skin and Skin-structure Infections; Treatment-resistant Schizophrenia; Urinary Tract Infections; Withdrawal; Sepsis; Gram-negative Infection; Bradycardia; Cardiac Arrest; Cardiac Arrhythmia; Staphylococcal Infections; Nosocomial Pneumonia; Neuromuscular Blockade; Methicillin Resistant Staphylococcus Aureus; Endocarditis; Neutropenia; Headache; Fibrinolytic Bleeding; Pulmonary Arterial Hypertension; CMV Retinitis; Hypertension; Chronic Kidney Diseases; Hyperaldosteronism; Hypokalemia; Heart Failure; Hemophilia; Heavy Menstrual Bleeding; Insomnia
+13490,NCT00939367,Zolpidem,Healthy,Healthy
+13495,NCT01243060,Zolpidem,Healthy Volunteers,Healthy Volunteers
+13502,NCT02814058,Zolpidem,Healthy,Healthy
+13504,NCT02033707,Zolpidem,Healthy,Healthy
+13505,NCT00779051,Zolpidem,Healthy,Healthy
+13507,NCT02353299,Zolpidem,Healthy,Healthy
+13514,NCT03008447,Zolpidem,Healthy Subjects,Healthy Subjects
+13520,NCT00676026,Zolpidem,Healthy,Healthy
+13533,NCT01064102,Cetirizine,Healthy,Healthy
+13534,NCT00776139,Cetirizine,Healthy,Healthy
+13545,NCT00776022,Cetirizine,Healthy,Healthy
+13555,NCT00650065,Cetirizine,Healthy,Healthy
+13566,NCT00863902,Cetirizine,Healthy,Healthy
+13570,NCT02173249,Cetirizine,Healthy,Healthy
+13596,NCT01064115,Cetirizine,Healthy,Healthy
+13597,NCT00864279,Cetirizine,Healthy,Healthy
+13602,NCT00649857,Cetirizine,Healthy,Healthy
+13608,NCT01451996,Cetirizine,Healthy,Healthy
+13614,NCT06535087,Cetirizine,Quality of Life,"Pediatric Asthma; Rhinitis, Allergic; Quality of Life"
+13647,NCT02535416,Cetirizine,Healthy,Healthy
+13654,NCT02756624,Cetirizine,Healthy Subjects,Healthy Subjects
+13664,NCT04756037,Estradiol,Contraception,Contraception
+13668,NCT04423068,Estradiol,Contraception,Pregnancy Related; Contraception; Contraceptive Usage; Contraception Behavior; Pregnancy
+13669,NCT00196352,Estradiol,Contraception,Contraception
+13688,NCT03249402,Estradiol,Healthy,Healthy
+13699,NCT00624130,Estradiol,Contraception,Contraception
+13707,NCT01746732,Estradiol,Healthy Volunteers,Healthy Volunteers
+13710,NCT01257984,Estradiol,Contraception,Contraception
+13738,NCT00367276,Estradiol,Healthy,Healthy
+13739,NCT04714554,Estradiol,Healthy,Healthy
+13756,NCT03359057,Estradiol,Contraception,Contraception
+13757,NCT02577601,Estradiol,Contraception,Contraception
+13759,NCT00711607,Estradiol,Healthy,Healthy
+13791,NCT05985590,Estradiol,Healthy Volunteers,Healthy Volunteers
+13798,NCT01297179,Estradiol,Healthy Volunteers,Healthy Volunteers; Pharmacokinetics of Mirabegron
+13799,NCT01873170,Estradiol,Contraception,HIV; Immune Cells (Mucosal and Systemic); Contraception
+13800,NCT01656434,Estradiol,Contraception,Contraception
+13801,NCT04718636,Estradiol,Healthy Volunteers,Healthy Volunteers
+13814,NCT00005108,Estradiol,Healthy,Atherosclerosis; Healthy; Vascular Disease
+13822,NCT01254292,Estradiol,Contraception,Contraception
+13826,NCT00163033,Estradiol,Healthy,Healthy
+13828,NCT02720224,Estradiol,Contraception,Contraception; Menopause
+13829,NCT01186796,Estradiol,Healthy,Healthy
+13830,NCT00709982,Estradiol,Healthy,Drug Interactions; Healthy; Pharmacokinetics
+13830,NCT00709982,Estradiol,Pharmacokinetics,Drug Interactions; Healthy; Pharmacokinetics
+13837,NCT02531321,Estradiol,Contraception,Contraception; HIV
+13840,NCT05116371,Estradiol,Contraception,Contraception
+13843,NCT02550977,Estradiol,Contraception,Contraception
+13845,NCT00789802,Estradiol,Contraception,Contraception; Bleeding
+13851,NCT00910637,Estradiol,Contraception,Contraception
+13854,NCT02969590,Estradiol,Contraception,Fertility; Contraception
+13876,NCT00544882,Estradiol,Healthy,Healthy
+13877,NCT02874248,Estradiol,Contraception,Contraception
+13880,NCT06380205,Estradiol,Healthy Participants,Healthy Participants
+13894,NCT00307632,Estradiol,Contraception,Contraception
+13919,NCT01699022,Estradiol,Contraception,Contraception
+13921,NCT00117273,Estradiol,Healthy,Healthy
+13925,NCT03749733,Estradiol,Bioequivalence,Bioequivalence
+13927,NCT04713904,Estradiol,Bioequivalence,Bioequivalence
+13942,NCT01182207,Estradiol,Healthy,Healthy
+13945,NCT04934696,Estradiol,Healthy Participants,Healthy Participants
+13950,NCT02352090,Estradiol,Contraception,Contraception
+13957,NCT01340625,Estradiol,Bioequivalence,Bioequivalence
+13968,NCT00834379,Pravastatin,Healthy,Healthy
+13997,NCT00830258,Pravastatin,Healthy,Healthy
+14014,NCT01497483,Pravastatin,Healthy,Healthy
+14050,NCT01146093,Pravastatin,Healthy,Healthy
+14060,NCT01146106,Pravastatin,Healthy,Healthy
+14066,NCT00834847,Pravastatin,Healthy,Healthy
+14079,NCT01934569,Pravastatin,Healthy,Healthy
+14100,NCT01958489,Pravastatin,Healthy Volunteers,Healthy Volunteers
+14102,NCT02871687,Pravastatin,Healthy Subjects,Healthy Subjects
+14106,NCT05852769,Pravastatin,Healthy Volunteers,Healthy Volunteers
+14112,NCT04092751,Pravastatin,Pharmacokinetics,Pharmacokinetics
+14129,NCT00829309,Pravastatin,Healthy,Healthy
+14139,NCT02229773,Pravastatin,Healthy,Healthy
+14148,NCT02266485,Pravastatin,Healthy,Healthy
+14186,NCT00650208,Lamotrigine,Healthy,Healthy
+14189,NCT01513720,Lamotrigine,Healthy,Healthy
+14201,NCT04938856,Lamotrigine,Bioequivalence,Bioequivalence
+14211,NCT01131949,Lamotrigine,Healthy,Healthy
+14219,NCT00939458,Lamotrigine,Healthy,Healthy
+14227,NCT06729970,Lamotrigine,Healthy Volunteers,Healthy Volunteers
+14235,NCT00838279,Lamotrigine,Healthy,Healthy
+14243,NCT04015687,Lamotrigine,Healthy Participants,Healthy Participants
+14248,NCT00647751,Lamotrigine,Healthy,Healthy
+14249,NCT00835263,Lamotrigine,Healthy,Healthy
+14276,NCT01513681,Lamotrigine,Healthy,Healthy
+14281,NCT04396938,Lamotrigine,Healthy,Healthy
+14284,NCT01888263,Lamotrigine,Healthy,Healthy
+14301,NCT05145608,Lamotrigine,Bioequivalence,Bioequivalence
+14303,NCT01131975,Lamotrigine,Healthy,Healthy
+14309,NCT01888731,Lamotrigine,Healthy,Healthy
+14327,NCT02303106,Lamotrigine,Healthy,Healthy
+14332,NCT00001478,Lamotrigine,Healthy,Healthy; Mood Disorders
+14339,NCT03898011,Lamotrigine,Healthy Adults,Healthy Adults
+14348,NCT00838136,Lamotrigine,Healthy,Healthy
+14350,NCT01888757,Lamotrigine,Healthy,Healthy
+14358,NCT01888250,Lamotrigine,Healthy,Healthy
+14381,NCT00834561,Lamotrigine,Healthy,Healthy
+14391,NCT00939614,Lamotrigine,Healthy,Healthy
+14392,NCT04602221,Lamotrigine,Healthy,Healthy
+14403,NCT02821338,Lamotrigine,Healthy,Healthy
+14416,NCT01871987,Quetiapine,Healthy,Healthy; Plasma Concentration Change of Quetiapine
+14440,NCT01908296,Quetiapine,Healthy,Healthy; Pharmacokinetics of Quetiapine
+14492,NCT01607762,Quetiapine,Healthy,Healthy
+14507,NCT01400165,Quetiapine,Healthy,Healthy
+14518,NCT01871701,Quetiapine,Healthy,Healthy
+14556,NCT01634386,Quetiapine,Healthy,Healthy
+14559,NCT05235230,Quetiapine,Bioequivalence,Bioequivalence
+14569,NCT00702676,Quetiapine,Healthy Volunteers,Healthy Volunteers
+14607,NCT03317236,Quetiapine,Healthy,Healthy
+14622,NCT01566487,Quetiapine,Healthy,Healthy
+14647,NCT01634399,Quetiapine,Healthy,Healthy
+14710,NCT03975166,Fluticasone; Salmeterol,Bioequivalence,Bioequivalence
+14738,NCT03894280,Fluticasone; Salmeterol,Bioequivalence,Bioequivalence
+14766,NCT04124094,Fluticasone; Salmeterol,Bioequivalence,Bioequivalence
+14769,NCT03524066,Fluticasone; Salmeterol,Healthy,Healthy
+14771,NCT03751202,Fluticasone; Salmeterol,Bioequivalence,Bioequivalence
+14789,NCT01657487,Fluticasone; Salmeterol,Quality of Life,Percentage of Annual Acute Exacerbation; Quality of Life
+14805,NCT05697003,Fluticasone; Salmeterol,Bioequivalence,Bioequivalence
+14818,NCT04466176,Fluticasone; Salmeterol,Bioequivalence,Bioequivalence
+14822,NCT02232087,Fluticasone; Salmeterol,Healthy,Healthy
+14829,NCT04546256,Fluticasone; Salmeterol,Bioequivalence,Bioequivalence
+14857,NCT04746040,Fluticasone; Salmeterol,Bioequivalence,Bioequivalence; Asthma
+14886,NCT05085587,Fluticasone; Salmeterol,Bioequivalence,Bioequivalence; Asthma
+14901,NCT04564456,Fluticasone; Salmeterol,Bioequivalence,Bioequivalence
+14905,NCT03820180,Fluticasone; Salmeterol,Bioequivalence,Bioequivalence
+14910,NCT05982990,Fluticasone; Salmeterol,Bioequivalence,Bioequivalence
+14912,NCT06025214,Fluticasone; Salmeterol,Bioequivalence,Bioequivalence
+14976,NCT04462822,Fluticasone; Salmeterol,Bioequivalence,Bioequivalence
+15016,NCT00810316,Clonazepam,Pharmacokinetics,Pharmacokinetics
+15037,NCT06834503,Clonazepam,Healthy,Healthy; Healthy Donors
+15064,NCT03204396,Dulaglutide,Smoking Cessation,"Glucagon-like Peptide-1; Smoking Cessation; Weight Change, Body; Craving"
+15066,NCT02759107,Dulaglutide,Healthy,Healthy; Type 2 Diabetes Mellitus (T2DM)
+15103,NCT04641312,Dulaglutide,Healthy,Healthy; Type 2 Diabetes
+15131,NCT01250834,Dulaglutide,Healthy Volunteers,Healthy Volunteers
+15154,NCT01667900,Dulaglutide,Healthy Volunteers,"Diabetes Mellitus, Type 2; Healthy Volunteers"
+15157,NCT05136287,Dulaglutide,Quality of Life,"Weight Loss; Diabetes Mellitus, Type 2; Quality of Life; Safety Issues"
+15164,NCT04189848,Dulaglutide,Healthy Volunteers,"Healthy Volunteers; Diabetes Mellitus, Type 2; Overweight; Obesity"
+15182,NCT03363906,Dulaglutide,Healthy,Healthy
+15186,NCT00164112,Azithromycin,Healthy,Healthy
+15204,NCT00354952,Azithromycin,Healthy Volunteers,Healthy Volunteers
+15266,NCT00879983,Azithromycin,Healthy Volunteers,Healthy Volunteers
+15283,NCT03252067,Azithromycin,Pharmacokinetics,Pharmacokinetics
+15369,NCT00644774,Azithromycin,Healthy,Healthy
+15446,NCT05966688,Azithromycin,Healthy Volunteers,Healthy Volunteers
+15452,NCT00649935,Azithromycin,Healthy,Healthy
+15455,NCT04669717,Azithromycin,Pharmacokinetics,Periodontal Diseases; Antibiotics; Pharmacokinetics
+15471,NCT02707042,Azithromycin,Healthy,Normal Physiology; Healthy
+15474,NCT00830336,Azithromycin,Healthy,Healthy
+15490,NCT01218711,Hydrochlorothiazide; Losartan,Healthy,Healthy
+15494,NCT01149473,Hydrochlorothiazide; Losartan,Healthy,Healthy
+15513,NCT01218724,Hydrochlorothiazide; Losartan,Healthy,Healthy
+15514,NCT01149486,Hydrochlorothiazide; Losartan,Healthy,Healthy
+15520,NCT01692717,Hydrochlorothiazide; Losartan,Healthy Subjects,Healthy Subjects
+15580,NCT00835705,Amoxicillin; Clavulanate,Healthy,Healthy
+15589,NCT00778284,Amoxicillin; Clavulanate,Healthy,Healthy
+15594,NCT03410771,Amoxicillin; Clavulanate,Pharmacokinetics,Electric Impedance; Pharmacokinetics; Capillary Leak Syndrome
+15613,NCT06277609,Amoxicillin; Clavulanate,Healthy Participants,Healthy Participants
+15618,NCT00778414,Amoxicillin; Clavulanate,Healthy,Healthy
+15625,NCT00778661,Amoxicillin; Clavulanate,Healthy,Healthy
+15646,NCT02143323,Amoxicillin; Clavulanate,Healthy,Healthy
+15667,NCT00778544,Amoxicillin; Clavulanate,Healthy,Healthy
+15688,NCT03616301,Amoxicillin; Clavulanate,Bioequivalence,Bioequivalence
+15709,NCT00840840,Amoxicillin; Clavulanate,Healthy,Healthy
+15714,NCT01473368,Amoxicillin; Clavulanate,Healthy Volunteers,Healthy Volunteers
+15746,NCT06426836,Amoxicillin; Clavulanate,Pharmacokinetics,Pharmacokinetics; Amoxicillin-clavulanate; Piperacillin-tazobactam; Meropenem; Cefazolin; Teicoplanin; Vancomycin; Ciprofloxacin; Amikacin
+15748,NCT04376554,Amoxicillin; Clavulanate,Healthy Volunteers,Healthy Volunteers
+15767,NCT00840099,Amoxicillin; Clavulanate,Healthy,Healthy
+15785,NCT03702894,Amoxicillin; Clavulanate,Bioequivalence,Bioequivalence
+15804,NCT00836901,Amoxicillin; Clavulanate,Healthy,Healthy
+15841,NCT02431832,Amoxicillin; Clavulanate,Healthy,Healthy
+15966,NCT01677507,Latanoprost,Healthy,Glaucoma; Healthy
+16136,NCT01904032,Cholecalciferol,Quality of Life,Diabetes; Depression; Quality of Life
+16140,NCT03321318,Cholecalciferol,Healthy,Healthy
+16168,NCT02308930,Cholecalciferol,Healthy,Healthy
+16226,NCT00732758,Cholecalciferol,Healthy,Healthy
+16269,NCT05235334,Cholecalciferol,Quality of Life,Usability; Quality of Life
+16328,NCT06429410,Cholecalciferol,Healthy,Healthy
+16334,NCT03962673,Cholecalciferol,Healthy,Healthy
+16348,NCT03472833,Cholecalciferol,Quality of Life,Pancreas Cancer; Vitamin D Deficiency; Quality of Life
+16406,NCT05281107,Cholecalciferol,Healthy,Healthy
+16420,NCT06630637,Cholecalciferol,Healthy,Intermittent Fasting; Healthy; Digital Health
+16453,NCT00251602,Propranolol,Healthy,Healthy
+16454,NCT05692869,Propranolol,Healthy,Healthy
+16459,NCT04682184,Propranolol,Healthy,Healthy
+16491,NCT03270644,Propranolol,Healthy,Healthy
+16504,NCT03882255,Propranolol,Healthy,Healthy
+16513,NCT00016666,Propranolol,Healthy,Seasonal Affective Disorder; Healthy
+16524,NCT03524066,Propranolol,Healthy,Healthy
+16564,NCT00916721,Propranolol,Smoking Cessation,Smoking Cessation
+16588,NCT02808611,Propranolol,Healthy Subjects,Healthy Subjects
+16621,NCT01950520,Propranolol,Healthy Volunteers,Healthy Volunteers
+16629,NCT00647608,Propranolol,Healthy,Healthy
+16645,NCT00647816,Propranolol,Healthy,Healthy
+16667,NCT02264093,Propranolol,Healthy,Healthy
+16687,NCT05219799,Propranolol,Healthy,Obesity; Vasodilation; Healthy
+16704,NCT06034158,Propranolol,Healthy,Healthy
+16742,NCT00681525,Ezetimibe,Pharmacokinetics,Pharmacokinetics
+16743,NCT02730689,Ezetimibe,Healthy Volunteers,Healthy Volunteers
+16764,NCT02501200,Ezetimibe,Healthy,Healthy
+16766,NCT04322266,Ezetimibe,Healthy,Healthy
+16831,NCT07182383,Ezetimibe,Healthy Subjects,Healthy Subjects
+16863,NCT02461004,Ezetimibe,Healthy,Healthy
+16866,NCT00359281,Ezetimibe,Healthy,Healthy
+16881,NCT07201545,Ezetimibe,Healthy Subjects,Healthy Subjects
+16940,NCT00810303,Ezetimibe,Pharmacokinetics,Pharmacokinetics; Drug Interactions; Pharmacodynamics; Intestinal Transporter Expression
+16973,NCT05481385,Ezetimibe,Pharmacokinetics,Pharmacokinetics; Safety
+16977,NCT06547359,Ezetimibe,Healthy Volunteers,Healthy Volunteers
+17011,NCT00621101,Ezetimibe,Pharmacokinetics,Pharmacokinetics; Drug Interactions; Hypercholesterolemia; Immunosuppression
+17013,NCT04081844,Ezetimibe,Healthy,Healthy
+17036,NCT00905346,Topiramate,Healthy,Healthy
+17047,NCT03307863,Topiramate,Contraception,Contraception; Drug Interactions
+17057,NCT00901784,Topiramate,Healthy,Healthy
+17082,NCT00902473,Topiramate,Healthy,Healthy
+17099,NCT00939692,Topiramate,Healthy,Healthy
+17123,NCT00904943,Topiramate,Healthy,Healthy
+17127,NCT00648934,Topiramate,Healthy,Healthy
+17191,NCT01950520,Topiramate,Healthy Volunteers,Healthy Volunteers
+17226,NCT05812183,Topiramate,Quality of Life,Dyspnea; Quality of Life
+17227,NCT00649467,Topiramate,Healthy,Healthy
+17228,NCT00905164,Topiramate,Healthy,Healthy
+17231,NCT00280839,Topiramate,Smoking Cessation,Smoking Cessation
+17243,NCT00649740,Topiramate,Healthy,Healthy
+17250,NCT00905567,Topiramate,Healthy,Healthy
+17269,NCT00939705,Topiramate,Healthy,Healthy
+17297,NCT03308669,Topiramate,Healthy,Healthy
+17338,NCT00648193,Paroxetine,Healthy,Healthy
+17346,NCT00647881,Paroxetine,Healthy,Healthy
+17351,NCT02264184,Paroxetine,Healthy,Healthy
+17358,NCT05175430,Paroxetine,Healthy,Healthy
+17365,NCT03054220,Paroxetine,Healthy,Healthy
+17418,NCT00648427,Paroxetine,Healthy,Healthy
+17427,NCT01916824,Paroxetine,Healthy Controls,Major Depressive Disorder; Healthy Controls
+17436,NCT01367535,Paroxetine,Healthy Adults,Healthy Adults
+17447,NCT05992428,Paroxetine,Healthy,Healthy
+17463,NCT00841698,Paroxetine,Healthy,Healthy
+17467,NCT00456560,Paroxetine,Healthy,Healthy
+17500,NCT02655354,Paroxetine,Quality of Life,Posttraumatic Stress Disorder; Depression; Alcohol-Related Disorders; Suicidal Ideation; Substance-Related Disorders; Mild Cognitive Impairment; Quality of Life; Pain; Wounds and Injury; Brain Injuries; Chronic Disease
+17501,NCT02097147,Paroxetine,Healthy,Healthy
+17525,NCT00650403,Paroxetine,Healthy,Healthy
+17542,NCT04981704,Paroxetine,Healthy,Healthy
+17562,NCT01159821,Paroxetine,Healthy,Healthy
+17564,NCT02681198,Paroxetine,Healthy,Healthy
+17566,NCT00841659,Paroxetine,Healthy,Healthy
+17567,NCT00385762,Paroxetine,Healthy,Healthy
+17569,NCT01318031,Paroxetine,Healthy Volunteers,Healthy Volunteers
+17575,NCT04188028,Paroxetine,Healthy,Healthy
+17610,NCT02932904,Paroxetine,Healthy Volunteers,Healthy Volunteers
+17631,NCT01649492,Diclofenac,Healthy Volunteers,Healthy Volunteers
+17637,NCT06954181,Diclofenac,Healthy Participants,Healthy Participants
+17664,NCT03781544,Diclofenac,Healthy,Osteoarthritis of Multiple Joints of Ankle or Foot; Healthy
+17670,NCT02652312,Diclofenac,Anesthesia,Anesthesia
+17676,NCT03745599,Diclofenac,Quality of Life,Pain; Quality of Life
+17719,NCT03074162,Diclofenac,Healthy,Healthy
+17732,NCT00548678,Diclofenac,Healthy,Healthy
+17747,NCT02882035,Diclofenac,Anesthesia,Anesthesia
+17775,NCT02361619,Diclofenac,Healthy Volunteers,Healthy Volunteers
+17803,NCT04132583,Diclofenac,Healthy,Healthy
+17809,NCT01734954,Diclofenac,Anesthesia,Anesthesia
+17829,NCT06729073,Diclofenac,Healthy Volunteer,Healthy Volunteer
+17833,NCT02689024,Diclofenac,Anesthesia,Hip Fractures; Anesthesia
+17841,NCT00805090,Diclofenac,Healthy,"Renal Insufficiency, Chronic; Hepatic Insufficiency; Healthy"
+17862,NCT04592016,Diclofenac,Healthy,Healthy
+17867,NCT02495831,Diclofenac,Healthy,Healthy
+17870,NCT01592019,Diclofenac,Bioequivalence,Bioequivalence
+17903,NCT00978601,Diclofenac,Anesthesia,Anesthesia; Myomectomy
+17908,NCT01306318,Diclofenac,Healthy Volunteers,Healthy Volunteers
+17949,NCT06340581,Budesonide; Formoterol,Healthy,Healthy
+17966,NCT00868426,Budesonide; Formoterol,Healthy,Healthy
+17969,NCT01457716,Budesonide; Formoterol,Healthy,Healthy
+17976,NCT06027606,Budesonide; Formoterol,Healthy,Healthy
+17995,NCT03551197,Budesonide; Formoterol,Quality of Life,"Pulmonary Disease, Chronic Obstructive; Exercise; Lung Function Decreased; Quality of Life"
+18038,NCT03033758,Budesonide; Formoterol,Quality of Life,Asthma; Quality of Life
+18041,NCT03055793,Budesonide; Formoterol,Quality of Life,Asthma; Quality of Life; Satisfaction
+18046,NCT06723756,Budesonide; Formoterol,Healthy Participants,Healthy Participants
+18197,NCT03563001,Budesonide; Formoterol,Quality of Life,"Pulmonary Disease, Chronic Obstructive; Asthma-Chronic Obstructive Pulmonary Disease Overlap Syndrome; Small Airway Disease; Quality of Life"
+18227,NCT01980615,Budesonide; Formoterol,Healthy Volunteers,Healthy Volunteers
+18268,NCT00837902,Atenolol,Healthy,Healthy
+18298,NCT04905277,Atenolol,Healthy,Healthy
+18336,NCT01445964,Atenolol,Healthy,Healthy
+18337,NCT00310778,Atenolol,Healthy,Healthy
+18339,NCT02479204,Atenolol,Healthy Subjects,Healthy Subjects
+18340,NCT01795235,Atenolol,Healthy,Healthy
+18354,NCT00775580,Atenolol,Healthy,Healthy
+18381,NCT01235338,Lisdexamfetamine,Healthy,Healthy
+18382,NCT00776555,Lisdexamfetamine,Healthy,Healthy
+18421,NCT01890785,Lisdexamfetamine,Healthy Volunteers,Healthy Volunteers
+18431,NCT00919867,Lisdexamfetamine,Healthy,Healthy
+18442,NCT00746733,Lisdexamfetamine,Healthy Volunteers,Healthy Volunteers
+18448,NCT02668926,Lisdexamfetamine,Healthy,Healthy
+18481,NCT02144415,Lisdexamfetamine,Healthy Volunteers,Healthy Volunteers; Drug Users
+18487,NCT00649571,Doxycycline,Healthy,Healthy
+18601,NCT00353158,Doxycycline,Healthy Volunteers,Healthy Volunteers; Fungal Infections; Bacterial Infections
+18619,NCT05742139,Doxycycline,Quality of Life,"Neuroborreliosis, Lyme; Quality of Life"
+18626,NCT00829764,Doxycycline,Healthy,Healthy
+18646,NCT00647959,Doxycycline,Healthy,Healthy
+18706,NCT00775918,Doxycycline,Healthy,Healthy
+18762,NCT00775177,Doxycycline,Healthy,Healthy
+18792,NCT01270815,Pregabalin,Healthy,Healthy
+18836,NCT02349607,Pregabalin,Healthy,Healthy
+18845,NCT04894864,Pregabalin,Anesthesia,Elective Surgical Procedures; Postoperative Pain; Anesthesia; Opioid Use; Abdominal Aortic Aneurysm Without Rupture; Vascular Surgical Procedure; Interleukin 6; Immunomodulators
+18862,NCT01443169,Pregabalin,Healthy,Healthy
+18870,NCT01342198,Pregabalin,Healthy,Healthy
+18873,NCT02260947,Pregabalin,Healthy,Healthy
+18880,NCT06077786,Pregabalin,Healthy Participants,Healthy Participants
+18881,NCT02952937,Pregabalin,Healthy,Healthy
+18906,NCT01080612,Pregabalin,Healthy,Healthy
+18930,NCT01291524,Pregabalin,Healthy,Healthy
+18964,NCT01202422,Pregabalin,Healthy,Healthy
+18968,NCT01321671,Pregabalin,Healthy,Healthy
+18987,NCT01257529,Pregabalin,Healthy,Healthy
+19016,NCT05071118,Pregabalin,Anesthesia,Anesthesia
+19045,NCT02725112,Pregabalin,Healthy,Healthy
+19051,NCT02103686,Pregabalin,Healthy,Healthy
+19075,NCT05172739,Pregabalin,Anesthesia,"Systemic Inflammatory Response Syndrome; Postoperative Pain, Acute; Postoperative Pain, Chronic; Infections Postoperative; Opioid Use; Anesthesia; Non-small Cell Lung Cancer"
+19078,NCT05389813,Pregabalin,Anesthesia,Anesthesia
+19086,NCT01202435,Pregabalin,Healthy,Healthy
+19087,NCT04423068,Ethinyl Estradiol; Norethindrone,Contraception,Pregnancy Related; Contraception; Contraceptive Usage; Contraception Behavior; Pregnancy
+19091,NCT01656434,Ethinyl Estradiol; Norethindrone,Contraception,Contraception
+19096,NCT04934696,Ethinyl Estradiol; Norethindrone,Healthy Participants,Healthy Participants
+19097,NCT01340625,Ethinyl Estradiol; Norethindrone,Bioequivalence,Bioequivalence
+19101,NCT01465022,Ethinyl Estradiol; Norethindrone,Contraception,Breast Feeding; Contraception
+19103,NCT03451110,Ethinyl Estradiol; Norethindrone,Healthy Subjects,Healthy Subjects
+19105,NCT01246791,Ethinyl Estradiol; Norethindrone,Healthy,Healthy
+19109,NCT01597986,Ethinyl Estradiol; Norethindrone,Healthy Volunteers,Pharmacokinetics of Isavuconazole; Pharmacokinetics of Ethinyl Estradiol and Norethindrone; Healthy Volunteers
+19110,NCT03856970,Ethinyl Estradiol; Norethindrone,Healthy Volunteers,Healthy Volunteers
+19111,NCT03106454,Ethinyl Estradiol; Norethindrone,Contraception,Contraception; Ovulation
+19114,NCT00477633,Ethinyl Estradiol; Norethindrone,Contraception,Contraception
+19119,NCT01040845,Ethinyl Estradiol; Norethindrone,Pharmacokinetics,Pharmacokinetics
+19120,NCT04016753,Ethinyl Estradiol; Norethindrone,Healthy Participants,Healthy Participants
+19122,NCT04709094,Ethinyl Estradiol; Norethindrone,Healthy,Healthy
+19128,NCT00391807,Ethinyl Estradiol; Norethindrone,Contraception,Contraception
+19129,NCT07215806,Ethinyl Estradiol; Norethindrone,Healthy,Healthy
+19135,NCT01253824,Ethinyl Estradiol; Norethindrone,Healthy,Healthy
+19139,NCT05579574,Ethinyl Estradiol; Norethindrone,Healthy Participants,Healthy Participants
+19140,NCT01344369,Ethinyl Estradiol; Norethindrone,Healthy,Healthy
+19144,NCT06186271,Ethinyl Estradiol; Norethindrone,Contraception,Contraception
+19146,NCT02652650,Ethinyl Estradiol; Norethindrone,Healthy,Healthy
+19147,NCT00338052,Ethinyl Estradiol; Norethindrone,Contraception,Contraception
+19148,NCT02245438,Ethinyl Estradiol; Norethindrone,Healthy,Healthy
+19149,NCT00656318,Ethinyl Estradiol; Norethindrone,Healthy,Healthy
+19155,NCT00821496,Ethinyl Estradiol; Norethindrone,Healthy,Healthy
+19182,NCT00776620,Glimepiride,Healthy,Healthy
+19201,NCT00934817,Glimepiride,Healthy,Healthy
+19258,NCT00934323,Glimepiride,Healthy,Healthy
+19280,NCT01052909,Glimepiride,Healthy,Healthy
+19294,NCT01053689,Glimepiride,Healthy,Healthy
+19295,NCT00834340,Glimepiride,Healthy,Healthy
+19297,NCT01302158,Glimepiride,Healthy Subjects,Healthy Subjects
+19329,NCT06644404,Glimepiride,Healthy,Healthy
+19335,NCT01496443,Glimepiride,Pharmacokinetics,Pharmacokinetics
+19336,NCT00776490,Glimepiride,Healthy,Healthy
+19350,NCT01934816,Glimepiride,Healthy Subjects,Healthy Subjects
+19365,NCT02395237,Glimepiride,Healthy,Healthy
+19372,NCT00648362,Glimepiride,Healthy,Healthy
+19374,NCT00549263,Glimepiride,Healthy Subjects,Healthy Subjects
+19382,NCT00835172,Glimepiride,Healthy,Healthy
+19386,NCT01437800,Glimepiride,Healthy,Healthy
+19391,NCT00650533,Glimepiride,Healthy,Healthy
+19396,NCT02172261,Glimepiride,Healthy,Healthy
+19413,NCT01768455,Glimepiride,Healthy,Healthy
+19419,NCT01437813,Glimepiride,Healthy,Healthy
+19451,NCT01146028,Tizanidine,Healthy,Healthy
+19461,NCT01065987,Tizanidine,Healthy,Healthy
+19488,NCT04894864,Clonidine,Anesthesia,Elective Surgical Procedures; Postoperative Pain; Anesthesia; Opioid Use; Abdominal Aortic Aneurysm Without Rupture; Vascular Surgical Procedure; Interleukin 6; Immunomodulators
+19523,NCT02882035,Clonidine,Anesthesia,Anesthesia
+19566,NCT00029627,Clonidine,Healthy,Healthy
+19582,NCT03124680,Clonidine,Anesthesia,Anesthesia
+19614,NCT05592379,Clonidine,Healthy,Healthy; Psychedelic Experiences; Sleep
+19624,NCT05172739,Clonidine,Anesthesia,"Systemic Inflammatory Response Syndrome; Postoperative Pain, Acute; Postoperative Pain, Chronic; Infections Postoperative; Opioid Use; Anesthesia; Non-small Cell Lung Cancer"
+19650,NCT04737473,Clonidine,Anesthesia,Opioids; Clinical Trial; Anesthesia; Gynecology; Surgery
+19699,NCT04797312,Clonidine,Anesthesia,Anesthesia; Anesthesia; Adverse Effect; Opioid Analgesic Adverse Reaction; Post-Op Complication
+19699,NCT04797312,Clonidine,Anesthesia,Anesthesia; Anesthesia; Adverse Effect; Opioid Analgesic Adverse Reaction; Post-Op Complication
+19715,NCT02444559,Clonidine,Healthy,Healthy
+19726,NCT02548806,Clonidine,Healthy,Healthy
+19743,NCT02096744,Clonidine,Healthy,Healthy
+19754,NCT04032691,Clonidine,Healthy Volunteers,Healthy Volunteers
+19786,NCT00775359,Fenofibrate,Healthy,Healthy
+19787,NCT00961116,Fenofibrate,Healthy,Healthy
+19828,NCT00359281,Fenofibrate,Healthy,Healthy
+19837,NCT02422030,Fenofibrate,Healthy,Healthy
+19844,NCT00839293,Fenofibrate,Healthy,Healthy
+19850,NCT01472380,Fenofibrate,Healthy,Healthy
+19855,NCT01109758,Fenofibrate,Healthy,Healthy
+19880,NCT00543647,Fenofibrate,Healthy Volunteers,Healthy Volunteers
+19894,NCT02306889,Fenofibrate,Healthy,Healthy
+19921,NCT01501435,Fenofibrate,Healthy,Healthy
+19922,NCT00775827,Fenofibrate,Healthy,Healthy
+19925,NCT00487136,Fenofibrate,Healthy,Healthy
+19933,NCT02306902,Fenofibrate,Healthy,Healthy
+19946,NCT01509196,Fenofibrate,Healthy,Healthy
+19963,NCT00960687,Fenofibrate,Healthy,Healthy
+19971,NCT00644592,Fenofibrate,Healthy,Healthy
+19993,NCT02317575,Insulin Lispro,Healthy Volunteers,Healthy Volunteers
+20003,NCT02660502,Insulin Lispro,Healthy,Healthy
+20057,NCT00803972,Insulin Lispro,Healthy Volunteers,Healthy Volunteers
+20093,NCT02942654,Insulin Lispro,Healthy,Healthy
+20104,NCT07109245,Insulin Lispro,Healthy Controls,Brain Insulin Sensitivity; Healthy Controls; Cognition
+20105,NCT00979875,Insulin Lispro,Healthy,Healthy
+20108,NCT04049123,Insulin Lispro,Healthy,Healthy
+20141,NCT02529293,Insulin Lispro,Healthy,Healthy
+20147,NCT01871493,Insulin Lispro,Healthy Volunteers,Healthy Volunteers
+20178,NCT02525744,Insulin Lispro,Healthy,Healthy
+20179,NCT06280703,Insulin Lispro,Healthy,Healthy; Type 1 Diabetes Mellitus
+20185,NCT05373186,Insulin Lispro,Healthy,Healthy
+20189,NCT06153329,Insulin Lispro,Healthy,Healthy
+20207,NCT02111083,Insulin Lispro,Healthy Volunteers,Healthy Volunteers
+20216,NCT02770521,Insulin Lispro,Healthy,Healthy
+20229,NCT01133392,Insulin Lispro,Healthy Volunteers,Healthy Volunteers
+20237,NCT01638325,Insulin Lispro,Healthy Participants,Healthy Participants
+20267,NCT02293551,Insulin Lispro,Healthy Volunteers,Healthy Volunteers
+20268,NCT06945406,Insulin Lispro,Healthy,"Healthy; Diabetes Mellitus, Type 1; Diabetes Mellitus, Type 2"
+20270,NCT02752087,Insulin Lispro,Healthy,Healthy
+20274,NCT02432976,Insulin Lispro,Quality of Life,Quality of Life
+20293,NCT04859452,Valsartan,Healthy Subjects,Healthy Subjects
+20305,NCT02197442,Valsartan,Healthy,Healthy
+20311,NCT01232049,Valsartan,Healthy,Healthy
+20334,NCT01823913,Valsartan,Healthy,Healthy
+20366,NCT00416468,Valsartan,Healthy,Healthy
+20390,NCT01115972,Valsartan,Healthy,Healthy; Pharmacokinetics of Valsartan
+20406,NCT02088008,Valsartan,Healthy Volunteers,Healthy Volunteers
+20416,NCT00185055,Valsartan,Healthy,Healthy
+20444,NCT02197494,Valsartan,Healthy,Healthy
+20500,NCT01494727,Valsartan,Healthy,Healthy
+20505,NCT06193187,Valsartan,Healthy Volunteers,Healthy Volunteers
+20591,NCT02479867,Cephalexin,Healthy,Healthy
+20597,NCT01501747,Cephalexin,Pharmacokinetics,Placebo Effect; Drug Half Life; Pharmacokinetics
+20599,NCT02123472,Cephalexin,Healthy Volunteers,Healthy Volunteers
+20615,NCT02490670,Cephalexin,Healthy,Healthy
+20631,NCT00834275,Cephalexin,Healthy,Healthy
+20638,NCT02123459,Cephalexin,Healthy Volunteers,Healthy Volunteers
+20648,NCT02123446,Cephalexin,Healthy Volunteers,Healthy Volunteers
+20655,NCT02140281,Cephalexin,Healthy Volunteers,Healthy Volunteers
+20667,NCT02100826,Cephalexin,Healthy Volunteers,Healthy Volunteers
+20687,NCT00835081,Cephalexin,Healthy,Healthy
+20697,NCT00647738,Baclofen,Healthy,Healthy
+20727,NCT02001584,Baclofen,Healthy Volunteers,"Healthy Volunteers;; Obese, Otherwise Healthy Volunteers"
+20774,NCT00676039,Baclofen,Healthy,Healthy
+20787,NCT05257447,Baclofen,Pharmacokinetics,Pharmacokinetics
+20842,NCT04727021,Rivaroxaban,Healthy Volunteers,Healthy Volunteers
+20950,NCT03071380,Rivaroxaban,Healthy,Healthy
+20967,NCT03172910,Rivaroxaban,Healthy,Healthy
+21001,NCT04767776,Rivaroxaban,Healthy,Healthy
+21017,NCT04689919,Rivaroxaban,Bioequivalence,Bioequivalence
+21030,NCT01710267,Rivaroxaban,Healthy,Healthy
+21088,NCT06558045,Rivaroxaban,Healthy,Healthy
+21095,NCT03578146,Rivaroxaban,Healthy Volunteers,Healthy Volunteers
+21117,NCT03864406,Rivaroxaban,Healthy Volunteers,Healthy Volunteers
+21127,NCT01464450,Rivaroxaban,Pharmacokinetics,Pharmacokinetics; Bioavailability; Healthy Participants
+21127,NCT01464450,Rivaroxaban,Healthy Participants,Pharmacokinetics; Bioavailability; Healthy Participants
+21141,NCT03850652,Ferrous Sulfate,Healthy,Healthy
+21178,NCT03645863,Ferrous Sulfate,Healthy,Healthy
+21236,NCT05642689,Ferrous Sulfate,Healthy,Healthy
+21317,NCT02412449,Ferrous Sulfate,Healthy,Healthy
+21412,NCT02327546,Ferrous Sulfate,Healthy Volunteers,Healthy Volunteers
+21456,NCT02256878,Amitriptyline,Healthy,Healthy
+21477,NCT00355277,Amitriptyline,Healthy Volunteers,Healthy Volunteers
+21547,NCT01566825,Amitriptyline,Healthy Subjects,Healthy Subjects
+21561,NCT02190526,Amitriptyline,Quality of Life,Diarrhea- Predominant Irritable Bowel Syndrome; Quality of Life
+21567,NCT02127736,Amitriptyline,Healthy Participants,Healthy Participants
+21580,NCT01264302,Finasteride,Healthy,Healthy
+21589,NCT00648791,Finasteride,Healthy,Healthy
+21591,NCT00871247,Finasteride,Healthy,Healthy
+21599,NCT00835796,Finasteride,Healthy,Healthy
+21607,NCT01264289,Finasteride,Healthy,Healthy
+21609,NCT01133457,Finasteride,Healthy,Healthy
+21611,NCT00835666,Finasteride,Healthy,Healthy
+21644,NCT01923090,Finasteride,Healthy Volunteers,Healthy Volunteers
+21650,NCT01133444,Finasteride,Healthy,Healthy
+21657,NCT00650377,Finasteride,Healthy,Healthy
+21660,NCT00870480,Finasteride,Healthy,Healthy
+21665,NCT00663793,Finasteride,Contraception,Contraception; Hypogonadism
+21690,NCT05105698,Dapagliflozin,Healthy Volunteers,Healthy Volunteers
+21694,NCT03826641,Dapagliflozin,Healthy,Healthy
+21766,NCT01156246,Dapagliflozin,Healthy,Healthy
+21794,NCT03364985,Dapagliflozin,Healthy,Healthy
+21821,NCT04473417,Dapagliflozin,Healthy,Healthy
+21835,NCT02637037,Dapagliflozin,Bioequivalence,Bioequivalence; Fixed Dose Combination Tablets; Healthy Male and Female Subjects
+21982,NCT01456520,Acetaminophen; Oxycodone,Healthy,Healthy
+22041,NCT02991222,Acetaminophen; Oxycodone,Healthy,Healthy
+22060,NCT02618395,Acetaminophen; Oxycodone,Healthy,Healthy
+22069,NCT02312739,Acetaminophen; Oxycodone,Contraception,Contraception; Inhalation of Nitrous Oxide
+22080,NCT03567941,Acetaminophen; Oxycodone,Healthy,Healthy
+22167,NCT02991261,Acetaminophen; Oxycodone,Healthy,Healthy
+22185,NCT02966860,Acetaminophen; Oxycodone,Healthy Volunteers,Healthy Volunteers
+22251,NCT02826551,Acetaminophen; Oxycodone,Anesthesia,Anesthesia
+22285,NCT00353353,Folic Acid,Healthy,Healthy
+22299,NCT03444155,Folic Acid,Healthy,"Healthy; Thiamine and Niacin Deficiency States; Pyridoxine Deficiency; Folic Acid Deficiency Anemia, Dietary; Vitamin B 12 Deficiency; Peroxidase; Defect; Polyphenols; Oxidative Stress; Homocystine; Metabolic Disorder"
+22322,NCT05445440,Folic Acid,Healthy Participants,Healthy Participants
+22337,NCT03828227,Folic Acid,Quality of Life,Elderly Patients; Metastatic Colorectal Cancer; Quality of Life
+22380,NCT03359057,Folic Acid,Contraception,Contraception
+22453,NCT00709267,Folic Acid,Healthy,Healthy; Pharmacokinetics
+22453,NCT00709267,Folic Acid,Pharmacokinetics,Healthy; Pharmacokinetics
+22487,NCT00709982,Folic Acid,Healthy,Drug Interactions; Healthy; Pharmacokinetics
+22487,NCT00709982,Folic Acid,Pharmacokinetics,Drug Interactions; Healthy; Pharmacokinetics
+22629,NCT01607762,Aripiprazole,Healthy,Healthy
+22671,NCT05804721,Aripiprazole,Healthy,Healthy
+22708,NCT02088697,Aripiprazole,Healthy Volunteers,Healthy Volunteers
+22738,NCT00361790,Aripiprazole,Healthy,Healthy
+22870,NCT02089399,Olmesartan,Healthy,Healthy
+22882,NCT01415466,Olmesartan,Healthy,Healthy
+22885,NCT00649623,Olmesartan,Healthy,Healthy
+22899,NCT00648219,Olmesartan,Healthy,Healthy
+22906,NCT01020214,Olmesartan,Healthy,Healthy
+22908,NCT03319706,Olmesartan,Healthy Subjects,Healthy Subjects
+22917,NCT01831479,Olmesartan,Healthy,Healthy
+22924,NCT02962258,Olmesartan,Healthy Subjects,Healthy Subjects
+22925,NCT00185055,Olmesartan,Healthy,Healthy
+22926,NCT02962336,Olmesartan,Healthy Subjects,Healthy Subjects
+22929,NCT03318354,Olmesartan,Healthy Subjects,Healthy Subjects
+22934,NCT04138888,Olmesartan,Bioequivalence,Bioequivalence
+22959,NCT01823900,Olmesartan,Healthy,Healthy
+22964,NCT02561884,Olmesartan,Healthy,Healthy
+22983,NCT02665832,Olmesartan,Healthy,Healthy
+22987,NCT03753477,Olmesartan,Healthy,Healthy
+22992,NCT01493856,Olmesartan,Healthy Volunteers,Healthy Volunteers
+23020,NCT03951051,Olmesartan,Bioequivalence,Bioequivalence
+23023,NCT01019590,Olmesartan,Healthy,Healthy
+23026,NCT00890565,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23028,NCT00779532,Ethinyl Estradiol; Norgestimate,Contraception,Contraception
+23031,NCT04423068,Ethinyl Estradiol; Norgestimate,Contraception,Pregnancy Related; Contraception; Contraceptive Usage; Contraception Behavior; Pregnancy
+23036,NCT00721344,Ethinyl Estradiol; Norgestimate,Healthy Subjects,Healthy Subjects
+23038,NCT05293171,Ethinyl Estradiol; Norgestimate,Healthy Subjects,Healthy Subjects
+23039,NCT07212803,Ethinyl Estradiol; Norgestimate,Healthy Volunteers,Healthy Volunteers; Safety After Oral Intake
+23040,NCT01876316,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23041,NCT02064348,Ethinyl Estradiol; Norgestimate,Healthy,Diabetes; Healthy
+23046,NCT03162900,Ethinyl Estradiol; Norgestimate,Healthy Volunteers,Healthy Volunteers
+23047,NCT02172144,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23049,NCT01746732,Ethinyl Estradiol; Norgestimate,Healthy Volunteers,Healthy Volunteers
+23051,NCT02256735,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23054,NCT03657446,Ethinyl Estradiol; Norgestimate,Healthy Subjects,Healthy Subjects
+23055,NCT02537288,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23056,NCT06352541,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23058,NCT01613040,Ethinyl Estradiol; Norgestimate,Healthy Volunteer,Healthy Volunteer
+23065,NCT01297062,Ethinyl Estradiol; Norgestimate,Healthy Subjects,Healthy Subjects
+23071,NCT02637193,Ethinyl Estradiol; Norgestimate,Healthy Subjects,Healthy Subjects
+23073,NCT06379867,Ethinyl Estradiol; Norgestimate,Anesthesia,Anesthesia
+23074,NCT01140425,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23076,NCT03656952,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23077,NCT04718636,Ethinyl Estradiol; Norgestimate,Healthy Volunteers,Healthy Volunteers
+23080,NCT03606057,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23089,NCT00709982,Ethinyl Estradiol; Norgestimate,Healthy,Drug Interactions; Healthy; Pharmacokinetics
+23089,NCT00709982,Ethinyl Estradiol; Norgestimate,Pharmacokinetics,Drug Interactions; Healthy; Pharmacokinetics
+23091,NCT04019574,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23093,NCT00914121,Ethinyl Estradiol; Norgestimate,Healthy Subjects,Healthy Subjects
+23103,NCT06746402,Ethinyl Estradiol; Norgestimate,Healthy Volunteers,Healthy Volunteers
+23107,NCT06215521,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23111,NCT02807207,Ethinyl Estradiol; Norgestimate,Healthy Subjects,Healthy Subjects
+23115,NCT01028924,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23117,NCT01363323,Ethinyl Estradiol; Norgestimate,Healthy Volunteers,Healthy Volunteers
+23121,NCT06258265,Ethinyl Estradiol; Norgestimate,Healthy Volunteers,Healthy Volunteers
+23125,NCT03494907,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23130,NCT06441318,Ethinyl Estradiol; Norgestimate,Healthy Participants,Healthy Participants
+23133,NCT02737605,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23137,NCT00926263,Ethinyl Estradiol; Norgestimate,Healthy Volunteers,Healthy Volunteers
+23140,NCT03465436,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23146,NCT01416259,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23149,NCT02344303,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23154,NCT01594255,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23155,NCT00699504,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23161,NCT05630274,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23163,NCT06462326,Ethinyl Estradiol; Norgestimate,Healthy Volunteer,Healthy Volunteer
+23167,NCT04560816,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23174,NCT03696459,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23175,NCT03777761,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23176,NCT02136888,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23179,NCT02176005,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23181,NCT01398293,Ethinyl Estradiol; Norgestimate,Healthy Volunteer,Healthy Volunteer
+23182,NCT00672399,Ethinyl Estradiol; Norgestimate,Healthy Subjects,Healthy Subjects
+23183,NCT02207699,Ethinyl Estradiol; Norgestimate,Healthy Volunteers,Healthy Volunteers
+23191,NCT01965431,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23201,NCT00549666,Ethinyl Estradiol; Norgestimate,Pharmacokinetics,Pharmacokinetics
+23202,NCT02661594,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23203,NCT02062203,Ethinyl Estradiol; Norgestimate,Healthy Volunteers,Healthy Volunteers
+23206,NCT01871701,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23212,NCT01263808,Ethinyl Estradiol; Norgestimate,Healthy Volunteers,Healthy Volunteers; Chronic Obstructive Pulmonary Disease
+23213,NCT01018420,Ethinyl Estradiol; Norgestimate,Pharmacokinetics,Pharmacokinetics
+23214,NCT02091310,Ethinyl Estradiol; Norgestimate,Healthy Volunteers,Healthy Volunteers
+23216,NCT00713336,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23218,NCT01941511,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23221,NCT06589726,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23222,NCT02494609,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23224,NCT05995444,Ethinyl Estradiol; Norgestimate,Healthy Volunteers,Healthy Volunteers
+23225,NCT02206204,Ethinyl Estradiol; Norgestimate,Pharmacokinetics,Cardiodynamics; Safety; Tolerability; Pharmacokinetics
+23230,NCT02308748,Ethinyl Estradiol; Norgestimate,Pharmacokinetics,Drug-induced QT Prolongation; Pharmacokinetics; Pharmacodynamics
+23232,NCT06070597,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23235,NCT05878522,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23236,NCT04255277,Ethinyl Estradiol; Norgestimate,Healthy Subjects,Healthy Subjects
+23240,NCT03516630,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23241,NCT01743677,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23245,NCT05016206,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23247,NCT00709332,Ethinyl Estradiol; Norgestimate,Contraception,Drug Interactions; Contraception; Pharmacokinetics
+23247,NCT00709332,Ethinyl Estradiol; Norgestimate,Pharmacokinetics,Drug Interactions; Contraception; Pharmacokinetics
+23248,NCT06591845,Ethinyl Estradiol; Norgestimate,Healthy Volunteers,Healthy Volunteers
+23252,NCT03362853,Ethinyl Estradiol; Norgestimate,Healthy Volunteers,Healthy Volunteers
+23255,NCT00377988,Ethinyl Estradiol; Norgestimate,Contraception,Contraception; Female Contraception
+23257,NCT00996021,Ethinyl Estradiol; Norgestimate,Healthy Subjects,Healthy Subjects
+23260,NCT05671029,Ethinyl Estradiol; Norgestimate,Healthy Subjects,Healthy Subjects
+23263,NCT05192369,Ethinyl Estradiol; Norgestimate,Healthy Volunteers,Healthy Volunteers
+23271,NCT07214935,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23278,NCT04660890,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23280,NCT00905762,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23285,NCT05580003,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23289,NCT02262546,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23301,NCT00316459,Ethinyl Estradiol; Norgestimate,Healthy,Healthy; Long QT Syndrome
+23304,NCT05241535,Ethinyl Estradiol; Norgestimate,Healthy Subjects,Healthy Subjects
+23307,NCT01073891,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23322,NCT06795204,Ethinyl Estradiol; Norgestimate,Anesthesia,Anesthesia; Adverse Effect; Cardiac Arrhythmia
+23323,NCT06107036,Ethinyl Estradiol; Norgestimate,Healthy,Healthy
+23325,NCT00672984,Ethinyl Estradiol; Norgestimate,Healthy Volunteers,Healthy Volunteers
+23330,NCT01222897,Valacyclovir,Healthy,Healthy
+23344,NCT01136525,Valacyclovir,Healthy,Healthy
+23385,NCT05094414,Valacyclovir,Quality of Life,"Pain, Chronic; Urge Incontinence; Overactive Bladder Syndrome; Quality of Life"
+23398,NCT01136538,Valacyclovir,Healthy,Healthy
+23399,NCT01149499,Valacyclovir,Healthy,Healthy
+23408,NCT00650494,Valacyclovir,Healthy,Healthy
+23415,NCT00005924,Valacyclovir,Healthy,Epstein Barr Virus Infection; Healthy
+23417,NCT01149460,Valacyclovir,Healthy,Healthy
+23428,NCT02226978,Valacyclovir,Healthy,Healthy
+23438,NCT01222910,Valacyclovir,Healthy,Healthy
+23443,NCT00649870,Valacyclovir,Healthy,Healthy
+23445,NCT00649974,Valacyclovir,Healthy,Healthy
+23475,NCT06213948,Mirtazapine,Healthy,Functional Disorder of Stomach; Healthy
+23477,NCT04806230,Mirtazapine,Pharmacokinetics,Pharmacokinetics; Antidepressive Agents; Pregnancy
+23510,NCT01916824,Mirtazapine,Healthy Controls,Major Depressive Disorder; Healthy Controls
+23512,NCT00834197,Mirtazapine,Healthy,Healthy
+23526,NCT00835575,Mirtazapine,Healthy,Healthy
+23534,NCT00878540,Mirtazapine,Healthy,Healthy
+23549,NCT02655354,Mirtazapine,Quality of Life,Posttraumatic Stress Disorder; Depression; Alcohol-Related Disorders; Suicidal Ideation; Substance-Related Disorders; Mild Cognitive Impairment; Quality of Life; Pain; Wounds and Injury; Brain Injuries; Chronic Disease
+23560,NCT00865384,Mirtazapine,Healthy,Healthy
+23561,NCT04155008,Mirtazapine,Quality of Life,Oncologic Complications; Quality of Life; Nutrition Poor; Head and Neck Cancer; Lung Cancer; Pancreatic Cancer
+23562,NCT02228239,Mirtazapine,Healthy,Healthy
+23573,NCT00865696,Mirtazapine,Healthy,Healthy
+23605,NCT02815917,Lorazepam,Healthy Volunteer,D3 Dopamine Receptor; Cocaine-dependent; Healthy Volunteer
+23610,NCT04004416,Lorazepam,Healthy,Schizophrenia; Bipolar Disorder; Healthy; Psychosis; Schizophreniform Disorders; Schizo Affective Disorder; Major Depression With Psychotic Features
+23629,NCT00720421,Lorazepam,Healthy Volunteer,Healthy Volunteer
+23630,NCT00696033,Lorazepam,Healthy Subjects,Healthy Subjects
+23632,NCT01877642,Lorazepam,Healthy Volunteers,Healthy Volunteers
+23641,NCT00424697,Lorazepam,Healthy Subjects,Healthy Subjects
+23655,NCT01994668,Lorazepam,Healthy,Healthy
+23661,NCT02312739,Lorazepam,Contraception,Contraception; Inhalation of Nitrous Oxide
+23680,NCT01272778,Lorazepam,Healthy Subjects,Healthy Subjects
+23687,NCT05964647,Lorazepam,Healthy,Healthy
+23699,NCT02147548,Lorazepam,Healthy Volunteers,Healthy Volunteers
+23709,NCT00750802,Lorazepam,Healthy Volunteer,Healthy Volunteer
+23711,NCT00649818,Lorazepam,Healthy,Healthy
+23717,NCT01204255,Lorazepam,Healthy,Healthy
+23721,NCT00972985,Lorazepam,Healthy,Healthy
+23734,NCT01951144,Lorazepam,Healthy,Healthy
+23753,NCT02033707,Lorazepam,Healthy,Healthy
+23778,NCT01566539,Lorazepam,Healthy,Healthy
+23783,NCT00985348,Levetiracetam,Healthy,Healthy
+23814,NCT01131897,Levetiracetam,Healthy,Healthy
+23818,NCT01491113,Levetiracetam,Healthy Subjects,Healthy Subjects; Renal Impairments
+23830,NCT00849485,Levetiracetam,Healthy,Healthy
+23842,NCT00849862,Levetiracetam,Healthy,Healthy
+23843,NCT00859430,Levetiracetam,Healthy,Healthy
+23949,NCT01132352,Levetiracetam,Healthy,Healthy
+23957,NCT00926302,Levetiracetam,Healthy,Healthy
+23971,NCT02602860,Levetiracetam,Healthy Volunteers,Healthy Volunteers
+23972,NCT01394224,Levetiracetam,Healthy Volunteers,Healthy Volunteers
+24021,NCT00859521,Levetiracetam,Healthy,Healthy
+24022,NCT01725009,Levetiracetam,Healthy Volunteers,Healthy Volunteers
+24033,NCT03632915,Levetiracetam,Pharmacokinetics,Acute Kidney Injury; Renal Insufficiency; Renal Failure; Pharmacokinetics
+24058,NCT00006191,Levetiracetam,Healthy,Healthy; Myoclonic Epilepsy
+24092,NCT01707160,Insulin Aspart,Healthy,Diabetes; Healthy
+24129,NCT01523041,Insulin Aspart,Healthy,Diabetes; Healthy
+24147,NCT01527565,Insulin Aspart,Healthy,Diabetes; Healthy
+24166,NCT01527552,Insulin Aspart,Healthy,Diabetes; Healthy
+24201,NCT01520831,Insulin Aspart,Healthy,Diabetes; Healthy
+24207,NCT01620450,Insulin Aspart,Healthy,Diabetes; Healthy
+24226,NCT01527656,Insulin Aspart,Healthy,Diabetes; Healthy
+24244,NCT01125553,Insulin Aspart,Healthy,Diabetes; Healthy
+24269,NCT00979875,Insulin Aspart,Healthy,Healthy
+24282,NCT01620333,Insulin Aspart,Healthy,Diabetes; Healthy
+24327,NCT01865331,Insulin Aspart,Healthy,Diabetes; Healthy
+24332,NCT05539872,Insulin Aspart,Pharmacokinetics,Pharmacokinetics; Pharmacodynamics
+24344,NCT01530048,Insulin Aspart,Healthy,Diabetes; Healthy
+24351,NCT01698697,Insulin Aspart,Healthy,Diabetes; Healthy
+24385,NCT06415019,Naproxen,Healthy Volunteers,Pain; Healthy Volunteers
+24412,NCT01409603,Naproxen,Healthy Subjects,Pharmacodynamic Interaction; Healthy Subjects
+24413,NCT02351024,Naproxen,Pharmacokinetics,Pharmacokinetics
+24422,NCT00780325,Naproxen,Healthy Volunteers,Healthy Volunteers
+24428,NCT00789802,Naproxen,Contraception,Contraception; Bleeding
+24431,NCT01154790,Naproxen,Healthy,Healthy
+24441,NCT00350155,Naproxen,Healthy Volunteers,Healthy Volunteers
+24443,NCT03167541,Naproxen,Healthy,Healthy
+24444,NCT01052129,Naproxen,Healthy,Healthy
+24454,NCT01107236,Naproxen,Healthy,Healthy
+24461,NCT02769247,Naproxen,Contraception,Contraception; Pain
+24478,NCT00750243,Naproxen,Healthy,Healthy
+24479,NCT03697889,Naproxen,Healthy,Healthy
+24481,NCT00366262,Naproxen,Healthy,Healthy
+24513,NCT01404598,Naproxen,Pharmacokinetics,Pharmacokinetics
+24514,NCT00992381,Naproxen,Healthy,Healthy
+24516,NCT00410995,Naproxen,Healthy,Healthy
+24529,NCT02689024,Naproxen,Anesthesia,Hip Fractures; Anesthesia
+24535,NCT01131728,Naproxen,Healthy,Healthy
+24553,NCT00599404,Naproxen,Healthy,Healthy
+24569,NCT02502006,Naproxen,Healthy,Healthy
+24572,NCT00442208,Naproxen,Healthy,Healthy
+24584,NCT01052792,Naproxen,Healthy,Healthy
+24601,NCT00945178,Naproxen,Healthy Volunteers,Healthy Volunteers
+24611,NCT06511973,Naproxen,Healthy Volunteers,Pain; Healthy Volunteers
+24612,NCT00751556,Naproxen,Healthy,Healthy
+24620,NCT06435442,Naproxen,Healthy,Healthy
+24622,NCT01090596,Naproxen,Healthy,Healthy
+24623,NCT00969449,Naproxen,Pharmacokinetics,Pharmacokinetics
+24630,NCT00761501,Naproxen,Healthy Volunteer,Healthy Volunteer
+24639,NCT04639804,Naproxen,Healthy,Healthy
+24643,NCT02108548,Naproxen,Healthy Subjects,Pharmacokinetics of ASP7657; Pharmacodynamics of ASP7657; Healthy Subjects
+24646,NCT02202512,Naproxen,Healthy,Healthy
+24649,NCT01131767,Naproxen,Healthy,Healthy
+24652,NCT02388191,Naproxen,Contraception,Contraception
+24684,NCT00353353,Cyanocobalamin,Healthy,Healthy
+24688,NCT03444155,Cyanocobalamin,Healthy,"Healthy; Thiamine and Niacin Deficiency States; Pyridoxine Deficiency; Folic Acid Deficiency Anemia, Dietary; Vitamin B 12 Deficiency; Peroxidase; Defect; Polyphenols; Oxidative Stress; Homocystine; Metabolic Disorder"
+24826,NCT00467909,Cyanocobalamin,Healthy,Healthy
+24919,NCT03965819,Cyanocobalamin,Healthy,Healthy
+24968,NCT02184325,Cyanocobalamin,Healthy,Healthy
+24972,NCT01311739,Cyanocobalamin,Healthy,Healthy
+24979,NCT03196531,Loratadine,Healthy,Healthy
+25001,NCT03151720,Loratadine,Healthy,Healthy
+25008,NCT00845546,Loratadine,Healthy,Healthy
+25012,NCT03640273,Loratadine,Quality of Life,Allergic Rhinitis; Adverse Drug Event; Quality of Life
+25016,NCT00837915,Loratadine,Healthy,Healthy
+25023,NCT01451996,Loratadine,Healthy,Healthy
+25035,NCT06955741,Loratadine,Healthy Volunteer,Healthy Volunteer
+25046,NCT00776282,Loratadine,Healthy,Healthy
+25055,NCT00776217,Loratadine,Healthy,Healthy
+25085,NCT02947711,Diltiazem,Healthy Subjects,Healthy Subjects
+25091,NCT02319148,Diltiazem,Healthy Volunteers,Healthy Volunteers
+25105,NCT02308748,Diltiazem,Pharmacokinetics,Drug-induced QT Prolongation; Pharmacokinetics; Pharmacodynamics
+25106,NCT01124760,Diltiazem,Pharmacokinetics,Pharmacokinetics
+25111,NCT06692647,Diltiazem,Healthy,Healthy; Pain
+25117,NCT02526888,Diltiazem,Healthy Subjects,Healthy Subjects
+25118,NCT01151345,Diltiazem,Healthy,Healthy
+25130,NCT01422382,Diltiazem,Healthy,Healthy
+25138,NCT00318201,Diltiazem,Healthy,Healthy
+25142,NCT02653872,Diltiazem,Healthy Subjects,Healthy Subjects
+25150,NCT05162222,Diltiazem,Healthy Participants,Healthy Participants
+25152,NCT03070470,Diltiazem,Pharmacokinetics,Drug-induced QT Prolongation; Pharmacokinetics; Pharmacodynamics
+25154,NCT02010970,Diltiazem,Healthy Volunteers,Healthy Volunteers; Pharmacologic Action
+25156,NCT02300259,Diltiazem,Healthy Volunteers,Healthy Volunteers
+25169,NCT06703463,Diltiazem,Healthy,Healthy
+25175,NCT06662396,Diltiazem,Healthy,Healthy
+25177,NCT00983372,Diltiazem,Healthy,Healthy; Adult; Volunteer; Colchicine; Pharmacokinetics; Diltiazem; Cytochrome p450 3A4; P-glycoprotein
+25177,NCT00983372,Diltiazem,Pharmacokinetics,Healthy; Adult; Volunteer; Colchicine; Pharmacokinetics; Diltiazem; Cytochrome p450 3A4; P-glycoprotein
+25178,NCT02479204,Diltiazem,Healthy Subjects,Healthy Subjects
+25180,NCT01261156,Diltiazem,Healthy Subjects,Healthy Subjects
+25182,NCT06818968,Diltiazem,Healthy,Healthy
+25198,NCT07232589,Diltiazem,Healthy,Healthy
+25204,NCT00847405,Sumatriptan,Healthy,Healthy
+25222,NCT00872274,Sumatriptan,Healthy,Healthy
+25224,NCT00614029,Sumatriptan,Pharmacokinetics,Pharmacokinetics; Bioequivalence
+25224,NCT00614029,Sumatriptan,Bioequivalence,Pharmacokinetics; Bioequivalence
+25233,NCT01269281,Sumatriptan,Healthy,Healthy
+25262,NCT04355845,Sumatriptan,Healthy Volunteers,Healthy Volunteers
+25263,NCT02932488,Sumatriptan,Healthy Volunteers,Healthy Volunteers
+25264,NCT00546650,Sumatriptan,Healthy,Healthy
+25266,NCT00648466,Sumatriptan,Healthy,Healthy
+25270,NCT02741310,Sumatriptan,Healthy Subjects,Healthy Subjects
+25275,NCT00846885,Sumatriptan,Healthy,Healthy
+25276,NCT00620425,Sumatriptan,Healthy,Healthy
+25282,NCT00872924,Sumatriptan,Healthy,Healthy
+25292,NCT03310411,Sumatriptan,Healthy,Healthy
+25294,NCT00399633,Sumatriptan,Healthy,Healthy; Migraine
+25301,NCT00650247,Sumatriptan,Healthy,Healthy
+25302,NCT05064488,Sumatriptan,Healthy,Healthy
+25438,NCT06279507,Triamcinolone,Quality of Life,"Knee Osteoarthritis; Pain, Joint; Stiffness of Knee, Not Elsewhere Classified; Quality of Life"
+25494,NCT00975728,Triamcinolone,Healthy,Healthy
+25544,NCT03384771,Triamcinolone,Healthy,Healthy
+25648,NCT01587313,Hydralazine,Healthy,Healthy
+25653,NCT03967496,Hydralazine,Anesthesia,Delirium; Anesthesia; Adverse Effect
+25685,NCT00311974,Hydralazine,Healthy,Healthy
+25711,NCT02759107,Tirzepatide,Healthy,Healthy; Type 2 Diabetes Mellitus (T2DM)
+25714,NCT05810597,Tirzepatide,Healthy,Healthy
+25745,NCT05822544,Tirzepatide,Healthy Subjects,Healthy Subjects; Obesity; Type 2 Diabetes
+25747,NCT04311424,Tirzepatide,Healthy,Healthy
+25758,NCT03375463,Tirzepatide,Healthy,Healthy
+25762,NCT06890611,Tirzepatide,Healthy,Healthy
+25774,NCT04050670,Tirzepatide,Healthy,Healthy
+25803,NCT05812183,Tirzepatide,Quality of Life,Dyspnea; Quality of Life
+25819,NCT04004988,Tirzepatide,Healthy,Healthy
+25821,NCT04172987,Tirzepatide,Healthy,Healthy
+25872,NCT05978713,Tirzepatide,Healthy,Healthy
+25893,NCT03912428,Celecoxib,Healthy Volunteers,Myositis; Inflammatory; Rheumatoid Arthritis; Healthy Volunteers
+25894,NCT01632566,Celecoxib,Healthy Volunteers,Healthy Volunteers
+25916,NCT00813241,Celecoxib,Healthy Volunteers,Healthy Volunteers
+25920,NCT06916000,Celecoxib,Anesthesia,Anesthesia
+25928,NCT03590821,Celecoxib,Healthy,Healthy
+25945,NCT00780325,Celecoxib,Healthy Volunteers,Healthy Volunteers
+25961,NCT01304069,Celecoxib,Healthy,Healthy
+26001,NCT07171034,Celecoxib,Healthy Participants,Healthy Participants
+26014,NCT01849055,Celecoxib,Healthy Volunteers,Healthy Volunteers
+26022,NCT06337422,Celecoxib,Healthy Volunteer,Healthy Volunteer
+26032,NCT05232461,Celecoxib,Pharmacokinetics,Pharmacokinetics
+26045,NCT05438303,Celecoxib,Healthy Volunteers,Healthy Volunteers
+26051,NCT02179645,Celecoxib,Healthy,Healthy
+26056,NCT01632579,Celecoxib,Healthy Volunteers,Healthy Volunteers
+26082,NCT00729495,Celecoxib,Healthy Volunteer,Healthy Volunteer
+26107,NCT00882388,Celecoxib,Healthy,Healthy
+26120,NCT05555823,Celecoxib,Healthy,Healthy
+26121,NCT00296127,Celecoxib,Healthy Volunteers,Healthy Volunteers
+26158,NCT03921034,Celecoxib,Anesthesia,Arthropathy of Knee; Anesthesia
+26178,NCT02502006,Celecoxib,Healthy,Healthy
+26214,NCT01053650,Acetaminophen,Healthy Volunteers,Healthy Volunteers
+26260,NCT00855049,Acetaminophen,Pharmacokinetics,Pharmacokinetics
+26274,NCT01456520,Acetaminophen,Healthy,Healthy
+26282,NCT01170637,Acetaminophen,Healthy,Healthy
+26286,NCT03781544,Acetaminophen,Healthy,Osteoarthritis of Multiple Joints of Ankle or Foot; Healthy
+26309,NCT04418115,Acetaminophen,Quality of Life,"Fatigue; Depression, Anxiety; Insomnia; Hot Flashes; Quality of Life"
+26314,NCT02205983,Acetaminophen,Healthy,Healthy
+26351,NCT03562780,Acetaminophen,Healthy,Healthy
+26382,NCT01501747,Acetaminophen,Pharmacokinetics,Placebo Effect; Drug Half Life; Pharmacokinetics
+26387,NCT04144933,Acetaminophen,Anesthesia,"Anesthesia; General Anesthesia; Analgesics, Opioid; Opioid Free Anesthesia; Postoperative Ileus; Colorectal Surgery; Laparoscopic Surgery; Analgesia; Dexmedetomidine; Lidocaine; Ketamine"
+26389,NCT06186622,Acetaminophen,Healthy,Healthy; Obese; Overweight
+26464,NCT06647407,Acetaminophen,Healthy Volunteers,Meningococcal Immunization; Healthy Volunteers
+26576,NCT01012934,Alendronate,Healthy,Healthy
+26589,NCT06772792,Alendronate,Healthy,Healthy
+26591,NCT00983996,Alendronate,Healthy,Healthy
+26606,NCT01875458,Alendronate,Healthy Volunteers,"Osteoporosis, With or Without Treatment; Bisphosphonate Treatment; Atypical Femur Fracture; Bisphosphonate Related Osteonecrosis of the Jaws (BRONJ); Healthy Volunteers"
+26654,NCT00006180,Alendronate,Healthy,Depression; Healthy; Osteopenia; Osteoporosis
+26667,NCT03692143,Alendronate,Quality of Life,"Osteoporosis, Postmenopausal; Vertebral Fracture; Quality of Life"
+26672,NCT01133496,Alendronate,Healthy,Healthy
+26674,NCT00835406,Alendronate,Healthy,Healthy
+26704,NCT00649129,Oxybutynin,Healthy,Healthy
+26724,NCT00650481,Oxybutynin,Healthy,Healthy
+26729,NCT00649259,Oxybutynin,Healthy,Healthy
+26734,NCT00649272,Oxybutynin,Healthy,Healthy
+26750,NCT00170768,Oxybutynin,Healthy Volunteers,Healthy Volunteers
+26757,NCT00752141,Oxybutynin,Healthy Volunteers,Healthy Volunteers
+26758,NCT00648843,Oxybutynin,Healthy,Healthy
+26780,NCT00926926,Oxybutynin,Healthy,Healthy
+26794,NCT00649727,Oxybutynin,Healthy,Healthy
+26802,NCT00224146,Oxybutynin,Quality of Life,Overactive Bladder; Urinary Incontinence; Quality of Life
+26815,NCT04679948,Warfarin,Healthy,Healthy
+26837,NCT00856570,Warfarin,Pharmacokinetics,Overactive Bladder; Pharmacokinetics
+26839,NCT02340988,Warfarin,Healthy,Healthy
+26846,NCT02783040,Warfarin,Healthy,Healthy
+26849,NCT06335134,Warfarin,Healthy Volunteers,Healthy Volunteers
+26863,NCT01526083,Warfarin,Healthy Volunteers,Healthy Volunteers
+26869,NCT01388075,Warfarin,Healthy Subjects,Healthy Subjects
+26879,NCT00618579,Warfarin,Healthy,Healthy
+26888,NCT00777855,Warfarin,Healthy,Healthy
+26903,NCT01657825,Warfarin,Healthy Volunteers,Pharmacokinetics of Isavuconazole; Pharmacokinetics of S- and R-warfarin; Pharmacodynamics of Warfarin; Healthy Volunteers
+26961,NCT02719431,Warfarin,Healthy,Healthy
+26975,NCT03058419,Warfarin,Healthy,Healthy
+26980,NCT03347968,Warfarin,Healthy Volunteers,Healthy Volunteers
+26981,NCT02161731,Warfarin,Healthy Volunteers,Healthy Volunteers
+27043,NCT02243553,Warfarin,Healthy,Healthy
+27056,NCT02540668,Warfarin,Healthy,Healthy
+27058,NCT02070510,Warfarin,Healthy,Diabetes; Healthy
+27062,NCT01447511,Warfarin,Healthy,Healthy
+27078,NCT00162474,Warfarin,Healthy,Healthy
+27080,NCT01597310,Warfarin,Healthy Volunteers,Healthy Volunteers
+27082,NCT03125668,Warfarin,Quality of Life,Quality of Life; Warfarin; Health Education; Patient Compliance
+27091,NCT01520402,Warfarin,Healthy,Healthy
+27140,NCT01978262,Progesterone,Healthy,Healthy
+27150,NCT02357368,Progesterone,Contraception,HIV; Contraception
+27151,NCT02456584,Progesterone,Contraception,Contraception
+27156,NCT00828542,Progesterone,Contraception,Breastfeeding; Contraception
+27192,NCT01873170,Progesterone,Contraception,HIV; Immune Cells (Mucosal and Systemic); Contraception
+27203,NCT05125640,Progesterone,Pharmacokinetics,Pharmacokinetics
+27206,NCT00490555,Progesterone,Healthy,Healthy
+27207,NCT00005108,Progesterone,Healthy,Atherosclerosis; Healthy; Vascular Disease
+27231,NCT02969590,Progesterone,Contraception,Fertility; Contraception
+27240,NCT04682353,Progesterone,Contraception,Contraception
+27268,NCT02509767,Progesterone,Contraception,Contraception
+27269,NCT05125627,Progesterone,Pharmacokinetics,Pharmacokinetics
+27288,NCT00563472,Progesterone,Healthy,Healthy
+27290,NCT00258063,Progesterone,Contraception,Contraception; Female Contraception
+27312,NCT05505435,Progesterone,Contraception,Contraception
+27318,NCT05760144,Progesterone,Contraception,Contraception
+27326,NCT02076217,Progesterone,Contraception,IUD; Contraceptive Implant; Contraception; Birth Control; Emergency Contraception
+27329,NCT03377608,Progesterone,Contraception,HIV/AIDS; Contraception
+27350,NCT04783857,Progesterone,Smoking Cessation,Smoking; Smoking Cessation; Smoking Reduction
+27352,NCT04910711,Progesterone,Contraception,Human Immunodeficiency Virus; Contraception; ART
+27353,NCT00254865,Progesterone,Contraception,Contraception; Female Contraception
+27375,NCT02732418,Progesterone,Contraception,Contraception
+27391,NCT02038335,Progesterone,Contraception,Contraception; HIV; Immune Cells (Mucosal and Systemic); Microbiota
+27394,NCT00455962,Progesterone,Healthy,Premenopause; Healthy
+27474,NCT04757532,Testosterone,Healthy Volunteers,Healthy Volunteers
+27475,NCT00668252,Testosterone,Healthy,Healthy
+27530,NCT00490555,Testosterone,Healthy,Healthy
+27575,NCT01725451,Testosterone,Healthy Participants,Healthy Participants
+27579,NCT01167829,Testosterone,Healthy,Healthy
+27622,NCT03289559,Testosterone,Healthy,Healthy; Volunteers
+27667,NCT01071005,Testosterone,Healthy,Healthy
+27735,NCT00112151,Testosterone,Healthy,Healthy
+27802,NCT01346657,Nifedipine,Healthy Volunteers,Healthy Volunteers
+27820,NCT00865891,Nifedipine,Healthy,Healthy
+27851,NCT00864617,Nifedipine,Healthy,Healthy
+27895,NCT01431326,Nifedipine,Anesthesia,Adenovirus; Anesthesia; Anxiety; Anxiolysis; Autism; Autistic Disorder; Bacterial Meningitis; Bacterial Septicemia; Benzodiazepine; Bipolar Disorder; Bone and Joint Infections; Central Nervous System Infections; Convulsions; Cytomegalovirus Retinitis; Early-onset Schizophrenia Spectrum Disorders; Epilepsy; General Anesthesia; Gynecologic Infections; Herpes Simplex Virus; Infantile Hemangioma; Infection; Inflammation; Inflammatory Conditions; Intra-abdominal Infections; Lower Respiratory Tract Infections; Migraines; Pain; Pneumonia; Schizophrenia; Sedation; Seizures; Skeletal Muscle Spasms; Skin and Skin-structure Infections; Treatment-resistant Schizophrenia; Urinary Tract Infections; Withdrawal; Sepsis; Gram-negative Infection; Bradycardia; Cardiac Arrest; Cardiac Arrhythmia; Staphylococcal Infections; Nosocomial Pneumonia; Neuromuscular Blockade; Methicillin Resistant Staphylococcus Aureus; Endocarditis; Neutropenia; Headache; Fibrinolytic Bleeding; Pulmonary Arterial Hypertension; CMV Retinitis; Hypertension; Chronic Kidney Diseases; Hyperaldosteronism; Hypokalemia; Heart Failure; Hemophilia; Heavy Menstrual Bleeding; Insomnia
+27910,NCT03100838,Nifedipine,Healthy Volunteers,Healthy Volunteers
+27921,NCT02071589,Nifedipine,Bioequivalence,Bioequivalence
+27951,NCT06583551,Methocarbamol,Quality of Life,Myalgia; Bruxism; Quality of Life
+27981,NCT02207699,Benzonatate,Healthy Volunteers,Healthy Volunteers
+27997,NCT01820104,Sitagliptin,Healthy,Healthy
+28001,NCT02406950,Sitagliptin,Healthy,Healthy
+28032,NCT02363335,Sitagliptin,Healthy Volunteers,Healthy Volunteers
+28085,NCT05798715,Sitagliptin,Healthy,Healthy
+28105,NCT06124495,Sitagliptin,Bioequivalence,"Bioequivalence; Diabetes Mellitus, Type 2"
+28140,NCT02683187,Sitagliptin,Healthy,Healthy
+28159,NCT02743260,Sitagliptin,Healthy,Healthy
+28160,NCT05549570,Sitagliptin,Bioequivalence,"Bioequivalence; Diabetes Mellitus, Type 2"
+28176,NCT02493959,Sitagliptin,Healthy,Healthy
+28187,NCT06233201,Sitagliptin,Healthy Subjects,Healthy Subjects
+28189,NCT02172196,Sitagliptin,Healthy,Healthy
+28212,NCT03927170,Sitagliptin,Healthy,Healthy
+28290,NCT04757532,Chlorthalidone,Healthy Volunteers,Healthy Volunteers
+28352,NCT05293756,Chlorthalidone,Quality of Life,Hypertension; Self-Management; Technology; Quality of Life
+28357,NCT05090449,Chlorthalidone,Healthy,Healthy
+28397,NCT01418534,Isosorbide,Healthy,Healthy
+28407,NCT01418547,Isosorbide,Healthy,Healthy
+28416,NCT04311658,Isosorbide,Contraception,Contraception
+28420,NCT01587313,Isosorbide,Healthy,Healthy
+28433,NCT01769079,Isosorbide,Quality of Life,Stable Angina; Myocardial Ischemia; Quality of Life
+28434,NCT04729088,Isosorbide,Pharmacokinetics,Pharmacokinetics; Healthy Subjects
+28434,NCT04729088,Isosorbide,Healthy Subjects,Pharmacokinetics; Healthy Subjects
+28455,NCT04218760,Isosorbide,Healthy,Headache; Healthy
+28460,NCT02101710,Isosorbide,Healthy,Healthy
+28475,NCT03557580,Isosorbide,Bioequivalence,Bioequivalence
+28486,NCT04217668,Isosorbide,Healthy,Headache; Healthy
+28539,NCT05127746,Donepezil,Healthy,Healthy
+28542,NCT01506752,Donepezil,Healthy Adult,Healthy Adult
+28549,NCT01461174,Donepezil,Healthy,Healthy
+28550,NCT02769065,Donepezil,Healthy Volunteers,Alzheimer Disease; Healthy Volunteers
+28568,NCT04479865,Donepezil,Healthy,Healthy
+28577,NCT01450839,Donepezil,Healthy,Healthy
+28582,NCT01276080,Donepezil,Healthy,Healthy
+28590,NCT01439230,Donepezil,Healthy,Healthy
+28597,NCT02635750,Donepezil,Healthy,Healthy
+28599,NCT00959881,Donepezil,Healthy Subjects,Healthy Subjects
+28610,NCT01276067,Donepezil,Healthy,Healthy
+28662,NCT04617782,Donepezil,Healthy Subjects,Healthy Subjects
+28670,NCT00519298,Donepezil,Healthy,Healthy; Adult
+28676,NCT01923259,Donepezil,Healthy,Healthy
+28682,NCT02570581,Donepezil,Healthy,Healthy
+28686,NCT04013477,Donepezil,Healthy,Healthy
+28688,NCT01419340,Donepezil,Healthy,Healthy
+28698,NCT01439243,Donepezil,Healthy,Healthy
+28699,NCT01419366,Donepezil,Healthy,Healthy
+28703,NCT05804279,Donepezil,Healthy,Healthy
+28714,NCT01506739,Donepezil,Healthy Adult,Healthy Adult
+28715,NCT02055703,Donepezil,Healthy Subjects,Healthy Subjects
+28720,NCT02918266,Donepezil,Healthy Volunteers,Healthy Volunteers
+28726,NCT01345864,Donepezil,Healthy,Healthy
+28745,NCT01213355,Donepezil,Healthy,Healthy
+28751,NCT01260948,Donepezil,Healthy,Healthy
+28792,NCT02406261,Donepezil,Healthy,Healthy
+28803,NCT00031798,Dexmethylphenidate,Quality of Life,Brain and Central Nervous System Tumors; Cognitive/Functional Effects; Depression; Fatigue; Quality of Life
+28811,NCT00829673,Dexmethylphenidate,Healthy,Healthy
+28814,NCT00829712,Dexmethylphenidate,Healthy,Healthy
+28828,NCT01951508,Dexmethylphenidate,Healthy,Healthy; Substance-related Disorder; Mood Disorder
+28839,NCT01469637,Sulfamethoxazole; Trimethoprim,Healthy,Healthy
+28878,NCT03395249,Sulfamethoxazole; Trimethoprim,Healthy Volunteers,Healthy Volunteers
+28967,NCT02135003,Sulfamethoxazole; Trimethoprim,Quality of Life,CD4 Deficiency; Adherence; Quality of Life
+29122,NCT01167452,Sulfamethoxazole; Trimethoprim,Pharmacokinetics,Obesity; Pharmacokinetics; MRSA; Tuberculosis; PCP
+29205,NCT00803439,Clobetasol,Healthy,Healthy
+29237,NCT00864500,Clobetasol,Healthy,Healthy
+29238,NCT00864240,Clobetasol,Healthy,Healthy
+29306,NCT05445440,Methotrexate,Healthy Participants,Healthy Participants
+29485,NCT05533372,Methotrexate,Healthy,Healthy; Rheumatoid Arthritis
+29641,NCT02603146,Hydroxychloroquine,Healthy Participants,Healthy Participants; Rheumatoid Arthritis (RA) Prevention
+29823,NCT04973566,Hydroxychloroquine,Healthy,Healthy
+29854,NCT01632566,Lovastatin,Healthy Volunteers,Healthy Volunteers
+29857,NCT04859452,Lovastatin,Healthy Subjects,Healthy Subjects
+29868,NCT01346670,Lovastatin,Healthy Volunteer,Healthy Volunteer
+29869,NCT02542969,Lovastatin,Healthy,Healthy
+29907,NCT06186622,Lovastatin,Healthy,Healthy; Obese; Overweight
+29910,NCT01304329,Lovastatin,Healthy,Healthy
+29922,NCT01527669,Lovastatin,Healthy Subjects,Healthy Subjects
+29930,NCT01361217,Lovastatin,Healthy Volunteers,Drug-Drug Interaction; Healthy Volunteers
+29952,NCT03174041,Lovastatin,Healthy Participants,Healthy Participants
+30010,NCT01960140,Lovastatin,Healthy Volunteers,Healthy Volunteers
+30017,NCT06379958,Lovastatin,Pharmacokinetics,Pharmacokinetics
+30019,NCT01979185,Lovastatin,Healthy,Healthy
+30031,NCT02533141,Lovastatin,Healthy,Healthy
+30044,NCT00359281,Lovastatin,Healthy,Healthy
+30051,NCT05580250,Lovastatin,Healthy,Healthy
+30059,NCT01167894,Lovastatin,Healthy,Healthy
+30086,NCT00685685,Lovastatin,Healthy,Healthy
+30088,NCT01689623,Lovastatin,Healthy Participants,Healthy Participants
+30135,NCT01383395,Lovastatin,Healthy,Healthy
+30143,NCT06178640,Lovastatin,Healthy Volunteer,Healthy Volunteer
+30146,NCT01250535,Lovastatin,Healthy Volunteers,Healthy Volunteers; Drug Drug Interactions
+30155,NCT01798940,Pioglitazone,Healthy,Healthy
+30181,NCT00154037,Pioglitazone,Healthy Subjects,Healthy Subjects
+30196,NCT02183636,Pioglitazone,Healthy,Healthy
+30222,NCT03457597,Pioglitazone,Healthy,Healthy
+30270,NCT01797666,Pioglitazone,Healthy,Healthy
+30281,NCT02222441,Pioglitazone,Healthy,Healthy
+30287,NCT02473627,Pioglitazone,Healthy,Healthy
+30315,NCT00649558,Pioglitazone,Healthy,Healthy
+30323,NCT01309854,Pioglitazone,Healthy Volunteers,Rheumatoid Arthritis; Healthy Volunteers; Pharmacokinetics; Pioglitazone; Drug-drug Interaction; Amount of Pioglitazone in Blood
+30323,NCT01309854,Pioglitazone,Pharmacokinetics,Rheumatoid Arthritis; Healthy Volunteers; Pharmacokinetics; Pioglitazone; Drug-drug Interaction; Amount of Pioglitazone in Blood
+30360,NCT00845182,Pioglitazone,Healthy,Type 2 Diabetes; Healthy; Impaired Glucose Tolerance
+30381,NCT02276365,Pioglitazone,Healthy,Healthy
+30390,NCT03335956,Pioglitazone,Healthy,Healthy
+30399,NCT01800227,Pioglitazone,Healthy,Healthy
+30404,NCT00649012,Pioglitazone,Healthy,Healthy
+30415,NCT01276327,Pioglitazone,Healthy,Healthy
+30423,NCT02172235,Pioglitazone,Healthy,Healthy
+30465,NCT05297929,Irbesartan,Bioequivalence,Irbesartan Tablets (0.15g/Tablet); Under Fasted Condition; Under Fed Condition; Bioequivalence
+30471,NCT05688098,Irbesartan,Healthy Volunteers,Healthy Volunteers
+30472,NCT05688085,Irbesartan,Healthy Volunteers,Healthy Volunteers
+30485,NCT01825850,Irbesartan,Healthy,Healthy
+30489,NCT00185055,Irbesartan,Healthy,Healthy
+30500,NCT00154024,Irbesartan,Healthy Subjects,Healthy Subjects
+30506,NCT05663073,Irbesartan,Healthy Volunteers,Healthy Volunteers
+30549,NCT01447797,Irbesartan,Healthy,Healthy
+30581,NCT00180024,Irbesartan,Healthy Subjects,Healthy Subjects
+30586,NCT01858610,Irbesartan,Healthy,Healthy
+30769,NCT00134992,Methylprednisolone,Healthy,Healthy
+30770,NCT04791345,Methylprednisolone,Healthy Volunteers,Healthy Volunteers
+30888,NCT04756037,Norethindrone,Contraception,Contraception
+30889,NCT04423068,Norethindrone,Contraception,Pregnancy Related; Contraception; Contraceptive Usage; Contraception Behavior; Pregnancy
+30892,NCT04714554,Norethindrone,Healthy,Healthy
+30896,NCT01656434,Norethindrone,Contraception,Contraception
+30902,NCT02969590,Norethindrone,Contraception,Fertility; Contraception
+30909,NCT04934696,Norethindrone,Healthy Participants,Healthy Participants
+30910,NCT01340625,Norethindrone,Bioequivalence,Bioequivalence
+30917,NCT02038335,Norethindrone,Contraception,Contraception; HIV; Immune Cells (Mucosal and Systemic); Microbiota
+30922,NCT01465022,Norethindrone,Contraception,Breast Feeding; Contraception
+30924,NCT03451110,Norethindrone,Healthy Subjects,Healthy Subjects
+30931,NCT01246791,Norethindrone,Healthy,Healthy
+30939,NCT01597986,Norethindrone,Healthy Volunteers,Pharmacokinetics of Isavuconazole; Pharmacokinetics of Ethinyl Estradiol and Norethindrone; Healthy Volunteers
+30940,NCT03856970,Norethindrone,Healthy Volunteers,Healthy Volunteers
+30941,NCT03106454,Norethindrone,Contraception,Contraception; Ovulation
+30942,NCT04965116,Norethindrone,Contraception,Contraception; Breastfeeding
+30944,NCT01477632,Norethindrone,Healthy,Menopause; Healthy
+30949,NCT00477633,Norethindrone,Contraception,Contraception
+30960,NCT01040845,Norethindrone,Pharmacokinetics,Pharmacokinetics
+30961,NCT04016753,Norethindrone,Healthy Participants,Healthy Participants
+30963,NCT01705249,Norethindrone,Healthy,Menopause; Healthy
+30966,NCT05294341,Norethindrone,Contraception,Contraception
+30967,NCT04709094,Norethindrone,Healthy,Healthy
+30976,NCT04676061,Norethindrone,Contraception,Birth Control; Contraception; Implant; Breakthrough Bleeding; Uterine Bleeding
+30980,NCT00391807,Norethindrone,Contraception,Contraception
+30981,NCT07215806,Norethindrone,Healthy,Healthy
+30990,NCT01253824,Norethindrone,Healthy,Healthy
+30997,NCT05579574,Norethindrone,Healthy Participants,Healthy Participants
+31000,NCT01344369,Norethindrone,Healthy,Healthy
+31006,NCT06186271,Norethindrone,Contraception,Contraception
+31012,NCT02652650,Norethindrone,Healthy,Healthy
+31013,NCT00338052,Norethindrone,Contraception,Contraception
+31015,NCT02245438,Norethindrone,Healthy,Healthy
+31017,NCT01596010,Norethindrone,Healthy,Menopause; Healthy
+31021,NCT01181726,Norethindrone,Healthy,Healthy
+31027,NCT01157182,Norethindrone,Healthy,Healthy
+31033,NCT00821496,Norethindrone,Healthy,Healthy
+31034,NCT01443858,Meclizine,Smoking Cessation,Smoking Cessation
+31037,NCT01537471,Meclizine,Healthy,Healthy
+31044,NCT04423068,Ethinyl Estradiol; Levonorgestrel,Contraception,Pregnancy Related; Contraception; Contraceptive Usage; Contraception Behavior; Pregnancy
+31045,NCT00196352,Ethinyl Estradiol; Levonorgestrel,Contraception,Contraception
+31046,NCT03249402,Ethinyl Estradiol; Levonorgestrel,Healthy,Healthy
+31050,NCT03359057,Ethinyl Estradiol; Levonorgestrel,Contraception,Contraception
+31051,NCT02577601,Ethinyl Estradiol; Levonorgestrel,Contraception,Contraception
+31054,NCT01297179,Ethinyl Estradiol; Levonorgestrel,Healthy Volunteers,Healthy Volunteers; Pharmacokinetics of Mirabegron
+31055,NCT01873170,Ethinyl Estradiol; Levonorgestrel,Contraception,HIV; Immune Cells (Mucosal and Systemic); Contraception
+31058,NCT01254292,Ethinyl Estradiol; Levonorgestrel,Contraception,Contraception
+31060,NCT02531321,Ethinyl Estradiol; Levonorgestrel,Contraception,Contraception; HIV
+31061,NCT05116371,Ethinyl Estradiol; Levonorgestrel,Contraception,Contraception
+31062,NCT06380205,Ethinyl Estradiol; Levonorgestrel,Healthy Participants,Healthy Participants
+31065,NCT00117273,Ethinyl Estradiol; Levonorgestrel,Healthy,Healthy
+31067,NCT01941134,Ethinyl Estradiol; Levonorgestrel,Contraception,Bariatric Surgery Candidate; Contraception
+31068,NCT04778514,Ethinyl Estradiol; Levonorgestrel,Contraception,HIV Infections; Contraception
+31071,NCT00220324,Ethinyl Estradiol; Levonorgestrel,Contraception,Contraception
+31073,NCT00511784,Ethinyl Estradiol; Levonorgestrel,Contraception,Contraception; Female Contraception; Fertility Control
+31075,NCT03478020,Ethinyl Estradiol; Levonorgestrel,Healthy Volunteer,Healthy Volunteer
+31077,NCT05896384,Ethinyl Estradiol; Levonorgestrel,Healthy,Healthy
+31078,NCT01422135,Ethinyl Estradiol; Levonorgestrel,Healthy,Healthy
+31079,NCT02957630,Ethinyl Estradiol; Levonorgestrel,Contraception,Contraception; Liver Metabolism; Hemostasis Parameter
+31080,NCT02846142,Ethinyl Estradiol; Levonorgestrel,Healthy Volunteer,Healthy Volunteer
+31081,NCT00185367,Ethinyl Estradiol; Levonorgestrel,Contraception,Contraception
+31083,NCT02175394,Ethinyl Estradiol; Levonorgestrel,Healthy,Healthy
+31084,NCT06942936,Ethinyl Estradiol; Levonorgestrel,Healthy Participants,Healthy Participants
+31087,NCT01941615,Ethinyl Estradiol; Levonorgestrel,Healthy,Healthy
+31088,NCT00662454,Ethinyl Estradiol; Levonorgestrel,Contraception,Contraception; Body Weight
+31090,NCT04255277,Ethinyl Estradiol; Levonorgestrel,Healthy Subjects,Healthy Subjects
+31092,NCT00447863,Ethinyl Estradiol; Levonorgestrel,Contraception,Contraception
+31096,NCT00685906,Ethinyl Estradiol; Levonorgestrel,Healthy,Healthy
+31097,NCT04194905,Ethinyl Estradiol; Levonorgestrel,Bioequivalence,Bioequivalence
+31100,NCT07013643,Ethinyl Estradiol; Levonorgestrel,Healthy Participants,Healthy Participants
+31104,NCT00185224,Ethinyl Estradiol; Levonorgestrel,Contraception,Contraception
+31106,NCT01044056,Ethinyl Estradiol; Levonorgestrel,Contraception,Contraception
+31107,NCT05093205,Ethinyl Estradiol; Levonorgestrel,Healthy Adults,Healthy Adults
+31114,NCT00236795,Ethinyl Estradiol; Levonorgestrel,Contraception,Contraception; Female Contraception
+31117,NCT00319163,Ethinyl Estradiol; Levonorgestrel,Healthy,Healthy
+31118,NCT02922127,Ethinyl Estradiol; Levonorgestrel,Contraception,Contraception
+31119,NCT00511355,Ethinyl Estradiol; Levonorgestrel,Contraception,Contraception
+31128,NCT04230070,Ethinyl Estradiol; Levonorgestrel,Bioequivalence,Bioequivalence
+31129,NCT01896726,Ethinyl Estradiol; Levonorgestrel,Healthy Volunteers,Healthy Volunteers
+31131,NCT01236768,Ethinyl Estradiol; Levonorgestrel,Contraception,Contraception
+31132,NCT04134715,Ethinyl Estradiol; Levonorgestrel,Healthy,Healthy
+31134,NCT01181479,Ethinyl Estradiol; Levonorgestrel,Contraception,Contraception
+31136,NCT01328184,Ethinyl Estradiol; Levonorgestrel,Healthy,Healthy
+31137,NCT00915668,Ethinyl Estradiol; Levonorgestrel,Pharmacokinetics,Pharmacokinetics; Drug Interactions; Healthy
+31137,NCT00915668,Ethinyl Estradiol; Levonorgestrel,Healthy,Pharmacokinetics; Drug Interactions; Healthy
+31138,NCT04018274,Ethinyl Estradiol; Levonorgestrel,Healthy,Healthy
+31142,NCT02158572,Ethinyl Estradiol; Levonorgestrel,Healthy,Healthy
+31143,NCT01968135,Ethinyl Estradiol; Levonorgestrel,Contraception,Uterine Hemorrhage; Contraception
+31145,NCT03074045,Ethinyl Estradiol; Levonorgestrel,Contraception,Contraception
+31146,NCT02616146,Ethinyl Estradiol; Levonorgestrel,Contraception,Contraception
+31149,NCT02170038,Ethinyl Estradiol; Levonorgestrel,Pharmacokinetics,Pharmacokinetics
+31150,NCT01615354,Ethinyl Estradiol; Levonorgestrel,Healthy Volunteer,Healthy Volunteer
+31153,NCT03193307,Ethinyl Estradiol; Levonorgestrel,Healthy,Healthy
+31160,NCT06657105,Ethinyl Estradiol; Levonorgestrel,Healthy Participants,Healthy Participants
+31163,NCT06071442,Ethinyl Estradiol; Levonorgestrel,Healthy Participants,Healthy Participants
+31165,NCT00245921,Ethinyl Estradiol; Levonorgestrel,Contraception,Contraception
+31166,NCT00764881,Ethinyl Estradiol; Levonorgestrel,Contraception,Contraception; Libido
+31168,NCT00511342,Ethinyl Estradiol; Levonorgestrel,Contraception,Contraception
+31169,NCT00196326,Ethinyl Estradiol; Levonorgestrel,Contraception,Contraception
+31170,NCT02577913,Ethinyl Estradiol; Levonorgestrel,Contraception,Contraception
+31174,NCT01714193,Ethinyl Estradiol; Levonorgestrel,Healthy,Healthy
+31176,NCT01243580,Ethinyl Estradiol; Levonorgestrel,Healthy,Healthy
+31177,NCT00651846,Ethinyl Estradiol; Levonorgestrel,Healthy,Healthy
+31178,NCT03506399,Ethinyl Estradiol; Levonorgestrel,Healthy,Healthy
+31188,NCT06186271,Ethinyl Estradiol; Levonorgestrel,Contraception,Contraception
+31195,NCT01137708,Ethinyl Estradiol; Levonorgestrel,Healthy,Healthy
+31199,NCT06028555,Ethinyl Estradiol; Levonorgestrel,Contraception,Contraception; Birth Control
+31200,NCT04309643,Ethinyl Estradiol; Levonorgestrel,Healthy Volunteers,Healthy Volunteers
+31201,NCT03547024,Ethinyl Estradiol; Levonorgestrel,Healthy,Healthy
+31202,NCT00933179,Ethinyl Estradiol; Levonorgestrel,Contraception,Contraception
+31204,NCT05613777,Ethinyl Estradiol; Levonorgestrel,Healthy,Healthy
+31207,NCT02085863,Ethinyl Estradiol; Levonorgestrel,Pharmacokinetics,Pharmacokinetics; Pharmacodynamics
+31209,NCT00204451,Ethinyl Estradiol; Levonorgestrel,Contraception,Contraception
+31212,NCT00920985,Ethinyl Estradiol; Levonorgestrel,Contraception,Contraception
+31221,NCT00213096,Ethinyl Estradiol; Levonorgestrel,Contraception,Contraception
+31290,NCT03739294,Fluticasone; Vilanterol,Pharmacokinetics,Pharmacokinetics
+31325,NCT01787032,Ketoconazole,Healthy,Healthy
+31326,NCT04212000,Ketoconazole,Healthy,Healthy
+31328,NCT01588782,Ketoconazole,Healthy Volunteers,Healthy Volunteers
+31331,NCT02198170,Ketoconazole,Healthy Volunteers,Healthy Volunteers
+31336,NCT01932320,Ketoconazole,Healthy,Healthy
+31337,NCT00914121,Ketoconazole,Healthy Subjects,Healthy Subjects
+31357,NCT00983216,Ketoconazole,Pharmacokinetics,Pharmacokinetics
+31364,NCT01473069,Ketoconazole,Healthy,Healthy
+31368,NCT01721070,Ketoconazole,Pharmacokinetics,Pharmacokinetics
+31369,NCT01707940,Ketoconazole,Healthy,Healthy
+31371,NCT01124760,Ketoconazole,Pharmacokinetics,Pharmacokinetics
+31373,NCT01215214,Ketoconazole,Healthy,Healthy
+31380,NCT00707551,Ketoconazole,Healthy,Healthy
+31382,NCT01549106,Ketoconazole,Healthy Volunteers,Healthy Volunteers
+31385,NCT01626651,Ketoconazole,Healthy,Healthy
+31386,NCT03437005,Ketoconazole,Healthy,Healthy
+31391,NCT01363778,Ketoconazole,Healthy,Healthy
+31394,NCT00915746,Ketoconazole,Healthy,Healthy; Pharmacokinetics; Drug Interactions
+31394,NCT00915746,Ketoconazole,Pharmacokinetics,Healthy; Pharmacokinetics; Drug Interactions
+31395,NCT01448824,Ketoconazole,Healthy Participants,Healthy Participants
+31402,NCT01679613,Ketoconazole,Healthy,Healthy
+31405,NCT01735240,Ketoconazole,"Pharmacokinetics,","Asthma,; Pharmacokinetics,; Cmax,; Tmax,; λz,; AUC,; Ketoconazole,; Metabolite"
+31408,NCT01473316,Ketoconazole,Healthy Volunteer,Healthy Volunteer
+31411,NCT01760642,Ketoconazole,Healthy,Healthy
+31415,NCT02170675,Ketoconazole,Healthy,Healthy
+31416,NCT01476800,Ketoconazole,Healthy Subjects,Healthy Subjects; Pharmacokinetics of YM178
+31417,NCT01520896,Ketoconazole,Healthy Volunteers,Bioavailability; Healthy Volunteers; Drug- Drug Interactions
+31422,NCT01896323,Ketoconazole,Healthy Volunteers,Healthy Volunteers
+31423,NCT01202240,Ketoconazole,Healthy,Healthy
+31424,NCT01405989,Ketoconazole,Healthy Subjects,Pharmacokinetics of Darexaban and Metabolites; Healthy Subjects
+31432,NCT02264171,Ketoconazole,Healthy,Healthy
+31435,NCT00419783,Ketoconazole,Healthy,Healthy
+31437,NCT01749085,Ketoconazole,Healthy Volunteers,Healthy Volunteers
+31444,NCT00434486,Ketoconazole,Healthy,Healthy
+31448,NCT01690286,Ketoconazole,Healthy,Healthy
+31454,NCT01836198,Ketoconazole,Healthy Volunteers,Healthy Volunteers
+31459,NCT00384917,Ketoconazole,Healthy,Healthy
+31460,NCT01625806,Ketoconazole,Healthy Volunteer,Healthy Volunteer
+31462,NCT00410501,Ketoconazole,Healthy,Healthy
+31464,NCT01637636,Ketoconazole,Healthy,Healthy
+31465,NCT01240226,Ketoconazole,Healthy Volunteer,Healthy Volunteer
+31468,NCT00812344,Ketoconazole,Healthy,Healthy
+31469,NCT00380328,Ketoconazole,Healthy,Healthy
+31477,NCT01318265,Ketoconazole,Pharmacokinetics,Pharmacokinetics
+31479,NCT01707407,Ketoconazole,Healthy,"Pharmacology, Clinical; Healthy"
+31489,NCT01149785,Ketoconazole,Healthy,Healthy
+31491,NCT00948662,Ketoconazole,Healthy,Healthy
+31493,NCT01468558,Ketoconazole,Healthy,Healthy
+31494,NCT01591850,Ketoconazole,Healthy Volunteer,Healthy Volunteer
+31501,NCT01576575,Ketoconazole,Healthy,Healthy
+31509,NCT01164488,Ketoconazole,Healthy Volunteer,Healthy Volunteer
+31513,NCT01259115,Ketoconazole,Healthy,Healthy
+31517,NCT01924299,Ketoconazole,Healthy Volunteers,Healthy Volunteers
+31520,NCT01153711,Ketoconazole,Healthy,"Healthy; Pulmonary Disease, Chronic Obstructive"
+31521,NCT01189175,Ketoconazole,Healthy,Healthy
+31529,NCT01154764,Ketoconazole,Healthy,Healthy
+31600,NCT04395248,Thyroid,Anesthesia,Obesity; Anesthesia
+31626,NCT01465646,Thyroid,Pharmacokinetics,Pharmacokinetics
+31678,NCT03676348,Thyroid,Quality of Life,Thyroid Nodule; Thyroid Cancer; Quality of Life
+31684,NCT03043521,Thyroid,Healthy,Healthy
+31789,NCT00312715,Thyroid,Healthy Volunteers,Healthy Volunteers
+31818,NCT00706381,Thyroid,Healthy Volunteers,Healthy Volunteers
+31896,NCT01018342,Nitrofurantoin,Healthy,Healthy
+31902,NCT00649506,Nitrofurantoin,Healthy,Healthy
+31920,NCT00778583,Nitrofurantoin,Healthy,Healthy
+31938,NCT00649285,Nitrofurantoin,Healthy,Healthy
+32000,NCT02912247,Adalimumab,Healthy,Healthy
+32002,NCT04514796,Adalimumab,Healthy,Healthy
+32052,NCT02675023,Adalimumab,Healthy,Healthy
+32069,NCT05884242,Adalimumab,Healthy,Healthy
+32086,NCT02206867,Adalimumab,Healthy Subjects,Healthy Subjects
+32094,NCT05172817,Adalimumab,Pharmacokinetics,Pharmacokinetics; Safety; Efficacy; Rheumatoid Arthritis
+32181,NCT02395055,Adalimumab,Healthy,Healthy
+32205,NCT03579823,Adalimumab,Healthy Volunteers,Healthy Volunteers
+32223,NCT05108259,Adalimumab,Healthy Volunteers,Healthy Volunteers
+32226,NCT07147257,Adalimumab,Healthy Participants,Healthy Participants
+32259,NCT01505491,Adalimumab,Healthy,Healthy
+32281,NCT03988803,Memantine,Healthy,Healthy
+32307,NCT01461174,Memantine,Healthy,Healthy
+32308,NCT03468543,Memantine,Healthy,Gastric Retention; Healthy
+32341,NCT02001584,Memantine,Healthy Volunteers,"Healthy Volunteers;; Obese, Otherwise Healthy Volunteers"
+32391,NCT02570581,Memantine,Healthy,Healthy
+32405,NCT03860597,Memantine,Healthy,Schizophrenia; Schizo Affective Disorder; Schizoaffective Disorder; Healthy
+32419,NCT05804279,Memantine,Healthy,Healthy
+32423,NCT03670095,Memantine,Healthy,Healthy
+32438,NCT01196065,Memantine,Healthy Volunteer,Healthy Volunteer
+32475,NCT01585168,Memantine,Healthy,Healthy
+32491,NCT01188525,Memantine,Healthy Volunteers,Healthy Volunteers
+32507,NCT03711825,Memantine,Healthy,Alzheimer Disease; Gastric Retention; Healthy
+32718,NCT00134992,Prednisolone,Healthy,Healthy
+32719,NCT04791345,Prednisolone,Healthy Volunteers,Healthy Volunteers
+32841,NCT07018635,Esomeprazole,Healthy Participants,Healthy Participants
+32847,NCT00526006,Esomeprazole,Healthy,Healthy
+32848,NCT00230516,Esomeprazole,Healthy,Healthy
+32852,NCT04468815,Esomeprazole,Healthy Participants,Healthy Participants
+32860,NCT06193811,Esomeprazole,Healthy,Healthy
+32864,NCT06561542,Esomeprazole,Healthy,Healthy
+32890,NCT02659683,Esomeprazole,Healthy Subjects,Healthy Subjects
+32907,NCT02680119,Esomeprazole,Healthy,Healthy
+32908,NCT01199328,Esomeprazole,Healthy Volunteers,Healthy Volunteers
+32921,NCT01153659,Esomeprazole,Healthy,Healthy
+32927,NCT06233149,Esomeprazole,Healthy Subjects,Healthy Subjects
+32929,NCT05586568,Esomeprazole,Healthy Subjects,Healthy Subjects
+32931,NCT01820143,Esomeprazole,Healthy,Healthy; Pharmacokinetics; Pharmacodynamics; Ilaprazole
+32931,NCT01820143,Esomeprazole,Pharmacokinetics,Healthy; Pharmacokinetics; Pharmacodynamics; Ilaprazole
+32939,NCT02023125,Esomeprazole,Healthy Volunteer,Healthy Volunteer
+32940,NCT06233097,Esomeprazole,Healthy Subjects,Healthy Subjects
+32948,NCT00524251,Esomeprazole,Quality of Life,GERD; Quality of Life
+32954,NCT00474019,Esomeprazole,Pharmacokinetics,Pharmacokinetics
+32961,NCT05467475,Esomeprazole,Healthy,Healthy
+32970,NCT02361619,Esomeprazole,Healthy Volunteers,Healthy Volunteers
+32979,NCT03978143,Esomeprazole,Healthy Volunteers,Healthy Volunteers
+32998,NCT03137134,Esomeprazole,Healthy,Healthy
+33004,NCT02680132,Esomeprazole,Healthy,Healthy
+33006,NCT00992381,Esomeprazole,Healthy,Healthy
+33032,NCT05688124,Esomeprazole,Healthy Subjects,Healthy Subjects
+33033,NCT01147588,Esomeprazole,Healthy,Healthy
+33039,NCT06275841,Esomeprazole,Healthy,Healthy
+33051,NCT01210339,Esomeprazole,Healthy Volunteers,Healthy Volunteers
+33063,NCT00942175,Esomeprazole,Healthy,Healthy
+33069,NCT01163630,Esomeprazole,Pharmacokinetics,Effect of Food; Pharmacokinetics
+33077,NCT00599404,Esomeprazole,Healthy,Healthy
+33082,NCT03083639,Esomeprazole,Healthy Participants,Healthy Participants
+33092,NCT06378658,Esomeprazole,Healthy Volunteers,Advanced Non-small Cell Lung Cancer; EGFR Mutation; HER2 Mutation; Healthy Volunteers
+33096,NCT03372850,Esomeprazole,Healthy,Healthy
+33108,NCT03127046,Esomeprazole,Healthy,Healthy
+33109,NCT03814642,Esomeprazole,Healthy,Healthy
+33113,NCT02543606,Esomeprazole,Healthy,Healthy
+33132,NCT03530228,Esomeprazole,Pharmacokinetics,Pharmacodynamics; Pharmacokinetics; Healthy Male Volunteers
+33181,NCT05930197,Docusate,Healthy Adults,Healthy Adults
+33191,NCT01915901,Docusate,Healthy,Healthy
+33312,NCT00836056,Clindamycin,Healthy,Healthy
+33347,NCT00836004,Clindamycin,Healthy,Healthy
+33391,NCT04658173,Clindamycin,Anesthesia,Anesthesia
+33449,NCT05421312,Clindamycin,Pharmacokinetics,PJI; Bone and Joint Infection; Pharmacokinetics
+33512,NCT01222897,Acyclovir,Healthy,Healthy
+33566,NCT01136525,Acyclovir,Healthy,Healthy
+33592,NCT02297854,Acyclovir,Healthy,Healthy
+33594,NCT06228430,Acyclovir,Healthy Volunteer,Healthy Volunteer
+33630,NCT01010698,Acyclovir,Healthy,Healthy
+33652,NCT02296723,Acyclovir,Healthy,Healthy
+33673,NCT05094414,Acyclovir,Quality of Life,"Pain, Chronic; Urge Incontinence; Overactive Bladder Syndrome; Quality of Life"
+33682,NCT02255734,Acyclovir,Healthy,Healthy
+33719,NCT01136538,Acyclovir,Healthy,Healthy
+33720,NCT01149499,Acyclovir,Healthy,Healthy
+33746,NCT00650494,Acyclovir,Healthy,Healthy
+33768,NCT01149460,Acyclovir,Healthy,Healthy

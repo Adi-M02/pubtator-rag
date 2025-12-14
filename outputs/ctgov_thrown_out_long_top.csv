@@ -1,0 +1,51 @@
+disease_raw,match_tier,n_trials,n_rows
+Healthy,blocked_non_disease,1145,1344
+Diabetes,,322,383
+Depression,,318,565
+Type 2 Diabetes,,304,411
+Breast Cancer,,210,243
+Healthy Volunteers,blocked_non_disease,200,241
+Prostate Cancer,,156,179
+Alzheimer's Disease,,144,161
+Helicobacter Pylori Infection,,129,214
+Migraine,,103,144
+Attention Deficit Hyperactivity Disorder,,102,121
+Type 1 Diabetes,,100,119
+COVID-19,,95,133
+Healthy Subjects,,89,113
+Contraception,,83,112
+Chronic Kidney Disease,,81,98
+Pharmacokinetics,,77,98
+Cardiovascular Disease,,74,115
+COPD,,71,104
+Covid19,,71,101
+Atherosclerosis,,68,119
+Colorectal Cancer,,66,76
+Cancer,,65,87
+Opioid Use,,64,133
+Insomnia,,63,84
+ADHD,,63,72
+Healthy Participants,,58,75
+Thyroid Cancer,,58,59
+Chronic Kidney Diseases,,56,71
+Menopause,,54,69
+Pregnancy,,53,69
+HIV,,53,67
+Benign Prostatic Hyperplasia,,52,57
+Schizoaffective Disorder,,51,65
+Cirrhosis,,49,60
+Multiple Sclerosis,,48,65
+Quality of Life,,45,61
+Smoking Cessation,,45,45
+Overactive Bladder,,44,50
+Anesthesia,,43,63
+Alcohol Dependence,,43,47
+Mild Cognitive Impairment,,42,73
+Bioequivalence,,42,55
+Crohn's Disease,,42,47
+Generalized Anxiety Disorder,,40,57
+Neuropathic Pain,,40,47
+Pancreatic Cancer,,40,45
+Major Depression,,39,85
+Chronic Obstructive Pulmonary Disease (COPD),,39,55
+Post Operative Pain,,39,54

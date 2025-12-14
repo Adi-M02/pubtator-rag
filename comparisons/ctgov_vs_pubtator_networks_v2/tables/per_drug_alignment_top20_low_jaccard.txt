@@ -1,0 +1,21 @@
+drug_label	example_ct_drug	example_pubtator_drug	n_ct_diseases	n_pubtator_diseases	n_shared_diseases	n_union_diseases	jaccard_rounded
+Prednisone	Prednisone	Prednisone	251	2686	0	2937	0.0
+Methylprednisolone	Methylprednisolone	Methylprednisolone	289	2388	0	2677	0.0
+Methotrexate	Methotrexate	Methotrexate	367	2121	0	2488	0.0
+Aspirin	Aspirin	Aspirin	226	2097	0	2323	0.0
+Propranolol	Propranolol	Propranolol	285	1548	0	1833	0.0
+Thyroid	Thyroid	Thyroid	260	1541	0	1801	0.0
+Folic Acid	Folic Acid	Folic Acid	344	1434	0	1778	0.0
+Estradiol	Estradiol	Estradiol	265	1404	0	1669	0.0
+Metformin	Metformin	Metformin	156	1490	0	1646	0.0
+Testosterone	Testosterone	Testosterone	234	1288	0	1522	0.0
+Amoxicillin	Amoxicillin	Amoxicillin	186	1252	0	1438	0.0
+Levothyroxine	Levothyroxine	Levothyroxine	197	1216	0	1413	0.0
+Progesterone	Progesterone	Progesterone	244	1036	0	1280	0.0
+Cholecalciferol	Cholecalciferol	Cholecalciferol	231	1045	0	1276	0.0
+Hydroxychloroquine	Hydroxychloroquine	Hydroxychloroquine	209	1067	0	1276	0.0
+Acetaminophen	Acetaminophen	Acetaminophen	272	1003	0	1275	0.0
+Ibuprofen	Ibuprofen	Ibuprofen	204	1068	0	1272	0.0
+Atorvastatin	Atorvastatin	Atorvastatin	226	1026	0	1252	0.0
+Clindamycin	Clindamycin	Clindamycin	217	1034	0	1251	0.0
+Simvastatin	Simvastatin	Simvastatin	166	1067	0	1233	0.0

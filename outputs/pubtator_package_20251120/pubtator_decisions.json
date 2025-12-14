@@ -1,0 +1,24 @@
+{
+  "pubtator_source_files": {
+    "summary_csv": "outputs/pipeline_20251120_191408/pipeline_20251120_191408_summary.csv",
+    "json": "outputs/pipeline_20251120_191408/pipeline_20251120_191408.json"
+  },
+  "collapse_rules": {
+    "collapse_drug_ids_under_drug_name": true,
+    "edge_key": [
+      "drug_name",
+      "disease_id"
+    ],
+    "weight_total_articles_aggregation": "max",
+    "unique_pmids_merged": "union of PMIDs across all drug_ids under the same drug_name for a given disease_id (within collected evidence)",
+    "year_counts": "derived from PubTator JSON evidence articles[].date, aggregated per (drug_name, disease_id)"
+  },
+  "string_keys": {
+    "drug_key": "norm_basic(drug_name)",
+    "disease_key_norm": "norm_basic(disease_name)",
+    "disease_key_tokens": "token multiset with lightweight singularization, stored as JSON"
+  },
+  "notes": [
+    "PMIDs per drug-disease are capped by the upstream collection; counts reflect collected evidence, not necessarily all PubMed."
+  ]
+}
