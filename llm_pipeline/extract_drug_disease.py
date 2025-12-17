@@ -3,11 +3,13 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
 import time
 from datetime import datetime, timezone
 from pathlib import Path
 import xml.etree.ElementTree as ET
+from urllib.parse import urlparse
 
 import requests
 import ollama
@@ -15,6 +17,36 @@ from tqdm import tqdm
 
 
 DEFAULT_SAMPLE_RUN_TAG = "shared_pmids_eval_stratified"
+
+EXTRACT_SCHEMA = {
+    "type": "object",
+    "required": ["drugs", "disease_concepts", "treats"],
+    "properties": {
+        "drugs": {"type": "array", "items": {"type": "string"}},
+        "disease_concepts": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "required": ["canonical", "aliases"],
+                "properties": {
+                    "canonical": {"type": "string"},
+                    "aliases": {"type": "array", "items": {"type": "string"}},
+                },
+            },
+        },
+        "treats": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "required": ["drug", "disease_canonical"],
+                "properties": {
+                    "drug": {"type": "string"},
+                    "disease_canonical": {"type": "string"},
+                },
+            },
+        },
+    },
+}
 
 
 def now_utc_iso() -> str:
@@ -63,7 +95,6 @@ def safe_json_from_text(s: str) -> dict | None:
         return json.loads(s)
     except Exception:
         pass
-
     m = re.search(r"\{.*\}", s, flags=re.DOTALL)
     if not m:
         return None
@@ -76,7 +107,8 @@ def safe_json_from_text(s: str) -> dict | None:
 def extract_abbrev_pairs(text: str) -> dict[str, str]:
     text = text or ""
     out: dict[str, str] = {}
-    for m in re.finditer(r"([A-Za-z][A-Za-z \-]{3,80}?)\s*\(([A-Z]{2,10})\)", text):
+    # allow digits in acronym like AD04, TIA, ALD, AUD
+    for m in re.finditer(r"([A-Za-z][A-Za-z \-]{3,80}?)\s*\(([A-Z0-9]{2,12})\)", text):
         long_form = m.group(1).strip()
         acr = m.group(2).strip()
         if long_form and acr:
@@ -128,26 +160,62 @@ def prompt_for(title: str, abstract: str) -> str:
         "Rules:\n"
         "- Be generous: list all drugs used as therapies, regimens, or assigned treatments.\n"
         "- Be generous for diseases/conditions: list the primary treated disease and any other treated conditions mentioned.\n"
-        "- Prefer generic drug names.\n"
+        "- Prefer generic drug names (but include codes like AD04 as an alias if present).\n"
         "- For diseases: return a canonical form plus multiple aliases/restatements.\n"
-        "- If an abbreviation appears (example: 'transient ischemic attack (TIA)'), include BOTH forms as aliases.\n"
+        "- If an abbreviation appears (example: 'alcohol use disorder (AUD)' or 'transient ischemic attack (TIA)'), include BOTH forms as aliases.\n"
         "- If you know common formal headings (example: 'Ischemic Attack, Transient'), include them as aliases too.\n"
-        "- Output JSON only, with this schema exactly.\n\n"
-        "JSON schema:\n"
-        "{\n"
-        '  "drugs": [string, ...],\n'
-        '  "disease_concepts": [{"canonical": string, "aliases": [string, ...]}, ...],\n'
-        '  "treats": [{"drug": string, "disease_canonical": string}, ...]\n'
-        "}\n\n"
+        "- Output must match the provided JSON schema.\n\n"
         f"TITLE:\n{title}\n\nABSTRACT:\n{abstract}\n"
     )
 
 
-def ollama_extract(model: str, title: str, abstract: str, temperature: float, seed: int | None) -> tuple[dict | None, str]:
+def sanitize_ollama_host(host: str) -> str:
+    h = (host or "").strip()
+    if not h:
+        return "http://localhost:11434"
+    if not h.startswith(("http://", "https://")):
+        h = "http://" + h
+    for suffix in ("/api/chat", "/api/generate", "/api"):
+        if h.endswith(suffix):
+            h = h[: -len(suffix)]
+            break
+    h = h.rstrip("/")
+    u = urlparse(h)
+    if not u.scheme or not u.netloc:
+        return "http://localhost:11434"
+    return h
+
+
+def resp_content(resp) -> str:
+    if resp is None:
+        return ""
+    try:
+        if isinstance(resp, dict):
+            return ((resp.get("message") or {}) or {}).get("content") or ""
+    except Exception:
+        pass
+    try:
+        return (resp.message.content or "").strip()
+    except Exception:
+        pass
+    try:
+        return (resp["message"]["content"] or "").strip()
+    except Exception:
+        return ""
+
+
+def ollama_extract(
+    client: "ollama.Client",
+    model: str,
+    title: str,
+    abstract: str,
+    temperature: float,
+    seed: int | None,
+) -> tuple[dict | None, str, str]:
     msgs = [
         {
             "role": "system",
-            "content": "You are a biomedical information extraction assistant. Output JSON only, exactly following the user's schema.",
+            "content": "You are a biomedical information extraction assistant. Respond with JSON that matches the schema.",
         },
         {"role": "user", "content": prompt_for(title, abstract)},
     ]
@@ -155,10 +223,15 @@ def ollama_extract(model: str, title: str, abstract: str, temperature: float, se
     if seed is not None:
         opts["seed"] = int(seed)
 
-    resp = ollama.chat(model=model, messages=msgs, options=opts)
-    text = resp.get("message", {}).get("content", "") if isinstance(resp, dict) else ""
-    obj = safe_json_from_text(text)
-    return obj, text
+    try:
+        resp = client.chat(model=model, messages=msgs, options=opts, format=EXTRACT_SCHEMA)
+        text = resp_content(resp)
+        obj = safe_json_from_text(text)
+        if isinstance(obj, dict):
+            return obj, text, ""
+        return None, text, "json_parse_failed"
+    except Exception as e:
+        return None, "", f"ollama_error: {type(e).__name__}: {e}"
 
 
 def parse_pmids_arg(pmids_arg: str) -> list[str]:
@@ -184,9 +257,8 @@ def load_sample_pmids_from_file(sample_path: Path) -> list[str]:
 
 
 def find_sample_json(script_dir: Path, sample_run_tag: str) -> Path | None:
-    project_dir = script_dir.parent  # typical: Project/llm_pipeline -> Project
+    project_dir = script_dir.parent
     name = f"{sample_run_tag}_sample_pmids.json"
-
     candidates = [
         script_dir / "eval_results" / name,
         project_dir / "eval_results" / name,
@@ -220,17 +292,18 @@ def load_done_pmids(jsonl_path: Path) -> set[str]:
 
 def main() -> None:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--pmids", type=str, default="", help="Optional. Comma-separated PMIDs or path to a text file. If empty, loads the saved sample PMIDs.")
-    ap.add_argument("--sample_run_tag", type=str, default=DEFAULT_SAMPLE_RUN_TAG, help="Run tag used by the Streamlit sampler.")
-    ap.add_argument("--sample_json", type=str, default="", help="Optional explicit path to *_sample_pmids.json. Overrides --sample_run_tag.")
-    ap.add_argument("--model", type=str, default="qwen-3v1:8b")
+    ap.add_argument("--pmids", type=str, default="", help="Comma-separated PMIDs or path to a text file. If empty, loads saved sample PMIDs.")
+    ap.add_argument("--sample_run_tag", type=str, default=DEFAULT_SAMPLE_RUN_TAG)
+    ap.add_argument("--sample_json", type=str, default="", help="Explicit path to *_sample_pmids.json. Overrides --sample_run_tag.")
+    ap.add_argument("--ollama_host", type=str, default=os.environ.get("OLLAMA_HOST", ""), help="Ollama base URL, e.g. http://server:11434")
+    ap.add_argument("--model", type=str, default="llama3.3:latest")
     ap.add_argument("--email", type=str, default="")
-    ap.add_argument("--run_tag", type=str, default="qwen3v1_8b_extract_temp0")
+    ap.add_argument("--run_tag", type=str, default="llama3_3_latest_extract_temp0")
     ap.add_argument("--temperature", type=float, default=0.0)
     ap.add_argument("--seed", type=int, default=42)
-    ap.add_argument("--sleep", type=float, default=0.0, help="Seconds to sleep between PubMed fetches.")
-    ap.add_argument("--overwrite", action="store_true", help="If set, overwrite outputs instead of resuming.")
-    ap.add_argument("--tqdm", action="store_true", help="Show tqdm progress bar.")
+    ap.add_argument("--sleep", type=float, default=0.0)
+    ap.add_argument("--overwrite", action="store_true")
+    ap.add_argument("--tqdm", action="store_true")
     args = ap.parse_args()
 
     script_dir = Path(__file__).resolve().parent
@@ -255,7 +328,6 @@ def main() -> None:
                 expected = f"{args.sample_run_tag}_sample_pmids.json"
                 raise FileNotFoundError(
                     "Sample PMID file not found.\n"
-                    f"Tried common locations under: {script_dir} and {script_dir.parent}\n"
                     f"Expected filename: {expected}\n"
                     "Fix options:\n"
                     "1) Pass --sample_json path/to/<run_tag>_sample_pmids.json\n"
@@ -273,8 +345,12 @@ def main() -> None:
     done_pmids = set() if args.overwrite else load_done_pmids(out_jsonl)
     remaining_pmids = [p for p in pmids if p not in done_pmids]
 
+    host = sanitize_ollama_host(args.ollama_host) if args.ollama_host else "http://localhost:11434"
+    client = ollama.Client(host=host)
+
     meta = {
         "run_tag": args.run_tag,
+        "ollama_host": host,
         "model": args.model,
         "temperature": float(args.temperature),
         "seed": int(args.seed),
@@ -299,18 +375,27 @@ def main() -> None:
         if args.sleep and args.sleep > 0:
             time.sleep(float(args.sleep))
 
-        obj, raw = ollama_extract(args.model, title, abstract, temperature=float(args.temperature), seed=int(args.seed))
+        obj, raw, err = ollama_extract(
+            client,
+            args.model,
+            title,
+            abstract,
+            temperature=float(args.temperature),
+            seed=int(args.seed) if args.seed is not None else None,
+        )
         obj = enrich_disease_aliases(obj, title, abstract)
 
         row = {
             "pmid": pmid,
             "fetched_title": title,
             "fetched_abstract": abstract,
+            "ollama_host": host,
             "model": args.model,
             "temperature": float(args.temperature),
             "seed": int(args.seed),
             "llm_json": obj,
             "llm_raw": raw,
+            "llm_error": err,
             "saved_at_utc": now_utc_iso(),
         }
 
