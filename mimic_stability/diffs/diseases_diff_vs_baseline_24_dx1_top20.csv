@@ -1,0 +1,22 @@
+item,status,base_rank,cur_rank,base_weight,cur_weight,rank_delta
+encounter for antineoplastic chemotherapy,shared,1.0,1.0,20923.0,18755.0,0.0
+coronary atherosclerosis of native coronary artery,shared,2.0,2.0,18847.0,14521.0,0.0
+"hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",shared,3.0,3.0,13515.0,11387.0,0.0
+"sepsis, unspecified organism",shared,4.0,4.0,12294.0,9379.0,0.0
+non-st elevation (nstemi) myocardial infarction,shared,5.0,5.0,11407.0,8293.0,0.0
+"subendocardial infarction, initial episode of care",shared,6.0,6.0,8647.0,6567.0,0.0
+hypertensive heart disease with heart failure,shared,7.0,7.0,7575.0,6405.0,0.0
+"acute kidney failure, unspecified",shared,8.0,8.0,7425.0,6044.0,0.0
+atrial fibrillation,shared,9.0,9.0,6925.0,5595.0,0.0
+"pneumonia, organism unspecified",shared,10.0,12.0,5661.0,4294.0,2.0
+acute on chronic diastolic heart failure,shared,11.0,10.0,5520.0,4517.0,-1.0
+atherosclerotic heart disease of native coronary artery without angina pectoris,shared,12.0,19.0,5226.0,2638.0,7.0
+other chest pain,shared,13.0,11.0,5185.0,4361.0,-2.0
+unspecified septicemia,shared,14.0,15.0,4902.0,3485.0,1.0
+"urinary tract infection, site not specified",shared,15.0,13.0,4559.0,3877.0,-2.0
+acute on chronic systolic heart failure,shared,16.0,14.0,4558.0,3553.0,-2.0
+aortic valve disorders,shared,17.0,20.0,4211.0,2365.0,3.0
+atherosclerotic heart disease of native coronary artery with unstable angina pectoris,shared,18.0,18.0,4015.0,2785.0,0.0
+acute pancreatitis,shared,19.0,16.0,3749.0,2969.0,-3.0
+nonrheumatic aortic (valve) stenosis,dropped,20.0,,3309.0,,
+"previous cesarean delivery, delivered, with or without mention of antepartum condition",added,,17.0,,2796.0,

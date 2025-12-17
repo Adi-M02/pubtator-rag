@@ -1,0 +1,50 @@
+config,truth_source,pmid,missed_drug
+00_base,pubtator,19169140,Acyclovir
+00_base,pubtator,30002098,Valsartan
+00_base,pubtator,35766202,Methylprednisolone
+00_base,pubtator,35905573,Triamcinolone
+00_base,pubtator,36173235,Insulin Lispro
+00_base,pubtator,36173344,Valsartan
+00_base,pubtator,36561129,Fluticasone
+00_base,pubtator,36942908,Acetaminophen
+00_base,pubtator,40945498,Diclofenac
+00_base,pubtator,25796863,Pantoprazole
+00_base,pubtator,30302936,Chlorthalidone
+00_base,pubtator,32436641,Insulin Lispro
+00_base,pubtator,32488923,Insulin Lispro
+00_base,pubtator,33097422,Sulfamethoxazole
+00_base,pubtator,34847709,Isosorbide
+00_base,pubtator,38267312,Insulin Glargine
+00_base,rentrez,35905573,Triamcinolone
+00_base,rentrez,36173235,Insulin Lispro
+00_base,rentrez,36173344,Valsartan
+00_base,rentrez,36561129,Fluticasone
+00_base,rentrez,40945498,Diclofenac
+00_base,rentrez,40945498,Acetaminophen
+00_base,rentrez,25796863,Pantoprazole
+00_base,rentrez,26577417,Insulin Lispro
+00_base,rentrez,30302936,Chlorthalidone
+00_base,rentrez,32436641,Insulin Lispro
+00_base,rentrez,32488923,Insulin Lispro
+00_base,rentrez,34847709,Isosorbide
+00_base,rentrez,38267312,Insulin Glargine
+00_base,rentrez,40345826,Amoxicillin
+00_base,union,19169140,Acyclovir
+00_base,union,30002098,Valsartan
+00_base,union,35766202,Methylprednisolone
+00_base,union,35905573,Triamcinolone
+00_base,union,36173235,Insulin Lispro
+00_base,union,36173344,Valsartan
+00_base,union,36561129,Fluticasone
+00_base,union,36942908,Acetaminophen
+00_base,union,40945498,Diclofenac
+00_base,union,40945498,Acetaminophen
+00_base,union,25796863,Pantoprazole
+00_base,union,26577417,Insulin Lispro
+00_base,union,30302936,Chlorthalidone
+00_base,union,32436641,Insulin Lispro
+00_base,union,32488923,Insulin Lispro
+00_base,union,33097422,Sulfamethoxazole
+00_base,union,34847709,Isosorbide
+00_base,union,38267312,Insulin Glargine
+00_base,union,40345826,Amoxicillin

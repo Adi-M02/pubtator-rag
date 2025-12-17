@@ -1,0 +1,201 @@
+config,truth_source,pmid,missed_disease
+05_add_dis_generic_drop,pubtator,8165073,Urologic Diseases
+05_add_dis_generic_drop,pubtator,9866667,Wounds and Injuries
+05_add_dis_generic_drop,pubtator,15468607,Sleep Initiation and Maintenance Disorders
+05_add_dis_generic_drop,pubtator,17097398,Dermatitis
+05_add_dis_generic_drop,pubtator,17580026,Fissure in Ano
+05_add_dis_generic_drop,pubtator,19169140,Herpes Simplex
+05_add_dis_generic_drop,pubtator,21075537,Pruritus
+05_add_dis_generic_drop,pubtator,21075537,Burns
+05_add_dis_generic_drop,pubtator,22915486,Sleep Deprivation
+05_add_dis_generic_drop,pubtator,23082133,Inflammation
+05_add_dis_generic_drop,pubtator,23223108,Pain
+05_add_dis_generic_drop,pubtator,23269105,Seizures
+05_add_dis_generic_drop,pubtator,23497779,Coronary Artery Disease
+05_add_dis_generic_drop,pubtator,23570952,Depressive Disorder Treatment Resistant
+05_add_dis_generic_drop,pubtator,24506965,Breast Neoplasms
+05_add_dis_generic_drop,pubtator,26123629,Depressive Disorder
+05_add_dis_generic_drop,pubtator,26123629,Sleep Initiation and Maintenance Disorders
+05_add_dis_generic_drop,pubtator,26123629,Sleep Wake Disorders
+05_add_dis_generic_drop,pubtator,26550813,Neuralgia
+05_add_dis_generic_drop,pubtator,26572055,Mental Disorders
+05_add_dis_generic_drop,pubtator,26572055,Psychological Trauma
+05_add_dis_generic_drop,pubtator,26572055,Sleep Deprivation
+05_add_dis_generic_drop,pubtator,27367818,Cardiac Conduction System Disease
+05_add_dis_generic_drop,pubtator,28416195,Chest Pain
+05_add_dis_generic_drop,pubtator,29402860,Sleep Wake Disorders
+05_add_dis_generic_drop,pubtator,29622037,Mental Disorders
+05_add_dis_generic_drop,pubtator,30002098,Renal Insufficiency Chronic
+05_add_dis_generic_drop,pubtator,30002098,Albuminuria
+05_add_dis_generic_drop,pubtator,30318492,Cerebral Infarction
+05_add_dis_generic_drop,pubtator,30326006,Sciatica
+05_add_dis_generic_drop,pubtator,31230222,Autistic Disorder
+05_add_dis_generic_drop,pubtator,32629738,Hip Injuries
+05_add_dis_generic_drop,pubtator,33412422,Abdominal Pain
+05_add_dis_generic_drop,pubtator,34133820,Musculoskeletal Pain
+05_add_dis_generic_drop,pubtator,34218802,Helicobacter Infections
+05_add_dis_generic_drop,pubtator,34453525,Attention Deficit Disorder with Hyperactivity
+05_add_dis_generic_drop,pubtator,35766202,Arthritis Sacroiliac
+05_add_dis_generic_drop,pubtator,35867273,Headache
+05_add_dis_generic_drop,pubtator,35905573,Pain
+05_add_dis_generic_drop,pubtator,35905573,Joint Diseases
+05_add_dis_generic_drop,pubtator,35987681,Hypotension
+05_add_dis_generic_drop,pubtator,36173344,Heart Diseases
+05_add_dis_generic_drop,pubtator,36471429,Surgical Wound Infection
+05_add_dis_generic_drop,pubtator,36477458,Bell Palsy
+05_add_dis_generic_drop,pubtator,37138225,Pain
+05_add_dis_generic_drop,pubtator,39586374,Pain
+05_add_dis_generic_drop,pubtator,39601808,Disruptive Impulse Control and Conduct Disorders
+05_add_dis_generic_drop,pubtator,39601808,Attention Deficit and Disruptive Behavior Disorders
+05_add_dis_generic_drop,pubtator,40037214,Embolism
+05_add_dis_generic_drop,pubtator,40043888,Uveomeningoencephalitic Syndrome
+05_add_dis_generic_drop,pubtator,40813667,Dyspnea
+05_add_dis_generic_drop,pubtator,40945498,Pain
+05_add_dis_generic_drop,pubtator,10572343,Sleep Wake Disorders
+05_add_dis_generic_drop,pubtator,12145220,Diabetes Mellitus
+05_add_dis_generic_drop,pubtator,22947356,Hypertension Diastolic Resistance to
+05_add_dis_generic_drop,pubtator,24180582,Pain
+05_add_dis_generic_drop,pubtator,25941016,Pain
+05_add_dis_generic_drop,pubtator,27808417,Meige Syndrome
+05_add_dis_generic_drop,pubtator,28082332,Hypoxia
+05_add_dis_generic_drop,pubtator,28240967,Small Cell Lung Carcinoma
+05_add_dis_generic_drop,pubtator,33783553,Blood Coagulation Disorders
+05_add_dis_generic_drop,pubtator,34847709,Cerebral Infarction
+05_add_dis_generic_drop,pubtator,37263861,Altitude Sickness
+05_add_dis_generic_drop,pubtator,37289237,Pulmonary Atelectasis
+05_add_dis_generic_drop,pubtator,38521730,Alcoholism
+05_add_dis_generic_drop,pubtator,40505216,Parkinson Disease
+05_add_dis_generic_drop,rentrez,12453952,Diabetes Mellitus
+05_add_dis_generic_drop,rentrez,12453952,"Diabetes Mellitus, Type 2"
+05_add_dis_generic_drop,rentrez,15468607,Sleep Initiation and Maintenance Disorders
+05_add_dis_generic_drop,rentrez,17097398,"Skin Diseases, Infectious"
+05_add_dis_generic_drop,rentrez,22915486,"Sleep Disorders, Circadian Rhythm"
+05_add_dis_generic_drop,rentrez,23497779,Coronary Artery Disease
+05_add_dis_generic_drop,rentrez,23570952,Anxiety Disorders
+05_add_dis_generic_drop,rentrez,23570952,"Depressive Disorder, Treatment-Resistant"
+05_add_dis_generic_drop,rentrez,25987260,"Diabetes Mellitus, Type 2"
+05_add_dis_generic_drop,rentrez,25987260,"Kidney Failure, Chronic"
+05_add_dis_generic_drop,rentrez,26123629,Sleep Wake Disorders
+05_add_dis_generic_drop,rentrez,26572055,Alzheimer Disease
+05_add_dis_generic_drop,rentrez,28838583,Psychotic Disorders
+05_add_dis_generic_drop,rentrez,29402860,Sleep Wake Disorders
+05_add_dis_generic_drop,rentrez,29622037,Alzheimer Disease
+05_add_dis_generic_drop,rentrez,29622037,Cognition Disorders
+05_add_dis_generic_drop,rentrez,30326006,Chronic Pain
+05_add_dis_generic_drop,rentrez,31230222,Autistic Disorder
+05_add_dis_generic_drop,rentrez,31435774,Chronic Pain
+05_add_dis_generic_drop,rentrez,31435774,Pelvic Pain
+05_add_dis_generic_drop,rentrez,34133820,Acute Pain
+05_add_dis_generic_drop,rentrez,34218802,Helicobacter Infections
+05_add_dis_generic_drop,rentrez,34453525,Attention Deficit Disorder with Hyperactivity
+05_add_dis_generic_drop,rentrez,35905573,Pain
+05_add_dis_generic_drop,rentrez,35987681,Systemic Inflammatory Response Syndrome
+05_add_dis_generic_drop,rentrez,36173344,Heart Diseases
+05_add_dis_generic_drop,rentrez,36173344,Heart Failure
+05_add_dis_generic_drop,rentrez,36471429,Surgical Wound Infection
+05_add_dis_generic_drop,rentrez,36477458,"Infant, Newborn, Diseases"
+05_add_dis_generic_drop,rentrez,36707080,Stroke
+05_add_dis_generic_drop,rentrez,37526038,Substance Withdrawal Syndrome
+05_add_dis_generic_drop,rentrez,39601808,Attention Deficit Disorder with Hyperactivity
+05_add_dis_generic_drop,rentrez,39601808,Attention Deficit and Disruptive Behavior Disorders
+05_add_dis_generic_drop,rentrez,40043888,Uveomeningoencephalitic Syndrome
+05_add_dis_generic_drop,rentrez,10572343,Sleep Initiation and Maintenance Disorders
+05_add_dis_generic_drop,rentrez,24023757,Coronary Disease
+05_add_dis_generic_drop,rentrez,24158898,Helicobacter Infections
+05_add_dis_generic_drop,rentrez,24180582,"Pain, Postoperative"
+05_add_dis_generic_drop,rentrez,25796863,Helicobacter Infections
+05_add_dis_generic_drop,rentrez,27808417,Dystonic Disorders
+05_add_dis_generic_drop,rentrez,33783553,Blood Coagulation Disorders
+05_add_dis_generic_drop,rentrez,34596484,Pain
+05_add_dis_generic_drop,rentrez,35346603,Muscular Diseases
+05_add_dis_generic_drop,rentrez,36262968,Pain
+05_add_dis_generic_drop,rentrez,38521730,"Liver Diseases, Alcoholic"
+05_add_dis_generic_drop,rentrez,40345826,Community-Acquired Infections
+05_add_dis_generic_drop,rentrez,40505216,Parkinson Disease
+05_add_dis_generic_drop,union,8165073,Urologic Diseases
+05_add_dis_generic_drop,union,9866667,Wounds and Injuries
+05_add_dis_generic_drop,union,12453952,Diabetes Mellitus
+05_add_dis_generic_drop,union,12453952,"Diabetes Mellitus, Type 2"
+05_add_dis_generic_drop,union,15468607,Sleep Initiation and Maintenance Disorders
+05_add_dis_generic_drop,union,17097398,Dermatitis
+05_add_dis_generic_drop,union,17097398,"Skin Diseases, Infectious"
+05_add_dis_generic_drop,union,17580026,Fissure in Ano
+05_add_dis_generic_drop,union,19169140,Herpes Simplex
+05_add_dis_generic_drop,union,21075537,Pruritus
+05_add_dis_generic_drop,union,21075537,Burns
+05_add_dis_generic_drop,union,22915486,Sleep Deprivation
+05_add_dis_generic_drop,union,22915486,"Sleep Disorders, Circadian Rhythm"
+05_add_dis_generic_drop,union,23082133,Inflammation
+05_add_dis_generic_drop,union,23223108,Pain
+05_add_dis_generic_drop,union,23269105,Seizures
+05_add_dis_generic_drop,union,23497779,Coronary Artery Disease
+05_add_dis_generic_drop,union,23570952,Depressive Disorder Treatment Resistant
+05_add_dis_generic_drop,union,23570952,Anxiety Disorders
+05_add_dis_generic_drop,union,24506965,Breast Neoplasms
+05_add_dis_generic_drop,union,25987260,"Diabetes Mellitus, Type 2"
+05_add_dis_generic_drop,union,25987260,"Kidney Failure, Chronic"
+05_add_dis_generic_drop,union,26123629,Depressive Disorder
+05_add_dis_generic_drop,union,26123629,Sleep Initiation and Maintenance Disorders
+05_add_dis_generic_drop,union,26123629,Sleep Wake Disorders
+05_add_dis_generic_drop,union,26550813,Neuralgia
+05_add_dis_generic_drop,union,26572055,Mental Disorders
+05_add_dis_generic_drop,union,26572055,Psychological Trauma
+05_add_dis_generic_drop,union,26572055,Sleep Deprivation
+05_add_dis_generic_drop,union,26572055,Alzheimer Disease
+05_add_dis_generic_drop,union,27367818,Cardiac Conduction System Disease
+05_add_dis_generic_drop,union,28416195,Chest Pain
+05_add_dis_generic_drop,union,28838583,Psychotic Disorders
+05_add_dis_generic_drop,union,29402860,Sleep Wake Disorders
+05_add_dis_generic_drop,union,29622037,Mental Disorders
+05_add_dis_generic_drop,union,29622037,Alzheimer Disease
+05_add_dis_generic_drop,union,29622037,Cognition Disorders
+05_add_dis_generic_drop,union,30002098,Renal Insufficiency Chronic
+05_add_dis_generic_drop,union,30002098,Albuminuria
+05_add_dis_generic_drop,union,30318492,Cerebral Infarction
+05_add_dis_generic_drop,union,30326006,Sciatica
+05_add_dis_generic_drop,union,30326006,Chronic Pain
+05_add_dis_generic_drop,union,31230222,Autistic Disorder
+05_add_dis_generic_drop,union,31435774,Chronic Pain
+05_add_dis_generic_drop,union,31435774,Pelvic Pain
+05_add_dis_generic_drop,union,32629738,Hip Injuries
+05_add_dis_generic_drop,union,33412422,Abdominal Pain
+05_add_dis_generic_drop,union,34133820,Musculoskeletal Pain
+05_add_dis_generic_drop,union,34133820,Acute Pain
+05_add_dis_generic_drop,union,34218802,Helicobacter Infections
+05_add_dis_generic_drop,union,34453525,Attention Deficit Disorder with Hyperactivity
+05_add_dis_generic_drop,union,35766202,Arthritis Sacroiliac
+05_add_dis_generic_drop,union,35867273,Headache
+05_add_dis_generic_drop,union,35905573,Pain
+05_add_dis_generic_drop,union,35905573,Joint Diseases
+05_add_dis_generic_drop,union,35987681,Hypotension
+05_add_dis_generic_drop,union,35987681,Systemic Inflammatory Response Syndrome
+05_add_dis_generic_drop,union,36173344,Heart Diseases
+05_add_dis_generic_drop,union,36173344,Heart Failure
+05_add_dis_generic_drop,union,36471429,Surgical Wound Infection
+05_add_dis_generic_drop,union,36477458,Bell Palsy
+05_add_dis_generic_drop,union,36477458,"Infant, Newborn, Diseases"
+05_add_dis_generic_drop,union,36707080,Stroke
+05_add_dis_generic_drop,union,37138225,Pain
+05_add_dis_generic_drop,union,37526038,Substance Withdrawal Syndrome
+05_add_dis_generic_drop,union,39586374,Pain
+05_add_dis_generic_drop,union,39601808,Disruptive Impulse Control and Conduct Disorders
+05_add_dis_generic_drop,union,39601808,Attention Deficit and Disruptive Behavior Disorders
+05_add_dis_generic_drop,union,39601808,Attention Deficit Disorder with Hyperactivity
+05_add_dis_generic_drop,union,40037214,Embolism
+05_add_dis_generic_drop,union,40043888,Uveomeningoencephalitic Syndrome
+05_add_dis_generic_drop,union,40813667,Dyspnea
+05_add_dis_generic_drop,union,40945498,Pain
+05_add_dis_generic_drop,union,10572343,Sleep Wake Disorders
+05_add_dis_generic_drop,union,10572343,Sleep Initiation and Maintenance Disorders
+05_add_dis_generic_drop,union,12145220,Diabetes Mellitus
+05_add_dis_generic_drop,union,22947356,Hypertension Diastolic Resistance to
+05_add_dis_generic_drop,union,24023757,Coronary Disease
+05_add_dis_generic_drop,union,24158898,Helicobacter Infections
+05_add_dis_generic_drop,union,24180582,Pain
+05_add_dis_generic_drop,union,24180582,"Pain, Postoperative"
+05_add_dis_generic_drop,union,25796863,Helicobacter Infections
+05_add_dis_generic_drop,union,25941016,Pain
+05_add_dis_generic_drop,union,27808417,Meige Syndrome
+05_add_dis_generic_drop,union,27808417,Dystonic Disorders
+05_add_dis_generic_drop,union,28082332,Hypoxia
+05_add_dis_generic_drop,union,28240967,Small Cell Lung Carcinoma

@@ -1,0 +1,10 @@
+config,truth_source,metric,matched_truth,total_truth,recall,fn
+01_order,pubtator,drugs,123,139,0.8848920863309353,16
+01_order,pubtator,diseases,84,163,0.5153374233128835,79
+01_order,pubtator,pairs,73,193,0.37823834196891193,120
+01_order,rentrez,drugs,114,128,0.890625,14
+01_order,rentrez,diseases,68,130,0.5230769230769231,62
+01_order,rentrez,pairs,65,150,0.43333333333333335,85
+01_order,union,drugs,145,164,0.8841463414634146,19
+01_order,union,diseases,105,224,0.46875,119
+01_order,union,pairs,101,270,0.37407407407407406,169

@@ -1,0 +1,201 @@
+config,truth_source,pmid,missed_drug,missed_disease
+05_add_dis_generic_drop,pubtator,8165073,Nitrofurantoin,Urologic Diseases
+05_add_dis_generic_drop,pubtator,9866667,Cephalexin,Wounds and Injuries
+05_add_dis_generic_drop,pubtator,15468607,Trazodone,Sleep Initiation and Maintenance Disorders
+05_add_dis_generic_drop,pubtator,17097398,Cephalexin,Dermatitis
+05_add_dis_generic_drop,pubtator,17580026,Diltiazem,Fissure in Ano
+05_add_dis_generic_drop,pubtator,19169140,Valacyclovir,Herpes Simplex
+05_add_dis_generic_drop,pubtator,19169140,Acyclovir,Herpes Simplex
+05_add_dis_generic_drop,pubtator,21075537,Gabapentin,Pruritus
+05_add_dis_generic_drop,pubtator,21075537,Gabapentin,Burns
+05_add_dis_generic_drop,pubtator,21075537,Cetirizine,Pruritus
+05_add_dis_generic_drop,pubtator,21075537,Cetirizine,Burns
+05_add_dis_generic_drop,pubtator,22915486,Mirtazapine,Sleep Deprivation
+05_add_dis_generic_drop,pubtator,23082133,Lisinopril,Inflammation
+05_add_dis_generic_drop,pubtator,23082133,Pravastatin,Cardiovascular Diseases
+05_add_dis_generic_drop,pubtator,23223108,Baclofen,Pain
+05_add_dis_generic_drop,pubtator,23269105,Sertraline,Seizures
+05_add_dis_generic_drop,pubtator,23497779,Pravastatin,Coronary Artery Disease
+05_add_dis_generic_drop,pubtator,23497779,Pravastatin,Diabetes Mellitus
+05_add_dis_generic_drop,pubtator,23570952,Paroxetine,Depressive Disorder Treatment Resistant
+05_add_dis_generic_drop,pubtator,24506965,Carvedilol,Breast Neoplasms
+05_add_dis_generic_drop,pubtator,26123629,Gabapentin,Depressive Disorder
+05_add_dis_generic_drop,pubtator,26123629,Gabapentin,Sleep Initiation and Maintenance Disorders
+05_add_dis_generic_drop,pubtator,26123629,Gabapentin,Sleep Wake Disorders
+05_add_dis_generic_drop,pubtator,26550813,Celecoxib,Neuralgia
+05_add_dis_generic_drop,pubtator,26572055,Memantine,Mental Disorders
+05_add_dis_generic_drop,pubtator,26572055,Memantine,Psychological Trauma
+05_add_dis_generic_drop,pubtator,26572055,Memantine,Sleep Deprivation
+05_add_dis_generic_drop,pubtator,27367818,Lisinopril,Cardiac Conduction System Disease
+05_add_dis_generic_drop,pubtator,28416195,Pravastatin,HIV Infections
+05_add_dis_generic_drop,pubtator,28416195,Pravastatin,Ischemic Attack Transient
+05_add_dis_generic_drop,pubtator,28416195,Pravastatin,Chest Pain
+05_add_dis_generic_drop,pubtator,29402860,Zolpidem,Sleep Wake Disorders
+05_add_dis_generic_drop,pubtator,29622037,Donepezil,Mental Disorders
+05_add_dis_generic_drop,pubtator,30002098,Valsartan,Renal Insufficiency Chronic
+05_add_dis_generic_drop,pubtator,30002098,Valsartan,Albuminuria
+05_add_dis_generic_drop,pubtator,30002098,Irbesartan,Renal Insufficiency Chronic
+05_add_dis_generic_drop,pubtator,30318492,Pravastatin,Cerebral Infarction
+05_add_dis_generic_drop,pubtator,30326006,Gabapentin,Sciatica
+05_add_dis_generic_drop,pubtator,30326006,Pregabalin,Sciatica
+05_add_dis_generic_drop,pubtator,31230222,Donepezil,Autistic Disorder
+05_add_dis_generic_drop,pubtator,32629738,Pregabalin,Hip Injuries
+05_add_dis_generic_drop,pubtator,33412422,Escitalopram,Abdominal Pain
+05_add_dis_generic_drop,pubtator,34133820,Ibuprofen,Musculoskeletal Pain
+05_add_dis_generic_drop,pubtator,34133820,Diclofenac,Musculoskeletal Pain
+05_add_dis_generic_drop,pubtator,34218802,Doxycycline,Helicobacter Infections
+05_add_dis_generic_drop,pubtator,34453525,Methylphenidate,Attention Deficit Disorder with Hyperactivity
+05_add_dis_generic_drop,pubtator,34793552,Amlodipine,Gastrointestinal Hemorrhage
+05_add_dis_generic_drop,pubtator,34793552,Atenolol,Gastrointestinal Hemorrhage
+05_add_dis_generic_drop,pubtator,35103836,Diclofenac,Pain Postoperative
+05_add_dis_generic_drop,pubtator,35766202,Methylprednisolone,Arthritis Sacroiliac
+05_add_dis_generic_drop,pubtator,35867273,Propranolol,Headache
+05_add_dis_generic_drop,pubtator,35905573,Triamcinolone,Pain
+05_add_dis_generic_drop,pubtator,35905573,Triamcinolone,Osteoarthritis
+05_add_dis_generic_drop,pubtator,35905573,Triamcinolone,Joint Diseases
+05_add_dis_generic_drop,pubtator,35987681,Methylprednisolone,Hypotension
+05_add_dis_generic_drop,pubtator,36173235,Insulin Lispro,Diabetes Mellitus Type 1
+05_add_dis_generic_drop,pubtator,36173344,Valsartan,Heart Diseases
+05_add_dis_generic_drop,pubtator,36173344,Valsartan,Pulmonary Arterial Hypertension
+05_add_dis_generic_drop,pubtator,36173344,Dapagliflozin,Heart Diseases
+05_add_dis_generic_drop,pubtator,36471429,Cephalexin,Surgical Wound Infection
+05_add_dis_generic_drop,pubtator,36477458,Ibuprofen,Bell Palsy
+05_add_dis_generic_drop,pubtator,36561129,Fluticasone,Pulmonary Disease Chronic Obstructive
+05_add_dis_generic_drop,pubtator,36561129,Vilanterol,Pulmonary Disease Chronic Obstructive
+05_add_dis_generic_drop,pubtator,36942908,Acetaminophen,Acute Pain
+05_add_dis_generic_drop,pubtator,37138225,Oxycodone,Pain
+05_add_dis_generic_drop,pubtator,37210743,Valsartan,Heart Failure
+05_add_dis_generic_drop,pubtator,37210743,Valsartan,Cardiovascular Diseases
+05_add_dis_generic_drop,pubtator,37395974,Amlodipine,Dyslipidemias
+05_add_dis_generic_drop,pubtator,37395974,Losartan,Dyslipidemias
+05_add_dis_generic_drop,pubtator,37395974,Rosuvastatin,Hypertension
+05_add_dis_generic_drop,pubtator,37395974,Ezetimibe,Hypertension
+05_add_dis_generic_drop,pubtator,39586374,Clonidine,Pain
+05_add_dis_generic_drop,pubtator,39601808,Methylphenidate,Disruptive Impulse Control and Conduct Disorders
+05_add_dis_generic_drop,pubtator,39601808,Methylphenidate,Attention Deficit and Disruptive Behavior Disorders
+05_add_dis_generic_drop,pubtator,40037214,Aspirin,Embolism
+05_add_dis_generic_drop,pubtator,40037214,Rivaroxaban,Embolism
+05_add_dis_generic_drop,pubtator,40043888,Prednisone,Uveomeningoencephalitic Syndrome
+05_add_dis_generic_drop,pubtator,40043888,Adalimumab,Uveomeningoencephalitic Syndrome
+05_add_dis_generic_drop,pubtator,40813667,Mirtazapine,Dyspnea
+05_add_dis_generic_drop,pubtator,40877788,Acetaminophen,Pain Postoperative
+05_add_dis_generic_drop,pubtator,40945498,Ibuprofen,Pain
+05_add_dis_generic_drop,pubtator,40945498,Diclofenac,Pain
+05_add_dis_generic_drop,pubtator,10572343,Trazodone,Sleep Wake Disorders
+05_add_dis_generic_drop,pubtator,12145220,Glipizide,Diabetes Mellitus
+05_add_dis_generic_drop,pubtator,22947356,Lisinopril,Hypertension Diastolic Resistance to
+05_add_dis_generic_drop,pubtator,24158898,Pantoprazole,Dyspepsia
+05_add_dis_generic_drop,pubtator,24180582,Clindamycin,Pain
+05_add_dis_generic_drop,pubtator,25796863,Pantoprazole,Pancreatitis Chronic
+05_add_dis_generic_drop,pubtator,25941016,Sumatriptan,Pain
+05_add_dis_generic_drop,pubtator,26577417,Insulin Glargine,Hypoglycemia
+05_add_dis_generic_drop,pubtator,27808417,Levetiracetam,Meige Syndrome
+05_add_dis_generic_drop,pubtator,28082332,Losartan,Hypoxia
+05_add_dis_generic_drop,pubtator,28240967,Pravastatin,Small Cell Lung Carcinoma
+05_add_dis_generic_drop,pubtator,30302936,Chlorthalidone,Essential Hypertension
+05_add_dis_generic_drop,pubtator,32436641,Insulin Lispro,Diabetes Mellitus Type 1
+05_add_dis_generic_drop,pubtator,32488923,Insulin Lispro,Diabetes Mellitus Type 1
+05_add_dis_generic_drop,pubtator,33097422,Sulfamethoxazole,Lower Urinary Tract Symptoms
+05_add_dis_generic_drop,pubtator,33783553,Warfarin,Blood Coagulation Disorders
+05_add_dis_generic_drop,pubtator,33837106,Insulin Aspart,Diabetes Mellitus Type 2
+05_add_dis_generic_drop,pubtator,34847709,Isosorbide,Cerebral Infarction
+05_add_dis_generic_drop,pubtator,37263861,Atorvastatin,Altitude Sickness
+05_add_dis_generic_drop,pubtator,37289237,Furosemide,Pulmonary Atelectasis
+05_add_dis_generic_drop,pubtator,38267312,Insulin Glargine,Diabetes Mellitus Type 2
+05_add_dis_generic_drop,pubtator,38521730,Ondansetron,Alcoholism
+05_add_dis_generic_drop,pubtator,40505216,Methylphenidate,Parkinson Disease
+05_add_dis_generic_drop,rentrez,12453952,Glipizide,Diabetes Mellitus
+05_add_dis_generic_drop,rentrez,12453952,Glipizide,"Diabetes Mellitus, Type 2"
+05_add_dis_generic_drop,rentrez,15468607,Trazodone,Sleep Initiation and Maintenance Disorders
+05_add_dis_generic_drop,rentrez,17097398,Cephalexin,"Skin Diseases, Infectious"
+05_add_dis_generic_drop,rentrez,22915486,Mirtazapine,"Sleep Disorders, Circadian Rhythm"
+05_add_dis_generic_drop,rentrez,23497779,Pravastatin,Coronary Artery Disease
+05_add_dis_generic_drop,rentrez,23570952,Buspirone,Anxiety Disorders
+05_add_dis_generic_drop,rentrez,23570952,Buspirone,"Depressive Disorder, Treatment-Resistant"
+05_add_dis_generic_drop,rentrez,23570952,Paroxetine,Anxiety Disorders
+05_add_dis_generic_drop,rentrez,23570952,Paroxetine,"Depressive Disorder, Treatment-Resistant"
+05_add_dis_generic_drop,rentrez,25987260,Irbesartan,"Diabetes Mellitus, Type 2"
+05_add_dis_generic_drop,rentrez,25987260,Irbesartan,"Kidney Failure, Chronic"
+05_add_dis_generic_drop,rentrez,26123629,Clonazepam,Sleep Wake Disorders
+05_add_dis_generic_drop,rentrez,26572055,Memantine,Alzheimer Disease
+05_add_dis_generic_drop,rentrez,28416195,Pravastatin,HIV Infections
+05_add_dis_generic_drop,rentrez,28838583,Aripiprazole,Psychotic Disorders
+05_add_dis_generic_drop,rentrez,29402860,Zolpidem,Sleep Wake Disorders
+05_add_dis_generic_drop,rentrez,29622037,Donepezil,Alzheimer Disease
+05_add_dis_generic_drop,rentrez,29622037,Donepezil,Cognition Disorders
+05_add_dis_generic_drop,rentrez,30326006,Gabapentin,Chronic Pain
+05_add_dis_generic_drop,rentrez,31230222,Donepezil,Autistic Disorder
+05_add_dis_generic_drop,rentrez,31435774,Gabapentin,Chronic Pain
+05_add_dis_generic_drop,rentrez,31435774,Gabapentin,Pelvic Pain
+05_add_dis_generic_drop,rentrez,34133820,Diclofenac,Acute Pain
+05_add_dis_generic_drop,rentrez,34218802,Doxycycline,Helicobacter Infections
+05_add_dis_generic_drop,rentrez,34218802,Esomeprazole,Helicobacter Infections
+05_add_dis_generic_drop,rentrez,34453525,Methylphenidate,Attention Deficit Disorder with Hyperactivity
+05_add_dis_generic_drop,rentrez,35103836,Diclofenac,"Pain, Postoperative"
+05_add_dis_generic_drop,rentrez,35905573,Triamcinolone,Pain
+05_add_dis_generic_drop,rentrez,35987681,Methylprednisolone,Systemic Inflammatory Response Syndrome
+05_add_dis_generic_drop,rentrez,36173235,Insulin Lispro,"Diabetes Mellitus, Type 1"
+05_add_dis_generic_drop,rentrez,36173344,Valsartan,Heart Diseases
+05_add_dis_generic_drop,rentrez,36173344,Valsartan,Heart Failure
+05_add_dis_generic_drop,rentrez,36173344,Valsartan,Pulmonary Arterial Hypertension
+05_add_dis_generic_drop,rentrez,36471429,Cephalexin,Surgical Wound Infection
+05_add_dis_generic_drop,rentrez,36477458,Ibuprofen,"Infant, Newborn, Diseases"
+05_add_dis_generic_drop,rentrez,36561129,Fluticasone,"Pulmonary Disease, Chronic Obstructive"
+05_add_dis_generic_drop,rentrez,36707080,Atorvastatin,Stroke
+05_add_dis_generic_drop,rentrez,36707080,Clopidogrel,Stroke
+05_add_dis_generic_drop,rentrez,37210743,Valsartan,Heart Failure
+05_add_dis_generic_drop,rentrez,37395974,Ezetimibe,Hypertension
+05_add_dis_generic_drop,rentrez,37395974,Ezetimibe,Essential Hypertension
+05_add_dis_generic_drop,rentrez,37526038,Baclofen,Substance Withdrawal Syndrome
+05_add_dis_generic_drop,rentrez,39601808,Methylphenidate,Attention Deficit Disorder with Hyperactivity
+05_add_dis_generic_drop,rentrez,39601808,Methylphenidate,Attention Deficit and Disruptive Behavior Disorders
+05_add_dis_generic_drop,rentrez,40043888,Prednisone,Uveomeningoencephalitic Syndrome
+05_add_dis_generic_drop,rentrez,40043888,Adalimumab,Uveomeningoencephalitic Syndrome
+05_add_dis_generic_drop,rentrez,40877788,Acetaminophen,"Pain, Postoperative"
+05_add_dis_generic_drop,rentrez,40945498,Acetaminophen,"Pain, Postoperative"
+05_add_dis_generic_drop,rentrez,10572343,Trazodone,Sleep Initiation and Maintenance Disorders
+05_add_dis_generic_drop,rentrez,24023757,Pravastatin,Coronary Disease
+05_add_dis_generic_drop,rentrez,24158898,Pantoprazole,Helicobacter Infections
+05_add_dis_generic_drop,rentrez,24180582,Clindamycin,"Pain, Postoperative"
+05_add_dis_generic_drop,rentrez,25796863,Pantoprazole,Helicobacter Infections
+05_add_dis_generic_drop,rentrez,26577417,Insulin Lispro,"Diabetes Mellitus, Type 2"
+05_add_dis_generic_drop,rentrez,27808417,Levetiracetam,Dystonic Disorders
+05_add_dis_generic_drop,rentrez,28082332,Losartan,Hypertension
+05_add_dis_generic_drop,rentrez,30302936,Chlorthalidone,Essential Hypertension
+05_add_dis_generic_drop,rentrez,32436641,Insulin Lispro,"Diabetes Mellitus, Type 1"
+05_add_dis_generic_drop,rentrez,32488923,Insulin Lispro,"Diabetes Mellitus, Type 1"
+05_add_dis_generic_drop,rentrez,33783553,Warfarin,Blood Coagulation Disorders
+05_add_dis_generic_drop,rentrez,33837106,Insulin Aspart,"Diabetes Mellitus, Type 2"
+05_add_dis_generic_drop,rentrez,34596484,Tamsulosin,Pain
+05_add_dis_generic_drop,rentrez,34847709,Isosorbide,Cerebral Small Vessel Diseases
+05_add_dis_generic_drop,rentrez,35346603,Ezetimibe,Muscular Diseases
+05_add_dis_generic_drop,rentrez,36262968,Triamcinolone,Pain
+05_add_dis_generic_drop,rentrez,38267312,Insulin Glargine,"Diabetes Mellitus, Type 2"
+05_add_dis_generic_drop,rentrez,38521730,Ondansetron,"Liver Diseases, Alcoholic"
+05_add_dis_generic_drop,rentrez,40345826,Amoxicillin,Community-Acquired Infections
+05_add_dis_generic_drop,rentrez,40505216,Methylphenidate,Parkinson Disease
+05_add_dis_generic_drop,union,8165073,Nitrofurantoin,Urologic Diseases
+05_add_dis_generic_drop,union,9866667,Cephalexin,Wounds and Injuries
+05_add_dis_generic_drop,union,12453952,Glipizide,Diabetes Mellitus
+05_add_dis_generic_drop,union,12453952,Glipizide,"Diabetes Mellitus, Type 2"
+05_add_dis_generic_drop,union,15468607,Trazodone,Sleep Initiation and Maintenance Disorders
+05_add_dis_generic_drop,union,17097398,Cephalexin,Dermatitis
+05_add_dis_generic_drop,union,17097398,Cephalexin,"Skin Diseases, Infectious"
+05_add_dis_generic_drop,union,17580026,Diltiazem,Fissure in Ano
+05_add_dis_generic_drop,union,19169140,Valacyclovir,Herpes Simplex
+05_add_dis_generic_drop,union,19169140,Acyclovir,Herpes Simplex
+05_add_dis_generic_drop,union,21075537,Gabapentin,Pruritus
+05_add_dis_generic_drop,union,21075537,Gabapentin,Burns
+05_add_dis_generic_drop,union,21075537,Cetirizine,Pruritus
+05_add_dis_generic_drop,union,21075537,Cetirizine,Burns
+05_add_dis_generic_drop,union,22915486,Mirtazapine,Sleep Deprivation
+05_add_dis_generic_drop,union,22915486,Mirtazapine,"Sleep Disorders, Circadian Rhythm"
+05_add_dis_generic_drop,union,23082133,Lisinopril,Inflammation
+05_add_dis_generic_drop,union,23082133,Pravastatin,Cardiovascular Diseases
+05_add_dis_generic_drop,union,23223108,Baclofen,Pain
+05_add_dis_generic_drop,union,23269105,Sertraline,Seizures
+05_add_dis_generic_drop,union,23497779,Pravastatin,Coronary Artery Disease
+05_add_dis_generic_drop,union,23497779,Pravastatin,Diabetes Mellitus
+05_add_dis_generic_drop,union,23570952,Paroxetine,Depressive Disorder Treatment Resistant
+05_add_dis_generic_drop,union,23570952,Buspirone,Anxiety Disorders
+05_add_dis_generic_drop,union,23570952,Buspirone,"Depressive Disorder, Treatment-Resistant"

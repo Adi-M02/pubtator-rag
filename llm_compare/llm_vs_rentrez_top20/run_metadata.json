@@ -1,0 +1,15 @@
+{
+  "llm_jsonl": "/Users/adimukundan/Fall 2025/health data analytics/Project/llm_pipeline/eval_results/llm_extractions/llama3_3_latest_extract_temp0/llm_outputs.jsonl",
+  "rentrez_csv": "/Users/adimukundan/Fall 2025/health data analytics/Project/rentrez_data/pubmed_results.csv",
+  "sample_json": "/Users/adimukundan/Fall 2025/health data analytics/Project/manual_evaluation/eval_results/shared_pmids_eval_stratified_sample_pmids.json",
+  "n_pmids": 150,
+  "top_n": 20,
+  "require_positive": true,
+  "llm_disease_mode": "canonical",
+  "outputs": {
+    "top_drugs_counts_csv": "/Users/adimukundan/Fall 2025/health data analytics/Project/llm_compare/llm_vs_rentrez_top20/top_drugs_counts.csv",
+    "top_diseases_counts_csv": "/Users/adimukundan/Fall 2025/health data analytics/Project/llm_compare/llm_vs_rentrez_top20/top_diseases_counts.csv",
+    "top_drugs_bar_png": "/Users/adimukundan/Fall 2025/health data analytics/Project/llm_compare/llm_vs_rentrez_top20/top_drugs_bar.png",
+    "top_diseases_bar_png": "/Users/adimukundan/Fall 2025/health data analytics/Project/llm_compare/llm_vs_rentrez_top20/top_diseases_bar.png"
+  }
+}

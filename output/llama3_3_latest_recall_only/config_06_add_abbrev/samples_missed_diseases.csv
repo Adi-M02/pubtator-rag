@@ -1,0 +1,201 @@
+config,truth_source,pmid,missed_disease
+06_add_abbrev,pubtator,8165073,Urologic Diseases
+06_add_abbrev,pubtator,9866667,Wounds and Injuries
+06_add_abbrev,pubtator,15468607,Sleep Initiation and Maintenance Disorders
+06_add_abbrev,pubtator,17097398,Dermatitis
+06_add_abbrev,pubtator,17580026,Fissure in Ano
+06_add_abbrev,pubtator,19169140,Herpes Simplex
+06_add_abbrev,pubtator,21075537,Pruritus
+06_add_abbrev,pubtator,21075537,Burns
+06_add_abbrev,pubtator,22915486,Sleep Deprivation
+06_add_abbrev,pubtator,23082133,Inflammation
+06_add_abbrev,pubtator,23223108,Pain
+06_add_abbrev,pubtator,23269105,Seizures
+06_add_abbrev,pubtator,23497779,Coronary Artery Disease
+06_add_abbrev,pubtator,23570952,Depressive Disorder Treatment Resistant
+06_add_abbrev,pubtator,24506965,Breast Neoplasms
+06_add_abbrev,pubtator,26123629,Depressive Disorder
+06_add_abbrev,pubtator,26123629,Sleep Initiation and Maintenance Disorders
+06_add_abbrev,pubtator,26123629,Sleep Wake Disorders
+06_add_abbrev,pubtator,26550813,Neuralgia
+06_add_abbrev,pubtator,26572055,Mental Disorders
+06_add_abbrev,pubtator,26572055,Psychological Trauma
+06_add_abbrev,pubtator,26572055,Sleep Deprivation
+06_add_abbrev,pubtator,27367818,Cardiac Conduction System Disease
+06_add_abbrev,pubtator,28416195,Chest Pain
+06_add_abbrev,pubtator,29402860,Sleep Wake Disorders
+06_add_abbrev,pubtator,29622037,Mental Disorders
+06_add_abbrev,pubtator,30002098,Renal Insufficiency Chronic
+06_add_abbrev,pubtator,30002098,Albuminuria
+06_add_abbrev,pubtator,30318492,Cerebral Infarction
+06_add_abbrev,pubtator,30326006,Sciatica
+06_add_abbrev,pubtator,31230222,Autistic Disorder
+06_add_abbrev,pubtator,32629738,Hip Injuries
+06_add_abbrev,pubtator,33412422,Abdominal Pain
+06_add_abbrev,pubtator,34133820,Musculoskeletal Pain
+06_add_abbrev,pubtator,34218802,Helicobacter Infections
+06_add_abbrev,pubtator,34453525,Attention Deficit Disorder with Hyperactivity
+06_add_abbrev,pubtator,35766202,Arthritis Sacroiliac
+06_add_abbrev,pubtator,35867273,Headache
+06_add_abbrev,pubtator,35905573,Pain
+06_add_abbrev,pubtator,35905573,Joint Diseases
+06_add_abbrev,pubtator,35987681,Hypotension
+06_add_abbrev,pubtator,36173344,Heart Diseases
+06_add_abbrev,pubtator,36471429,Surgical Wound Infection
+06_add_abbrev,pubtator,36477458,Bell Palsy
+06_add_abbrev,pubtator,37138225,Pain
+06_add_abbrev,pubtator,39586374,Pain
+06_add_abbrev,pubtator,39601808,Disruptive Impulse Control and Conduct Disorders
+06_add_abbrev,pubtator,39601808,Attention Deficit and Disruptive Behavior Disorders
+06_add_abbrev,pubtator,40037214,Embolism
+06_add_abbrev,pubtator,40043888,Uveomeningoencephalitic Syndrome
+06_add_abbrev,pubtator,40813667,Dyspnea
+06_add_abbrev,pubtator,40945498,Pain
+06_add_abbrev,pubtator,10572343,Sleep Wake Disorders
+06_add_abbrev,pubtator,12145220,Diabetes Mellitus
+06_add_abbrev,pubtator,22947356,Hypertension Diastolic Resistance to
+06_add_abbrev,pubtator,24180582,Pain
+06_add_abbrev,pubtator,25941016,Pain
+06_add_abbrev,pubtator,27808417,Meige Syndrome
+06_add_abbrev,pubtator,28082332,Hypoxia
+06_add_abbrev,pubtator,28240967,Small Cell Lung Carcinoma
+06_add_abbrev,pubtator,33783553,Blood Coagulation Disorders
+06_add_abbrev,pubtator,34847709,Cerebral Infarction
+06_add_abbrev,pubtator,37263861,Altitude Sickness
+06_add_abbrev,pubtator,37289237,Pulmonary Atelectasis
+06_add_abbrev,pubtator,38521730,Alcoholism
+06_add_abbrev,pubtator,40505216,Parkinson Disease
+06_add_abbrev,rentrez,12453952,Diabetes Mellitus
+06_add_abbrev,rentrez,12453952,"Diabetes Mellitus, Type 2"
+06_add_abbrev,rentrez,15468607,Sleep Initiation and Maintenance Disorders
+06_add_abbrev,rentrez,17097398,"Skin Diseases, Infectious"
+06_add_abbrev,rentrez,22915486,"Sleep Disorders, Circadian Rhythm"
+06_add_abbrev,rentrez,23497779,Coronary Artery Disease
+06_add_abbrev,rentrez,23570952,Anxiety Disorders
+06_add_abbrev,rentrez,23570952,"Depressive Disorder, Treatment-Resistant"
+06_add_abbrev,rentrez,25987260,"Diabetes Mellitus, Type 2"
+06_add_abbrev,rentrez,25987260,"Kidney Failure, Chronic"
+06_add_abbrev,rentrez,26123629,Sleep Wake Disorders
+06_add_abbrev,rentrez,26572055,Alzheimer Disease
+06_add_abbrev,rentrez,28838583,Psychotic Disorders
+06_add_abbrev,rentrez,29402860,Sleep Wake Disorders
+06_add_abbrev,rentrez,29622037,Alzheimer Disease
+06_add_abbrev,rentrez,29622037,Cognition Disorders
+06_add_abbrev,rentrez,30326006,Chronic Pain
+06_add_abbrev,rentrez,31230222,Autistic Disorder
+06_add_abbrev,rentrez,31435774,Chronic Pain
+06_add_abbrev,rentrez,31435774,Pelvic Pain
+06_add_abbrev,rentrez,34133820,Acute Pain
+06_add_abbrev,rentrez,34218802,Helicobacter Infections
+06_add_abbrev,rentrez,34453525,Attention Deficit Disorder with Hyperactivity
+06_add_abbrev,rentrez,35905573,Pain
+06_add_abbrev,rentrez,35987681,Systemic Inflammatory Response Syndrome
+06_add_abbrev,rentrez,36173344,Heart Diseases
+06_add_abbrev,rentrez,36173344,Heart Failure
+06_add_abbrev,rentrez,36471429,Surgical Wound Infection
+06_add_abbrev,rentrez,36477458,"Infant, Newborn, Diseases"
+06_add_abbrev,rentrez,36707080,Stroke
+06_add_abbrev,rentrez,37526038,Substance Withdrawal Syndrome
+06_add_abbrev,rentrez,39601808,Attention Deficit Disorder with Hyperactivity
+06_add_abbrev,rentrez,39601808,Attention Deficit and Disruptive Behavior Disorders
+06_add_abbrev,rentrez,40043888,Uveomeningoencephalitic Syndrome
+06_add_abbrev,rentrez,10572343,Sleep Initiation and Maintenance Disorders
+06_add_abbrev,rentrez,24023757,Coronary Disease
+06_add_abbrev,rentrez,24158898,Helicobacter Infections
+06_add_abbrev,rentrez,24180582,"Pain, Postoperative"
+06_add_abbrev,rentrez,25796863,Helicobacter Infections
+06_add_abbrev,rentrez,27808417,Dystonic Disorders
+06_add_abbrev,rentrez,33783553,Blood Coagulation Disorders
+06_add_abbrev,rentrez,34596484,Pain
+06_add_abbrev,rentrez,35346603,Muscular Diseases
+06_add_abbrev,rentrez,36262968,Pain
+06_add_abbrev,rentrez,38521730,"Liver Diseases, Alcoholic"
+06_add_abbrev,rentrez,40345826,Community-Acquired Infections
+06_add_abbrev,rentrez,40505216,Parkinson Disease
+06_add_abbrev,union,8165073,Urologic Diseases
+06_add_abbrev,union,9866667,Wounds and Injuries
+06_add_abbrev,union,12453952,Diabetes Mellitus
+06_add_abbrev,union,12453952,"Diabetes Mellitus, Type 2"
+06_add_abbrev,union,15468607,Sleep Initiation and Maintenance Disorders
+06_add_abbrev,union,17097398,Dermatitis
+06_add_abbrev,union,17097398,"Skin Diseases, Infectious"
+06_add_abbrev,union,17580026,Fissure in Ano
+06_add_abbrev,union,19169140,Herpes Simplex
+06_add_abbrev,union,21075537,Pruritus
+06_add_abbrev,union,21075537,Burns
+06_add_abbrev,union,22915486,Sleep Deprivation
+06_add_abbrev,union,22915486,"Sleep Disorders, Circadian Rhythm"
+06_add_abbrev,union,23082133,Inflammation
+06_add_abbrev,union,23223108,Pain
+06_add_abbrev,union,23269105,Seizures
+06_add_abbrev,union,23497779,Coronary Artery Disease
+06_add_abbrev,union,23570952,Depressive Disorder Treatment Resistant
+06_add_abbrev,union,23570952,Anxiety Disorders
+06_add_abbrev,union,24506965,Breast Neoplasms
+06_add_abbrev,union,25987260,"Diabetes Mellitus, Type 2"
+06_add_abbrev,union,25987260,"Kidney Failure, Chronic"
+06_add_abbrev,union,26123629,Depressive Disorder
+06_add_abbrev,union,26123629,Sleep Initiation and Maintenance Disorders
+06_add_abbrev,union,26123629,Sleep Wake Disorders
+06_add_abbrev,union,26550813,Neuralgia
+06_add_abbrev,union,26572055,Mental Disorders
+06_add_abbrev,union,26572055,Psychological Trauma
+06_add_abbrev,union,26572055,Sleep Deprivation
+06_add_abbrev,union,26572055,Alzheimer Disease
+06_add_abbrev,union,27367818,Cardiac Conduction System Disease
+06_add_abbrev,union,28416195,Chest Pain
+06_add_abbrev,union,28838583,Psychotic Disorders
+06_add_abbrev,union,29402860,Sleep Wake Disorders
+06_add_abbrev,union,29622037,Mental Disorders
+06_add_abbrev,union,29622037,Alzheimer Disease
+06_add_abbrev,union,29622037,Cognition Disorders
+06_add_abbrev,union,30002098,Renal Insufficiency Chronic
+06_add_abbrev,union,30002098,Albuminuria
+06_add_abbrev,union,30318492,Cerebral Infarction
+06_add_abbrev,union,30326006,Sciatica
+06_add_abbrev,union,30326006,Chronic Pain
+06_add_abbrev,union,31230222,Autistic Disorder
+06_add_abbrev,union,31435774,Chronic Pain
+06_add_abbrev,union,31435774,Pelvic Pain
+06_add_abbrev,union,32629738,Hip Injuries
+06_add_abbrev,union,33412422,Abdominal Pain
+06_add_abbrev,union,34133820,Musculoskeletal Pain
+06_add_abbrev,union,34133820,Acute Pain
+06_add_abbrev,union,34218802,Helicobacter Infections
+06_add_abbrev,union,34453525,Attention Deficit Disorder with Hyperactivity
+06_add_abbrev,union,35766202,Arthritis Sacroiliac
+06_add_abbrev,union,35867273,Headache
+06_add_abbrev,union,35905573,Pain
+06_add_abbrev,union,35905573,Joint Diseases
+06_add_abbrev,union,35987681,Hypotension
+06_add_abbrev,union,35987681,Systemic Inflammatory Response Syndrome
+06_add_abbrev,union,36173344,Heart Diseases
+06_add_abbrev,union,36173344,Heart Failure
+06_add_abbrev,union,36471429,Surgical Wound Infection
+06_add_abbrev,union,36477458,Bell Palsy
+06_add_abbrev,union,36477458,"Infant, Newborn, Diseases"
+06_add_abbrev,union,36707080,Stroke
+06_add_abbrev,union,37138225,Pain
+06_add_abbrev,union,37526038,Substance Withdrawal Syndrome
+06_add_abbrev,union,39586374,Pain
+06_add_abbrev,union,39601808,Disruptive Impulse Control and Conduct Disorders
+06_add_abbrev,union,39601808,Attention Deficit and Disruptive Behavior Disorders
+06_add_abbrev,union,39601808,Attention Deficit Disorder with Hyperactivity
+06_add_abbrev,union,40037214,Embolism
+06_add_abbrev,union,40043888,Uveomeningoencephalitic Syndrome
+06_add_abbrev,union,40813667,Dyspnea
+06_add_abbrev,union,40945498,Pain
+06_add_abbrev,union,10572343,Sleep Wake Disorders
+06_add_abbrev,union,10572343,Sleep Initiation and Maintenance Disorders
+06_add_abbrev,union,12145220,Diabetes Mellitus
+06_add_abbrev,union,22947356,Hypertension Diastolic Resistance to
+06_add_abbrev,union,24023757,Coronary Disease
+06_add_abbrev,union,24158898,Helicobacter Infections
+06_add_abbrev,union,24180582,Pain
+06_add_abbrev,union,24180582,"Pain, Postoperative"
+06_add_abbrev,union,25796863,Helicobacter Infections
+06_add_abbrev,union,25941016,Pain
+06_add_abbrev,union,27808417,Meige Syndrome
+06_add_abbrev,union,27808417,Dystonic Disorders
+06_add_abbrev,union,28082332,Hypoxia
+06_add_abbrev,union,28240967,Small Cell Lung Carcinoma

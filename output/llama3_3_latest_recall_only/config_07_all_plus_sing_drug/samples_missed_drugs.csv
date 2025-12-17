@@ -1,0 +1,45 @@
+config,truth_source,pmid,missed_drug
+07_all_plus_sing_drug,pubtator,19169140,Acyclovir
+07_all_plus_sing_drug,pubtator,30002098,Valsartan
+07_all_plus_sing_drug,pubtator,35905573,Triamcinolone
+07_all_plus_sing_drug,pubtator,36173235,Insulin Lispro
+07_all_plus_sing_drug,pubtator,36173344,Valsartan
+07_all_plus_sing_drug,pubtator,36561129,Fluticasone
+07_all_plus_sing_drug,pubtator,36942908,Acetaminophen
+07_all_plus_sing_drug,pubtator,25796863,Pantoprazole
+07_all_plus_sing_drug,pubtator,30302936,Chlorthalidone
+07_all_plus_sing_drug,pubtator,32436641,Insulin Lispro
+07_all_plus_sing_drug,pubtator,32488923,Insulin Lispro
+07_all_plus_sing_drug,pubtator,33097422,Sulfamethoxazole
+07_all_plus_sing_drug,pubtator,34847709,Isosorbide
+07_all_plus_sing_drug,pubtator,38267312,Insulin Glargine
+07_all_plus_sing_drug,rentrez,35905573,Triamcinolone
+07_all_plus_sing_drug,rentrez,36173235,Insulin Lispro
+07_all_plus_sing_drug,rentrez,36173344,Valsartan
+07_all_plus_sing_drug,rentrez,36561129,Fluticasone
+07_all_plus_sing_drug,rentrez,40945498,Acetaminophen
+07_all_plus_sing_drug,rentrez,25796863,Pantoprazole
+07_all_plus_sing_drug,rentrez,26577417,Insulin Lispro
+07_all_plus_sing_drug,rentrez,30302936,Chlorthalidone
+07_all_plus_sing_drug,rentrez,32436641,Insulin Lispro
+07_all_plus_sing_drug,rentrez,32488923,Insulin Lispro
+07_all_plus_sing_drug,rentrez,34847709,Isosorbide
+07_all_plus_sing_drug,rentrez,38267312,Insulin Glargine
+07_all_plus_sing_drug,rentrez,40345826,Amoxicillin
+07_all_plus_sing_drug,union,19169140,Acyclovir
+07_all_plus_sing_drug,union,30002098,Valsartan
+07_all_plus_sing_drug,union,35905573,Triamcinolone
+07_all_plus_sing_drug,union,36173235,Insulin Lispro
+07_all_plus_sing_drug,union,36173344,Valsartan
+07_all_plus_sing_drug,union,36561129,Fluticasone
+07_all_plus_sing_drug,union,36942908,Acetaminophen
+07_all_plus_sing_drug,union,40945498,Acetaminophen
+07_all_plus_sing_drug,union,25796863,Pantoprazole
+07_all_plus_sing_drug,union,26577417,Insulin Lispro
+07_all_plus_sing_drug,union,30302936,Chlorthalidone
+07_all_plus_sing_drug,union,32436641,Insulin Lispro
+07_all_plus_sing_drug,union,32488923,Insulin Lispro
+07_all_plus_sing_drug,union,33097422,Sulfamethoxazole
+07_all_plus_sing_drug,union,34847709,Isosorbide
+07_all_plus_sing_drug,union,38267312,Insulin Glargine
+07_all_plus_sing_drug,union,40345826,Amoxicillin

@@ -1,0 +1,45 @@
+config,truth_source,pmid,missed_drug
+05_add_dis_generic_drop,pubtator,19169140,Acyclovir
+05_add_dis_generic_drop,pubtator,30002098,Valsartan
+05_add_dis_generic_drop,pubtator,35905573,Triamcinolone
+05_add_dis_generic_drop,pubtator,36173235,Insulin Lispro
+05_add_dis_generic_drop,pubtator,36173344,Valsartan
+05_add_dis_generic_drop,pubtator,36561129,Fluticasone
+05_add_dis_generic_drop,pubtator,36942908,Acetaminophen
+05_add_dis_generic_drop,pubtator,25796863,Pantoprazole
+05_add_dis_generic_drop,pubtator,30302936,Chlorthalidone
+05_add_dis_generic_drop,pubtator,32436641,Insulin Lispro
+05_add_dis_generic_drop,pubtator,32488923,Insulin Lispro
+05_add_dis_generic_drop,pubtator,33097422,Sulfamethoxazole
+05_add_dis_generic_drop,pubtator,34847709,Isosorbide
+05_add_dis_generic_drop,pubtator,38267312,Insulin Glargine
+05_add_dis_generic_drop,rentrez,35905573,Triamcinolone
+05_add_dis_generic_drop,rentrez,36173235,Insulin Lispro
+05_add_dis_generic_drop,rentrez,36173344,Valsartan
+05_add_dis_generic_drop,rentrez,36561129,Fluticasone
+05_add_dis_generic_drop,rentrez,40945498,Acetaminophen
+05_add_dis_generic_drop,rentrez,25796863,Pantoprazole
+05_add_dis_generic_drop,rentrez,26577417,Insulin Lispro
+05_add_dis_generic_drop,rentrez,30302936,Chlorthalidone
+05_add_dis_generic_drop,rentrez,32436641,Insulin Lispro
+05_add_dis_generic_drop,rentrez,32488923,Insulin Lispro
+05_add_dis_generic_drop,rentrez,34847709,Isosorbide
+05_add_dis_generic_drop,rentrez,38267312,Insulin Glargine
+05_add_dis_generic_drop,rentrez,40345826,Amoxicillin
+05_add_dis_generic_drop,union,19169140,Acyclovir
+05_add_dis_generic_drop,union,30002098,Valsartan
+05_add_dis_generic_drop,union,35905573,Triamcinolone
+05_add_dis_generic_drop,union,36173235,Insulin Lispro
+05_add_dis_generic_drop,union,36173344,Valsartan
+05_add_dis_generic_drop,union,36561129,Fluticasone
+05_add_dis_generic_drop,union,36942908,Acetaminophen
+05_add_dis_generic_drop,union,40945498,Acetaminophen
+05_add_dis_generic_drop,union,25796863,Pantoprazole
+05_add_dis_generic_drop,union,26577417,Insulin Lispro
+05_add_dis_generic_drop,union,30302936,Chlorthalidone
+05_add_dis_generic_drop,union,32436641,Insulin Lispro
+05_add_dis_generic_drop,union,32488923,Insulin Lispro
+05_add_dis_generic_drop,union,33097422,Sulfamethoxazole
+05_add_dis_generic_drop,union,34847709,Isosorbide
+05_add_dis_generic_drop,union,38267312,Insulin Glargine
+05_add_dis_generic_drop,union,40345826,Amoxicillin

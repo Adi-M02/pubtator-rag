@@ -1,0 +1,14 @@
+{
+  "manual_pmids": 150,
+  "llm_pmids": 150,
+  "pmids_overlap": 150,
+  "pmids_missing_llm": 0,
+  "truth_sources": [
+    "pubtator",
+    "rentrez",
+    "union"
+  ],
+  "llm_jsonl": "llm_pipeline/eval_results/llm_extractions/llama3_3_latest_extract_temp0/llm_outputs.jsonl",
+  "manual_csv": "manual_evaluation/eval_results/shared_pmids_eval_stratified_pmid_eval.csv",
+  "notes": "Recall is computed against human-verified truth sets in pubtator_true_claims_json and rentrez_true_claims_json only."
+}

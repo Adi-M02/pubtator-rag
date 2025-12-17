@@ -1,0 +1,4 @@
+group,dataset,n_pmids,tp,fp,pred_claims_total,precision
+single,PubTator,75,53,22,75,0.7066666666666667
+multi,PubTator,75,140,55,195,0.717948717948718
+all,PubTator,150,193,77,270,0.7148148148148148

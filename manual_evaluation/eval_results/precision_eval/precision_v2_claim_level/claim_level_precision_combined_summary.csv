@@ -1,0 +1,4 @@
+group,dataset,n_pmids,tp,fp,pred_claims_total,precision
+single,Combined,75,108,42,150,0.72
+multi,Combined,75,235,110,345,0.6811594202898551
+all,Combined,150,343,152,495,0.692929292929293

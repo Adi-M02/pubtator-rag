@@ -1,0 +1,16 @@
+Definitions: 9
+Intersection size: 14
+acetaminophen
+aspirin
+atorvastatin
+clopidogrel
+famotidine
+furosemide
+hydralazine
+lisinopril
+lorazepam
+omeprazole
+ondansetron
+pantoprazole
+potassium chloride
+warfarin

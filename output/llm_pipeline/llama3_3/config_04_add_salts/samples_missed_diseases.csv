@@ -1,0 +1,201 @@
+config,truth_source,pmid,missed_disease
+04_add_salts,pubtator,8165073,Urologic Diseases
+04_add_salts,pubtator,9866667,Wounds and Injuries
+04_add_salts,pubtator,15468607,Sleep Initiation and Maintenance Disorders
+04_add_salts,pubtator,17097398,Dermatitis
+04_add_salts,pubtator,17580026,Fissure in Ano
+04_add_salts,pubtator,19169140,Herpes Simplex
+04_add_salts,pubtator,21075537,Pruritus
+04_add_salts,pubtator,21075537,Burns
+04_add_salts,pubtator,22915486,Sleep Deprivation
+04_add_salts,pubtator,23082133,Inflammation
+04_add_salts,pubtator,23223108,Pain
+04_add_salts,pubtator,23269105,Seizures
+04_add_salts,pubtator,23497779,Coronary Artery Disease
+04_add_salts,pubtator,23570952,Depressive Disorder Treatment Resistant
+04_add_salts,pubtator,24506965,Breast Neoplasms
+04_add_salts,pubtator,26123629,Depressive Disorder
+04_add_salts,pubtator,26123629,Sleep Initiation and Maintenance Disorders
+04_add_salts,pubtator,26123629,Sleep Wake Disorders
+04_add_salts,pubtator,26550813,Neuralgia
+04_add_salts,pubtator,26572055,Mental Disorders
+04_add_salts,pubtator,26572055,Psychological Trauma
+04_add_salts,pubtator,26572055,Sleep Deprivation
+04_add_salts,pubtator,27367818,Cardiac Conduction System Disease
+04_add_salts,pubtator,28416195,Chest Pain
+04_add_salts,pubtator,29402860,Sleep Wake Disorders
+04_add_salts,pubtator,29622037,Mental Disorders
+04_add_salts,pubtator,30002098,Renal Insufficiency Chronic
+04_add_salts,pubtator,30002098,Albuminuria
+04_add_salts,pubtator,30318492,Cerebral Infarction
+04_add_salts,pubtator,30326006,Sciatica
+04_add_salts,pubtator,31230222,Autistic Disorder
+04_add_salts,pubtator,32629738,Hip Injuries
+04_add_salts,pubtator,33412422,Abdominal Pain
+04_add_salts,pubtator,34133820,Musculoskeletal Pain
+04_add_salts,pubtator,34218802,Helicobacter Infections
+04_add_salts,pubtator,34453525,Attention Deficit Disorder with Hyperactivity
+04_add_salts,pubtator,34559090,Substance Withdrawal Syndrome
+04_add_salts,pubtator,35259978,Migraine Disorders
+04_add_salts,pubtator,35766202,Arthritis Sacroiliac
+04_add_salts,pubtator,35867273,Migraine Disorders
+04_add_salts,pubtator,35867273,Headache
+04_add_salts,pubtator,35905573,Pain
+04_add_salts,pubtator,35905573,Joint Diseases
+04_add_salts,pubtator,35987681,Hypotension
+04_add_salts,pubtator,36173344,Heart Diseases
+04_add_salts,pubtator,36471429,Surgical Wound Infection
+04_add_salts,pubtator,36477458,Bell Palsy
+04_add_salts,pubtator,37138225,Pain
+04_add_salts,pubtator,39586374,Pain
+04_add_salts,pubtator,39601808,Disruptive Impulse Control and Conduct Disorders
+04_add_salts,pubtator,39601808,Attention Deficit and Disruptive Behavior Disorders
+04_add_salts,pubtator,40037214,Embolism
+04_add_salts,pubtator,40043888,Uveomeningoencephalitic Syndrome
+04_add_salts,pubtator,40813667,Dyspnea
+04_add_salts,pubtator,40945498,Pain
+04_add_salts,pubtator,10572343,Sleep Wake Disorders
+04_add_salts,pubtator,12145220,Diabetes Mellitus
+04_add_salts,pubtator,22947356,Hypertension Diastolic Resistance to
+04_add_salts,pubtator,24180582,Pain
+04_add_salts,pubtator,25941016,Pain
+04_add_salts,pubtator,27808417,Meige Syndrome
+04_add_salts,pubtator,28082332,Hypoxia
+04_add_salts,pubtator,28240967,Small Cell Lung Carcinoma
+04_add_salts,pubtator,33783553,Blood Coagulation Disorders
+04_add_salts,pubtator,34847709,Cerebral Infarction
+04_add_salts,pubtator,35469478,Migraine Disorders
+04_add_salts,pubtator,37263861,Altitude Sickness
+04_add_salts,pubtator,37289237,Pulmonary Atelectasis
+04_add_salts,pubtator,38521730,Alcoholism
+04_add_salts,pubtator,40505216,Parkinson Disease
+04_add_salts,rentrez,12453952,Diabetes Mellitus
+04_add_salts,rentrez,12453952,"Diabetes Mellitus, Type 2"
+04_add_salts,rentrez,15468607,Sleep Initiation and Maintenance Disorders
+04_add_salts,rentrez,17097398,"Skin Diseases, Infectious"
+04_add_salts,rentrez,22915486,"Sleep Disorders, Circadian Rhythm"
+04_add_salts,rentrez,23497779,Coronary Artery Disease
+04_add_salts,rentrez,23570952,Anxiety Disorders
+04_add_salts,rentrez,23570952,"Depressive Disorder, Treatment-Resistant"
+04_add_salts,rentrez,25987260,"Diabetes Mellitus, Type 2"
+04_add_salts,rentrez,25987260,"Kidney Failure, Chronic"
+04_add_salts,rentrez,26123629,Sleep Wake Disorders
+04_add_salts,rentrez,26572055,Alzheimer Disease
+04_add_salts,rentrez,28838583,Psychotic Disorders
+04_add_salts,rentrez,29402860,Sleep Wake Disorders
+04_add_salts,rentrez,29622037,Alzheimer Disease
+04_add_salts,rentrez,29622037,Cognition Disorders
+04_add_salts,rentrez,30326006,Chronic Pain
+04_add_salts,rentrez,31230222,Autistic Disorder
+04_add_salts,rentrez,31435774,Chronic Pain
+04_add_salts,rentrez,31435774,Pelvic Pain
+04_add_salts,rentrez,34133820,Acute Pain
+04_add_salts,rentrez,34218802,Helicobacter Infections
+04_add_salts,rentrez,34453525,Attention Deficit Disorder with Hyperactivity
+04_add_salts,rentrez,34559090,Substance Withdrawal Syndrome
+04_add_salts,rentrez,35259978,Migraine Disorders
+04_add_salts,rentrez,35905573,Pain
+04_add_salts,rentrez,35987681,Systemic Inflammatory Response Syndrome
+04_add_salts,rentrez,36173344,Heart Diseases
+04_add_salts,rentrez,36173344,Heart Failure
+04_add_salts,rentrez,36471429,Surgical Wound Infection
+04_add_salts,rentrez,36477458,"Infant, Newborn, Diseases"
+04_add_salts,rentrez,36707080,Stroke
+04_add_salts,rentrez,37526038,Substance Withdrawal Syndrome
+04_add_salts,rentrez,39601808,Attention Deficit Disorder with Hyperactivity
+04_add_salts,rentrez,39601808,Attention Deficit and Disruptive Behavior Disorders
+04_add_salts,rentrez,40043888,Uveomeningoencephalitic Syndrome
+04_add_salts,rentrez,10572343,Sleep Initiation and Maintenance Disorders
+04_add_salts,rentrez,24023757,Coronary Disease
+04_add_salts,rentrez,24158898,Helicobacter Infections
+04_add_salts,rentrez,24180582,"Pain, Postoperative"
+04_add_salts,rentrez,24182419,Migraine Disorders
+04_add_salts,rentrez,25796863,Helicobacter Infections
+04_add_salts,rentrez,25941016,Migraine Disorders
+04_add_salts,rentrez,27808417,Dystonic Disorders
+04_add_salts,rentrez,33783553,Blood Coagulation Disorders
+04_add_salts,rentrez,34596484,Pain
+04_add_salts,rentrez,35346603,Muscular Diseases
+04_add_salts,rentrez,35469478,Migraine Disorders
+04_add_salts,rentrez,36262968,Pain
+04_add_salts,rentrez,38521730,"Liver Diseases, Alcoholic"
+04_add_salts,rentrez,40345826,Community-Acquired Infections
+04_add_salts,rentrez,40505216,Parkinson Disease
+04_add_salts,union,8165073,Urologic Diseases
+04_add_salts,union,9866667,Wounds and Injuries
+04_add_salts,union,12453952,Diabetes Mellitus
+04_add_salts,union,12453952,"Diabetes Mellitus, Type 2"
+04_add_salts,union,15468607,Sleep Initiation and Maintenance Disorders
+04_add_salts,union,17097398,Dermatitis
+04_add_salts,union,17097398,"Skin Diseases, Infectious"
+04_add_salts,union,17580026,Fissure in Ano
+04_add_salts,union,19169140,Herpes Simplex
+04_add_salts,union,21075537,Pruritus
+04_add_salts,union,21075537,Burns
+04_add_salts,union,22915486,Sleep Deprivation
+04_add_salts,union,22915486,"Sleep Disorders, Circadian Rhythm"
+04_add_salts,union,23082133,Inflammation
+04_add_salts,union,23223108,Pain
+04_add_salts,union,23269105,Seizures
+04_add_salts,union,23497779,Coronary Artery Disease
+04_add_salts,union,23570952,Depressive Disorder Treatment Resistant
+04_add_salts,union,23570952,Anxiety Disorders
+04_add_salts,union,24506965,Breast Neoplasms
+04_add_salts,union,25987260,"Diabetes Mellitus, Type 2"
+04_add_salts,union,25987260,"Kidney Failure, Chronic"
+04_add_salts,union,26123629,Depressive Disorder
+04_add_salts,union,26123629,Sleep Initiation and Maintenance Disorders
+04_add_salts,union,26123629,Sleep Wake Disorders
+04_add_salts,union,26550813,Neuralgia
+04_add_salts,union,26572055,Mental Disorders
+04_add_salts,union,26572055,Psychological Trauma
+04_add_salts,union,26572055,Sleep Deprivation
+04_add_salts,union,26572055,Alzheimer Disease
+04_add_salts,union,27367818,Cardiac Conduction System Disease
+04_add_salts,union,28416195,Chest Pain
+04_add_salts,union,28838583,Psychotic Disorders
+04_add_salts,union,29402860,Sleep Wake Disorders
+04_add_salts,union,29622037,Mental Disorders
+04_add_salts,union,29622037,Alzheimer Disease
+04_add_salts,union,29622037,Cognition Disorders
+04_add_salts,union,30002098,Renal Insufficiency Chronic
+04_add_salts,union,30002098,Albuminuria
+04_add_salts,union,30318492,Cerebral Infarction
+04_add_salts,union,30326006,Sciatica
+04_add_salts,union,30326006,Chronic Pain
+04_add_salts,union,31230222,Autistic Disorder
+04_add_salts,union,31435774,Chronic Pain
+04_add_salts,union,31435774,Pelvic Pain
+04_add_salts,union,32629738,Hip Injuries
+04_add_salts,union,33412422,Abdominal Pain
+04_add_salts,union,34133820,Musculoskeletal Pain
+04_add_salts,union,34133820,Acute Pain
+04_add_salts,union,34218802,Helicobacter Infections
+04_add_salts,union,34453525,Attention Deficit Disorder with Hyperactivity
+04_add_salts,union,34559090,Substance Withdrawal Syndrome
+04_add_salts,union,35259978,Migraine Disorders
+04_add_salts,union,35766202,Arthritis Sacroiliac
+04_add_salts,union,35867273,Migraine Disorders
+04_add_salts,union,35867273,Headache
+04_add_salts,union,35905573,Pain
+04_add_salts,union,35905573,Joint Diseases
+04_add_salts,union,35987681,Hypotension
+04_add_salts,union,35987681,Systemic Inflammatory Response Syndrome
+04_add_salts,union,36173344,Heart Diseases
+04_add_salts,union,36173344,Heart Failure
+04_add_salts,union,36471429,Surgical Wound Infection
+04_add_salts,union,36477458,Bell Palsy
+04_add_salts,union,36477458,"Infant, Newborn, Diseases"
+04_add_salts,union,36707080,Stroke
+04_add_salts,union,37138225,Pain
+04_add_salts,union,37526038,Substance Withdrawal Syndrome
+04_add_salts,union,39586374,Pain
+04_add_salts,union,39601808,Disruptive Impulse Control and Conduct Disorders
+04_add_salts,union,39601808,Attention Deficit and Disruptive Behavior Disorders
+04_add_salts,union,39601808,Attention Deficit Disorder with Hyperactivity
+04_add_salts,union,40037214,Embolism
+04_add_salts,union,40043888,Uveomeningoencephalitic Syndrome
+04_add_salts,union,40813667,Dyspnea
+04_add_salts,union,40945498,Pain
+04_add_salts,union,10572343,Sleep Wake Disorders
+04_add_salts,union,10572343,Sleep Initiation and Maintenance Disorders

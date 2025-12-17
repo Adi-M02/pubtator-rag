@@ -1,0 +1,21 @@
+entity_key,entity_label,llm_count,rentrez_count
+pregabalin,Pregabalin,5,8
+methylphenidate,methylphenidate,5,8
+pravastatin,Pravastatin,7,5
+amlodipine,amlodipine,7,4
+diclofenac,diclofenac,4,7
+ibuprofen,ibuprofen,7,5
+irbesartan,irbesartan,4,7
+cephalexin,Cephalexin,4,6
+acetaminophen,Acetaminophen,5,5
+placebo,Placebo,5,0
+atorvastatin,atorvastatin,3,5
+gabapentin,gabapentin,5,3
+fiasp,Fiasp,4,0
+glipizide,Glipizide,3,4
+lisinopril,Lisinopril,4,4
+memantine,Memantine,3,4
+nitrofurantoin,Nitrofurantoin,4,4
+atenolol,atenolol,4,4
+insulin glargine,Insulin Glargine,3,2
+hydrochlorothiazide,hydrochlorothiazide,3,2

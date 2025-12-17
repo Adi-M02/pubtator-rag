@@ -1,0 +1,201 @@
+config,truth_source,pmid,missed_drug,missed_disease
+03_add_drug_dose,pubtator,8165073,Nitrofurantoin,Urologic Diseases
+03_add_drug_dose,pubtator,9866667,Cephalexin,Wounds and Injuries
+03_add_drug_dose,pubtator,15468607,Trazodone,Sleep Initiation and Maintenance Disorders
+03_add_drug_dose,pubtator,17097398,Cephalexin,Dermatitis
+03_add_drug_dose,pubtator,17580026,Diltiazem,Fissure in Ano
+03_add_drug_dose,pubtator,19169140,Valacyclovir,Herpes Simplex
+03_add_drug_dose,pubtator,19169140,Acyclovir,Herpes Simplex
+03_add_drug_dose,pubtator,21075537,Gabapentin,Pruritus
+03_add_drug_dose,pubtator,21075537,Gabapentin,Burns
+03_add_drug_dose,pubtator,21075537,Cetirizine,Pruritus
+03_add_drug_dose,pubtator,21075537,Cetirizine,Burns
+03_add_drug_dose,pubtator,22915486,Mirtazapine,Sleep Deprivation
+03_add_drug_dose,pubtator,23082133,Lisinopril,Inflammation
+03_add_drug_dose,pubtator,23082133,Pravastatin,Cardiovascular Diseases
+03_add_drug_dose,pubtator,23223108,Baclofen,Pain
+03_add_drug_dose,pubtator,23269105,Sertraline,Seizures
+03_add_drug_dose,pubtator,23497779,Pravastatin,Coronary Artery Disease
+03_add_drug_dose,pubtator,23497779,Pravastatin,Diabetes Mellitus
+03_add_drug_dose,pubtator,23570952,Paroxetine,Depressive Disorder Treatment Resistant
+03_add_drug_dose,pubtator,24506965,Carvedilol,Breast Neoplasms
+03_add_drug_dose,pubtator,26123629,Gabapentin,Depressive Disorder
+03_add_drug_dose,pubtator,26123629,Gabapentin,Sleep Initiation and Maintenance Disorders
+03_add_drug_dose,pubtator,26123629,Gabapentin,Sleep Wake Disorders
+03_add_drug_dose,pubtator,26550813,Celecoxib,Neuralgia
+03_add_drug_dose,pubtator,26572055,Memantine,Mental Disorders
+03_add_drug_dose,pubtator,26572055,Memantine,Psychological Trauma
+03_add_drug_dose,pubtator,26572055,Memantine,Sleep Deprivation
+03_add_drug_dose,pubtator,27367818,Lisinopril,Cardiac Conduction System Disease
+03_add_drug_dose,pubtator,28416195,Pravastatin,HIV Infections
+03_add_drug_dose,pubtator,28416195,Pravastatin,Ischemic Attack Transient
+03_add_drug_dose,pubtator,28416195,Pravastatin,Chest Pain
+03_add_drug_dose,pubtator,29402860,Zolpidem,Sleep Wake Disorders
+03_add_drug_dose,pubtator,29622037,Donepezil,Mental Disorders
+03_add_drug_dose,pubtator,30002098,Valsartan,Renal Insufficiency Chronic
+03_add_drug_dose,pubtator,30002098,Valsartan,Albuminuria
+03_add_drug_dose,pubtator,30002098,Irbesartan,Renal Insufficiency Chronic
+03_add_drug_dose,pubtator,30318492,Pravastatin,Cerebral Infarction
+03_add_drug_dose,pubtator,30326006,Gabapentin,Sciatica
+03_add_drug_dose,pubtator,30326006,Pregabalin,Sciatica
+03_add_drug_dose,pubtator,31230222,Donepezil,Autistic Disorder
+03_add_drug_dose,pubtator,32629738,Pregabalin,Hip Injuries
+03_add_drug_dose,pubtator,33412422,Escitalopram,Abdominal Pain
+03_add_drug_dose,pubtator,34133820,Ibuprofen,Musculoskeletal Pain
+03_add_drug_dose,pubtator,34133820,Diclofenac,Musculoskeletal Pain
+03_add_drug_dose,pubtator,34218802,Doxycycline,Helicobacter Infections
+03_add_drug_dose,pubtator,34453525,Methylphenidate,Attention Deficit Disorder with Hyperactivity
+03_add_drug_dose,pubtator,34559090,Clonidine,Substance Withdrawal Syndrome
+03_add_drug_dose,pubtator,34793552,Amlodipine,Gastrointestinal Hemorrhage
+03_add_drug_dose,pubtator,34793552,Atenolol,Gastrointestinal Hemorrhage
+03_add_drug_dose,pubtator,35103836,Diclofenac,Pain Postoperative
+03_add_drug_dose,pubtator,35259978,Topiramate,Migraine Disorders
+03_add_drug_dose,pubtator,35766202,Methylprednisolone,Arthritis Sacroiliac
+03_add_drug_dose,pubtator,35867273,Propranolol,Migraine Disorders
+03_add_drug_dose,pubtator,35867273,Propranolol,Headache
+03_add_drug_dose,pubtator,35905573,Triamcinolone,Pain
+03_add_drug_dose,pubtator,35905573,Triamcinolone,Osteoarthritis
+03_add_drug_dose,pubtator,35905573,Triamcinolone,Joint Diseases
+03_add_drug_dose,pubtator,35987681,Methylprednisolone,Hypotension
+03_add_drug_dose,pubtator,36173235,Insulin Lispro,Diabetes Mellitus Type 1
+03_add_drug_dose,pubtator,36173344,Valsartan,Heart Diseases
+03_add_drug_dose,pubtator,36173344,Valsartan,Pulmonary Arterial Hypertension
+03_add_drug_dose,pubtator,36173344,Dapagliflozin,Heart Diseases
+03_add_drug_dose,pubtator,36471429,Cephalexin,Surgical Wound Infection
+03_add_drug_dose,pubtator,36477458,Ibuprofen,Bell Palsy
+03_add_drug_dose,pubtator,36561129,Fluticasone,Pulmonary Disease Chronic Obstructive
+03_add_drug_dose,pubtator,36561129,Vilanterol,Pulmonary Disease Chronic Obstructive
+03_add_drug_dose,pubtator,36942908,Acetaminophen,Acute Pain
+03_add_drug_dose,pubtator,37138225,Oxycodone,Pain
+03_add_drug_dose,pubtator,37210743,Valsartan,Heart Failure
+03_add_drug_dose,pubtator,37210743,Valsartan,Cardiovascular Diseases
+03_add_drug_dose,pubtator,37395974,Amlodipine,Dyslipidemias
+03_add_drug_dose,pubtator,37395974,Losartan,Dyslipidemias
+03_add_drug_dose,pubtator,37395974,Rosuvastatin,Hypertension
+03_add_drug_dose,pubtator,37395974,Ezetimibe,Hypertension
+03_add_drug_dose,pubtator,39586374,Clonidine,Pain
+03_add_drug_dose,pubtator,39601808,Methylphenidate,Disruptive Impulse Control and Conduct Disorders
+03_add_drug_dose,pubtator,39601808,Methylphenidate,Attention Deficit and Disruptive Behavior Disorders
+03_add_drug_dose,pubtator,40037214,Aspirin,Embolism
+03_add_drug_dose,pubtator,40037214,Rivaroxaban,Embolism
+03_add_drug_dose,pubtator,40043888,Prednisone,Uveomeningoencephalitic Syndrome
+03_add_drug_dose,pubtator,40043888,Adalimumab,Uveomeningoencephalitic Syndrome
+03_add_drug_dose,pubtator,40813667,Mirtazapine,Dyspnea
+03_add_drug_dose,pubtator,40877788,Acetaminophen,Pain Postoperative
+03_add_drug_dose,pubtator,40945498,Ibuprofen,Pain
+03_add_drug_dose,pubtator,40945498,Diclofenac,Pain
+03_add_drug_dose,pubtator,40945498,Diclofenac,Pain Postoperative
+03_add_drug_dose,pubtator,10572343,Trazodone,Sleep Wake Disorders
+03_add_drug_dose,pubtator,12145220,Glipizide,Diabetes Mellitus
+03_add_drug_dose,pubtator,22947356,Lisinopril,Hypertension Diastolic Resistance to
+03_add_drug_dose,pubtator,24158898,Pantoprazole,Dyspepsia
+03_add_drug_dose,pubtator,24180582,Clindamycin,Pain
+03_add_drug_dose,pubtator,25796863,Pantoprazole,Pancreatitis Chronic
+03_add_drug_dose,pubtator,25941016,Sumatriptan,Pain
+03_add_drug_dose,pubtator,26577417,Insulin Glargine,Hypoglycemia
+03_add_drug_dose,pubtator,27808417,Levetiracetam,Meige Syndrome
+03_add_drug_dose,pubtator,28082332,Losartan,Hypoxia
+03_add_drug_dose,pubtator,28240967,Pravastatin,Small Cell Lung Carcinoma
+03_add_drug_dose,pubtator,30302936,Chlorthalidone,Essential Hypertension
+03_add_drug_dose,pubtator,32436641,Insulin Lispro,Diabetes Mellitus Type 1
+03_add_drug_dose,pubtator,32488923,Insulin Lispro,Diabetes Mellitus Type 1
+03_add_drug_dose,pubtator,33097422,Sulfamethoxazole,Lower Urinary Tract Symptoms
+03_add_drug_dose,pubtator,33783553,Warfarin,Blood Coagulation Disorders
+03_add_drug_dose,pubtator,33837106,Insulin Aspart,Diabetes Mellitus Type 2
+03_add_drug_dose,pubtator,34847709,Isosorbide,Cerebral Infarction
+03_add_drug_dose,pubtator,35469478,Diclofenac,Migraine Disorders
+03_add_drug_dose,pubtator,37263861,Atorvastatin,Altitude Sickness
+03_add_drug_dose,pubtator,37289237,Furosemide,Pulmonary Atelectasis
+03_add_drug_dose,pubtator,38267312,Insulin Glargine,Diabetes Mellitus Type 2
+03_add_drug_dose,pubtator,38521730,Ondansetron,Alcoholism
+03_add_drug_dose,pubtator,39908026,Potassium Chloride,Stroke
+03_add_drug_dose,pubtator,40505216,Methylphenidate,Parkinson Disease
+03_add_drug_dose,rentrez,12453952,Glipizide,Diabetes Mellitus
+03_add_drug_dose,rentrez,12453952,Glipizide,"Diabetes Mellitus, Type 2"
+03_add_drug_dose,rentrez,15468607,Trazodone,Sleep Initiation and Maintenance Disorders
+03_add_drug_dose,rentrez,17097398,Cephalexin,"Skin Diseases, Infectious"
+03_add_drug_dose,rentrez,22915486,Mirtazapine,"Sleep Disorders, Circadian Rhythm"
+03_add_drug_dose,rentrez,23497779,Pravastatin,Coronary Artery Disease
+03_add_drug_dose,rentrez,23570952,Buspirone,Anxiety Disorders
+03_add_drug_dose,rentrez,23570952,Buspirone,"Depressive Disorder, Treatment-Resistant"
+03_add_drug_dose,rentrez,23570952,Paroxetine,Anxiety Disorders
+03_add_drug_dose,rentrez,23570952,Paroxetine,"Depressive Disorder, Treatment-Resistant"
+03_add_drug_dose,rentrez,25987260,Irbesartan,"Diabetes Mellitus, Type 2"
+03_add_drug_dose,rentrez,25987260,Irbesartan,"Kidney Failure, Chronic"
+03_add_drug_dose,rentrez,26123629,Clonazepam,Sleep Wake Disorders
+03_add_drug_dose,rentrez,26572055,Memantine,Alzheimer Disease
+03_add_drug_dose,rentrez,28416195,Pravastatin,HIV Infections
+03_add_drug_dose,rentrez,28838583,Aripiprazole,Psychotic Disorders
+03_add_drug_dose,rentrez,29402860,Zolpidem,Sleep Wake Disorders
+03_add_drug_dose,rentrez,29622037,Donepezil,Alzheimer Disease
+03_add_drug_dose,rentrez,29622037,Donepezil,Cognition Disorders
+03_add_drug_dose,rentrez,30326006,Gabapentin,Chronic Pain
+03_add_drug_dose,rentrez,31230222,Donepezil,Autistic Disorder
+03_add_drug_dose,rentrez,31435774,Gabapentin,Chronic Pain
+03_add_drug_dose,rentrez,31435774,Gabapentin,Pelvic Pain
+03_add_drug_dose,rentrez,34133820,Diclofenac,Acute Pain
+03_add_drug_dose,rentrez,34218802,Doxycycline,Helicobacter Infections
+03_add_drug_dose,rentrez,34218802,Esomeprazole,Helicobacter Infections
+03_add_drug_dose,rentrez,34453525,Methylphenidate,Attention Deficit Disorder with Hyperactivity
+03_add_drug_dose,rentrez,34559090,Clonidine,Substance Withdrawal Syndrome
+03_add_drug_dose,rentrez,35103836,Diclofenac,"Pain, Postoperative"
+03_add_drug_dose,rentrez,35259978,Topiramate,Migraine Disorders
+03_add_drug_dose,rentrez,35905573,Triamcinolone,Pain
+03_add_drug_dose,rentrez,35987681,Methylprednisolone,Systemic Inflammatory Response Syndrome
+03_add_drug_dose,rentrez,36173235,Insulin Lispro,"Diabetes Mellitus, Type 1"
+03_add_drug_dose,rentrez,36173344,Valsartan,Heart Diseases
+03_add_drug_dose,rentrez,36173344,Valsartan,Heart Failure
+03_add_drug_dose,rentrez,36173344,Valsartan,Pulmonary Arterial Hypertension
+03_add_drug_dose,rentrez,36471429,Cephalexin,Surgical Wound Infection
+03_add_drug_dose,rentrez,36477458,Ibuprofen,"Infant, Newborn, Diseases"
+03_add_drug_dose,rentrez,36561129,Fluticasone,"Pulmonary Disease, Chronic Obstructive"
+03_add_drug_dose,rentrez,36707080,Atorvastatin,Stroke
+03_add_drug_dose,rentrez,36707080,Clopidogrel,Stroke
+03_add_drug_dose,rentrez,37210743,Valsartan,Heart Failure
+03_add_drug_dose,rentrez,37395974,Ezetimibe,Hypertension
+03_add_drug_dose,rentrez,37395974,Ezetimibe,Essential Hypertension
+03_add_drug_dose,rentrez,37526038,Baclofen,Substance Withdrawal Syndrome
+03_add_drug_dose,rentrez,39601808,Methylphenidate,Attention Deficit Disorder with Hyperactivity
+03_add_drug_dose,rentrez,39601808,Methylphenidate,Attention Deficit and Disruptive Behavior Disorders
+03_add_drug_dose,rentrez,40043888,Prednisone,Uveomeningoencephalitic Syndrome
+03_add_drug_dose,rentrez,40043888,Adalimumab,Uveomeningoencephalitic Syndrome
+03_add_drug_dose,rentrez,40877788,Acetaminophen,"Pain, Postoperative"
+03_add_drug_dose,rentrez,40945498,Diclofenac,"Pain, Postoperative"
+03_add_drug_dose,rentrez,40945498,Acetaminophen,"Pain, Postoperative"
+03_add_drug_dose,rentrez,10572343,Trazodone,Sleep Initiation and Maintenance Disorders
+03_add_drug_dose,rentrez,24023757,Pravastatin,Coronary Disease
+03_add_drug_dose,rentrez,24158898,Pantoprazole,Helicobacter Infections
+03_add_drug_dose,rentrez,24180582,Clindamycin,"Pain, Postoperative"
+03_add_drug_dose,rentrez,24182419,Sumatriptan,Migraine Disorders
+03_add_drug_dose,rentrez,25796863,Pantoprazole,Helicobacter Infections
+03_add_drug_dose,rentrez,25941016,Sumatriptan,Migraine Disorders
+03_add_drug_dose,rentrez,26577417,Insulin Lispro,"Diabetes Mellitus, Type 2"
+03_add_drug_dose,rentrez,27808417,Levetiracetam,Dystonic Disorders
+03_add_drug_dose,rentrez,28082332,Losartan,Hypertension
+03_add_drug_dose,rentrez,30302936,Chlorthalidone,Essential Hypertension
+03_add_drug_dose,rentrez,32436641,Insulin Lispro,"Diabetes Mellitus, Type 1"
+03_add_drug_dose,rentrez,32488923,Insulin Lispro,"Diabetes Mellitus, Type 1"
+03_add_drug_dose,rentrez,33783553,Warfarin,Blood Coagulation Disorders
+03_add_drug_dose,rentrez,33837106,Insulin Aspart,"Diabetes Mellitus, Type 2"
+03_add_drug_dose,rentrez,34596484,Tamsulosin,Pain
+03_add_drug_dose,rentrez,34847709,Isosorbide,Cerebral Small Vessel Diseases
+03_add_drug_dose,rentrez,35346603,Ezetimibe,Muscular Diseases
+03_add_drug_dose,rentrez,35469478,Diclofenac,Migraine Disorders
+03_add_drug_dose,rentrez,36262968,Triamcinolone,Pain
+03_add_drug_dose,rentrez,38267312,Insulin Glargine,"Diabetes Mellitus, Type 2"
+03_add_drug_dose,rentrez,38521730,Ondansetron,"Liver Diseases, Alcoholic"
+03_add_drug_dose,rentrez,39908026,Potassium Chloride,Stroke
+03_add_drug_dose,rentrez,40345826,Amoxicillin,Community-Acquired Infections
+03_add_drug_dose,rentrez,40505216,Methylphenidate,Parkinson Disease
+03_add_drug_dose,union,8165073,Nitrofurantoin,Urologic Diseases
+03_add_drug_dose,union,9866667,Cephalexin,Wounds and Injuries
+03_add_drug_dose,union,12453952,Glipizide,Diabetes Mellitus
+03_add_drug_dose,union,12453952,Glipizide,"Diabetes Mellitus, Type 2"
+03_add_drug_dose,union,15468607,Trazodone,Sleep Initiation and Maintenance Disorders
+03_add_drug_dose,union,17097398,Cephalexin,Dermatitis
+03_add_drug_dose,union,17097398,Cephalexin,"Skin Diseases, Infectious"
+03_add_drug_dose,union,17580026,Diltiazem,Fissure in Ano
+03_add_drug_dose,union,19169140,Valacyclovir,Herpes Simplex
+03_add_drug_dose,union,19169140,Acyclovir,Herpes Simplex
+03_add_drug_dose,union,21075537,Gabapentin,Pruritus
+03_add_drug_dose,union,21075537,Gabapentin,Burns

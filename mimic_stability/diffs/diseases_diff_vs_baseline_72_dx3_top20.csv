@@ -1,0 +1,31 @@
+item,status,base_rank,cur_rank,base_weight,cur_weight,rank_delta
+encounter for antineoplastic chemotherapy,shared,1.0,14.0,20923.0,22193.0,13.0
+coronary atherosclerosis of native coronary artery,shared,2.0,8.0,18847.0,41034.0,6.0
+"hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",shared,3.0,9.0,13515.0,33976.0,6.0
+"sepsis, unspecified organism",shared,4.0,16.0,12294.0,20073.0,12.0
+non-st elevation (nstemi) myocardial infarction,shared,5.0,15.0,11407.0,21717.0,10.0
+"acute kidney failure, unspecified",shared,8.0,1.0,7425.0,172414.0,-7.0
+atrial fibrillation,shared,9.0,12.0,6925.0,31376.0,3.0
+"pneumonia, organism unspecified",shared,10.0,10.0,5661.0,33739.0,0.0
+acute on chronic diastolic heart failure,shared,11.0,17.0,5520.0,19734.0,6.0
+"urinary tract infection, site not specified",shared,15.0,4.0,4559.0,53021.0,-11.0
+"subendocardial infarction, initial episode of care",dropped,6.0,,8647.0,,
+hypertensive heart disease with heart failure,dropped,7.0,,7575.0,,
+atherosclerotic heart disease of native coronary artery without angina pectoris,dropped,12.0,,5226.0,,
+other chest pain,dropped,13.0,,5185.0,,
+unspecified septicemia,dropped,14.0,,4902.0,,
+acute on chronic systolic heart failure,dropped,16.0,,4558.0,,
+aortic valve disorders,dropped,17.0,,4211.0,,
+atherosclerotic heart disease of native coronary artery with unstable angina pectoris,dropped,18.0,,4015.0,,
+acute pancreatitis,dropped,19.0,,3749.0,,
+nonrheumatic aortic (valve) stenosis,dropped,20.0,,3309.0,,
+unspecified essential hypertension,added,,2.0,,58513.0,
+essential (primary) hypertension,added,,3.0,,53852.0,
+end stage renal disease,added,,5.0,,42253.0,
+acute respiratory failure with hypoxia,added,,6.0,,41902.0,
+acute posthemorrhagic anemia,added,,7.0,,41117.0,
+acute on chronic diastolic (congestive) heart failure,added,,11.0,,31460.0,
+"pneumonia, unspecified organism",added,,13.0,,27275.0,
+unspecified severe protein-calorie malnutrition,added,,18.0,,19599.0,
+acute on chronic systolic (congestive) heart failure,added,,19.0,,19554.0,
+"congestive heart failure, unspecified",added,,20.0,,18520.0,

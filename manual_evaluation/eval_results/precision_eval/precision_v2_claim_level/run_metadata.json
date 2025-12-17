@@ -1,0 +1,11 @@
+{
+  "manual_csv": "manual_evaluation/eval_results/shared_pmids_eval_stratified_pmid_eval.csv",
+  "pubtator_csv": "pubtator_outputs/drug_disease_pmid_long.csv",
+  "rentrez_csv": "rentrez_data/pubmed_results.csv",
+  "require_positive": true,
+  "n_manual_rows": 150,
+  "n_manual_pmids": 150,
+  "n_pubtator_pmids_with_claims": 150,
+  "n_rentrez_pmids_with_claims": 150,
+  "out_dir": "manual_evaluation/eval_results/precision_eval/precision_v2_claim_level"
+}

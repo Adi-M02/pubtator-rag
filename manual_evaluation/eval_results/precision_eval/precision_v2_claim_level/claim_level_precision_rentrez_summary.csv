@@ -1,0 +1,4 @@
+group,dataset,n_pmids,tp,fp,pred_claims_total,precision
+single,Rentrez,75,55,20,75,0.7333333333333333
+multi,Rentrez,75,95,55,150,0.6333333333333333
+all,Rentrez,150,150,75,225,0.6666666666666666

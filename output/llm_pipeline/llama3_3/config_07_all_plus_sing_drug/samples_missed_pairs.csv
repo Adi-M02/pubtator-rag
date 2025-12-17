@@ -1,0 +1,201 @@
+config,truth_source,pmid,missed_drug,missed_disease
+07_all_plus_sing_drug,pubtator,8165073,Nitrofurantoin,Urologic Diseases
+07_all_plus_sing_drug,pubtator,9866667,Cephalexin,Wounds and Injuries
+07_all_plus_sing_drug,pubtator,15468607,Trazodone,Sleep Initiation and Maintenance Disorders
+07_all_plus_sing_drug,pubtator,17097398,Cephalexin,Dermatitis
+07_all_plus_sing_drug,pubtator,17580026,Diltiazem,Fissure in Ano
+07_all_plus_sing_drug,pubtator,19169140,Valacyclovir,Herpes Simplex
+07_all_plus_sing_drug,pubtator,19169140,Acyclovir,Herpes Simplex
+07_all_plus_sing_drug,pubtator,21075537,Gabapentin,Pruritus
+07_all_plus_sing_drug,pubtator,21075537,Gabapentin,Burns
+07_all_plus_sing_drug,pubtator,21075537,Cetirizine,Pruritus
+07_all_plus_sing_drug,pubtator,21075537,Cetirizine,Burns
+07_all_plus_sing_drug,pubtator,22915486,Mirtazapine,Sleep Deprivation
+07_all_plus_sing_drug,pubtator,23082133,Lisinopril,Inflammation
+07_all_plus_sing_drug,pubtator,23082133,Pravastatin,Cardiovascular Diseases
+07_all_plus_sing_drug,pubtator,23223108,Baclofen,Pain
+07_all_plus_sing_drug,pubtator,23269105,Sertraline,Seizures
+07_all_plus_sing_drug,pubtator,23497779,Pravastatin,Coronary Artery Disease
+07_all_plus_sing_drug,pubtator,23497779,Pravastatin,Diabetes Mellitus
+07_all_plus_sing_drug,pubtator,23570952,Paroxetine,Depressive Disorder Treatment Resistant
+07_all_plus_sing_drug,pubtator,24506965,Carvedilol,Breast Neoplasms
+07_all_plus_sing_drug,pubtator,26123629,Gabapentin,Depressive Disorder
+07_all_plus_sing_drug,pubtator,26123629,Gabapentin,Sleep Initiation and Maintenance Disorders
+07_all_plus_sing_drug,pubtator,26123629,Gabapentin,Sleep Wake Disorders
+07_all_plus_sing_drug,pubtator,26550813,Celecoxib,Neuralgia
+07_all_plus_sing_drug,pubtator,26572055,Memantine,Mental Disorders
+07_all_plus_sing_drug,pubtator,26572055,Memantine,Psychological Trauma
+07_all_plus_sing_drug,pubtator,26572055,Memantine,Sleep Deprivation
+07_all_plus_sing_drug,pubtator,27367818,Lisinopril,Cardiac Conduction System Disease
+07_all_plus_sing_drug,pubtator,28416195,Pravastatin,HIV Infections
+07_all_plus_sing_drug,pubtator,28416195,Pravastatin,Ischemic Attack Transient
+07_all_plus_sing_drug,pubtator,28416195,Pravastatin,Chest Pain
+07_all_plus_sing_drug,pubtator,29402860,Zolpidem,Sleep Wake Disorders
+07_all_plus_sing_drug,pubtator,29622037,Donepezil,Mental Disorders
+07_all_plus_sing_drug,pubtator,30002098,Valsartan,Renal Insufficiency Chronic
+07_all_plus_sing_drug,pubtator,30002098,Valsartan,Albuminuria
+07_all_plus_sing_drug,pubtator,30002098,Irbesartan,Renal Insufficiency Chronic
+07_all_plus_sing_drug,pubtator,30318492,Pravastatin,Cerebral Infarction
+07_all_plus_sing_drug,pubtator,30326006,Gabapentin,Sciatica
+07_all_plus_sing_drug,pubtator,30326006,Pregabalin,Sciatica
+07_all_plus_sing_drug,pubtator,31230222,Donepezil,Autistic Disorder
+07_all_plus_sing_drug,pubtator,32629738,Pregabalin,Hip Injuries
+07_all_plus_sing_drug,pubtator,33412422,Escitalopram,Abdominal Pain
+07_all_plus_sing_drug,pubtator,34133820,Ibuprofen,Musculoskeletal Pain
+07_all_plus_sing_drug,pubtator,34133820,Diclofenac,Musculoskeletal Pain
+07_all_plus_sing_drug,pubtator,34218802,Doxycycline,Helicobacter Infections
+07_all_plus_sing_drug,pubtator,34453525,Methylphenidate,Attention Deficit Disorder with Hyperactivity
+07_all_plus_sing_drug,pubtator,34793552,Amlodipine,Gastrointestinal Hemorrhage
+07_all_plus_sing_drug,pubtator,34793552,Atenolol,Gastrointestinal Hemorrhage
+07_all_plus_sing_drug,pubtator,35103836,Diclofenac,Pain Postoperative
+07_all_plus_sing_drug,pubtator,35766202,Methylprednisolone,Arthritis Sacroiliac
+07_all_plus_sing_drug,pubtator,35867273,Propranolol,Headache
+07_all_plus_sing_drug,pubtator,35905573,Triamcinolone,Pain
+07_all_plus_sing_drug,pubtator,35905573,Triamcinolone,Osteoarthritis
+07_all_plus_sing_drug,pubtator,35905573,Triamcinolone,Joint Diseases
+07_all_plus_sing_drug,pubtator,35987681,Methylprednisolone,Hypotension
+07_all_plus_sing_drug,pubtator,36173235,Insulin Lispro,Diabetes Mellitus Type 1
+07_all_plus_sing_drug,pubtator,36173344,Valsartan,Heart Diseases
+07_all_plus_sing_drug,pubtator,36173344,Valsartan,Pulmonary Arterial Hypertension
+07_all_plus_sing_drug,pubtator,36173344,Dapagliflozin,Heart Diseases
+07_all_plus_sing_drug,pubtator,36471429,Cephalexin,Surgical Wound Infection
+07_all_plus_sing_drug,pubtator,36477458,Ibuprofen,Bell Palsy
+07_all_plus_sing_drug,pubtator,36561129,Fluticasone,Pulmonary Disease Chronic Obstructive
+07_all_plus_sing_drug,pubtator,36561129,Vilanterol,Pulmonary Disease Chronic Obstructive
+07_all_plus_sing_drug,pubtator,36942908,Acetaminophen,Acute Pain
+07_all_plus_sing_drug,pubtator,37138225,Oxycodone,Pain
+07_all_plus_sing_drug,pubtator,37210743,Valsartan,Heart Failure
+07_all_plus_sing_drug,pubtator,37210743,Valsartan,Cardiovascular Diseases
+07_all_plus_sing_drug,pubtator,37395974,Amlodipine,Dyslipidemias
+07_all_plus_sing_drug,pubtator,37395974,Losartan,Dyslipidemias
+07_all_plus_sing_drug,pubtator,37395974,Rosuvastatin,Hypertension
+07_all_plus_sing_drug,pubtator,37395974,Ezetimibe,Hypertension
+07_all_plus_sing_drug,pubtator,39586374,Clonidine,Pain
+07_all_plus_sing_drug,pubtator,39601808,Methylphenidate,Disruptive Impulse Control and Conduct Disorders
+07_all_plus_sing_drug,pubtator,39601808,Methylphenidate,Attention Deficit and Disruptive Behavior Disorders
+07_all_plus_sing_drug,pubtator,40037214,Aspirin,Embolism
+07_all_plus_sing_drug,pubtator,40037214,Rivaroxaban,Embolism
+07_all_plus_sing_drug,pubtator,40043888,Prednisone,Uveomeningoencephalitic Syndrome
+07_all_plus_sing_drug,pubtator,40043888,Adalimumab,Uveomeningoencephalitic Syndrome
+07_all_plus_sing_drug,pubtator,40813667,Mirtazapine,Dyspnea
+07_all_plus_sing_drug,pubtator,40877788,Acetaminophen,Pain Postoperative
+07_all_plus_sing_drug,pubtator,40945498,Ibuprofen,Pain
+07_all_plus_sing_drug,pubtator,40945498,Diclofenac,Pain
+07_all_plus_sing_drug,pubtator,10572343,Trazodone,Sleep Wake Disorders
+07_all_plus_sing_drug,pubtator,12145220,Glipizide,Diabetes Mellitus
+07_all_plus_sing_drug,pubtator,22947356,Lisinopril,Hypertension Diastolic Resistance to
+07_all_plus_sing_drug,pubtator,24158898,Pantoprazole,Dyspepsia
+07_all_plus_sing_drug,pubtator,24180582,Clindamycin,Pain
+07_all_plus_sing_drug,pubtator,25796863,Pantoprazole,Pancreatitis Chronic
+07_all_plus_sing_drug,pubtator,25941016,Sumatriptan,Pain
+07_all_plus_sing_drug,pubtator,26577417,Insulin Glargine,Hypoglycemia
+07_all_plus_sing_drug,pubtator,27808417,Levetiracetam,Meige Syndrome
+07_all_plus_sing_drug,pubtator,28082332,Losartan,Hypoxia
+07_all_plus_sing_drug,pubtator,28240967,Pravastatin,Small Cell Lung Carcinoma
+07_all_plus_sing_drug,pubtator,30302936,Chlorthalidone,Essential Hypertension
+07_all_plus_sing_drug,pubtator,32436641,Insulin Lispro,Diabetes Mellitus Type 1
+07_all_plus_sing_drug,pubtator,32488923,Insulin Lispro,Diabetes Mellitus Type 1
+07_all_plus_sing_drug,pubtator,33097422,Sulfamethoxazole,Lower Urinary Tract Symptoms
+07_all_plus_sing_drug,pubtator,33783553,Warfarin,Blood Coagulation Disorders
+07_all_plus_sing_drug,pubtator,33837106,Insulin Aspart,Diabetes Mellitus Type 2
+07_all_plus_sing_drug,pubtator,34847709,Isosorbide,Cerebral Infarction
+07_all_plus_sing_drug,pubtator,37263861,Atorvastatin,Altitude Sickness
+07_all_plus_sing_drug,pubtator,37289237,Furosemide,Pulmonary Atelectasis
+07_all_plus_sing_drug,pubtator,38267312,Insulin Glargine,Diabetes Mellitus Type 2
+07_all_plus_sing_drug,pubtator,38521730,Ondansetron,Alcoholism
+07_all_plus_sing_drug,pubtator,40505216,Methylphenidate,Parkinson Disease
+07_all_plus_sing_drug,rentrez,12453952,Glipizide,Diabetes Mellitus
+07_all_plus_sing_drug,rentrez,12453952,Glipizide,"Diabetes Mellitus, Type 2"
+07_all_plus_sing_drug,rentrez,15468607,Trazodone,Sleep Initiation and Maintenance Disorders
+07_all_plus_sing_drug,rentrez,17097398,Cephalexin,"Skin Diseases, Infectious"
+07_all_plus_sing_drug,rentrez,22915486,Mirtazapine,"Sleep Disorders, Circadian Rhythm"
+07_all_plus_sing_drug,rentrez,23497779,Pravastatin,Coronary Artery Disease
+07_all_plus_sing_drug,rentrez,23570952,Buspirone,Anxiety Disorders
+07_all_plus_sing_drug,rentrez,23570952,Buspirone,"Depressive Disorder, Treatment-Resistant"
+07_all_plus_sing_drug,rentrez,23570952,Paroxetine,Anxiety Disorders
+07_all_plus_sing_drug,rentrez,23570952,Paroxetine,"Depressive Disorder, Treatment-Resistant"
+07_all_plus_sing_drug,rentrez,25987260,Irbesartan,"Diabetes Mellitus, Type 2"
+07_all_plus_sing_drug,rentrez,25987260,Irbesartan,"Kidney Failure, Chronic"
+07_all_plus_sing_drug,rentrez,26123629,Clonazepam,Sleep Wake Disorders
+07_all_plus_sing_drug,rentrez,26572055,Memantine,Alzheimer Disease
+07_all_plus_sing_drug,rentrez,28416195,Pravastatin,HIV Infections
+07_all_plus_sing_drug,rentrez,28838583,Aripiprazole,Psychotic Disorders
+07_all_plus_sing_drug,rentrez,29402860,Zolpidem,Sleep Wake Disorders
+07_all_plus_sing_drug,rentrez,29622037,Donepezil,Alzheimer Disease
+07_all_plus_sing_drug,rentrez,29622037,Donepezil,Cognition Disorders
+07_all_plus_sing_drug,rentrez,30326006,Gabapentin,Chronic Pain
+07_all_plus_sing_drug,rentrez,31230222,Donepezil,Autistic Disorder
+07_all_plus_sing_drug,rentrez,31435774,Gabapentin,Chronic Pain
+07_all_plus_sing_drug,rentrez,31435774,Gabapentin,Pelvic Pain
+07_all_plus_sing_drug,rentrez,34133820,Diclofenac,Acute Pain
+07_all_plus_sing_drug,rentrez,34218802,Doxycycline,Helicobacter Infections
+07_all_plus_sing_drug,rentrez,34218802,Esomeprazole,Helicobacter Infections
+07_all_plus_sing_drug,rentrez,34453525,Methylphenidate,Attention Deficit Disorder with Hyperactivity
+07_all_plus_sing_drug,rentrez,35103836,Diclofenac,"Pain, Postoperative"
+07_all_plus_sing_drug,rentrez,35905573,Triamcinolone,Pain
+07_all_plus_sing_drug,rentrez,35987681,Methylprednisolone,Systemic Inflammatory Response Syndrome
+07_all_plus_sing_drug,rentrez,36173235,Insulin Lispro,"Diabetes Mellitus, Type 1"
+07_all_plus_sing_drug,rentrez,36173344,Valsartan,Heart Diseases
+07_all_plus_sing_drug,rentrez,36173344,Valsartan,Heart Failure
+07_all_plus_sing_drug,rentrez,36173344,Valsartan,Pulmonary Arterial Hypertension
+07_all_plus_sing_drug,rentrez,36471429,Cephalexin,Surgical Wound Infection
+07_all_plus_sing_drug,rentrez,36477458,Ibuprofen,"Infant, Newborn, Diseases"
+07_all_plus_sing_drug,rentrez,36561129,Fluticasone,"Pulmonary Disease, Chronic Obstructive"
+07_all_plus_sing_drug,rentrez,36707080,Atorvastatin,Stroke
+07_all_plus_sing_drug,rentrez,36707080,Clopidogrel,Stroke
+07_all_plus_sing_drug,rentrez,37210743,Valsartan,Heart Failure
+07_all_plus_sing_drug,rentrez,37395974,Ezetimibe,Hypertension
+07_all_plus_sing_drug,rentrez,37395974,Ezetimibe,Essential Hypertension
+07_all_plus_sing_drug,rentrez,37526038,Baclofen,Substance Withdrawal Syndrome
+07_all_plus_sing_drug,rentrez,39601808,Methylphenidate,Attention Deficit Disorder with Hyperactivity
+07_all_plus_sing_drug,rentrez,39601808,Methylphenidate,Attention Deficit and Disruptive Behavior Disorders
+07_all_plus_sing_drug,rentrez,40043888,Prednisone,Uveomeningoencephalitic Syndrome
+07_all_plus_sing_drug,rentrez,40043888,Adalimumab,Uveomeningoencephalitic Syndrome
+07_all_plus_sing_drug,rentrez,40877788,Acetaminophen,"Pain, Postoperative"
+07_all_plus_sing_drug,rentrez,40945498,Acetaminophen,"Pain, Postoperative"
+07_all_plus_sing_drug,rentrez,10572343,Trazodone,Sleep Initiation and Maintenance Disorders
+07_all_plus_sing_drug,rentrez,24023757,Pravastatin,Coronary Disease
+07_all_plus_sing_drug,rentrez,24158898,Pantoprazole,Helicobacter Infections
+07_all_plus_sing_drug,rentrez,24180582,Clindamycin,"Pain, Postoperative"
+07_all_plus_sing_drug,rentrez,25796863,Pantoprazole,Helicobacter Infections
+07_all_plus_sing_drug,rentrez,26577417,Insulin Lispro,"Diabetes Mellitus, Type 2"
+07_all_plus_sing_drug,rentrez,27808417,Levetiracetam,Dystonic Disorders
+07_all_plus_sing_drug,rentrez,28082332,Losartan,Hypertension
+07_all_plus_sing_drug,rentrez,30302936,Chlorthalidone,Essential Hypertension
+07_all_plus_sing_drug,rentrez,32436641,Insulin Lispro,"Diabetes Mellitus, Type 1"
+07_all_plus_sing_drug,rentrez,32488923,Insulin Lispro,"Diabetes Mellitus, Type 1"
+07_all_plus_sing_drug,rentrez,33783553,Warfarin,Blood Coagulation Disorders
+07_all_plus_sing_drug,rentrez,33837106,Insulin Aspart,"Diabetes Mellitus, Type 2"
+07_all_plus_sing_drug,rentrez,34596484,Tamsulosin,Pain
+07_all_plus_sing_drug,rentrez,34847709,Isosorbide,Cerebral Small Vessel Diseases
+07_all_plus_sing_drug,rentrez,35346603,Ezetimibe,Muscular Diseases
+07_all_plus_sing_drug,rentrez,36262968,Triamcinolone,Pain
+07_all_plus_sing_drug,rentrez,38267312,Insulin Glargine,"Diabetes Mellitus, Type 2"
+07_all_plus_sing_drug,rentrez,38521730,Ondansetron,"Liver Diseases, Alcoholic"
+07_all_plus_sing_drug,rentrez,40345826,Amoxicillin,Community-Acquired Infections
+07_all_plus_sing_drug,rentrez,40505216,Methylphenidate,Parkinson Disease
+07_all_plus_sing_drug,union,8165073,Nitrofurantoin,Urologic Diseases
+07_all_plus_sing_drug,union,9866667,Cephalexin,Wounds and Injuries
+07_all_plus_sing_drug,union,12453952,Glipizide,Diabetes Mellitus
+07_all_plus_sing_drug,union,12453952,Glipizide,"Diabetes Mellitus, Type 2"
+07_all_plus_sing_drug,union,15468607,Trazodone,Sleep Initiation and Maintenance Disorders
+07_all_plus_sing_drug,union,17097398,Cephalexin,Dermatitis
+07_all_plus_sing_drug,union,17097398,Cephalexin,"Skin Diseases, Infectious"
+07_all_plus_sing_drug,union,17580026,Diltiazem,Fissure in Ano
+07_all_plus_sing_drug,union,19169140,Valacyclovir,Herpes Simplex
+07_all_plus_sing_drug,union,19169140,Acyclovir,Herpes Simplex
+07_all_plus_sing_drug,union,21075537,Gabapentin,Pruritus
+07_all_plus_sing_drug,union,21075537,Gabapentin,Burns
+07_all_plus_sing_drug,union,21075537,Cetirizine,Pruritus
+07_all_plus_sing_drug,union,21075537,Cetirizine,Burns
+07_all_plus_sing_drug,union,22915486,Mirtazapine,Sleep Deprivation
+07_all_plus_sing_drug,union,22915486,Mirtazapine,"Sleep Disorders, Circadian Rhythm"
+07_all_plus_sing_drug,union,23082133,Lisinopril,Inflammation
+07_all_plus_sing_drug,union,23082133,Pravastatin,Cardiovascular Diseases
+07_all_plus_sing_drug,union,23223108,Baclofen,Pain
+07_all_plus_sing_drug,union,23269105,Sertraline,Seizures
+07_all_plus_sing_drug,union,23497779,Pravastatin,Coronary Artery Disease
+07_all_plus_sing_drug,union,23497779,Pravastatin,Diabetes Mellitus
+07_all_plus_sing_drug,union,23570952,Paroxetine,Depressive Disorder Treatment Resistant
+07_all_plus_sing_drug,union,23570952,Buspirone,Anxiety Disorders
+07_all_plus_sing_drug,union,23570952,Buspirone,"Depressive Disorder, Treatment-Resistant"

@@ -1,0 +1,201 @@
+config,truth_source,pmid,missed_disease
+07_all_plus_sing_drug,pubtator,8165073,Urologic Diseases
+07_all_plus_sing_drug,pubtator,9866667,Wounds and Injuries
+07_all_plus_sing_drug,pubtator,15468607,Sleep Initiation and Maintenance Disorders
+07_all_plus_sing_drug,pubtator,17097398,Dermatitis
+07_all_plus_sing_drug,pubtator,17580026,Fissure in Ano
+07_all_plus_sing_drug,pubtator,19169140,Herpes Simplex
+07_all_plus_sing_drug,pubtator,21075537,Pruritus
+07_all_plus_sing_drug,pubtator,21075537,Burns
+07_all_plus_sing_drug,pubtator,22915486,Sleep Deprivation
+07_all_plus_sing_drug,pubtator,23082133,Inflammation
+07_all_plus_sing_drug,pubtator,23223108,Pain
+07_all_plus_sing_drug,pubtator,23269105,Seizures
+07_all_plus_sing_drug,pubtator,23497779,Coronary Artery Disease
+07_all_plus_sing_drug,pubtator,23570952,Depressive Disorder Treatment Resistant
+07_all_plus_sing_drug,pubtator,24506965,Breast Neoplasms
+07_all_plus_sing_drug,pubtator,26123629,Depressive Disorder
+07_all_plus_sing_drug,pubtator,26123629,Sleep Initiation and Maintenance Disorders
+07_all_plus_sing_drug,pubtator,26123629,Sleep Wake Disorders
+07_all_plus_sing_drug,pubtator,26550813,Neuralgia
+07_all_plus_sing_drug,pubtator,26572055,Mental Disorders
+07_all_plus_sing_drug,pubtator,26572055,Psychological Trauma
+07_all_plus_sing_drug,pubtator,26572055,Sleep Deprivation
+07_all_plus_sing_drug,pubtator,27367818,Cardiac Conduction System Disease
+07_all_plus_sing_drug,pubtator,28416195,Chest Pain
+07_all_plus_sing_drug,pubtator,29402860,Sleep Wake Disorders
+07_all_plus_sing_drug,pubtator,29622037,Mental Disorders
+07_all_plus_sing_drug,pubtator,30002098,Renal Insufficiency Chronic
+07_all_plus_sing_drug,pubtator,30002098,Albuminuria
+07_all_plus_sing_drug,pubtator,30318492,Cerebral Infarction
+07_all_plus_sing_drug,pubtator,30326006,Sciatica
+07_all_plus_sing_drug,pubtator,31230222,Autistic Disorder
+07_all_plus_sing_drug,pubtator,32629738,Hip Injuries
+07_all_plus_sing_drug,pubtator,33412422,Abdominal Pain
+07_all_plus_sing_drug,pubtator,34133820,Musculoskeletal Pain
+07_all_plus_sing_drug,pubtator,34218802,Helicobacter Infections
+07_all_plus_sing_drug,pubtator,34453525,Attention Deficit Disorder with Hyperactivity
+07_all_plus_sing_drug,pubtator,35766202,Arthritis Sacroiliac
+07_all_plus_sing_drug,pubtator,35867273,Headache
+07_all_plus_sing_drug,pubtator,35905573,Pain
+07_all_plus_sing_drug,pubtator,35905573,Joint Diseases
+07_all_plus_sing_drug,pubtator,35987681,Hypotension
+07_all_plus_sing_drug,pubtator,36173344,Heart Diseases
+07_all_plus_sing_drug,pubtator,36471429,Surgical Wound Infection
+07_all_plus_sing_drug,pubtator,36477458,Bell Palsy
+07_all_plus_sing_drug,pubtator,37138225,Pain
+07_all_plus_sing_drug,pubtator,39586374,Pain
+07_all_plus_sing_drug,pubtator,39601808,Disruptive Impulse Control and Conduct Disorders
+07_all_plus_sing_drug,pubtator,39601808,Attention Deficit and Disruptive Behavior Disorders
+07_all_plus_sing_drug,pubtator,40037214,Embolism
+07_all_plus_sing_drug,pubtator,40043888,Uveomeningoencephalitic Syndrome
+07_all_plus_sing_drug,pubtator,40813667,Dyspnea
+07_all_plus_sing_drug,pubtator,40945498,Pain
+07_all_plus_sing_drug,pubtator,10572343,Sleep Wake Disorders
+07_all_plus_sing_drug,pubtator,12145220,Diabetes Mellitus
+07_all_plus_sing_drug,pubtator,22947356,Hypertension Diastolic Resistance to
+07_all_plus_sing_drug,pubtator,24180582,Pain
+07_all_plus_sing_drug,pubtator,25941016,Pain
+07_all_plus_sing_drug,pubtator,27808417,Meige Syndrome
+07_all_plus_sing_drug,pubtator,28082332,Hypoxia
+07_all_plus_sing_drug,pubtator,28240967,Small Cell Lung Carcinoma
+07_all_plus_sing_drug,pubtator,33783553,Blood Coagulation Disorders
+07_all_plus_sing_drug,pubtator,34847709,Cerebral Infarction
+07_all_plus_sing_drug,pubtator,37263861,Altitude Sickness
+07_all_plus_sing_drug,pubtator,37289237,Pulmonary Atelectasis
+07_all_plus_sing_drug,pubtator,38521730,Alcoholism
+07_all_plus_sing_drug,pubtator,40505216,Parkinson Disease
+07_all_plus_sing_drug,rentrez,12453952,Diabetes Mellitus
+07_all_plus_sing_drug,rentrez,12453952,"Diabetes Mellitus, Type 2"
+07_all_plus_sing_drug,rentrez,15468607,Sleep Initiation and Maintenance Disorders
+07_all_plus_sing_drug,rentrez,17097398,"Skin Diseases, Infectious"
+07_all_plus_sing_drug,rentrez,22915486,"Sleep Disorders, Circadian Rhythm"
+07_all_plus_sing_drug,rentrez,23497779,Coronary Artery Disease
+07_all_plus_sing_drug,rentrez,23570952,Anxiety Disorders
+07_all_plus_sing_drug,rentrez,23570952,"Depressive Disorder, Treatment-Resistant"
+07_all_plus_sing_drug,rentrez,25987260,"Diabetes Mellitus, Type 2"
+07_all_plus_sing_drug,rentrez,25987260,"Kidney Failure, Chronic"
+07_all_plus_sing_drug,rentrez,26123629,Sleep Wake Disorders
+07_all_plus_sing_drug,rentrez,26572055,Alzheimer Disease
+07_all_plus_sing_drug,rentrez,28838583,Psychotic Disorders
+07_all_plus_sing_drug,rentrez,29402860,Sleep Wake Disorders
+07_all_plus_sing_drug,rentrez,29622037,Alzheimer Disease
+07_all_plus_sing_drug,rentrez,29622037,Cognition Disorders
+07_all_plus_sing_drug,rentrez,30326006,Chronic Pain
+07_all_plus_sing_drug,rentrez,31230222,Autistic Disorder
+07_all_plus_sing_drug,rentrez,31435774,Chronic Pain
+07_all_plus_sing_drug,rentrez,31435774,Pelvic Pain
+07_all_plus_sing_drug,rentrez,34133820,Acute Pain
+07_all_plus_sing_drug,rentrez,34218802,Helicobacter Infections
+07_all_plus_sing_drug,rentrez,34453525,Attention Deficit Disorder with Hyperactivity
+07_all_plus_sing_drug,rentrez,35905573,Pain
+07_all_plus_sing_drug,rentrez,35987681,Systemic Inflammatory Response Syndrome
+07_all_plus_sing_drug,rentrez,36173344,Heart Diseases
+07_all_plus_sing_drug,rentrez,36173344,Heart Failure
+07_all_plus_sing_drug,rentrez,36471429,Surgical Wound Infection
+07_all_plus_sing_drug,rentrez,36477458,"Infant, Newborn, Diseases"
+07_all_plus_sing_drug,rentrez,36707080,Stroke
+07_all_plus_sing_drug,rentrez,37526038,Substance Withdrawal Syndrome
+07_all_plus_sing_drug,rentrez,39601808,Attention Deficit Disorder with Hyperactivity
+07_all_plus_sing_drug,rentrez,39601808,Attention Deficit and Disruptive Behavior Disorders
+07_all_plus_sing_drug,rentrez,40043888,Uveomeningoencephalitic Syndrome
+07_all_plus_sing_drug,rentrez,10572343,Sleep Initiation and Maintenance Disorders
+07_all_plus_sing_drug,rentrez,24023757,Coronary Disease
+07_all_plus_sing_drug,rentrez,24158898,Helicobacter Infections
+07_all_plus_sing_drug,rentrez,24180582,"Pain, Postoperative"
+07_all_plus_sing_drug,rentrez,25796863,Helicobacter Infections
+07_all_plus_sing_drug,rentrez,27808417,Dystonic Disorders
+07_all_plus_sing_drug,rentrez,33783553,Blood Coagulation Disorders
+07_all_plus_sing_drug,rentrez,34596484,Pain
+07_all_plus_sing_drug,rentrez,35346603,Muscular Diseases
+07_all_plus_sing_drug,rentrez,36262968,Pain
+07_all_plus_sing_drug,rentrez,38521730,"Liver Diseases, Alcoholic"
+07_all_plus_sing_drug,rentrez,40345826,Community-Acquired Infections
+07_all_plus_sing_drug,rentrez,40505216,Parkinson Disease
+07_all_plus_sing_drug,union,8165073,Urologic Diseases
+07_all_plus_sing_drug,union,9866667,Wounds and Injuries
+07_all_plus_sing_drug,union,12453952,Diabetes Mellitus
+07_all_plus_sing_drug,union,12453952,"Diabetes Mellitus, Type 2"
+07_all_plus_sing_drug,union,15468607,Sleep Initiation and Maintenance Disorders
+07_all_plus_sing_drug,union,17097398,Dermatitis
+07_all_plus_sing_drug,union,17097398,"Skin Diseases, Infectious"
+07_all_plus_sing_drug,union,17580026,Fissure in Ano
+07_all_plus_sing_drug,union,19169140,Herpes Simplex
+07_all_plus_sing_drug,union,21075537,Pruritus
+07_all_plus_sing_drug,union,21075537,Burns
+07_all_plus_sing_drug,union,22915486,Sleep Deprivation
+07_all_plus_sing_drug,union,22915486,"Sleep Disorders, Circadian Rhythm"
+07_all_plus_sing_drug,union,23082133,Inflammation
+07_all_plus_sing_drug,union,23223108,Pain
+07_all_plus_sing_drug,union,23269105,Seizures
+07_all_plus_sing_drug,union,23497779,Coronary Artery Disease
+07_all_plus_sing_drug,union,23570952,Depressive Disorder Treatment Resistant
+07_all_plus_sing_drug,union,23570952,Anxiety Disorders
+07_all_plus_sing_drug,union,24506965,Breast Neoplasms
+07_all_plus_sing_drug,union,25987260,"Diabetes Mellitus, Type 2"
+07_all_plus_sing_drug,union,25987260,"Kidney Failure, Chronic"
+07_all_plus_sing_drug,union,26123629,Depressive Disorder
+07_all_plus_sing_drug,union,26123629,Sleep Initiation and Maintenance Disorders
+07_all_plus_sing_drug,union,26123629,Sleep Wake Disorders
+07_all_plus_sing_drug,union,26550813,Neuralgia
+07_all_plus_sing_drug,union,26572055,Mental Disorders
+07_all_plus_sing_drug,union,26572055,Psychological Trauma
+07_all_plus_sing_drug,union,26572055,Sleep Deprivation
+07_all_plus_sing_drug,union,26572055,Alzheimer Disease
+07_all_plus_sing_drug,union,27367818,Cardiac Conduction System Disease
+07_all_plus_sing_drug,union,28416195,Chest Pain
+07_all_plus_sing_drug,union,28838583,Psychotic Disorders
+07_all_plus_sing_drug,union,29402860,Sleep Wake Disorders
+07_all_plus_sing_drug,union,29622037,Mental Disorders
+07_all_plus_sing_drug,union,29622037,Alzheimer Disease
+07_all_plus_sing_drug,union,29622037,Cognition Disorders
+07_all_plus_sing_drug,union,30002098,Renal Insufficiency Chronic
+07_all_plus_sing_drug,union,30002098,Albuminuria
+07_all_plus_sing_drug,union,30318492,Cerebral Infarction
+07_all_plus_sing_drug,union,30326006,Sciatica
+07_all_plus_sing_drug,union,30326006,Chronic Pain
+07_all_plus_sing_drug,union,31230222,Autistic Disorder
+07_all_plus_sing_drug,union,31435774,Chronic Pain
+07_all_plus_sing_drug,union,31435774,Pelvic Pain
+07_all_plus_sing_drug,union,32629738,Hip Injuries
+07_all_plus_sing_drug,union,33412422,Abdominal Pain
+07_all_plus_sing_drug,union,34133820,Musculoskeletal Pain
+07_all_plus_sing_drug,union,34133820,Acute Pain
+07_all_plus_sing_drug,union,34218802,Helicobacter Infections
+07_all_plus_sing_drug,union,34453525,Attention Deficit Disorder with Hyperactivity
+07_all_plus_sing_drug,union,35766202,Arthritis Sacroiliac
+07_all_plus_sing_drug,union,35867273,Headache
+07_all_plus_sing_drug,union,35905573,Pain
+07_all_plus_sing_drug,union,35905573,Joint Diseases
+07_all_plus_sing_drug,union,35987681,Hypotension
+07_all_plus_sing_drug,union,35987681,Systemic Inflammatory Response Syndrome
+07_all_plus_sing_drug,union,36173344,Heart Diseases
+07_all_plus_sing_drug,union,36173344,Heart Failure
+07_all_plus_sing_drug,union,36471429,Surgical Wound Infection
+07_all_plus_sing_drug,union,36477458,Bell Palsy
+07_all_plus_sing_drug,union,36477458,"Infant, Newborn, Diseases"
+07_all_plus_sing_drug,union,36707080,Stroke
+07_all_plus_sing_drug,union,37138225,Pain
+07_all_plus_sing_drug,union,37526038,Substance Withdrawal Syndrome
+07_all_plus_sing_drug,union,39586374,Pain
+07_all_plus_sing_drug,union,39601808,Disruptive Impulse Control and Conduct Disorders
+07_all_plus_sing_drug,union,39601808,Attention Deficit and Disruptive Behavior Disorders
+07_all_plus_sing_drug,union,39601808,Attention Deficit Disorder with Hyperactivity
+07_all_plus_sing_drug,union,40037214,Embolism
+07_all_plus_sing_drug,union,40043888,Uveomeningoencephalitic Syndrome
+07_all_plus_sing_drug,union,40813667,Dyspnea
+07_all_plus_sing_drug,union,40945498,Pain
+07_all_plus_sing_drug,union,10572343,Sleep Wake Disorders
+07_all_plus_sing_drug,union,10572343,Sleep Initiation and Maintenance Disorders
+07_all_plus_sing_drug,union,12145220,Diabetes Mellitus
+07_all_plus_sing_drug,union,22947356,Hypertension Diastolic Resistance to
+07_all_plus_sing_drug,union,24023757,Coronary Disease
+07_all_plus_sing_drug,union,24158898,Helicobacter Infections
+07_all_plus_sing_drug,union,24180582,Pain
+07_all_plus_sing_drug,union,24180582,"Pain, Postoperative"
+07_all_plus_sing_drug,union,25796863,Helicobacter Infections
+07_all_plus_sing_drug,union,25941016,Pain
+07_all_plus_sing_drug,union,27808417,Meige Syndrome
+07_all_plus_sing_drug,union,27808417,Dystonic Disorders
+07_all_plus_sing_drug,union,28082332,Hypoxia
+07_all_plus_sing_drug,union,28240967,Small Cell Lung Carcinoma

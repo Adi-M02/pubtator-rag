@@ -1,0 +1,10 @@
+config,truth_source,metric,matched_truth,total_truth,recall,fn
+05_add_dis_generic_drop,pubtator,drugs,124,138,0.8985507246376812,14
+05_add_dis_generic_drop,pubtator,diseases,97,163,0.5950920245398773,66
+05_add_dis_generic_drop,pubtator,pairs,87,192,0.453125,105
+05_add_dis_generic_drop,rentrez,drugs,114,127,0.8976377952755905,13
+05_add_dis_generic_drop,rentrez,diseases,83,130,0.6384615384615384,47
+05_add_dis_generic_drop,rentrez,pairs,79,149,0.5302013422818792,70
+05_add_dis_generic_drop,union,drugs,146,163,0.8957055214723927,17
+05_add_dis_generic_drop,union,diseases,126,224,0.5625,98
+05_add_dis_generic_drop,union,pairs,122,269,0.45353159851301117,147

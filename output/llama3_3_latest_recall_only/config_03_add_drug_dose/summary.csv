@@ -1,0 +1,10 @@
+config,truth_source,metric,matched_truth,total_truth,recall,fn
+03_add_drug_dose,pubtator,drugs,123,139,0.8848920863309353,16
+03_add_drug_dose,pubtator,diseases,93,163,0.5705521472392638,70
+03_add_drug_dose,pubtator,pairs,82,193,0.42487046632124353,111
+03_add_drug_dose,rentrez,drugs,114,128,0.890625,14
+03_add_drug_dose,rentrez,diseases,78,130,0.6,52
+03_add_drug_dose,rentrez,pairs,73,150,0.4866666666666667,77
+03_add_drug_dose,union,drugs,145,164,0.8841463414634146,19
+03_add_drug_dose,union,diseases,120,224,0.5357142857142857,104
+03_add_drug_dose,union,pairs,115,270,0.42592592592592593,155

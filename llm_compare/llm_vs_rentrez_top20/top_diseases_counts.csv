@@ -1,0 +1,21 @@
+entity_key,entity_label,llm_count,rentrez_count
+hypertension,Hypertension,8,13
+type 2 diabetes,Type 2 Diabetes,9,0
+postoperative pain,Postoperative Pain,7,0
+essential hypertension,Essential Hypertension,5,6
+heart failure,Heart Failure,4,6
+major depressive disorder,Major Depressive Disorder,6,0
+pain,Pain,6,6
+cardiovascular disease,Cardiovascular Disease,5,0
+type 1 diabetes,Type 1 Diabetes,5,0
+alzheimer s disease,Alzheimer's Disease,4,0
+hypoglycemia,Hypoglycemia,4,0
+insomnia,Insomnia,4,0
+migraine,Migraine,4,0
+urinary tract infection,Urinary Tract Infection,4,0
+alcohol use disorder,Alcohol Use Disorder,3,0
+autism spectrum disorder,Autism Spectrum Disorder,3,2
+breast cancer,Breast cancer,3,0
+obesity,Obesity,3,0
+osteoarthritis,Osteoarthritis,3,0
+dyslipidemia,dyslipidemia,3,0

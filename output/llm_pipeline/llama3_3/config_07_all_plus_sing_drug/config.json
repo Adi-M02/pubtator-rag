@@ -1,0 +1,11 @@
+{
+  "name": "07_all_plus_sing_drug",
+  "order_agnostic": true,
+  "singularize_disease": true,
+  "singularize_drug": true,
+  "drop_drug_dose_tokens": true,
+  "strip_drug_salts": true,
+  "drop_disease_generic_tokens": true,
+  "expand_abbrev": true,
+  "synonyms_json": ""
+}

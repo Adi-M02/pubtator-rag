@@ -1,0 +1,24 @@
+item,status,base_rank,cur_rank,base_weight,cur_weight,rank_delta
+acetaminophen,shared,1.0,1.0,64515.0,3110263.0,0.0
+aspirin,shared,2.0,4.0,23789.0,1182024.0,2.0
+potassium chloride,shared,3.0,2.0,20887.0,1228342.0,-1.0
+ondansetron,shared,4.0,3.0,16402.0,1227346.0,-1.0
+furosemide,shared,5.0,5.0,16187.0,890940.0,0.0
+atorvastatin,shared,6.0,6.0,13334.0,847899.0,0.0
+lorazepam,shared,7.0,8.0,6650.0,680449.0,1.0
+pantoprazole,shared,8.0,7.0,5701.0,775660.0,-1.0
+clopidogrel,shared,10.0,20.0,4009.0,204735.0,10.0
+omeprazole,shared,11.0,9.0,3527.0,654308.0,-2.0
+famotidine,shared,13.0,16.0,2682.0,250819.0,3.0
+warfarin,shared,15.0,15.0,2514.0,267433.0,0.0
+lisinopril,shared,16.0,11.0,2390.0,358185.0,-5.0
+hydralazine,shared,17.0,14.0,2374.0,269345.0,-3.0
+prednisone,shared,18.0,19.0,2198.0,215665.0,1.0
+trazodone,shared,19.0,13.0,1221.0,312483.0,-6.0
+folic acid,shared,20.0,17.0,1157.0,246529.0,-3.0
+ibuprofen,dropped,9.0,,4225.0,,
+azithromycin,dropped,12.0,,3132.0,,
+acyclovir,dropped,14.0,,2616.0,,
+gabapentin,added,,10.0,,440696.0,
+amlodipine,added,,12.0,,329449.0,
+simvastatin,added,,18.0,,223015.0,

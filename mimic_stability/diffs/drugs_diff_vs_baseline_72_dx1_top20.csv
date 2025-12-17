@@ -1,0 +1,22 @@
+item,status,base_rank,cur_rank,base_weight,cur_weight,rank_delta
+acetaminophen,shared,1.0,1.0,64515.0,68081.0,0.0
+aspirin,shared,2.0,3.0,23789.0,24995.0,1.0
+potassium chloride,shared,3.0,2.0,20887.0,25112.0,-1.0
+ondansetron,shared,4.0,5.0,16402.0,17885.0,1.0
+furosemide,shared,5.0,4.0,16187.0,19220.0,-1.0
+atorvastatin,shared,6.0,6.0,13334.0,13895.0,0.0
+lorazepam,shared,7.0,7.0,6650.0,7555.0,0.0
+pantoprazole,shared,8.0,8.0,5701.0,6303.0,0.0
+ibuprofen,shared,9.0,10.0,4225.0,4360.0,1.0
+clopidogrel,shared,10.0,9.0,4009.0,4565.0,-1.0
+omeprazole,shared,11.0,11.0,3527.0,3906.0,0.0
+azithromycin,shared,12.0,12.0,3132.0,3369.0,0.0
+famotidine,shared,13.0,15.0,2682.0,2896.0,2.0
+acyclovir,shared,14.0,17.0,2616.0,2663.0,3.0
+warfarin,shared,15.0,14.0,2514.0,3020.0,-1.0
+lisinopril,shared,16.0,13.0,2390.0,3075.0,-3.0
+hydralazine,shared,17.0,16.0,2374.0,2686.0,-1.0
+prednisone,shared,18.0,18.0,2198.0,2419.0,0.0
+trazodone,shared,19.0,19.0,1221.0,1447.0,0.0
+folic acid,dropped,20.0,,1157.0,,
+amlodipine,added,,20.0,,1365.0,

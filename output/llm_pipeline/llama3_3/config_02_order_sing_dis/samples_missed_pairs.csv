@@ -1,0 +1,201 @@
+config,truth_source,pmid,missed_drug,missed_disease
+02_order_sing_dis,pubtator,8165073,Nitrofurantoin,Urologic Diseases
+02_order_sing_dis,pubtator,9866667,Cephalexin,Wounds and Injuries
+02_order_sing_dis,pubtator,15468607,Trazodone,Sleep Initiation and Maintenance Disorders
+02_order_sing_dis,pubtator,17097398,Cephalexin,Dermatitis
+02_order_sing_dis,pubtator,17580026,Diltiazem,Fissure in Ano
+02_order_sing_dis,pubtator,19169140,Valacyclovir,Herpes Simplex
+02_order_sing_dis,pubtator,19169140,Acyclovir,Herpes Simplex
+02_order_sing_dis,pubtator,21075537,Gabapentin,Pruritus
+02_order_sing_dis,pubtator,21075537,Gabapentin,Burns
+02_order_sing_dis,pubtator,21075537,Cetirizine,Pruritus
+02_order_sing_dis,pubtator,21075537,Cetirizine,Burns
+02_order_sing_dis,pubtator,22915486,Mirtazapine,Sleep Deprivation
+02_order_sing_dis,pubtator,23082133,Lisinopril,Inflammation
+02_order_sing_dis,pubtator,23082133,Pravastatin,Cardiovascular Diseases
+02_order_sing_dis,pubtator,23223108,Baclofen,Pain
+02_order_sing_dis,pubtator,23269105,Sertraline,Seizures
+02_order_sing_dis,pubtator,23497779,Pravastatin,Coronary Artery Disease
+02_order_sing_dis,pubtator,23497779,Pravastatin,Diabetes Mellitus
+02_order_sing_dis,pubtator,23570952,Paroxetine,Depressive Disorder Treatment Resistant
+02_order_sing_dis,pubtator,24506965,Carvedilol,Breast Neoplasms
+02_order_sing_dis,pubtator,26123629,Gabapentin,Depressive Disorder
+02_order_sing_dis,pubtator,26123629,Gabapentin,Sleep Initiation and Maintenance Disorders
+02_order_sing_dis,pubtator,26123629,Gabapentin,Sleep Wake Disorders
+02_order_sing_dis,pubtator,26550813,Celecoxib,Neuralgia
+02_order_sing_dis,pubtator,26572055,Memantine,Mental Disorders
+02_order_sing_dis,pubtator,26572055,Memantine,Psychological Trauma
+02_order_sing_dis,pubtator,26572055,Memantine,Sleep Deprivation
+02_order_sing_dis,pubtator,27367818,Lisinopril,Cardiac Conduction System Disease
+02_order_sing_dis,pubtator,28416195,Pravastatin,HIV Infections
+02_order_sing_dis,pubtator,28416195,Pravastatin,Ischemic Attack Transient
+02_order_sing_dis,pubtator,28416195,Pravastatin,Chest Pain
+02_order_sing_dis,pubtator,29402860,Zolpidem,Sleep Wake Disorders
+02_order_sing_dis,pubtator,29622037,Donepezil,Mental Disorders
+02_order_sing_dis,pubtator,30002098,Valsartan,Renal Insufficiency Chronic
+02_order_sing_dis,pubtator,30002098,Valsartan,Albuminuria
+02_order_sing_dis,pubtator,30002098,Irbesartan,Renal Insufficiency Chronic
+02_order_sing_dis,pubtator,30318492,Pravastatin,Cerebral Infarction
+02_order_sing_dis,pubtator,30326006,Gabapentin,Sciatica
+02_order_sing_dis,pubtator,30326006,Pregabalin,Sciatica
+02_order_sing_dis,pubtator,31230222,Donepezil,Autistic Disorder
+02_order_sing_dis,pubtator,32629738,Pregabalin,Hip Injuries
+02_order_sing_dis,pubtator,33412422,Escitalopram,Abdominal Pain
+02_order_sing_dis,pubtator,34133820,Ibuprofen,Musculoskeletal Pain
+02_order_sing_dis,pubtator,34133820,Diclofenac,Musculoskeletal Pain
+02_order_sing_dis,pubtator,34218802,Doxycycline,Helicobacter Infections
+02_order_sing_dis,pubtator,34453525,Methylphenidate,Attention Deficit Disorder with Hyperactivity
+02_order_sing_dis,pubtator,34559090,Clonidine,Substance Withdrawal Syndrome
+02_order_sing_dis,pubtator,34793552,Amlodipine,Gastrointestinal Hemorrhage
+02_order_sing_dis,pubtator,34793552,Atenolol,Gastrointestinal Hemorrhage
+02_order_sing_dis,pubtator,35103836,Diclofenac,Pain Postoperative
+02_order_sing_dis,pubtator,35259978,Topiramate,Migraine Disorders
+02_order_sing_dis,pubtator,35766202,Methylprednisolone,Arthritis Sacroiliac
+02_order_sing_dis,pubtator,35867273,Propranolol,Migraine Disorders
+02_order_sing_dis,pubtator,35867273,Propranolol,Headache
+02_order_sing_dis,pubtator,35905573,Triamcinolone,Pain
+02_order_sing_dis,pubtator,35905573,Triamcinolone,Osteoarthritis
+02_order_sing_dis,pubtator,35905573,Triamcinolone,Joint Diseases
+02_order_sing_dis,pubtator,35987681,Methylprednisolone,Hypotension
+02_order_sing_dis,pubtator,36173235,Insulin Lispro,Diabetes Mellitus Type 1
+02_order_sing_dis,pubtator,36173344,Valsartan,Heart Diseases
+02_order_sing_dis,pubtator,36173344,Valsartan,Pulmonary Arterial Hypertension
+02_order_sing_dis,pubtator,36173344,Dapagliflozin,Heart Diseases
+02_order_sing_dis,pubtator,36471429,Cephalexin,Surgical Wound Infection
+02_order_sing_dis,pubtator,36477458,Ibuprofen,Bell Palsy
+02_order_sing_dis,pubtator,36561129,Fluticasone,Pulmonary Disease Chronic Obstructive
+02_order_sing_dis,pubtator,36561129,Vilanterol,Pulmonary Disease Chronic Obstructive
+02_order_sing_dis,pubtator,36942908,Acetaminophen,Acute Pain
+02_order_sing_dis,pubtator,37138225,Oxycodone,Pain
+02_order_sing_dis,pubtator,37210743,Valsartan,Heart Failure
+02_order_sing_dis,pubtator,37210743,Valsartan,Cardiovascular Diseases
+02_order_sing_dis,pubtator,37395974,Amlodipine,Dyslipidemias
+02_order_sing_dis,pubtator,37395974,Losartan,Dyslipidemias
+02_order_sing_dis,pubtator,37395974,Rosuvastatin,Hypertension
+02_order_sing_dis,pubtator,37395974,Ezetimibe,Hypertension
+02_order_sing_dis,pubtator,39586374,Clonidine,Pain
+02_order_sing_dis,pubtator,39601808,Methylphenidate,Disruptive Impulse Control and Conduct Disorders
+02_order_sing_dis,pubtator,39601808,Methylphenidate,Attention Deficit and Disruptive Behavior Disorders
+02_order_sing_dis,pubtator,40037214,Aspirin,Embolism
+02_order_sing_dis,pubtator,40037214,Rivaroxaban,Embolism
+02_order_sing_dis,pubtator,40043888,Prednisone,Uveomeningoencephalitic Syndrome
+02_order_sing_dis,pubtator,40043888,Adalimumab,Uveomeningoencephalitic Syndrome
+02_order_sing_dis,pubtator,40813667,Mirtazapine,Dyspnea
+02_order_sing_dis,pubtator,40877788,Acetaminophen,Pain Postoperative
+02_order_sing_dis,pubtator,40945498,Ibuprofen,Pain
+02_order_sing_dis,pubtator,40945498,Diclofenac,Pain
+02_order_sing_dis,pubtator,40945498,Diclofenac,Pain Postoperative
+02_order_sing_dis,pubtator,10572343,Trazodone,Sleep Wake Disorders
+02_order_sing_dis,pubtator,12145220,Glipizide,Diabetes Mellitus
+02_order_sing_dis,pubtator,22947356,Lisinopril,Hypertension Diastolic Resistance to
+02_order_sing_dis,pubtator,24158898,Pantoprazole,Dyspepsia
+02_order_sing_dis,pubtator,24180582,Clindamycin,Pain
+02_order_sing_dis,pubtator,25796863,Pantoprazole,Pancreatitis Chronic
+02_order_sing_dis,pubtator,25941016,Sumatriptan,Pain
+02_order_sing_dis,pubtator,26577417,Insulin Glargine,Hypoglycemia
+02_order_sing_dis,pubtator,27808417,Levetiracetam,Meige Syndrome
+02_order_sing_dis,pubtator,28082332,Losartan,Hypoxia
+02_order_sing_dis,pubtator,28240967,Pravastatin,Small Cell Lung Carcinoma
+02_order_sing_dis,pubtator,30302936,Chlorthalidone,Essential Hypertension
+02_order_sing_dis,pubtator,32436641,Insulin Lispro,Diabetes Mellitus Type 1
+02_order_sing_dis,pubtator,32488923,Insulin Lispro,Diabetes Mellitus Type 1
+02_order_sing_dis,pubtator,33097422,Sulfamethoxazole,Lower Urinary Tract Symptoms
+02_order_sing_dis,pubtator,33783553,Warfarin,Blood Coagulation Disorders
+02_order_sing_dis,pubtator,33837106,Insulin Aspart,Diabetes Mellitus Type 2
+02_order_sing_dis,pubtator,34847709,Isosorbide,Cerebral Infarction
+02_order_sing_dis,pubtator,35469478,Diclofenac,Migraine Disorders
+02_order_sing_dis,pubtator,37263861,Atorvastatin,Altitude Sickness
+02_order_sing_dis,pubtator,37289237,Furosemide,Pulmonary Atelectasis
+02_order_sing_dis,pubtator,38267312,Insulin Glargine,Diabetes Mellitus Type 2
+02_order_sing_dis,pubtator,38521730,Ondansetron,Alcoholism
+02_order_sing_dis,pubtator,39908026,Potassium Chloride,Stroke
+02_order_sing_dis,pubtator,40505216,Methylphenidate,Parkinson Disease
+02_order_sing_dis,rentrez,12453952,Glipizide,Diabetes Mellitus
+02_order_sing_dis,rentrez,12453952,Glipizide,"Diabetes Mellitus, Type 2"
+02_order_sing_dis,rentrez,15468607,Trazodone,Sleep Initiation and Maintenance Disorders
+02_order_sing_dis,rentrez,17097398,Cephalexin,"Skin Diseases, Infectious"
+02_order_sing_dis,rentrez,22915486,Mirtazapine,"Sleep Disorders, Circadian Rhythm"
+02_order_sing_dis,rentrez,23497779,Pravastatin,Coronary Artery Disease
+02_order_sing_dis,rentrez,23570952,Buspirone,Anxiety Disorders
+02_order_sing_dis,rentrez,23570952,Buspirone,"Depressive Disorder, Treatment-Resistant"
+02_order_sing_dis,rentrez,23570952,Paroxetine,Anxiety Disorders
+02_order_sing_dis,rentrez,23570952,Paroxetine,"Depressive Disorder, Treatment-Resistant"
+02_order_sing_dis,rentrez,25987260,Irbesartan,"Diabetes Mellitus, Type 2"
+02_order_sing_dis,rentrez,25987260,Irbesartan,"Kidney Failure, Chronic"
+02_order_sing_dis,rentrez,26123629,Clonazepam,Sleep Wake Disorders
+02_order_sing_dis,rentrez,26572055,Memantine,Alzheimer Disease
+02_order_sing_dis,rentrez,28416195,Pravastatin,HIV Infections
+02_order_sing_dis,rentrez,28838583,Aripiprazole,Psychotic Disorders
+02_order_sing_dis,rentrez,29402860,Zolpidem,Sleep Wake Disorders
+02_order_sing_dis,rentrez,29622037,Donepezil,Alzheimer Disease
+02_order_sing_dis,rentrez,29622037,Donepezil,Cognition Disorders
+02_order_sing_dis,rentrez,30326006,Gabapentin,Chronic Pain
+02_order_sing_dis,rentrez,31230222,Donepezil,Autistic Disorder
+02_order_sing_dis,rentrez,31435774,Gabapentin,Chronic Pain
+02_order_sing_dis,rentrez,31435774,Gabapentin,Pelvic Pain
+02_order_sing_dis,rentrez,34133820,Diclofenac,Acute Pain
+02_order_sing_dis,rentrez,34218802,Doxycycline,Helicobacter Infections
+02_order_sing_dis,rentrez,34218802,Esomeprazole,Helicobacter Infections
+02_order_sing_dis,rentrez,34453525,Methylphenidate,Attention Deficit Disorder with Hyperactivity
+02_order_sing_dis,rentrez,34559090,Clonidine,Substance Withdrawal Syndrome
+02_order_sing_dis,rentrez,35103836,Diclofenac,"Pain, Postoperative"
+02_order_sing_dis,rentrez,35259978,Topiramate,Migraine Disorders
+02_order_sing_dis,rentrez,35905573,Triamcinolone,Pain
+02_order_sing_dis,rentrez,35987681,Methylprednisolone,Systemic Inflammatory Response Syndrome
+02_order_sing_dis,rentrez,36173235,Insulin Lispro,"Diabetes Mellitus, Type 1"
+02_order_sing_dis,rentrez,36173344,Valsartan,Heart Diseases
+02_order_sing_dis,rentrez,36173344,Valsartan,Heart Failure
+02_order_sing_dis,rentrez,36173344,Valsartan,Pulmonary Arterial Hypertension
+02_order_sing_dis,rentrez,36471429,Cephalexin,Surgical Wound Infection
+02_order_sing_dis,rentrez,36477458,Ibuprofen,"Infant, Newborn, Diseases"
+02_order_sing_dis,rentrez,36561129,Fluticasone,"Pulmonary Disease, Chronic Obstructive"
+02_order_sing_dis,rentrez,36707080,Atorvastatin,Stroke
+02_order_sing_dis,rentrez,36707080,Clopidogrel,Stroke
+02_order_sing_dis,rentrez,37210743,Valsartan,Heart Failure
+02_order_sing_dis,rentrez,37395974,Ezetimibe,Hypertension
+02_order_sing_dis,rentrez,37395974,Ezetimibe,Essential Hypertension
+02_order_sing_dis,rentrez,37526038,Baclofen,Substance Withdrawal Syndrome
+02_order_sing_dis,rentrez,39601808,Methylphenidate,Attention Deficit Disorder with Hyperactivity
+02_order_sing_dis,rentrez,39601808,Methylphenidate,Attention Deficit and Disruptive Behavior Disorders
+02_order_sing_dis,rentrez,40043888,Prednisone,Uveomeningoencephalitic Syndrome
+02_order_sing_dis,rentrez,40043888,Adalimumab,Uveomeningoencephalitic Syndrome
+02_order_sing_dis,rentrez,40877788,Acetaminophen,"Pain, Postoperative"
+02_order_sing_dis,rentrez,40945498,Diclofenac,"Pain, Postoperative"
+02_order_sing_dis,rentrez,40945498,Acetaminophen,"Pain, Postoperative"
+02_order_sing_dis,rentrez,10572343,Trazodone,Sleep Initiation and Maintenance Disorders
+02_order_sing_dis,rentrez,24023757,Pravastatin,Coronary Disease
+02_order_sing_dis,rentrez,24158898,Pantoprazole,Helicobacter Infections
+02_order_sing_dis,rentrez,24180582,Clindamycin,"Pain, Postoperative"
+02_order_sing_dis,rentrez,24182419,Sumatriptan,Migraine Disorders
+02_order_sing_dis,rentrez,25796863,Pantoprazole,Helicobacter Infections
+02_order_sing_dis,rentrez,25941016,Sumatriptan,Migraine Disorders
+02_order_sing_dis,rentrez,26577417,Insulin Lispro,"Diabetes Mellitus, Type 2"
+02_order_sing_dis,rentrez,27808417,Levetiracetam,Dystonic Disorders
+02_order_sing_dis,rentrez,28082332,Losartan,Hypertension
+02_order_sing_dis,rentrez,30302936,Chlorthalidone,Essential Hypertension
+02_order_sing_dis,rentrez,32436641,Insulin Lispro,"Diabetes Mellitus, Type 1"
+02_order_sing_dis,rentrez,32488923,Insulin Lispro,"Diabetes Mellitus, Type 1"
+02_order_sing_dis,rentrez,33783553,Warfarin,Blood Coagulation Disorders
+02_order_sing_dis,rentrez,33837106,Insulin Aspart,"Diabetes Mellitus, Type 2"
+02_order_sing_dis,rentrez,34596484,Tamsulosin,Pain
+02_order_sing_dis,rentrez,34847709,Isosorbide,Cerebral Small Vessel Diseases
+02_order_sing_dis,rentrez,35346603,Ezetimibe,Muscular Diseases
+02_order_sing_dis,rentrez,35469478,Diclofenac,Migraine Disorders
+02_order_sing_dis,rentrez,36262968,Triamcinolone,Pain
+02_order_sing_dis,rentrez,38267312,Insulin Glargine,"Diabetes Mellitus, Type 2"
+02_order_sing_dis,rentrez,38521730,Ondansetron,"Liver Diseases, Alcoholic"
+02_order_sing_dis,rentrez,39908026,Potassium Chloride,Stroke
+02_order_sing_dis,rentrez,40345826,Amoxicillin,Community-Acquired Infections
+02_order_sing_dis,rentrez,40505216,Methylphenidate,Parkinson Disease
+02_order_sing_dis,union,8165073,Nitrofurantoin,Urologic Diseases
+02_order_sing_dis,union,9866667,Cephalexin,Wounds and Injuries
+02_order_sing_dis,union,12453952,Glipizide,Diabetes Mellitus
+02_order_sing_dis,union,12453952,Glipizide,"Diabetes Mellitus, Type 2"
+02_order_sing_dis,union,15468607,Trazodone,Sleep Initiation and Maintenance Disorders
+02_order_sing_dis,union,17097398,Cephalexin,Dermatitis
+02_order_sing_dis,union,17097398,Cephalexin,"Skin Diseases, Infectious"
+02_order_sing_dis,union,17580026,Diltiazem,Fissure in Ano
+02_order_sing_dis,union,19169140,Valacyclovir,Herpes Simplex
+02_order_sing_dis,union,19169140,Acyclovir,Herpes Simplex
+02_order_sing_dis,union,21075537,Gabapentin,Pruritus
+02_order_sing_dis,union,21075537,Gabapentin,Burns

@@ -1,0 +1,201 @@
+config,truth_source,pmid,missed_disease
+00_base,pubtator,8165073,Urologic Diseases
+00_base,pubtator,9866667,Wounds and Injuries
+00_base,pubtator,15468607,Sleep Initiation and Maintenance Disorders
+00_base,pubtator,17097398,Dermatitis
+00_base,pubtator,17580026,Fissure in Ano
+00_base,pubtator,19169140,Herpes Simplex
+00_base,pubtator,21075537,Pruritus
+00_base,pubtator,21075537,Burns
+00_base,pubtator,22915486,Depressive Disorder Major
+00_base,pubtator,22915486,Sleep Deprivation
+00_base,pubtator,23082133,Cardiovascular Diseases
+00_base,pubtator,23082133,Inflammation
+00_base,pubtator,23082133,HIV Infections
+00_base,pubtator,23223108,Pain
+00_base,pubtator,23223108,Complex Regional Pain Syndromes
+00_base,pubtator,23269105,Seizures
+00_base,pubtator,23497779,Coronary Artery Disease
+00_base,pubtator,23570952,Depressive Disorder Treatment Resistant
+00_base,pubtator,24506965,Breast Neoplasms
+00_base,pubtator,26123629,Depressive Disorder
+00_base,pubtator,26123629,Sleep Initiation and Maintenance Disorders
+00_base,pubtator,26123629,Sleep Wake Disorders
+00_base,pubtator,26123629,Depressive Disorder Major
+00_base,pubtator,26550813,Neuralgia
+00_base,pubtator,26572055,Mental Disorders
+00_base,pubtator,26572055,Psychological Trauma
+00_base,pubtator,26572055,Sleep Deprivation
+00_base,pubtator,27367818,Cardiac Conduction System Disease
+00_base,pubtator,28416195,Dyslipidemias
+00_base,pubtator,28416195,HIV Infections
+00_base,pubtator,28416195,Ischemic Attack Transient
+00_base,pubtator,28416195,Chest Pain
+00_base,pubtator,29402860,Sleep Wake Disorders
+00_base,pubtator,29622037,Mental Disorders
+00_base,pubtator,29692607,Pulmonary Disease Chronic Obstructive
+00_base,pubtator,30002098,Renal Insufficiency Chronic
+00_base,pubtator,30002098,Albuminuria
+00_base,pubtator,30318492,Cerebral Infarction
+00_base,pubtator,30318492,Ischemic Attack Transient
+00_base,pubtator,30326006,Sciatica
+00_base,pubtator,31230222,Autistic Disorder
+00_base,pubtator,32629738,Pain Postoperative
+00_base,pubtator,32629738,Hip Injuries
+00_base,pubtator,33412422,Abdominal Pain
+00_base,pubtator,34133820,Musculoskeletal Pain
+00_base,pubtator,34218802,Helicobacter Infections
+00_base,pubtator,34453525,Attention Deficit Disorder with Hyperactivity
+00_base,pubtator,34559090,Substance Withdrawal Syndrome
+00_base,pubtator,35103836,Pain Postoperative
+00_base,pubtator,35259978,Migraine Disorders
+00_base,pubtator,35766202,Arthritis Sacroiliac
+00_base,pubtator,35867273,Migraine Disorders
+00_base,pubtator,35867273,Headache
+00_base,pubtator,35905573,Pain
+00_base,pubtator,35905573,Joint Diseases
+00_base,pubtator,35987681,Hypotension
+00_base,pubtator,36173344,Heart Diseases
+00_base,pubtator,36471429,Surgical Wound Infection
+00_base,pubtator,36477458,Ductus Arteriosus Patent
+00_base,pubtator,36477458,Enterocolitis Necrotizing
+00_base,pubtator,36477458,Bell Palsy
+00_base,pubtator,36561129,Pulmonary Disease Chronic Obstructive
+00_base,pubtator,36707080,Ischemic Attack Transient
+00_base,pubtator,37138225,Pain Postoperative
+00_base,pubtator,37138225,Pain
+00_base,pubtator,37210743,Cardiovascular Diseases
+00_base,pubtator,37395974,Dyslipidemias
+00_base,pubtator,39586374,Pain
+00_base,pubtator,39601808,Disruptive Impulse Control and Conduct Disorders
+00_base,pubtator,39601808,Attention Deficit and Disruptive Behavior Disorders
+00_base,pubtator,40037214,Embolism
+00_base,pubtator,40037214,Embolic Stroke
+00_base,pubtator,40043888,Uveomeningoencephalitic Syndrome
+00_base,pubtator,40813667,Dyspnea
+00_base,pubtator,40877788,Pain Postoperative
+00_base,pubtator,40945498,Pain
+00_base,pubtator,40945498,Pain Postoperative
+00_base,pubtator,10572343,Sleep Wake Disorders
+00_base,pubtator,11590486,HIV Infections
+00_base,pubtator,12145220,Diabetes Mellitus
+00_base,pubtator,22947356,Hypertension Diastolic Resistance to
+00_base,pubtator,24023757,Vascular Diseases
+00_base,pubtator,24180582,Pain
+00_base,pubtator,25274899,Osteoarthritis Knee
+00_base,pubtator,25796863,Pancreatitis Chronic
+00_base,pubtator,25941016,Pain
+00_base,pubtator,27808417,Meige Syndrome
+00_base,pubtator,28082332,Hypoxia
+00_base,pubtator,28240967,Small Cell Lung Carcinoma
+00_base,pubtator,31672143,Malaria Cerebral
+00_base,pubtator,33783553,Blood Coagulation Disorders
+00_base,pubtator,33819072,Pain Postoperative
+00_base,pubtator,34847709,Cerebral Infarction
+00_base,pubtator,35469478,Migraine Disorders
+00_base,pubtator,36073608,Depressive Disorder Major
+00_base,pubtator,36574828,Pain Postoperative
+00_base,pubtator,37084960,Depressive Disorder Major
+00_base,pubtator,37263861,Altitude Sickness
+00_base,pubtator,37289237,Pulmonary Atelectasis
+00_base,pubtator,38521730,Alcoholism
+00_base,pubtator,40505216,Parkinson Disease
+00_base,rentrez,12453952,Diabetes Mellitus
+00_base,rentrez,12453952,"Diabetes Mellitus, Type 2"
+00_base,rentrez,15468607,Sleep Initiation and Maintenance Disorders
+00_base,rentrez,17097398,"Skin Diseases, Infectious"
+00_base,rentrez,19169140,HIV Infections
+00_base,rentrez,22915486,"Depressive Disorder, Major"
+00_base,rentrez,22915486,"Sleep Disorders, Circadian Rhythm"
+00_base,rentrez,23082133,HIV Infections
+00_base,rentrez,23223108,Complex Regional Pain Syndromes
+00_base,rentrez,23497779,Coronary Artery Disease
+00_base,rentrez,23570952,Anxiety Disorders
+00_base,rentrez,23570952,"Depressive Disorder, Major"
+00_base,rentrez,23570952,"Depressive Disorder, Treatment-Resistant"
+00_base,rentrez,25987260,"Diabetes Mellitus, Type 2"
+00_base,rentrez,25987260,"Kidney Failure, Chronic"
+00_base,rentrez,26123629,"Depressive Disorder, Major"
+00_base,rentrez,26123629,Sleep Wake Disorders
+00_base,rentrez,26572055,Alzheimer Disease
+00_base,rentrez,28416195,HIV Infections
+00_base,rentrez,28838583,Psychotic Disorders
+00_base,rentrez,29402860,Sleep Wake Disorders
+00_base,rentrez,29622037,Alzheimer Disease
+00_base,rentrez,29622037,Cognition Disorders
+00_base,rentrez,29692607,"Pulmonary Disease, Chronic Obstructive"
+00_base,rentrez,30326006,Chronic Pain
+00_base,rentrez,31230222,Autistic Disorder
+00_base,rentrez,31435774,Chronic Pain
+00_base,rentrez,31435774,Pelvic Pain
+00_base,rentrez,32629738,"Pain, Postoperative"
+00_base,rentrez,34133820,Acute Pain
+00_base,rentrez,34218802,Helicobacter Infections
+00_base,rentrez,34453525,Attention Deficit Disorder with Hyperactivity
+00_base,rentrez,34559090,Substance Withdrawal Syndrome
+00_base,rentrez,35103836,"Pain, Postoperative"
+00_base,rentrez,35259978,Migraine Disorders
+00_base,rentrez,35905573,Pain
+00_base,rentrez,35987681,Systemic Inflammatory Response Syndrome
+00_base,rentrez,36173344,Heart Diseases
+00_base,rentrez,36173344,Heart Failure
+00_base,rentrez,36471429,Surgical Wound Infection
+00_base,rentrez,36477458,"Infant, Newborn, Diseases"
+00_base,rentrez,36561129,"Pulmonary Disease, Chronic Obstructive"
+00_base,rentrez,36707080,Stroke
+00_base,rentrez,37138225,"Pain, Postoperative"
+00_base,rentrez,37403525,"Pain, Postoperative"
+00_base,rentrez,37526038,Substance Withdrawal Syndrome
+00_base,rentrez,39586374,"Pain, Postoperative"
+00_base,rentrez,39601808,Attention Deficit Disorder with Hyperactivity
+00_base,rentrez,39601808,Attention Deficit and Disruptive Behavior Disorders
+00_base,rentrez,40037214,Embolic Stroke
+00_base,rentrez,40043888,Uveomeningoencephalitic Syndrome
+00_base,rentrez,40637301,HIV Infections
+00_base,rentrez,40877788,"Pain, Postoperative"
+00_base,rentrez,40945498,"Pain, Postoperative"
+00_base,rentrez,6341623,Urinary Tract Infections
+00_base,rentrez,10572343,Sleep Initiation and Maintenance Disorders
+00_base,rentrez,11590486,HIV Infections
+00_base,rentrez,24023757,Coronary Disease
+00_base,rentrez,24158898,Helicobacter Infections
+00_base,rentrez,24180582,"Pain, Postoperative"
+00_base,rentrez,24182419,Migraine Disorders
+00_base,rentrez,25796863,Helicobacter Infections
+00_base,rentrez,25941016,Migraine Disorders
+00_base,rentrez,27808417,Dystonic Disorders
+00_base,rentrez,30069912,Esophageal Motility Disorders
+00_base,rentrez,33783553,Blood Coagulation Disorders
+00_base,rentrez,33819072,"Pain, Postoperative"
+00_base,rentrez,34596484,Pain
+00_base,rentrez,34675189,Anxiety Disorders
+00_base,rentrez,34847709,Cerebral Small Vessel Diseases
+00_base,rentrez,35346603,Muscular Diseases
+00_base,rentrez,35469478,Migraine Disorders
+00_base,rentrez,36073608,"Depressive Disorder, Major"
+00_base,rentrez,36262968,Pain
+00_base,rentrez,36574828,"Pain, Postoperative"
+00_base,rentrez,37084960,"Depressive Disorder, Major"
+00_base,rentrez,38521730,"Liver Diseases, Alcoholic"
+00_base,rentrez,40345826,Community-Acquired Infections
+00_base,rentrez,40505216,Parkinson Disease
+00_base,union,8165073,Urologic Diseases
+00_base,union,9866667,Wounds and Injuries
+00_base,union,12453952,Diabetes Mellitus
+00_base,union,12453952,"Diabetes Mellitus, Type 2"
+00_base,union,15468607,Sleep Initiation and Maintenance Disorders
+00_base,union,17097398,Dermatitis
+00_base,union,17097398,"Skin Diseases, Infectious"
+00_base,union,17580026,Fissure in Ano
+00_base,union,19169140,Herpes Simplex
+00_base,union,19169140,HIV Infections
+00_base,union,21075537,Pruritus
+00_base,union,21075537,Burns
+00_base,union,22915486,Depressive Disorder Major
+00_base,union,22915486,Sleep Deprivation
+00_base,union,22915486,"Sleep Disorders, Circadian Rhythm"
+00_base,union,23082133,Cardiovascular Diseases
+00_base,union,23082133,Inflammation
+00_base,union,23082133,HIV Infections
+00_base,union,23223108,Pain
+00_base,union,23223108,Complex Regional Pain Syndromes

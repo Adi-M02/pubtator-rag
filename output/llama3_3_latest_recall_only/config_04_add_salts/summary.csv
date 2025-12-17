@@ -1,0 +1,10 @@
+config,truth_source,metric,matched_truth,total_truth,recall,fn
+04_add_salts,pubtator,drugs,124,138,0.8985507246376812,14
+04_add_salts,pubtator,diseases,93,163,0.5705521472392638,70
+04_add_salts,pubtator,pairs,83,192,0.4322916666666667,109
+04_add_salts,rentrez,drugs,114,127,0.8976377952755905,13
+04_add_salts,rentrez,diseases,78,130,0.6,52
+04_add_salts,rentrez,pairs,74,149,0.4966442953020134,75
+04_add_salts,union,drugs,146,163,0.8957055214723927,17
+04_add_salts,union,diseases,120,224,0.5357142857142857,104
+04_add_salts,union,pairs,116,269,0.4312267657992565,153

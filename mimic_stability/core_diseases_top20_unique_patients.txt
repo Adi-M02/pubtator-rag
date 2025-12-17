@@ -1,0 +1,6 @@
+Definitions: 9
+Intersection size: 4
+acute kidney failure, unspecified
+atrial fibrillation
+coronary atherosclerosis of native coronary artery
+urinary tract infection, site not specified

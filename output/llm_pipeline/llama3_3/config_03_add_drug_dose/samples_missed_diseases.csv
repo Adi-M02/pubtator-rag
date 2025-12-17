@@ -1,0 +1,201 @@
+config,truth_source,pmid,missed_disease
+03_add_drug_dose,pubtator,8165073,Urologic Diseases
+03_add_drug_dose,pubtator,9866667,Wounds and Injuries
+03_add_drug_dose,pubtator,15468607,Sleep Initiation and Maintenance Disorders
+03_add_drug_dose,pubtator,17097398,Dermatitis
+03_add_drug_dose,pubtator,17580026,Fissure in Ano
+03_add_drug_dose,pubtator,19169140,Herpes Simplex
+03_add_drug_dose,pubtator,21075537,Pruritus
+03_add_drug_dose,pubtator,21075537,Burns
+03_add_drug_dose,pubtator,22915486,Sleep Deprivation
+03_add_drug_dose,pubtator,23082133,Inflammation
+03_add_drug_dose,pubtator,23223108,Pain
+03_add_drug_dose,pubtator,23269105,Seizures
+03_add_drug_dose,pubtator,23497779,Coronary Artery Disease
+03_add_drug_dose,pubtator,23570952,Depressive Disorder Treatment Resistant
+03_add_drug_dose,pubtator,24506965,Breast Neoplasms
+03_add_drug_dose,pubtator,26123629,Depressive Disorder
+03_add_drug_dose,pubtator,26123629,Sleep Initiation and Maintenance Disorders
+03_add_drug_dose,pubtator,26123629,Sleep Wake Disorders
+03_add_drug_dose,pubtator,26550813,Neuralgia
+03_add_drug_dose,pubtator,26572055,Mental Disorders
+03_add_drug_dose,pubtator,26572055,Psychological Trauma
+03_add_drug_dose,pubtator,26572055,Sleep Deprivation
+03_add_drug_dose,pubtator,27367818,Cardiac Conduction System Disease
+03_add_drug_dose,pubtator,28416195,Chest Pain
+03_add_drug_dose,pubtator,29402860,Sleep Wake Disorders
+03_add_drug_dose,pubtator,29622037,Mental Disorders
+03_add_drug_dose,pubtator,30002098,Renal Insufficiency Chronic
+03_add_drug_dose,pubtator,30002098,Albuminuria
+03_add_drug_dose,pubtator,30318492,Cerebral Infarction
+03_add_drug_dose,pubtator,30326006,Sciatica
+03_add_drug_dose,pubtator,31230222,Autistic Disorder
+03_add_drug_dose,pubtator,32629738,Hip Injuries
+03_add_drug_dose,pubtator,33412422,Abdominal Pain
+03_add_drug_dose,pubtator,34133820,Musculoskeletal Pain
+03_add_drug_dose,pubtator,34218802,Helicobacter Infections
+03_add_drug_dose,pubtator,34453525,Attention Deficit Disorder with Hyperactivity
+03_add_drug_dose,pubtator,34559090,Substance Withdrawal Syndrome
+03_add_drug_dose,pubtator,35259978,Migraine Disorders
+03_add_drug_dose,pubtator,35766202,Arthritis Sacroiliac
+03_add_drug_dose,pubtator,35867273,Migraine Disorders
+03_add_drug_dose,pubtator,35867273,Headache
+03_add_drug_dose,pubtator,35905573,Pain
+03_add_drug_dose,pubtator,35905573,Joint Diseases
+03_add_drug_dose,pubtator,35987681,Hypotension
+03_add_drug_dose,pubtator,36173344,Heart Diseases
+03_add_drug_dose,pubtator,36471429,Surgical Wound Infection
+03_add_drug_dose,pubtator,36477458,Bell Palsy
+03_add_drug_dose,pubtator,37138225,Pain
+03_add_drug_dose,pubtator,39586374,Pain
+03_add_drug_dose,pubtator,39601808,Disruptive Impulse Control and Conduct Disorders
+03_add_drug_dose,pubtator,39601808,Attention Deficit and Disruptive Behavior Disorders
+03_add_drug_dose,pubtator,40037214,Embolism
+03_add_drug_dose,pubtator,40043888,Uveomeningoencephalitic Syndrome
+03_add_drug_dose,pubtator,40813667,Dyspnea
+03_add_drug_dose,pubtator,40945498,Pain
+03_add_drug_dose,pubtator,10572343,Sleep Wake Disorders
+03_add_drug_dose,pubtator,12145220,Diabetes Mellitus
+03_add_drug_dose,pubtator,22947356,Hypertension Diastolic Resistance to
+03_add_drug_dose,pubtator,24180582,Pain
+03_add_drug_dose,pubtator,25941016,Pain
+03_add_drug_dose,pubtator,27808417,Meige Syndrome
+03_add_drug_dose,pubtator,28082332,Hypoxia
+03_add_drug_dose,pubtator,28240967,Small Cell Lung Carcinoma
+03_add_drug_dose,pubtator,33783553,Blood Coagulation Disorders
+03_add_drug_dose,pubtator,34847709,Cerebral Infarction
+03_add_drug_dose,pubtator,35469478,Migraine Disorders
+03_add_drug_dose,pubtator,37263861,Altitude Sickness
+03_add_drug_dose,pubtator,37289237,Pulmonary Atelectasis
+03_add_drug_dose,pubtator,38521730,Alcoholism
+03_add_drug_dose,pubtator,40505216,Parkinson Disease
+03_add_drug_dose,rentrez,12453952,Diabetes Mellitus
+03_add_drug_dose,rentrez,12453952,"Diabetes Mellitus, Type 2"
+03_add_drug_dose,rentrez,15468607,Sleep Initiation and Maintenance Disorders
+03_add_drug_dose,rentrez,17097398,"Skin Diseases, Infectious"
+03_add_drug_dose,rentrez,22915486,"Sleep Disorders, Circadian Rhythm"
+03_add_drug_dose,rentrez,23497779,Coronary Artery Disease
+03_add_drug_dose,rentrez,23570952,Anxiety Disorders
+03_add_drug_dose,rentrez,23570952,"Depressive Disorder, Treatment-Resistant"
+03_add_drug_dose,rentrez,25987260,"Diabetes Mellitus, Type 2"
+03_add_drug_dose,rentrez,25987260,"Kidney Failure, Chronic"
+03_add_drug_dose,rentrez,26123629,Sleep Wake Disorders
+03_add_drug_dose,rentrez,26572055,Alzheimer Disease
+03_add_drug_dose,rentrez,28838583,Psychotic Disorders
+03_add_drug_dose,rentrez,29402860,Sleep Wake Disorders
+03_add_drug_dose,rentrez,29622037,Alzheimer Disease
+03_add_drug_dose,rentrez,29622037,Cognition Disorders
+03_add_drug_dose,rentrez,30326006,Chronic Pain
+03_add_drug_dose,rentrez,31230222,Autistic Disorder
+03_add_drug_dose,rentrez,31435774,Chronic Pain
+03_add_drug_dose,rentrez,31435774,Pelvic Pain
+03_add_drug_dose,rentrez,34133820,Acute Pain
+03_add_drug_dose,rentrez,34218802,Helicobacter Infections
+03_add_drug_dose,rentrez,34453525,Attention Deficit Disorder with Hyperactivity
+03_add_drug_dose,rentrez,34559090,Substance Withdrawal Syndrome
+03_add_drug_dose,rentrez,35259978,Migraine Disorders
+03_add_drug_dose,rentrez,35905573,Pain
+03_add_drug_dose,rentrez,35987681,Systemic Inflammatory Response Syndrome
+03_add_drug_dose,rentrez,36173344,Heart Diseases
+03_add_drug_dose,rentrez,36173344,Heart Failure
+03_add_drug_dose,rentrez,36471429,Surgical Wound Infection
+03_add_drug_dose,rentrez,36477458,"Infant, Newborn, Diseases"
+03_add_drug_dose,rentrez,36707080,Stroke
+03_add_drug_dose,rentrez,37526038,Substance Withdrawal Syndrome
+03_add_drug_dose,rentrez,39601808,Attention Deficit Disorder with Hyperactivity
+03_add_drug_dose,rentrez,39601808,Attention Deficit and Disruptive Behavior Disorders
+03_add_drug_dose,rentrez,40043888,Uveomeningoencephalitic Syndrome
+03_add_drug_dose,rentrez,10572343,Sleep Initiation and Maintenance Disorders
+03_add_drug_dose,rentrez,24023757,Coronary Disease
+03_add_drug_dose,rentrez,24158898,Helicobacter Infections
+03_add_drug_dose,rentrez,24180582,"Pain, Postoperative"
+03_add_drug_dose,rentrez,24182419,Migraine Disorders
+03_add_drug_dose,rentrez,25796863,Helicobacter Infections
+03_add_drug_dose,rentrez,25941016,Migraine Disorders
+03_add_drug_dose,rentrez,27808417,Dystonic Disorders
+03_add_drug_dose,rentrez,33783553,Blood Coagulation Disorders
+03_add_drug_dose,rentrez,34596484,Pain
+03_add_drug_dose,rentrez,35346603,Muscular Diseases
+03_add_drug_dose,rentrez,35469478,Migraine Disorders
+03_add_drug_dose,rentrez,36262968,Pain
+03_add_drug_dose,rentrez,38521730,"Liver Diseases, Alcoholic"
+03_add_drug_dose,rentrez,40345826,Community-Acquired Infections
+03_add_drug_dose,rentrez,40505216,Parkinson Disease
+03_add_drug_dose,union,8165073,Urologic Diseases
+03_add_drug_dose,union,9866667,Wounds and Injuries
+03_add_drug_dose,union,12453952,Diabetes Mellitus
+03_add_drug_dose,union,12453952,"Diabetes Mellitus, Type 2"
+03_add_drug_dose,union,15468607,Sleep Initiation and Maintenance Disorders
+03_add_drug_dose,union,17097398,Dermatitis
+03_add_drug_dose,union,17097398,"Skin Diseases, Infectious"
+03_add_drug_dose,union,17580026,Fissure in Ano
+03_add_drug_dose,union,19169140,Herpes Simplex
+03_add_drug_dose,union,21075537,Pruritus
+03_add_drug_dose,union,21075537,Burns
+03_add_drug_dose,union,22915486,Sleep Deprivation
+03_add_drug_dose,union,22915486,"Sleep Disorders, Circadian Rhythm"
+03_add_drug_dose,union,23082133,Inflammation
+03_add_drug_dose,union,23223108,Pain
+03_add_drug_dose,union,23269105,Seizures
+03_add_drug_dose,union,23497779,Coronary Artery Disease
+03_add_drug_dose,union,23570952,Depressive Disorder Treatment Resistant
+03_add_drug_dose,union,23570952,Anxiety Disorders
+03_add_drug_dose,union,24506965,Breast Neoplasms
+03_add_drug_dose,union,25987260,"Diabetes Mellitus, Type 2"
+03_add_drug_dose,union,25987260,"Kidney Failure, Chronic"
+03_add_drug_dose,union,26123629,Depressive Disorder
+03_add_drug_dose,union,26123629,Sleep Initiation and Maintenance Disorders
+03_add_drug_dose,union,26123629,Sleep Wake Disorders
+03_add_drug_dose,union,26550813,Neuralgia
+03_add_drug_dose,union,26572055,Mental Disorders
+03_add_drug_dose,union,26572055,Psychological Trauma
+03_add_drug_dose,union,26572055,Sleep Deprivation
+03_add_drug_dose,union,26572055,Alzheimer Disease
+03_add_drug_dose,union,27367818,Cardiac Conduction System Disease
+03_add_drug_dose,union,28416195,Chest Pain
+03_add_drug_dose,union,28838583,Psychotic Disorders
+03_add_drug_dose,union,29402860,Sleep Wake Disorders
+03_add_drug_dose,union,29622037,Mental Disorders
+03_add_drug_dose,union,29622037,Alzheimer Disease
+03_add_drug_dose,union,29622037,Cognition Disorders
+03_add_drug_dose,union,30002098,Renal Insufficiency Chronic
+03_add_drug_dose,union,30002098,Albuminuria
+03_add_drug_dose,union,30318492,Cerebral Infarction
+03_add_drug_dose,union,30326006,Sciatica
+03_add_drug_dose,union,30326006,Chronic Pain
+03_add_drug_dose,union,31230222,Autistic Disorder
+03_add_drug_dose,union,31435774,Chronic Pain
+03_add_drug_dose,union,31435774,Pelvic Pain
+03_add_drug_dose,union,32629738,Hip Injuries
+03_add_drug_dose,union,33412422,Abdominal Pain
+03_add_drug_dose,union,34133820,Musculoskeletal Pain
+03_add_drug_dose,union,34133820,Acute Pain
+03_add_drug_dose,union,34218802,Helicobacter Infections
+03_add_drug_dose,union,34453525,Attention Deficit Disorder with Hyperactivity
+03_add_drug_dose,union,34559090,Substance Withdrawal Syndrome
+03_add_drug_dose,union,35259978,Migraine Disorders
+03_add_drug_dose,union,35766202,Arthritis Sacroiliac
+03_add_drug_dose,union,35867273,Migraine Disorders
+03_add_drug_dose,union,35867273,Headache
+03_add_drug_dose,union,35905573,Pain
+03_add_drug_dose,union,35905573,Joint Diseases
+03_add_drug_dose,union,35987681,Hypotension
+03_add_drug_dose,union,35987681,Systemic Inflammatory Response Syndrome
+03_add_drug_dose,union,36173344,Heart Diseases
+03_add_drug_dose,union,36173344,Heart Failure
+03_add_drug_dose,union,36471429,Surgical Wound Infection
+03_add_drug_dose,union,36477458,Bell Palsy
+03_add_drug_dose,union,36477458,"Infant, Newborn, Diseases"
+03_add_drug_dose,union,36707080,Stroke
+03_add_drug_dose,union,37138225,Pain
+03_add_drug_dose,union,37526038,Substance Withdrawal Syndrome
+03_add_drug_dose,union,39586374,Pain
+03_add_drug_dose,union,39601808,Disruptive Impulse Control and Conduct Disorders
+03_add_drug_dose,union,39601808,Attention Deficit and Disruptive Behavior Disorders
+03_add_drug_dose,union,39601808,Attention Deficit Disorder with Hyperactivity
+03_add_drug_dose,union,40037214,Embolism
+03_add_drug_dose,union,40043888,Uveomeningoencephalitic Syndrome
+03_add_drug_dose,union,40813667,Dyspnea
+03_add_drug_dose,union,40945498,Pain
+03_add_drug_dose,union,10572343,Sleep Wake Disorders
+03_add_drug_dose,union,10572343,Sleep Initiation and Maintenance Disorders

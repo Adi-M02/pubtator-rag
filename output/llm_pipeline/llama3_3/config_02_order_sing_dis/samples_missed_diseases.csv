@@ -1,0 +1,201 @@
+config,truth_source,pmid,missed_disease
+02_order_sing_dis,pubtator,8165073,Urologic Diseases
+02_order_sing_dis,pubtator,9866667,Wounds and Injuries
+02_order_sing_dis,pubtator,15468607,Sleep Initiation and Maintenance Disorders
+02_order_sing_dis,pubtator,17097398,Dermatitis
+02_order_sing_dis,pubtator,17580026,Fissure in Ano
+02_order_sing_dis,pubtator,19169140,Herpes Simplex
+02_order_sing_dis,pubtator,21075537,Pruritus
+02_order_sing_dis,pubtator,21075537,Burns
+02_order_sing_dis,pubtator,22915486,Sleep Deprivation
+02_order_sing_dis,pubtator,23082133,Inflammation
+02_order_sing_dis,pubtator,23223108,Pain
+02_order_sing_dis,pubtator,23269105,Seizures
+02_order_sing_dis,pubtator,23497779,Coronary Artery Disease
+02_order_sing_dis,pubtator,23570952,Depressive Disorder Treatment Resistant
+02_order_sing_dis,pubtator,24506965,Breast Neoplasms
+02_order_sing_dis,pubtator,26123629,Depressive Disorder
+02_order_sing_dis,pubtator,26123629,Sleep Initiation and Maintenance Disorders
+02_order_sing_dis,pubtator,26123629,Sleep Wake Disorders
+02_order_sing_dis,pubtator,26550813,Neuralgia
+02_order_sing_dis,pubtator,26572055,Mental Disorders
+02_order_sing_dis,pubtator,26572055,Psychological Trauma
+02_order_sing_dis,pubtator,26572055,Sleep Deprivation
+02_order_sing_dis,pubtator,27367818,Cardiac Conduction System Disease
+02_order_sing_dis,pubtator,28416195,Chest Pain
+02_order_sing_dis,pubtator,29402860,Sleep Wake Disorders
+02_order_sing_dis,pubtator,29622037,Mental Disorders
+02_order_sing_dis,pubtator,30002098,Renal Insufficiency Chronic
+02_order_sing_dis,pubtator,30002098,Albuminuria
+02_order_sing_dis,pubtator,30318492,Cerebral Infarction
+02_order_sing_dis,pubtator,30326006,Sciatica
+02_order_sing_dis,pubtator,31230222,Autistic Disorder
+02_order_sing_dis,pubtator,32629738,Hip Injuries
+02_order_sing_dis,pubtator,33412422,Abdominal Pain
+02_order_sing_dis,pubtator,34133820,Musculoskeletal Pain
+02_order_sing_dis,pubtator,34218802,Helicobacter Infections
+02_order_sing_dis,pubtator,34453525,Attention Deficit Disorder with Hyperactivity
+02_order_sing_dis,pubtator,34559090,Substance Withdrawal Syndrome
+02_order_sing_dis,pubtator,35259978,Migraine Disorders
+02_order_sing_dis,pubtator,35766202,Arthritis Sacroiliac
+02_order_sing_dis,pubtator,35867273,Migraine Disorders
+02_order_sing_dis,pubtator,35867273,Headache
+02_order_sing_dis,pubtator,35905573,Pain
+02_order_sing_dis,pubtator,35905573,Joint Diseases
+02_order_sing_dis,pubtator,35987681,Hypotension
+02_order_sing_dis,pubtator,36173344,Heart Diseases
+02_order_sing_dis,pubtator,36471429,Surgical Wound Infection
+02_order_sing_dis,pubtator,36477458,Bell Palsy
+02_order_sing_dis,pubtator,37138225,Pain
+02_order_sing_dis,pubtator,39586374,Pain
+02_order_sing_dis,pubtator,39601808,Disruptive Impulse Control and Conduct Disorders
+02_order_sing_dis,pubtator,39601808,Attention Deficit and Disruptive Behavior Disorders
+02_order_sing_dis,pubtator,40037214,Embolism
+02_order_sing_dis,pubtator,40043888,Uveomeningoencephalitic Syndrome
+02_order_sing_dis,pubtator,40813667,Dyspnea
+02_order_sing_dis,pubtator,40945498,Pain
+02_order_sing_dis,pubtator,10572343,Sleep Wake Disorders
+02_order_sing_dis,pubtator,12145220,Diabetes Mellitus
+02_order_sing_dis,pubtator,22947356,Hypertension Diastolic Resistance to
+02_order_sing_dis,pubtator,24180582,Pain
+02_order_sing_dis,pubtator,25941016,Pain
+02_order_sing_dis,pubtator,27808417,Meige Syndrome
+02_order_sing_dis,pubtator,28082332,Hypoxia
+02_order_sing_dis,pubtator,28240967,Small Cell Lung Carcinoma
+02_order_sing_dis,pubtator,33783553,Blood Coagulation Disorders
+02_order_sing_dis,pubtator,34847709,Cerebral Infarction
+02_order_sing_dis,pubtator,35469478,Migraine Disorders
+02_order_sing_dis,pubtator,37263861,Altitude Sickness
+02_order_sing_dis,pubtator,37289237,Pulmonary Atelectasis
+02_order_sing_dis,pubtator,38521730,Alcoholism
+02_order_sing_dis,pubtator,40505216,Parkinson Disease
+02_order_sing_dis,rentrez,12453952,Diabetes Mellitus
+02_order_sing_dis,rentrez,12453952,"Diabetes Mellitus, Type 2"
+02_order_sing_dis,rentrez,15468607,Sleep Initiation and Maintenance Disorders
+02_order_sing_dis,rentrez,17097398,"Skin Diseases, Infectious"
+02_order_sing_dis,rentrez,22915486,"Sleep Disorders, Circadian Rhythm"
+02_order_sing_dis,rentrez,23497779,Coronary Artery Disease
+02_order_sing_dis,rentrez,23570952,Anxiety Disorders
+02_order_sing_dis,rentrez,23570952,"Depressive Disorder, Treatment-Resistant"
+02_order_sing_dis,rentrez,25987260,"Diabetes Mellitus, Type 2"
+02_order_sing_dis,rentrez,25987260,"Kidney Failure, Chronic"
+02_order_sing_dis,rentrez,26123629,Sleep Wake Disorders
+02_order_sing_dis,rentrez,26572055,Alzheimer Disease
+02_order_sing_dis,rentrez,28838583,Psychotic Disorders
+02_order_sing_dis,rentrez,29402860,Sleep Wake Disorders
+02_order_sing_dis,rentrez,29622037,Alzheimer Disease
+02_order_sing_dis,rentrez,29622037,Cognition Disorders
+02_order_sing_dis,rentrez,30326006,Chronic Pain
+02_order_sing_dis,rentrez,31230222,Autistic Disorder
+02_order_sing_dis,rentrez,31435774,Chronic Pain
+02_order_sing_dis,rentrez,31435774,Pelvic Pain
+02_order_sing_dis,rentrez,34133820,Acute Pain
+02_order_sing_dis,rentrez,34218802,Helicobacter Infections
+02_order_sing_dis,rentrez,34453525,Attention Deficit Disorder with Hyperactivity
+02_order_sing_dis,rentrez,34559090,Substance Withdrawal Syndrome
+02_order_sing_dis,rentrez,35259978,Migraine Disorders
+02_order_sing_dis,rentrez,35905573,Pain
+02_order_sing_dis,rentrez,35987681,Systemic Inflammatory Response Syndrome
+02_order_sing_dis,rentrez,36173344,Heart Diseases
+02_order_sing_dis,rentrez,36173344,Heart Failure
+02_order_sing_dis,rentrez,36471429,Surgical Wound Infection
+02_order_sing_dis,rentrez,36477458,"Infant, Newborn, Diseases"
+02_order_sing_dis,rentrez,36707080,Stroke
+02_order_sing_dis,rentrez,37526038,Substance Withdrawal Syndrome
+02_order_sing_dis,rentrez,39601808,Attention Deficit Disorder with Hyperactivity
+02_order_sing_dis,rentrez,39601808,Attention Deficit and Disruptive Behavior Disorders
+02_order_sing_dis,rentrez,40043888,Uveomeningoencephalitic Syndrome
+02_order_sing_dis,rentrez,10572343,Sleep Initiation and Maintenance Disorders
+02_order_sing_dis,rentrez,24023757,Coronary Disease
+02_order_sing_dis,rentrez,24158898,Helicobacter Infections
+02_order_sing_dis,rentrez,24180582,"Pain, Postoperative"
+02_order_sing_dis,rentrez,24182419,Migraine Disorders
+02_order_sing_dis,rentrez,25796863,Helicobacter Infections
+02_order_sing_dis,rentrez,25941016,Migraine Disorders
+02_order_sing_dis,rentrez,27808417,Dystonic Disorders
+02_order_sing_dis,rentrez,33783553,Blood Coagulation Disorders
+02_order_sing_dis,rentrez,34596484,Pain
+02_order_sing_dis,rentrez,35346603,Muscular Diseases
+02_order_sing_dis,rentrez,35469478,Migraine Disorders
+02_order_sing_dis,rentrez,36262968,Pain
+02_order_sing_dis,rentrez,38521730,"Liver Diseases, Alcoholic"
+02_order_sing_dis,rentrez,40345826,Community-Acquired Infections
+02_order_sing_dis,rentrez,40505216,Parkinson Disease
+02_order_sing_dis,union,8165073,Urologic Diseases
+02_order_sing_dis,union,9866667,Wounds and Injuries
+02_order_sing_dis,union,12453952,Diabetes Mellitus
+02_order_sing_dis,union,12453952,"Diabetes Mellitus, Type 2"
+02_order_sing_dis,union,15468607,Sleep Initiation and Maintenance Disorders
+02_order_sing_dis,union,17097398,Dermatitis
+02_order_sing_dis,union,17097398,"Skin Diseases, Infectious"
+02_order_sing_dis,union,17580026,Fissure in Ano
+02_order_sing_dis,union,19169140,Herpes Simplex
+02_order_sing_dis,union,21075537,Pruritus
+02_order_sing_dis,union,21075537,Burns
+02_order_sing_dis,union,22915486,Sleep Deprivation
+02_order_sing_dis,union,22915486,"Sleep Disorders, Circadian Rhythm"
+02_order_sing_dis,union,23082133,Inflammation
+02_order_sing_dis,union,23223108,Pain
+02_order_sing_dis,union,23269105,Seizures
+02_order_sing_dis,union,23497779,Coronary Artery Disease
+02_order_sing_dis,union,23570952,Depressive Disorder Treatment Resistant
+02_order_sing_dis,union,23570952,Anxiety Disorders
+02_order_sing_dis,union,24506965,Breast Neoplasms
+02_order_sing_dis,union,25987260,"Diabetes Mellitus, Type 2"
+02_order_sing_dis,union,25987260,"Kidney Failure, Chronic"
+02_order_sing_dis,union,26123629,Depressive Disorder
+02_order_sing_dis,union,26123629,Sleep Initiation and Maintenance Disorders
+02_order_sing_dis,union,26123629,Sleep Wake Disorders
+02_order_sing_dis,union,26550813,Neuralgia
+02_order_sing_dis,union,26572055,Mental Disorders
+02_order_sing_dis,union,26572055,Psychological Trauma
+02_order_sing_dis,union,26572055,Sleep Deprivation
+02_order_sing_dis,union,26572055,Alzheimer Disease
+02_order_sing_dis,union,27367818,Cardiac Conduction System Disease
+02_order_sing_dis,union,28416195,Chest Pain
+02_order_sing_dis,union,28838583,Psychotic Disorders
+02_order_sing_dis,union,29402860,Sleep Wake Disorders
+02_order_sing_dis,union,29622037,Mental Disorders
+02_order_sing_dis,union,29622037,Alzheimer Disease
+02_order_sing_dis,union,29622037,Cognition Disorders
+02_order_sing_dis,union,30002098,Renal Insufficiency Chronic
+02_order_sing_dis,union,30002098,Albuminuria
+02_order_sing_dis,union,30318492,Cerebral Infarction
+02_order_sing_dis,union,30326006,Sciatica
+02_order_sing_dis,union,30326006,Chronic Pain
+02_order_sing_dis,union,31230222,Autistic Disorder
+02_order_sing_dis,union,31435774,Chronic Pain
+02_order_sing_dis,union,31435774,Pelvic Pain
+02_order_sing_dis,union,32629738,Hip Injuries
+02_order_sing_dis,union,33412422,Abdominal Pain
+02_order_sing_dis,union,34133820,Musculoskeletal Pain
+02_order_sing_dis,union,34133820,Acute Pain
+02_order_sing_dis,union,34218802,Helicobacter Infections
+02_order_sing_dis,union,34453525,Attention Deficit Disorder with Hyperactivity
+02_order_sing_dis,union,34559090,Substance Withdrawal Syndrome
+02_order_sing_dis,union,35259978,Migraine Disorders
+02_order_sing_dis,union,35766202,Arthritis Sacroiliac
+02_order_sing_dis,union,35867273,Migraine Disorders
+02_order_sing_dis,union,35867273,Headache
+02_order_sing_dis,union,35905573,Pain
+02_order_sing_dis,union,35905573,Joint Diseases
+02_order_sing_dis,union,35987681,Hypotension
+02_order_sing_dis,union,35987681,Systemic Inflammatory Response Syndrome
+02_order_sing_dis,union,36173344,Heart Diseases
+02_order_sing_dis,union,36173344,Heart Failure
+02_order_sing_dis,union,36471429,Surgical Wound Infection
+02_order_sing_dis,union,36477458,Bell Palsy
+02_order_sing_dis,union,36477458,"Infant, Newborn, Diseases"
+02_order_sing_dis,union,36707080,Stroke
+02_order_sing_dis,union,37138225,Pain
+02_order_sing_dis,union,37526038,Substance Withdrawal Syndrome
+02_order_sing_dis,union,39586374,Pain
+02_order_sing_dis,union,39601808,Disruptive Impulse Control and Conduct Disorders
+02_order_sing_dis,union,39601808,Attention Deficit and Disruptive Behavior Disorders
+02_order_sing_dis,union,39601808,Attention Deficit Disorder with Hyperactivity
+02_order_sing_dis,union,40037214,Embolism
+02_order_sing_dis,union,40043888,Uveomeningoencephalitic Syndrome
+02_order_sing_dis,union,40813667,Dyspnea
+02_order_sing_dis,union,40945498,Pain
+02_order_sing_dis,union,10572343,Sleep Wake Disorders
+02_order_sing_dis,union,10572343,Sleep Initiation and Maintenance Disorders

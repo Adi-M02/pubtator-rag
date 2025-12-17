@@ -1,0 +1,31 @@
+item,status,base_rank,cur_rank,base_weight,cur_weight,rank_delta
+encounter for antineoplastic chemotherapy,shared,1.0,14.0,20923.0,21048.0,13.0
+coronary atherosclerosis of native coronary artery,shared,2.0,6.0,18847.0,37871.0,4.0
+"hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",shared,3.0,9.0,13515.0,31566.0,6.0
+"sepsis, unspecified organism",shared,4.0,18.0,12294.0,17753.0,14.0
+non-st elevation (nstemi) myocardial infarction,shared,5.0,15.0,11407.0,19267.0,10.0
+"acute kidney failure, unspecified",shared,8.0,1.0,7425.0,158855.0,-7.0
+atrial fibrillation,shared,9.0,11.0,6925.0,29453.0,2.0
+"pneumonia, organism unspecified",shared,10.0,10.0,5661.0,30549.0,0.0
+acute on chronic diastolic heart failure,shared,11.0,17.0,5520.0,17759.0,6.0
+"urinary tract infection, site not specified",shared,15.0,4.0,4559.0,48768.0,-11.0
+"subendocardial infarction, initial episode of care",dropped,6.0,,8647.0,,
+hypertensive heart disease with heart failure,dropped,7.0,,7575.0,,
+atherosclerotic heart disease of native coronary artery without angina pectoris,dropped,12.0,,5226.0,,
+other chest pain,dropped,13.0,,5185.0,,
+unspecified septicemia,dropped,14.0,,4902.0,,
+acute on chronic systolic heart failure,dropped,16.0,,4558.0,,
+aortic valve disorders,dropped,17.0,,4211.0,,
+atherosclerotic heart disease of native coronary artery with unstable angina pectoris,dropped,18.0,,4015.0,,
+acute pancreatitis,dropped,19.0,,3749.0,,
+nonrheumatic aortic (valve) stenosis,dropped,20.0,,3309.0,,
+unspecified essential hypertension,added,,2.0,,56018.0,
+essential (primary) hypertension,added,,3.0,,50630.0,
+end stage renal disease,added,,5.0,,38754.0,
+acute respiratory failure with hypoxia,added,,7.0,,37302.0,
+acute posthemorrhagic anemia,added,,8.0,,35718.0,
+acute on chronic diastolic (congestive) heart failure,added,,12.0,,28984.0,
+"pneumonia, unspecified organism",added,,13.0,,24626.0,
+acute on chronic systolic (congestive) heart failure,added,,16.0,,17832.0,
+unspecified severe protein-calorie malnutrition,added,,19.0,,17566.0,
+"congestive heart failure, unspecified",added,,20.0,,17345.0,

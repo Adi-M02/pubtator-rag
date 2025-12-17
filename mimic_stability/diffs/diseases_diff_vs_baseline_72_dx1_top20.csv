@@ -1,0 +1,21 @@
+item,status,base_rank,cur_rank,base_weight,cur_weight,rank_delta
+encounter for antineoplastic chemotherapy,shared,1,1,20923.0,22067.0,0
+coronary atherosclerosis of native coronary artery,shared,2,2,18847.0,20789.0,0
+"hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",shared,3,3,13515.0,14402.0,0
+"sepsis, unspecified organism",shared,4,4,12294.0,14082.0,0
+non-st elevation (nstemi) myocardial infarction,shared,5,5,11407.0,13006.0,0
+"subendocardial infarction, initial episode of care",shared,6,6,8647.0,9684.0,0
+hypertensive heart disease with heart failure,shared,7,8,7575.0,8130.0,1
+"acute kidney failure, unspecified",shared,8,7,7425.0,8338.0,-1
+atrial fibrillation,shared,9,9,6925.0,7346.0,0
+"pneumonia, organism unspecified",shared,10,10,5661.0,6346.0,0
+acute on chronic diastolic heart failure,shared,11,12,5520.0,5948.0,1
+atherosclerotic heart disease of native coronary artery without angina pectoris,shared,12,13,5226.0,5837.0,1
+other chest pain,shared,13,14,5185.0,5320.0,1
+unspecified septicemia,shared,14,11,4902.0,6071.0,-3
+"urinary tract infection, site not specified",shared,15,16,4559.0,4885.0,1
+acute on chronic systolic heart failure,shared,16,15,4558.0,5026.0,-1
+aortic valve disorders,shared,17,17,4211.0,4597.0,0
+atherosclerotic heart disease of native coronary artery with unstable angina pectoris,shared,18,18,4015.0,4496.0,0
+acute pancreatitis,shared,19,19,3749.0,4363.0,0
+nonrheumatic aortic (valve) stenosis,shared,20,20,3309.0,3703.0,0
