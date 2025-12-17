@@ -1,0 +1,1035 @@
+drug_name,drug_id,disease_name,disease_id,total_disease_entities
+Atorvastatin,@CHEMICAL_Atorvastatin,Inflammation,@DISEASE_Inflammation,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hypercholesterolemia,@DISEASE_Hypercholesterolemia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Atherosclerosis,@DISEASE_Atherosclerosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Coronary Disease,@DISEASE_Coronary_Disease,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Dyslipidemias,@DISEASE_Dyslipidemias,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Diabetes Mellitus Type 2,@DISEASE_Diabetes_Mellitus_Type_2,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hyperlipoproteinemia Type II,@DISEASE_Hyperlipoproteinemia_Type_II,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Acute Coronary Syndrome,@DISEASE_Acute_Coronary_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cardiovascular Diseases,@DISEASE_Cardiovascular_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hyperlipidemias,@DISEASE_Hyperlipidemias,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Coronary Artery Disease,@DISEASE_Coronary_Artery_Disease,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Myocardial Infarction,@DISEASE_Myocardial_Infarction,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hypertension,@DISEASE_Hypertension,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Diabetes Mellitus,@DISEASE_Diabetes_Mellitus,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Stroke,@DISEASE_Stroke,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Neoplasms,@DISEASE_Neoplasms,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Plaque Atherosclerotic,@DISEASE_Plaque_Atherosclerotic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Infarction,@DISEASE_Infarction,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Heart Failure,@DISEASE_Heart_Failure,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Metabolic Syndrome,@DISEASE_Metabolic_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Fibrosis,@DISEASE_Fibrosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Kidney Diseases,@DISEASE_Kidney_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Ischemia,@DISEASE_Ischemia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Atrial Fibrillation,@DISEASE_Atrial_Fibrillation,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Myocardial Ischemia,@DISEASE_Myocardial_Ischemia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cerebral Infarction,@DISEASE_Cerebral_Infarction,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Reperfusion Injury,@DISEASE_Reperfusion_Injury,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,ST Elevation Myocardial Infarction,@DISEASE_ST_Elevation_Myocardial_Infarction,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Vascular Diseases,@DISEASE_Vascular_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Heart Diseases,@DISEASE_Heart_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Renal Insufficiency Chronic,@DISEASE_Renal_Insufficiency_Chronic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Brain Ischemia,@DISEASE_Brain_Ischemia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Obesity,@DISEASE_Obesity,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cardiomyopathies,@DISEASE_Cardiomyopathies,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Non alcoholic Fatty Liver Disease,@DISEASE_Non_alcoholic_Fatty_Liver_Disease,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Alzheimer Disease,@DISEASE_Alzheimer_Disease,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Angina Unstable,@DISEASE_Angina_Unstable,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Death,@DISEASE_Death,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hypertriglyceridemia,@DISEASE_Hypertriglyceridemia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Angina Stable,@DISEASE_Angina_Stable,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Carotid Stenosis,@DISEASE_Carotid_Stenosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Ischemic Attack Transient,@DISEASE_Ischemic_Attack_Transient,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Acute Kidney Injury,@DISEASE_Acute_Kidney_Injury,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Coronary Aneurysm,@DISEASE_Coronary_Aneurysm,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hematoma Subdural Chronic,@DISEASE_Hematoma_Subdural_Chronic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Breast Neoplasms,@DISEASE_Breast_Neoplasms,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Dental Plaque,@DISEASE_Dental_Plaque,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Carotid Artery Diseases,@DISEASE_Carotid_Artery_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Fatty Liver,@DISEASE_Fatty_Liver,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,COVID 19,@DISEASE_COVID_19,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Ventricular Remodeling,@DISEASE_Ventricular_Remodeling,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cognition Disorders,@DISEASE_Cognition_Disorders,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Infarction Middle Cerebral Artery,@DISEASE_Infarction_Middle_Cerebral_Artery,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Prostatic Neoplasms,@DISEASE_Prostatic_Neoplasms,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Proteinuria,@DISEASE_Proteinuria,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Blood Platelet Disorders,@DISEASE_Blood_Platelet_Disorders,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,HIV Infections,@DISEASE_HIV_Infections,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Epileptic Syndromes,@DISEASE_Epileptic_Syndromes,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Insulin Resistance,@DISEASE_Insulin_Resistance,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cerebrovascular Disorders,@DISEASE_Cerebrovascular_Disorders,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Drug Related Side Effects and Adverse Reactions,@DISEASE_Drug_Related_Side_Effects_and_Adverse_Reactions,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hematoma,@DISEASE_Hematoma,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hypertrophy,@DISEASE_Hypertrophy,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Arthritis Rheumatoid,@DISEASE_Arthritis_Rheumatoid,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Extravasation of Diagnostic and Therapeutic Materials,@DISEASE_Extravasation_of_Diagnostic_and_Therapeutic_Materials,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Multiple Sclerosis,@DISEASE_Multiple_Sclerosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Nerve Degeneration,@DISEASE_Nerve_Degeneration,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Carcinoma Hepatocellular,@DISEASE_Carcinoma_Hepatocellular,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hypoxia,@DISEASE_Hypoxia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Sepsis,@DISEASE_Sepsis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Thrombosis,@DISEASE_Thrombosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Angina Pectoris,@DISEASE_Angina_Pectoris,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Brain Injuries Traumatic,@DISEASE_Brain_Injuries_Traumatic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cardiomegaly,@DISEASE_Cardiomegaly,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Colorectal Neoplasms,@DISEASE_Colorectal_Neoplasms,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Lupus Erythematosus Systemic,@DISEASE_Lupus_Erythematosus_Systemic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Diabetes Mellitus Type 1,@DISEASE_Diabetes_Mellitus_Type_1,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hyperplasia,@DISEASE_Hyperplasia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Infections,@DISEASE_Infections,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Neuroinflammatory Diseases,@DISEASE_Neuroinflammatory_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Pneumonia Lipid,@DISEASE_Pneumonia_Lipid,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Fatty Liver Alcoholic,@DISEASE_Fatty_Liver_Alcoholic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Polycystic Ovary Syndrome,@DISEASE_Polycystic_Ovary_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Pulmonary Arterial Hypertension,@DISEASE_Pulmonary_Arterial_Hypertension,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Acrocephalosyndactylia,@DISEASE_Acrocephalosyndactylia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Chest Pain,@DISEASE_Chest_Pain,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Liver Cirrhosis,@DISEASE_Liver_Cirrhosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Lung Neoplasms,@DISEASE_Lung_Neoplasms,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Neurologic Manifestations,@DISEASE_Neurologic_Manifestations,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Pain,@DISEASE_Pain,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Peripheral Arterial Disease,@DISEASE_Peripheral_Arterial_Disease,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Ventricular Dysfunction Left,@DISEASE_Ventricular_Dysfunction_Left,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Calcinosis,@DISEASE_Calcinosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hypertension Pulmonary,@DISEASE_Hypertension_Pulmonary,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Wounds and Injuries,@DISEASE_Wounds_and_Injuries,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Depressive Disorder,@DISEASE_Depressive_Disorder,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Vascular System Injuries,@DISEASE_Vascular_System_Injuries,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cerebral Hemorrhage,@DISEASE_Cerebral_Hemorrhage,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Diabetic Nephropathies,@DISEASE_Diabetic_Nephropathies,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hyperlipidemia Familial Combined,@DISEASE_Hyperlipidemia_Familial_Combined,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Osteoporosis,@DISEASE_Osteoporosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Brain Injuries,@DISEASE_Brain_Injuries,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hemorrhage,@DISEASE_Hemorrhage,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Liver Failure,@DISEASE_Liver_Failure,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Osteoarthritis,@DISEASE_Osteoarthritis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Pancreatic Neoplasms,@DISEASE_Pancreatic_Neoplasms,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Seizures,@DISEASE_Seizures,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Subarachnoid Hemorrhage,@DISEASE_Subarachnoid_Hemorrhage,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Arrhythmias Cardiac,@DISEASE_Arrhythmias_Cardiac,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Carcinoma Non Small Cell Lung,@DISEASE_Carcinoma_Non_Small_Cell_Lung,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cardiomyopathy Dilated,@DISEASE_Cardiomyopathy_Dilated,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Constriction Pathologic,@DISEASE_Constriction_Pathologic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Encephalomyelitis Autoimmune Experimental,@DISEASE_Encephalomyelitis_Autoimmune_Experimental,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Glioblastoma,@DISEASE_Glioblastoma,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Periodontitis,@DISEASE_Periodontitis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Spinal Cord Injuries,@DISEASE_Spinal_Cord_Injuries,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Aortic Aneurysm Abdominal,@DISEASE_Aortic_Aneurysm_Abdominal,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Chronic Periodontitis,@DISEASE_Chronic_Periodontitis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Glycosuria Renal,@DISEASE_Glycosuria_Renal,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hypertriglyceridemic Waist,@DISEASE_Hypertriglyceridemic_Waist,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hypertrophy Left Ventricular,@DISEASE_Hypertrophy_Left_Ventricular,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Ischemic Stroke,@DISEASE_Ischemic_Stroke,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Malformations of Cortical Development Group I,@DISEASE_Malformations_of_Cortical_Development_Group_I,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Mitochondrial Diseases,@DISEASE_Mitochondrial_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Neointima,@DISEASE_Neointima,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Pancreatitis,@DISEASE_Pancreatitis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Renal Artery Obstruction,@DISEASE_Renal_Artery_Obstruction,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cardiomyopathy Hypertrophic,@DISEASE_Cardiomyopathy_Hypertrophic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Chemical and Drug Induced Liver Injury,@DISEASE_Chemical_and_Drug_Induced_Liver_Injury,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hyperglycemia,@DISEASE_Hyperglycemia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Kidney Failure Chronic,@DISEASE_Kidney_Failure_Chronic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Myocardial Stunning,@DISEASE_Myocardial_Stunning,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,No Reflow Phenomenon,@DISEASE_No_Reflow_Phenomenon,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Pneumonia,@DISEASE_Pneumonia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Pulmonary Disease Chronic Obstructive,@DISEASE_Pulmonary_Disease_Chronic_Obstructive,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Stiff Skin Syndrome,@DISEASE_Stiff_Skin_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Coronary Stenosis,@DISEASE_Coronary_Stenosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Edema,@DISEASE_Edema,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Erectile Dysfunction,@DISEASE_Erectile_Dysfunction,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Essential Hypertension,@DISEASE_Essential_Hypertension,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Glucose Intolerance,@DISEASE_Glucose_Intolerance,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Memory Disorders,@DISEASE_Memory_Disorders,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Myotonic Dystrophy,@DISEASE_Myotonic_Dystrophy,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Pulmonary Fibrosis,@DISEASE_Pulmonary_Fibrosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Xanthomatosis,@DISEASE_Xanthomatosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Asthma,@DISEASE_Asthma,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Bone Diseases,@DISEASE_Bone_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Carcinoma Renal Cell,@DISEASE_Carcinoma_Renal_Cell,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Coronary Restenosis,@DISEASE_Coronary_Restenosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Heart Arrest,@DISEASE_Heart_Arrest,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hyperhomocysteinemia,@DISEASE_Hyperhomocysteinemia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Necrosis,@DISEASE_Necrosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Arthritis,@DISEASE_Arthritis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Brain Edema,@DISEASE_Brain_Edema,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Carcinogenesis,@DISEASE_Carcinogenesis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Colitis,@DISEASE_Colitis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hyperalgesia,@DISEASE_Hyperalgesia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Lymphoma,@DISEASE_Lymphoma,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Nephrotic Syndrome,@DISEASE_Nephrotic_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Neuralgia,@DISEASE_Neuralgia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Optic Neuropathy Ischemic,@DISEASE_Optic_Neuropathy_Ischemic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Ureteral Obstruction,@DISEASE_Ureteral_Obstruction,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Atrial Remodeling,@DISEASE_Atrial_Remodeling,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Autoimmune Diseases,@DISEASE_Autoimmune_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Congenital Abnormalities,@DISEASE_Congenital_Abnormalities,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Embolic Stroke,@DISEASE_Embolic_Stroke,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Epilepsy,@DISEASE_Epilepsy,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Glomerulonephritis,@DISEASE_Glomerulonephritis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hypoglycemia,@DISEASE_Hypoglycemia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Learning Disabilities,@DISEASE_Learning_Disabilities,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Melanoma,@DISEASE_Melanoma,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Mucocutaneous Lymph Node Syndrome,@DISEASE_Mucocutaneous_Lymph_Node_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Muscle Weakness,@DISEASE_Muscle_Weakness,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Neurotoxicity Syndromes,@DISEASE_Neurotoxicity_Syndromes,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Ovarian Neoplasms,@DISEASE_Ovarian_Neoplasms,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Peritonitis,@DISEASE_Peritonitis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Psoriasis,@DISEASE_Psoriasis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Ring Chromosome 20 Syndrome,@DISEASE_Ring_Chromosome_20_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Takotsubo Cardiomyopathy,@DISEASE_Takotsubo_Cardiomyopathy,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Vasospasm Intracranial,@DISEASE_Vasospasm_Intracranial,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Acute Disease,@DISEASE_Acute_Disease,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Adenocarcinoma,@DISEASE_Adenocarcinoma,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Aneurysm,@DISEASE_Aneurysm,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Aortic Diseases,@DISEASE_Aortic_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Aortic Valve Stenosis,@DISEASE_Aortic_Valve_Stenosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Arterial Occlusive Diseases,@DISEASE_Arterial_Occlusive_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Arthritis Psoriatic,@DISEASE_Arthritis_Psoriatic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Brain Damage Chronic,@DISEASE_Brain_Damage_Chronic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cartilage Diseases,@DISEASE_Cartilage_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Colonic Neoplasms,@DISEASE_Colonic_Neoplasms,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Dementia,@DISEASE_Dementia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Diabetic Cardiomyopathies,@DISEASE_Diabetic_Cardiomyopathies,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Glioma,@DISEASE_Glioma,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hyperlipoproteinemias,@DISEASE_Hyperlipoproteinemias,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Iron Overload,@DISEASE_Iron_Overload,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Lead Poisoning Nervous System,@DISEASE_Lead_Poisoning_Nervous_System,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Lung Diseases,@DISEASE_Lung_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Metabolic Diseases,@DISEASE_Metabolic_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Multiple Sclerosis Relapsing Remitting,@DISEASE_Multiple_Sclerosis_Relapsing_Remitting,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Myalgia,@DISEASE_Myalgia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Mycoses,@DISEASE_Mycoses,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Myocardial Reperfusion Injury,@DISEASE_Myocardial_Reperfusion_Injury,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Neoplasm Metastasis,@DISEASE_Neoplasm_Metastasis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Neurodegenerative Diseases,@DISEASE_Neurodegenerative_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Obesity Abdominal,@DISEASE_Obesity_Abdominal,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Overweight,@DISEASE_Overweight,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Soft Tissue Injuries,@DISEASE_Soft_Tissue_Injuries,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Vascular Remodeling,@DISEASE_Vascular_Remodeling,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Ventricular Fibrillation,@DISEASE_Ventricular_Fibrillation,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Virus Diseases,@DISEASE_Virus_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Weight Loss,@DISEASE_Weight_Loss,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Blood Coagulation Disorders,@DISEASE_Blood_Coagulation_Disorders,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cerebral Arterial Diseases,@DISEASE_Cerebral_Arterial_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Chronic Disease,@DISEASE_Chronic_Disease,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Critical Illness,@DISEASE_Critical_Illness,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cytokine Release Syndrome,@DISEASE_Cytokine_Release_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Death Sudden Cardiac,@DISEASE_Death_Sudden_Cardiac,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Diabetic Angiopathies,@DISEASE_Diabetic_Angiopathies,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Endometriosis,@DISEASE_Endometriosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Graft vs Host Disease,@DISEASE_Graft_vs_Host_Disease,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hematoma Subdural,@DISEASE_Hematoma_Subdural,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Inferior Wall Myocardial Infarction,@DISEASE_Inferior_Wall_Myocardial_Infarction,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Kidney Calculi,@DISEASE_Kidney_Calculi,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Leukemia,@DISEASE_Leukemia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Liver Diseases,@DISEASE_Liver_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Lung Injury,@DISEASE_Lung_Injury,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Lymphoma Non Hodgkin,@DISEASE_Lymphoma_Non_Hodgkin,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Malaria Cerebral,@DISEASE_Malaria_Cerebral,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Microvascular Angina,@DISEASE_Microvascular_Angina,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Mouth Diseases,@DISEASE_Mouth_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Non ST Elevated Myocardial Infarction,@DISEASE_Non_ST_Elevated_Myocardial_Infarction,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Ovarian Diseases,@DISEASE_Ovarian_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Parkinson Disease,@DISEASE_Parkinson_Disease,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Periodontal Diseases,@DISEASE_Periodontal_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Pulmonary Embolism,@DISEASE_Pulmonary_Embolism,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Scleroderma Systemic,@DISEASE_Scleroderma_Systemic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Skin Diseases,@DISEASE_Skin_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Testicular Diseases,@DISEASE_Testicular_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Vascular Calcification,@DISEASE_Vascular_Calcification,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Venous Thrombosis,@DISEASE_Venous_Thrombosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Albuminuria,@DISEASE_Albuminuria,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Alveolar Bone Loss,@DISEASE_Alveolar_Bone_Loss,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Anterior Wall Myocardial Infarction,@DISEASE_Anterior_Wall_Myocardial_Infarction,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Aortic Valve Calcification of,@DISEASE_Aortic_Valve_Calcification_of,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Arteritis,@DISEASE_Arteritis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Atrophy,@DISEASE_Atrophy,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Attention Deficit and Disruptive Behavior Disorders,@DISEASE_Attention_Deficit_and_Disruptive_Behavior_Disorders,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Brain Diseases,@DISEASE_Brain_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Brain Injury Chronic,@DISEASE_Brain_Injury_Chronic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Carotid Artery Injuries,@DISEASE_Carotid_Artery_Injuries,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cerebral Palsy,@DISEASE_Cerebral_Palsy,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Dementia Vascular,@DISEASE_Dementia_Vascular,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Diabetes Complications,@DISEASE_Diabetes_Complications,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Dizziness,@DISEASE_Dizziness,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Dysarthria,@DISEASE_Dysarthria,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Glut1 Deficiency Syndrome,@DISEASE_Glut1_Deficiency_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hashimoto Disease,@DISEASE_Hashimoto_Disease,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Head and Neck Neoplasms,@DISEASE_Head_and_Neck_Neoplasms,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hepatitis C,@DISEASE_Hepatitis_C,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Homozygous Familial Hypercholesterolemia,@DISEASE_Homozygous_Familial_Hypercholesterolemia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hyperglycemic Hyperosmolar Nonketotic Coma,@DISEASE_Hyperglycemic_Hyperosmolar_Nonketotic_Coma,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Intestinal Diseases,@DISEASE_Intestinal_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Intracranial Aneurysm,@DISEASE_Intracranial_Aneurysm,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Kidney Neoplasms,@DISEASE_Kidney_Neoplasms,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Macular Degeneration,@DISEASE_Macular_Degeneration,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Malaria,@DISEASE_Malaria,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Mucositis,@DISEASE_Mucositis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Myocarditis,@DISEASE_Myocarditis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Osteoarthritis Knee,@DISEASE_Osteoarthritis_Knee,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Osteoporotic Fractures,@DISEASE_Osteoporotic_Fractures,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Paralysis,@DISEASE_Paralysis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Peripheral Vascular Diseases,@DISEASE_Peripheral_Vascular_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Prediabetic State,@DISEASE_Prediabetic_State,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Radiation Injuries,@DISEASE_Radiation_Injuries,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Rupture,@DISEASE_Rupture,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Stomatitis,@DISEASE_Stomatitis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Synovitis,@DISEASE_Synovitis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Urinary Bladder Neoplasms,@DISEASE_Urinary_Bladder_Neoplasms,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,143890,@DISEASE_143890,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Aortic Coarctation,@DISEASE_Aortic_Coarctation,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Arteriosclerosis,@DISEASE_Arteriosclerosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Bone Diseases Metabolic,@DISEASE_Bone_Diseases_Metabolic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Brain Infarction,@DISEASE_Brain_Infarction,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Carcinoma Basal Cell,@DISEASE_Carcinoma_Basal_Cell,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cholangiocarcinoma,@DISEASE_Cholangiocarcinoma,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Conversion Disorder,@DISEASE_Conversion_Disorder,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cough,@DISEASE_Cough,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,DNA Virus Infections,@DISEASE_DNA_Virus_Infections,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Delirium,@DISEASE_Delirium,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Depressive Disorder Major,@DISEASE_Depressive_Disorder_Major,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Diabetes Insipidus Nephrogenic,@DISEASE_Diabetes_Insipidus_Nephrogenic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Diabetic Neuropathies,@DISEASE_Diabetic_Neuropathies,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Diabetic Retinopathy,@DISEASE_Diabetic_Retinopathy,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Disease,@DISEASE_Disease,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Dyspnea,@DISEASE_Dyspnea,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Emphysema,@DISEASE_Emphysema,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Fractures Bone,@DISEASE_Fractures_Bone,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Fuchs' Endothelial Dystrophy,@DISEASE_Fuchs'_Endothelial_Dystrophy,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hyperlipoproteinemia Type III,@DISEASE_Hyperlipoproteinemia_Type_III,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hyperoxaluria,@DISEASE_Hyperoxaluria,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hyperuricemia,@DISEASE_Hyperuricemia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Intermittent Claudication,@DISEASE_Intermittent_Claudication,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Job Syndrome,@DISEASE_Job_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Joint Diseases,@DISEASE_Joint_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Liver Cirrhosis Biliary,@DISEASE_Liver_Cirrhosis_Biliary,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Myasthenia Gravis Autoimmune Experimental,@DISEASE_Myasthenia_Gravis_Autoimmune_Experimental,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Nervous System Diseases,@DISEASE_Nervous_System_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Plaque Amyloid,@DISEASE_Plaque_Amyloid,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Prostatic Hyperplasia,@DISEASE_Prostatic_Hyperplasia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Prostatitis,@DISEASE_Prostatitis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Pruritus,@DISEASE_Pruritus,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Purpura Thrombocytopenic Idiopathic,@DISEASE_Purpura_Thrombocytopenic_Idiopathic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Renal Insufficiency,@DISEASE_Renal_Insufficiency,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Retinal Diseases,@DISEASE_Retinal_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Stroke Lacunar,@DISEASE_Stroke_Lacunar,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Tachycardia Ventricular,@DISEASE_Tachycardia_Ventricular,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Thoracic Injuries,@DISEASE_Thoracic_Injuries,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Thyroiditis,@DISEASE_Thyroiditis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Tissue Adhesions,@DISEASE_Tissue_Adhesions,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Weight Gain,@DISEASE_Weight_Gain,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,162000,@DISEASE_162000,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Acidosis Renal Tubular,@DISEASE_Acidosis_Renal_Tubular,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Acute Lung Injury,@DISEASE_Acute_Lung_Injury,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Arteriovenous Fistula,@DISEASE_Arteriovenous_Fistula,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Ataxia,@DISEASE_Ataxia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Atrial Flutter,@DISEASE_Atrial_Flutter,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Autoimmune Diseases of the Nervous System,@DISEASE_Autoimmune_Diseases_of_the_Nervous_System,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Bile Duct Diseases,@DISEASE_Bile_Duct_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Bone Resorption,@DISEASE_Bone_Resorption,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Brain Neoplasms,@DISEASE_Brain_Neoplasms,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Burns,@DISEASE_Burns,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Carcinoma Ehrlich Tumor,@DISEASE_Carcinoma_Ehrlich_Tumor,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Chagas Disease,@DISEASE_Chagas_Disease,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cognitive Dysfunction,@DISEASE_Cognitive_Dysfunction,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Colitis Ulcerative,@DISEASE_Colitis_Ulcerative,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Consciousness Disorders,@DISEASE_Consciousness_Disorders,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Coronary Occlusion,@DISEASE_Coronary_Occlusion,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Crohn Disease,@DISEASE_Crohn_Disease,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Crush Injuries,@DISEASE_Crush_Injuries,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Dermatitis,@DISEASE_Dermatitis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Drug Hypersensitivity,@DISEASE_Drug_Hypersensitivity,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Dysbiosis,@DISEASE_Dysbiosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Dyskinesias,@DISEASE_Dyskinesias,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Dystonic Disorders,@DISEASE_Dystonic_Disorders,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Embolism,@DISEASE_Embolism,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Embolism Fat,@DISEASE_Embolism_Fat,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Familial Primary Pulmonary Hypertension,@DISEASE_Familial_Primary_Pulmonary_Hypertension,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Fever,@DISEASE_Fever,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Fractures Spontaneous,@DISEASE_Fractures_Spontaneous,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Gout,@DISEASE_Gout,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Headache,@DISEASE_Headache,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hearing Loss,@DISEASE_Hearing_Loss,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Heart Injuries,@DISEASE_Heart_Injuries,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Heart Valve Diseases,@DISEASE_Heart_Valve_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hemangioma Cavernous Central Nervous System,@DISEASE_Hemangioma_Cavernous_Central_Nervous_System,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hemiplegia,@DISEASE_Hemiplegia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hypertension Portal,@DISEASE_Hypertension_Portal,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hypertrophy Right Ventricular,@DISEASE_Hypertrophy_Right_Ventricular,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hypothyroidism,@DISEASE_Hypothyroidism,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hypothyroidism Congenital Nongoitrous 2,@DISEASE_Hypothyroidism_Congenital_Nongoitrous_2,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hypoxia Brain,@DISEASE_Hypoxia_Brain,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Idiopathic Noncirrhotic Portal Hypertension,@DISEASE_Idiopathic_Noncirrhotic_Portal_Hypertension,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Intracranial Arteriosclerosis,@DISEASE_Intracranial_Arteriosclerosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Kidney Tubular Necrosis Acute,@DISEASE_Kidney_Tubular_Necrosis_Acute,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Leukemia Promyelocytic Acute,@DISEASE_Leukemia_Promyelocytic_Acute,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Lipoma,@DISEASE_Lipoma,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Macular Edema,@DISEASE_Macular_Edema,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Mental Disorders,@DISEASE_Mental_Disorders,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Muscle Neoplasms,@DISEASE_Muscle_Neoplasms,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Myeloproliferative Syndrome Transient,@DISEASE_Myeloproliferative_Syndrome_Transient,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Neoplasms Adipose Tissue,@DISEASE_Neoplasms_Adipose_Tissue,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Neuritis Autoimmune Experimental,@DISEASE_Neuritis_Autoimmune_Experimental,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Neurocirculatory Asthenia,@DISEASE_Neurocirculatory_Asthenia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Ocular Motility Disorders,@DISEASE_Ocular_Motility_Disorders,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Osteoglophonic dwarfism,@DISEASE_Osteoglophonic_dwarfism,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Osteosarcoma,@DISEASE_Osteosarcoma,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Pain Postoperative,@DISEASE_Pain_Postoperative,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Pancreatitis Graft,@DISEASE_Pancreatitis_Graft,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Paresis,@DISEASE_Paresis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Peri Implantitis,@DISEASE_Peri_Implantitis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Pierre Robin syndrome with fetal chondrodysplasia,@DISEASE_Pierre_Robin_syndrome_with_fetal_chondrodysplasia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Post Infectious Disorders,@DISEASE_Post_Infectious_Disorders,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Postoperative Hemorrhage,@DISEASE_Postoperative_Hemorrhage,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Pressure Ulcer,@DISEASE_Pressure_Ulcer,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Pulmonary Alveolar Proteinosis,@DISEASE_Pulmonary_Alveolar_Proteinosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Quadriplegia,@DISEASE_Quadriplegia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Raynaud Disease,@DISEASE_Raynaud_Disease,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Sleep Apnea Obstructive,@DISEASE_Sleep_Apnea_Obstructive,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Status Epilepticus,@DISEASE_Status_Epilepticus,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Syndrome,@DISEASE_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Tooth Diseases,@DISEASE_Tooth_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Triple Negative Breast Neoplasms,@DISEASE_Triple_Negative_Breast_Neoplasms,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Urolithiasis,@DISEASE_Urolithiasis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Venous Thromboembolism,@DISEASE_Venous_Thromboembolism,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Vertebrobasilar Insufficiency,@DISEASE_Vertebrobasilar_Insufficiency,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,608852,@DISEASE_608852,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Abdominal Injuries,@DISEASE_Abdominal_Injuries,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Achalasia Addisonianism Alacrimia syndrome,@DISEASE_Achalasia_Addisonianism_Alacrimia_syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Adjustment Disorders,@DISEASE_Adjustment_Disorders,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Alopecia,@DISEASE_Alopecia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Amaurosis Fugax,@DISEASE_Amaurosis_Fugax,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Amnesia,@DISEASE_Amnesia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Amyotrophic Lateral Sclerosis,@DISEASE_Amyotrophic_Lateral_Sclerosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Anterior Spinal Artery Syndrome,@DISEASE_Anterior_Spinal_Artery_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Anti Glomerular Basement Membrane Disease,@DISEASE_Anti_Glomerular_Basement_Membrane_Disease,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Anxiety,@DISEASE_Anxiety,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Aortic Aneurysm,@DISEASE_Aortic_Aneurysm,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Aortic Dissection,@DISEASE_Aortic_Dissection,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Aphasia,@DISEASE_Aphasia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Apical Hypertrophic Cardiomyopathy,@DISEASE_Apical_Hypertrophic_Cardiomyopathy,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Arcus Senilis,@DISEASE_Arcus_Senilis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Arthralgia,@DISEASE_Arthralgia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Arthritis Infectious,@DISEASE_Arthritis_Infectious,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Ascites,@DISEASE_Ascites,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Aural Atresia Congenital,@DISEASE_Aural_Atresia_Congenital,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Bacterial Infections,@DISEASE_Bacterial_Infections,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Bisphosphonate Associated Osteonecrosis of the Jaw,@DISEASE_Bisphosphonate_Associated_Osteonecrosis_of_the_Jaw,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Brain Concussion,@DISEASE_Brain_Concussion,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Brain Death,@DISEASE_Brain_Death,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Bronchiectasis,@DISEASE_Bronchiectasis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Bronchiolitis Obliterans Syndrome,@DISEASE_Bronchiolitis_Obliterans_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Bronchitis Chronic,@DISEASE_Bronchitis_Chronic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,CADASIL,@DISEASE_CADASIL,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Candidiasis,@DISEASE_Candidiasis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Candidiasis Oral,@DISEASE_Candidiasis_Oral,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cardio Renal Syndrome,@DISEASE_Cardio_Renal_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cardiomyopathy Hypertrophic Familial,@DISEASE_Cardiomyopathy_Hypertrophic_Familial,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Carotid Artery Thrombosis,@DISEASE_Carotid_Artery_Thrombosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Carotid Intimal Medial Thickness 1,@DISEASE_Carotid_Intimal_Medial_Thickness_1,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Central Nervous System Diseases,@DISEASE_Central_Nervous_System_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cerebellar Ataxia,@DISEASE_Cerebellar_Ataxia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cerebral Small Vessel Diseases,@DISEASE_Cerebral_Small_Vessel_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Choroidal Effusions,@DISEASE_Choroidal_Effusions,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Chronic Urticaria,@DISEASE_Chronic_Urticaria,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Congenital Hereditary and Neonatal Diseases and Abnormalities,@DISEASE_Congenital_Hereditary_and_Neonatal_Diseases_and_Abnormalities,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Corneal Neovascularization,@DISEASE_Corneal_Neovascularization,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cushing's symphalangism,@DISEASE_Cushing's_symphalangism,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Dermatitis Seborrheic,@DISEASE_Dermatitis_Seborrheic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Diabetic Foot,@DISEASE_Diabetic_Foot,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Diplopia,@DISEASE_Diplopia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Dysgeusia,@DISEASE_Dysgeusia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Emergence Delirium,@DISEASE_Emergence_Delirium,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Encephalitis,@DISEASE_Encephalitis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Epilepsy Post Traumatic,@DISEASE_Epilepsy_Post_Traumatic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Epilepsy Temporal Lobe,@DISEASE_Epilepsy_Temporal_Lobe,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Epistaxis,@DISEASE_Epistaxis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Extranodal Extension,@DISEASE_Extranodal_Extension,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Femoral Neoplasms,@DISEASE_Femoral_Neoplasms,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Fetal akinesia syndrome X linked,@DISEASE_Fetal_akinesia_syndrome_X_linked,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Gallstones,@DISEASE_Gallstones,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Glaucoma Open Angle,@DISEASE_Glaucoma_Open_Angle,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Glomerulonephritis IGA,@DISEASE_Glomerulonephritis_IGA,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Glomerulonephritis Membranoproliferative,@DISEASE_Glomerulonephritis_Membranoproliferative,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Guillain Barre Syndrome,@DISEASE_Guillain_Barre_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,HIV Seropositivity,@DISEASE_HIV_Seropositivity,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Heart Failure Diastolic,@DISEASE_Heart_Failure_Diastolic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Heart Failure Systolic,@DISEASE_Heart_Failure_Systolic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hemoptysis,@DISEASE_Hemoptysis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hemostatic Disorders,@DISEASE_Hemostatic_Disorders,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hepatitis B,@DISEASE_Hepatitis_B,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hepatitis C Chronic,@DISEASE_Hepatitis_C_Chronic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hereditary leiomyomatosis and renal cell cancer,@DISEASE_Hereditary_leiomyomatosis_and_renal_cell_cancer,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hydrocephalus,@DISEASE_Hydrocephalus,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hypesthesia,@DISEASE_Hypesthesia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hypoalbuminemia,@DISEASE_Hypoalbuminemia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hypotension,@DISEASE_Hypotension,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hypotrichosis,@DISEASE_Hypotrichosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hypoxia Ischemia Brain,@DISEASE_Hypoxia_Ischemia_Brain,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,IgA Vasculitis,@DISEASE_IgA_Vasculitis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Iliac Aneurysm,@DISEASE_Iliac_Aneurysm,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Immune System Diseases,@DISEASE_Immune_System_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Infertility,@DISEASE_Infertility,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Infertility Male,@DISEASE_Infertility_Male,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Intervertebral Disc Degeneration,@DISEASE_Intervertebral_Disc_Degeneration,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Intracranial Embolism,@DISEASE_Intracranial_Embolism,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Intracranial Hemorrhage Traumatic,@DISEASE_Intracranial_Hemorrhage_Traumatic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Intracranial Hemorrhages,@DISEASE_Intracranial_Hemorrhages,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Isolated Systolic Hypertension,@DISEASE_Isolated_Systolic_Hypertension,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Jaundice,@DISEASE_Jaundice,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Leiomyoma,@DISEASE_Leiomyoma,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Leukemic Infiltration,@DISEASE_Leukemic_Infiltration,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Liver Neoplasms,@DISEASE_Liver_Neoplasms,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Mesothelioma Malignant,@DISEASE_Mesothelioma_Malignant,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Migraine Disorders,@DISEASE_Migraine_Disorders,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Mitral Valve Insufficiency,@DISEASE_Mitral_Valve_Insufficiency,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Mitral Valve Prolapse Myxomatous 2,@DISEASE_Mitral_Valve_Prolapse_Myxomatous_2,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Motor Disorders,@DISEASE_Motor_Disorders,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Moyamoya Disease,@DISEASE_Moyamoya_Disease,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Multiple Myeloma,@DISEASE_Multiple_Myeloma,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Myopathies Structural Congenital,@DISEASE_Myopathies_Structural_Congenital,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Myopathy with Giant Abnormal Mitochondria,@DISEASE_Myopathy_with_Giant_Abnormal_Mitochondria,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Neck Pain,@DISEASE_Neck_Pain,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Neoplasms by Histologic Type,@DISEASE_Neoplasms_by_Histologic_Type,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Neoplastic Syndromes Hereditary,@DISEASE_Neoplastic_Syndromes_Hereditary,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Nephrolithiasis Calcium Oxalate,@DISEASE_Nephrolithiasis_Calcium_Oxalate,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Neuroblastoma,@DISEASE_Neuroblastoma,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Obsessive Compulsive Disorder,@DISEASE_Obsessive_Compulsive_Disorder,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Oculocutaneous albinism type 2,@DISEASE_Oculocutaneous_albinism_type_2,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Osteogenesis imperfecta type 3,@DISEASE_Osteogenesis_imperfecta_type_3,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Parasitemia,@DISEASE_Parasitemia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Pericarditis,@DISEASE_Pericarditis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Peritoneal Fibrosis,@DISEASE_Peritoneal_Fibrosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Poisoning,@DISEASE_Poisoning,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Polycythemia Vera,@DISEASE_Polycythemia_Vera,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Porokeratosis,@DISEASE_Porokeratosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Primary Ovarian Insufficiency,@DISEASE_Primary_Ovarian_Insufficiency,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Prostatic Neoplasms Castration Resistant,@DISEASE_Prostatic_Neoplasms_Castration_Resistant,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Pseudoxanthoma Elasticum,@DISEASE_Pseudoxanthoma_Elasticum,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Psychomotor Disorders,@DISEASE_Psychomotor_Disorders,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Pulmonary Edema,@DISEASE_Pulmonary_Edema,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Pyruvate Carboxylase Deficiency Disease,@DISEASE_Pyruvate_Carboxylase_Deficiency_Disease,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Rectal Diseases,@DISEASE_Rectal_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Respiratory Tract Diseases,@DISEASE_Respiratory_Tract_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Retrograde Degeneration,@DISEASE_Retrograde_Degeneration,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Rotator Cuff Injuries,@DISEASE_Rotator_Cuff_Injuries,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Sclerosis,@DISEASE_Sclerosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Sensation Disorders,@DISEASE_Sensation_Disorders,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Sjogren's Syndrome,@DISEASE_Sjogren's_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Splenic Infarction,@DISEASE_Splenic_Infarction,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Squamous Cell Carcinoma of Head and Neck,@DISEASE_Squamous_Cell_Carcinoma_of_Head_and_Neck,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Stiff Person Syndrome,@DISEASE_Stiff_Person_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Stomach Neoplasms,@DISEASE_Stomach_Neoplasms,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Striatonigral degeneration infantile,@DISEASE_Striatonigral_degeneration_infantile,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Substance Related Disorders,@DISEASE_Substance_Related_Disorders,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Systemic Inflammatory Response Syndrome,@DISEASE_Systemic_Inflammatory_Response_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Tachycardia,@DISEASE_Tachycardia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Tachycardia Supraventricular,@DISEASE_Tachycardia_Supraventricular,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Tangier Disease,@DISEASE_Tangier_Disease,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Thromboembolism,@DISEASE_Thromboembolism,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Tinnitus,@DISEASE_Tinnitus,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Trauma Nervous System,@DISEASE_Trauma_Nervous_System,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Trichinellosis,@DISEASE_Trichinellosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Tuberculosis,@DISEASE_Tuberculosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Tuberculosis Meningeal,@DISEASE_Tuberculosis_Meningeal,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Ulcer,@DISEASE_Ulcer,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Urinary Retention,@DISEASE_Urinary_Retention,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Varicose Veins,@DISEASE_Varicose_Veins,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Vertebral Artery Dissection,@DISEASE_Vertebral_Artery_Dissection,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Vision Disorders,@DISEASE_Vision_Disorders,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Vitiligo,@DISEASE_Vitiligo,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Vomiting,@DISEASE_Vomiting,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,White Coat Hypertension,@DISEASE_White_Coat_Hypertension,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,digital ulcers,@DISEASE_digital_ulcers,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,102200,@DISEASE_102200,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,109730,@DISEASE_109730,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,211750,@DISEASE_211750,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,212500,@DISEASE_212500,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,261515,@DISEASE_261515,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,603933,@DISEASE_603933,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,604595,@DISEASE_604595,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,613700,@DISEASE_613700,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,ATR X syndrome,@DISEASE_ATR_X_syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Abdomen Acute,@DISEASE_Abdomen_Acute,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Abdominal Pain,@DISEASE_Abdominal_Pain,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Abducens Nerve Diseases,@DISEASE_Abducens_Nerve_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Abnormalities Drug Induced,@DISEASE_Abnormalities_Drug_Induced,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Acanthamoeba Keratitis,@DISEASE_Acanthamoeba_Keratitis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Acid Base Imbalance,@DISEASE_Acid_Base_Imbalance,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Acquired Immunodeficiency Syndrome,@DISEASE_Acquired_Immunodeficiency_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Acquired ichthyosis,@DISEASE_Acquired_ichthyosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Acrodermatitis,@DISEASE_Acrodermatitis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Acromegaly,@DISEASE_Acromegaly,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Acute Aortic Syndrome,@DISEASE_Acute_Aortic_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Adenocarcinoma of Lung,@DISEASE_Adenocarcinoma_of_Lung,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Adenoma,@DISEASE_Adenoma,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Adenomatous Polyposis Coli,@DISEASE_Adenomatous_Polyposis_Coli,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Adrenal Cortex Diseases,@DISEASE_Adrenal_Cortex_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Adrenocortical Hyperfunction,@DISEASE_Adrenocortical_Hyperfunction,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Adrenoleukodystrophy,@DISEASE_Adrenoleukodystrophy,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Afibrinogenemia,@DISEASE_Afibrinogenemia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Agenesis of Corpus Callosum,@DISEASE_Agenesis_of_Corpus_Callosum,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Alagille Syndrome,@DISEASE_Alagille_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Alcoholism,@DISEASE_Alcoholism,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Altitude Sickness,@DISEASE_Altitude_Sickness,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Alzheimer's disease without Neurofibrillary tangles,@DISEASE_Alzheimer's_disease_without_Neurofibrillary_tangles,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Amebiasis,@DISEASE_Amebiasis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Amino Acid Metabolism Inborn Errors,@DISEASE_Amino_Acid_Metabolism_Inborn_Errors,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Amnesia Retrograde,@DISEASE_Amnesia_Retrograde,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Amyloidosis,@DISEASE_Amyloidosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Amyloidosis Hereditary Transthyretin Related,@DISEASE_Amyloidosis_Hereditary_Transthyretin_Related,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Androgen Insensitivity Syndrome,@DISEASE_Androgen_Insensitivity_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Anemia Sickle Cell,@DISEASE_Anemia_Sickle_Cell,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Anemia hypochromic microcytic,@DISEASE_Anemia_hypochromic_microcytic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Ankle Injuries,@DISEASE_Ankle_Injuries,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Anodontia,@DISEASE_Anodontia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Anomalous Left Coronary Artery,@DISEASE_Anomalous_Left_Coronary_Artery,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Anorexia,@DISEASE_Anorexia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Antisynthetase syndrome,@DISEASE_Antisynthetase_syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Aortic Arch Syndromes,@DISEASE_Aortic_Arch_Syndromes,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Aortic Root Aneurysm,@DISEASE_Aortic_Root_Aneurysm,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Aortic Stenosis Supravalvular,@DISEASE_Aortic_Stenosis_Supravalvular,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Aortic Valve Disease,@DISEASE_Aortic_Valve_Disease,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Arachnoid Cysts,@DISEASE_Arachnoid_Cysts,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Arrhythmogenic Right Ventricular Dysplasia,@DISEASE_Arrhythmogenic_Right_Ventricular_Dysplasia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Arthropathy progressive pseudorheumatoid of childhood,@DISEASE_Arthropathy_progressive_pseudorheumatoid_of_childhood,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Asthenia,@DISEASE_Asthenia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Asymptomatic Infections,@DISEASE_Asymptomatic_Infections,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Atrichia with Papular Lesions,@DISEASE_Atrichia_with_Papular_Lesions,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Atrioventricular Block,@DISEASE_Atrioventricular_Block,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Attention Deficit Disorder with Hyperactivity,@DISEASE_Attention_Deficit_Disorder_with_Hyperactivity,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Autism Spectrum Disorder,@DISEASE_Autism_Spectrum_Disorder,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Autistic Disorder,@DISEASE_Autistic_Disorder,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Autoimmune enteropathy,@DISEASE_Autoimmune_enteropathy,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Barrett Esophagus,@DISEASE_Barrett_Esophagus,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Basal Ganglia Diseases,@DISEASE_Basal_Ganglia_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Behcet Syndrome,@DISEASE_Behcet_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Benign non infected urachal cyst,@DISEASE_Benign_non_infected_urachal_cyst,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Beta ketothiolase deficiency,@DISEASE_Beta_ketothiolase_deficiency,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Bipolar Disorder,@DISEASE_Bipolar_Disorder,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Blastocystis Infections,@DISEASE_Blastocystis_Infections,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Blepharitis,@DISEASE_Blepharitis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Blind Loop Syndrome,@DISEASE_Blind_Loop_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Blindness,@DISEASE_Blindness,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Blue Toe Syndrome,@DISEASE_Blue_Toe_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Bradycardia,@DISEASE_Bradycardia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Brain Contusion,@DISEASE_Brain_Contusion,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Budd Chiari Syndrome,@DISEASE_Budd_Chiari_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Buruli Ulcer,@DISEASE_Buruli_Ulcer,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Calcinosis Cutis,@DISEASE_Calcinosis_Cutis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Candidiasis Vulvovaginal,@DISEASE_Candidiasis_Vulvovaginal,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Carcinoid Tumor,@DISEASE_Carcinoid_Tumor,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Carcinoma Ductal,@DISEASE_Carcinoma_Ductal,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Carcinoma Large Cell,@DISEASE_Carcinoma_Large_Cell,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Carcinoma Medullary,@DISEASE_Carcinoma_Medullary,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Carcinoma Pancreatic Ductal,@DISEASE_Carcinoma_Pancreatic_Ductal,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Carcinoma in Situ,@DISEASE_Carcinoma_in_Situ,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cardiomyopathy Alcoholic,@DISEASE_Cardiomyopathy_Alcoholic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cardiomyopathy Familial Hypertrophic 1,@DISEASE_Cardiomyopathy_Familial_Hypertrophic_1,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cardiomyopathy Restrictive,@DISEASE_Cardiomyopathy_Restrictive,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cardiotoxicity,@DISEASE_Cardiotoxicity,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Carnevale syndrome,@DISEASE_Carnevale_syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Carotid Artery Internal Dissection,@DISEASE_Carotid_Artery_Internal_Dissection,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cat Scratch Disease,@DISEASE_Cat_Scratch_Disease,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cecal Diseases,@DISEASE_Cecal_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cerebellar Diseases,@DISEASE_Cerebellar_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Charcot Marie Tooth disease Type 2B,@DISEASE_Charcot_Marie_Tooth_disease_Type_2B,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Chemotherapy Related Cognitive Impairment,@DISEASE_Chemotherapy_Related_Cognitive_Impairment,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Chills,@DISEASE_Chills,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cholesterol Ester Storage Disease,@DISEASE_Cholesterol_Ester_Storage_Disease,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cholesterol pneumonia,@DISEASE_Cholesterol_pneumonia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Chorea,@DISEASE_Chorea,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Choristoma,@DISEASE_Choristoma,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Choroidal Neovascularization,@DISEASE_Choroidal_Neovascularization,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Chronic Limb Threatening Ischemia,@DISEASE_Chronic_Limb_Threatening_Ischemia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cicatrix,@DISEASE_Cicatrix,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cleft Palate,@DISEASE_Cleft_Palate,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Clinical Deterioration,@DISEASE_Clinical_Deterioration,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Clostridium Infections,@DISEASE_Clostridium_Infections,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Coloboma,@DISEASE_Coloboma,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Colonic Polyps,@DISEASE_Colonic_Polyps,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Coma,@DISEASE_Coma,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Coma Post Head Injury,@DISEASE_Coma_Post_Head_Injury,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Complement component 5 deficiency,@DISEASE_Complement_component_5_deficiency,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Congenital adrenal hyperplasia due to 21 hydroxylase deficiency,@DISEASE_Congenital_adrenal_hyperplasia_due_to_21_hydroxylase_deficiency,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Congenital bilateral aplasia of vas deferens,@DISEASE_Congenital_bilateral_aplasia_of_vas_deferens,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Congenital disorder of glycosylation type 1A,@DISEASE_Congenital_disorder_of_glycosylation_type_1A,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Conjunctival Diseases,@DISEASE_Conjunctival_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Conjunctivitis Bacterial,@DISEASE_Conjunctivitis_Bacterial,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Contracture,@DISEASE_Contracture,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Contusions,@DISEASE_Contusions,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Corneal Endothelial Cell Loss,@DISEASE_Corneal_Endothelial_Cell_Loss,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Coronary Artery Dissection Spontaneous,@DISEASE_Coronary_Artery_Dissection_Spontaneous,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Coronary Thrombosis,@DISEASE_Coronary_Thrombosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Coronary Vasospasm,@DISEASE_Coronary_Vasospasm,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Coronavirus Infections,@DISEASE_Coronavirus_Infections,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Coxsackievirus Infections,@DISEASE_Coxsackievirus_Infections,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Craniocerebral Trauma,@DISEASE_Craniocerebral_Trauma,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Crush Syndrome,@DISEASE_Crush_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cryptococcosis,@DISEASE_Cryptococcosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cryptosporidiosis,@DISEASE_Cryptosporidiosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cystadenoma,@DISEASE_Cystadenoma,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cystic Fibrosis,@DISEASE_Cystic_Fibrosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Cytomegalovirus Infections,@DISEASE_Cytomegalovirus_Infections,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Deafness Autosomal Recessive 32,@DISEASE_Deafness_Autosomal_Recessive_32,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Death Sudden,@DISEASE_Death_Sudden,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Decompression Sickness,@DISEASE_Decompression_Sickness,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Deglutition Disorders,@DISEASE_Deglutition_Disorders,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Delayed Graft Function,@DISEASE_Delayed_Graft_Function,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Demyelinating Autoimmune Diseases CNS,@DISEASE_Demyelinating_Autoimmune_Diseases_CNS,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Dengue,@DISEASE_Dengue,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Dermatitis Atopic 3,@DISEASE_Dermatitis_Atopic_3,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Dermatitis Photoallergic,@DISEASE_Dermatitis_Photoallergic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Dermatomyositis,@DISEASE_Dermatomyositis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Dermoid Cyst,@DISEASE_Dermoid_Cyst,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Developmental Disabilities,@DISEASE_Developmental_Disabilities,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Diabetes Gestational,@DISEASE_Diabetes_Gestational,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Diabetes Insipidus,@DISEASE_Diabetes_Insipidus,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Diabetes Mellitus Insulin Dependent 19,@DISEASE_Diabetes_Mellitus_Insulin_Dependent_19,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Diarrhea,@DISEASE_Diarrhea,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Diarrhea 5 With Tufting Enteropathy Congenital,@DISEASE_Diarrhea_5_With_Tufting_Enteropathy_Congenital,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Diffuse Neurofibrillary Tangles with Calcification,@DISEASE_Diffuse_Neurofibrillary_Tangles_with_Calcification,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Disease Progression,@DISEASE_Disease_Progression,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Disease Resistance,@DISEASE_Disease_Resistance,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Disorders of Excessive Somnolence,@DISEASE_Disorders_of_Excessive_Somnolence,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Dissection Thoracic Aorta,@DISEASE_Dissection_Thoracic_Aorta,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Disseminated Intravascular Coagulation,@DISEASE_Disseminated_Intravascular_Coagulation,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Drug Eruptions,@DISEASE_Drug_Eruptions,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Drug Overdose,@DISEASE_Drug_Overdose,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Dry Eye Syndromes,@DISEASE_Dry_Eye_Syndromes,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Dwarfism stiff joint ocular abnormalities,@DISEASE_Dwarfism_stiff_joint_ocular_abnormalities,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Dykes Markes Harper syndrome,@DISEASE_Dykes_Markes_Harper_syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Dyskinesia Drug Induced,@DISEASE_Dyskinesia_Drug_Induced,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Ear Diseases,@DISEASE_Ear_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Ectodermal Dysplasia,@DISEASE_Ectodermal_Dysplasia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Ectrodactyly cardiopathy dysmorphism,@DISEASE_Ectrodactyly_cardiopathy_dysmorphism,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Eczema,@DISEASE_Eczema,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Elbow Injuries,@DISEASE_Elbow_Injuries,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Embryo Loss,@DISEASE_Embryo_Loss,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Emphysematous Cholecystitis,@DISEASE_Emphysematous_Cholecystitis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Encephalitis Japanese,@DISEASE_Encephalitis_Japanese,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Endocardial Fibroelastosis,@DISEASE_Endocardial_Fibroelastosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Endotoxemia,@DISEASE_Endotoxemia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Enhanced S Cone Syndrome,@DISEASE_Enhanced_S_Cone_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Enteritis,@DISEASE_Enteritis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Epilepsia Partialis Continua,@DISEASE_Epilepsia_Partialis_Continua,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Epilepsies Partial,@DISEASE_Epilepsies_Partial,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Epilepsy Absence,@DISEASE_Epilepsy_Absence,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Epilepsy Benign Neonatal,@DISEASE_Epilepsy_Benign_Neonatal,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Episodic Ataxia,@DISEASE_Episodic_Ataxia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Esophageal Neoplasms,@DISEASE_Esophageal_Neoplasms,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Esophageal Squamous Cell Carcinoma,@DISEASE_Esophageal_Squamous_Cell_Carcinoma,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Evans Syndrome,@DISEASE_Evans_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Exfoliation Syndrome,@DISEASE_Exfoliation_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Eye Abnormalities,@DISEASE_Eye_Abnormalities,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Fabry Disease,@DISEASE_Fabry_Disease,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Facial Hemiatrophy,@DISEASE_Facial_Hemiatrophy,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Facial Paralysis,@DISEASE_Facial_Paralysis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Facioscapulohumeral muscular dystrophy 1a,@DISEASE_Facioscapulohumeral_muscular_dystrophy_1a,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Familial cerebral cavernous malformation,@DISEASE_Familial_cerebral_cavernous_malformation,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Fanconi Anemia,@DISEASE_Fanconi_Anemia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Fasciculation,@DISEASE_Fasciculation,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Fatigue,@DISEASE_Fatigue,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Feeding and Eating Disorders,@DISEASE_Feeding_and_Eating_Disorders,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Femoral Fractures,@DISEASE_Femoral_Fractures,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Femoral Neck Fractures,@DISEASE_Femoral_Neck_Fractures,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Femoral Neuropathy,@DISEASE_Femoral_Neuropathy,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Femur Head Necrosis,@DISEASE_Femur_Head_Necrosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Fistula,@DISEASE_Fistula,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Flank Pain,@DISEASE_Flank_Pain,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Fluorosis Dental,@DISEASE_Fluorosis_Dental,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Freiberg's disease,@DISEASE_Freiberg's_disease,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Furcation Defects,@DISEASE_Furcation_Defects,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Gait Disorders Neurologic,@DISEASE_Gait_Disorders_Neurologic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Gastritis,@DISEASE_Gastritis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Genetic Diseases Inborn,@DISEASE_Genetic_Diseases_Inborn,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Glaucoma,@DISEASE_Glaucoma,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Glomerulosclerosis Focal Segmental,@DISEASE_Glomerulosclerosis_Focal_Segmental,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Glucose Galactose Malabsorption,@DISEASE_Glucose_Galactose_Malabsorption,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Glucose Metabolism Disorders,@DISEASE_Glucose_Metabolism_Disorders,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Granuloma,@DISEASE_Granuloma,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Graves Ophthalmopathy,@DISEASE_Graves_Ophthalmopathy,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,HAIR AN syndrome,@DISEASE_HAIR_AN_syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hantavirus Pulmonary Syndrome,@DISEASE_Hantavirus_Pulmonary_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Healthcare Associated Pneumonia,@DISEASE_Healthcare_Associated_Pneumonia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hearing Loss Noise Induced,@DISEASE_Hearing_Loss_Noise_Induced,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hearing Loss Sensorineural,@DISEASE_Hearing_Loss_Sensorineural,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Heart Defects Congenital,@DISEASE_Heart_Defects_Congenital,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Heart Rupture Post Infarction,@DISEASE_Heart_Rupture_Post_Infarction,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Heat Stroke,@DISEASE_Heat_Stroke,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hemangioma Cavernous,@DISEASE_Hemangioma_Cavernous,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hematologic Neoplasms,@DISEASE_Hematologic_Neoplasms,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hematoma Epidural Spinal,@DISEASE_Hematoma_Epidural_Spinal,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hemolytic Uremic Syndrome,@DISEASE_Hemolytic_Uremic_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hemorrhagic Fever Ebola,@DISEASE_Hemorrhagic_Fever_Ebola,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hemorrhagic Stroke,@DISEASE_Hemorrhagic_Stroke,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hepatic Encephalopathy,@DISEASE_Hepatic_Encephalopathy,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hepatic Veno Occlusive Disease,@DISEASE_Hepatic_Veno_Occlusive_Disease,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hepatitis B Chronic,@DISEASE_Hepatitis_B_Chronic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hepatitis Chronic,@DISEASE_Hepatitis_Chronic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hepatorenal form of glycogen storage disease,@DISEASE_Hepatorenal_form_of_glycogen_storage_disease,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hereditary Angioedema Type III,@DISEASE_Hereditary_Angioedema_Type_III,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hereditary Breast and Ovarian Cancer Syndrome,@DISEASE_Hereditary_Breast_and_Ovarian_Cancer_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Heredodegenerative Disorders Nervous System,@DISEASE_Heredodegenerative_Disorders_Nervous_System,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Herpes Zoster,@DISEASE_Herpes_Zoster,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hip Injuries,@DISEASE_Hip_Injuries,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hippocampal Sclerosis,@DISEASE_Hippocampal_Sclerosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Histiocytosis Langerhans Cell,@DISEASE_Histiocytosis_Langerhans_Cell,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hoarseness,@DISEASE_Hoarseness,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Horner Syndrome,@DISEASE_Horner_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Huntington Disease,@DISEASE_Huntington_Disease,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hyperbilirubinemia Shunt,@DISEASE_Hyperbilirubinemia_Shunt,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hypercalcemia,@DISEASE_Hypercalcemia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hyperinsulinism,@DISEASE_Hyperinsulinism,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hyperkeratosis lenticularis perstans,@DISEASE_Hyperkeratosis_lenticularis_perstans,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hyperlipoproteinemia Type I,@DISEASE_Hyperlipoproteinemia_Type_I,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hyperphosphatemia,@DISEASE_Hyperphosphatemia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hypersensitivity Delayed,@DISEASE_Hypersensitivity_Delayed,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hypertension Renal,@DISEASE_Hypertension_Renal,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hypertension Renovascular,@DISEASE_Hypertension_Renovascular,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hypoalphalipoproteinemias,@DISEASE_Hypoalphalipoproteinemias,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hypogonadism,@DISEASE_Hypogonadism,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hypokinesia,@DISEASE_Hypokinesia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hypomagnesemia primary,@DISEASE_Hypomagnesemia_primary,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hypopituitarism,@DISEASE_Hypopituitarism,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Hypothyroidism Autoimmune,@DISEASE_Hypothyroidism_Autoimmune,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Ichthyosis,@DISEASE_Ichthyosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Immunoglobulin G4 Related Disease,@DISEASE_Immunoglobulin_G4_Related_Disease,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Immunoglobulin Light chain Amyloidosis,@DISEASE_Immunoglobulin_Light_chain_Amyloidosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Immunologic Deficiency Syndromes,@DISEASE_Immunologic_Deficiency_Syndromes,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Infarction Anterior Cerebral Artery,@DISEASE_Infarction_Anterior_Cerebral_Artery,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Inflammatory Bowel Diseases,@DISEASE_Inflammatory_Bowel_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Influenza Human,@DISEASE_Influenza_Human,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Insulin Like Growth Factor I Resistance To,@DISEASE_Insulin_Like_Growth_Factor_I_Resistance_To,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Intestinal Neoplasms,@DISEASE_Intestinal_Neoplasms,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Intestinal Polyps,@DISEASE_Intestinal_Polyps,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Intestinal Volvulus,@DISEASE_Intestinal_Volvulus,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Intra Articular Fractures,@DISEASE_Intra_Articular_Fractures,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Invasive Fungal Infections,@DISEASE_Invasive_Fungal_Infections,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Invasive Pneumococcal Disease Recurrent Isolated 2,@DISEASE_Invasive_Pneumococcal_Disease_Recurrent_Isolated_2,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Jacobsen Distal 11q Deletion Syndrome,@DISEASE_Jacobsen_Distal_11q_Deletion_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Kidney Cortex Necrosis,@DISEASE_Kidney_Cortex_Necrosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,LEOPARD Syndrome,@DISEASE_LEOPARD_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Language Development Disorders,@DISEASE_Language_Development_Disorders,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Late Onset Disorders,@DISEASE_Late_Onset_Disorders,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Lateral Medullary Syndrome,@DISEASE_Lateral_Medullary_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Left sided gallbladder,@DISEASE_Left_sided_gallbladder,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Leukemia Lymphocytic Chronic B Cell,@DISEASE_Leukemia_Lymphocytic_Chronic_B_Cell,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Leukemia Myeloid,@DISEASE_Leukemia_Myeloid,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Leukemia Myeloid Acute,@DISEASE_Leukemia_Myeloid_Acute,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Leukoaraiosis,@DISEASE_Leukoaraiosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Leukocyte adhesion deficiency type 1,@DISEASE_Leukocyte_adhesion_deficiency_type_1,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Leukocytosis,@DISEASE_Leukocytosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Leukoencephalopathies,@DISEASE_Leukoencephalopathies,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Leukopenia,@DISEASE_Leukopenia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Lichen Planus Oral,@DISEASE_Lichen_Planus_Oral,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Lipid Metabolism Disorders,@DISEASE_Lipid_Metabolism_Disorders,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Lipoprotein Glomerulopathy,@DISEASE_Lipoprotein_Glomerulopathy,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Livedoid Vasculopathy,@DISEASE_Livedoid_Vasculopathy,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Liver Diseases Alcoholic,@DISEASE_Liver_Diseases_Alcoholic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Liver Failure Acute,@DISEASE_Liver_Failure_Acute,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Low Back Pain,@DISEASE_Low_Back_Pain,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Lower Urinary Tract Symptoms,@DISEASE_Lower_Urinary_Tract_Symptoms,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Lymphedema,@DISEASE_Lymphedema,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Lymphohistiocytosis Hemophagocytic,@DISEASE_Lymphohistiocytosis_Hemophagocytic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Lymphoma Large B Cell Diffuse,@DISEASE_Lymphoma_Large_B_Cell_Diffuse,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Lysosomal Storage Diseases,@DISEASE_Lysosomal_Storage_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,MASS syndrome,@DISEASE_MASS_syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,MINOCA,@DISEASE_MINOCA,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Macrophage Activation Syndrome,@DISEASE_Macrophage_Activation_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Major Affective Disorder 2,@DISEASE_Major_Affective_Disorder_2,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Malformations of Cortical Development,@DISEASE_Malformations_of_Cortical_Development,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Malignant mesenchymal tumor,@DISEASE_Malignant_mesenchymal_tumor,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Mast Cell Activation Disorders,@DISEASE_Mast_Cell_Activation_Disorders,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Membranous Obstruction of Inferior Vena Cava,@DISEASE_Membranous_Obstruction_of_Inferior_Vena_Cava,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Meningioma,@DISEASE_Meningioma,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Mesenteric Vascular Occlusion,@DISEASE_Mesenteric_Vascular_Occlusion,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Metabolic Side Effects of Drugs and Substances,@DISEASE_Metabolic_Side_Effects_of_Drugs_and_Substances,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Microcephaly,@DISEASE_Microcephaly,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Microphthalmia Syndromic 10,@DISEASE_Microphthalmia_Syndromic_10,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Migraine with Aura,@DISEASE_Migraine_with_Aura,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Migraine without Aura,@DISEASE_Migraine_without_Aura,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Mitochondrial Myopathy with a Defect in Mitochondrial Protein Transport,@DISEASE_Mitochondrial_Myopathy_with_a_Defect_in_Mitochondrial_Protein_Transport,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Monckeberg Medial Calcific Sclerosis,@DISEASE_Monckeberg_Medial_Calcific_Sclerosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Motion Sickness,@DISEASE_Motion_Sickness,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Mucormycosis,@DISEASE_Mucormycosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Muscle Cramp,@DISEASE_Muscle_Cramp,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Muscular Diseases,@DISEASE_Muscular_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Muscular Dystrophy Congenital Megaconial Type,@DISEASE_Muscular_Dystrophy_Congenital_Megaconial_Type,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Musculoskeletal Diseases,@DISEASE_Musculoskeletal_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Myasthenia Gravis,@DISEASE_Myasthenia_Gravis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Myelitis Transverse,@DISEASE_Myelitis_Transverse,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Myopathy Central Core,@DISEASE_Myopathy_Central_Core,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Myositis,@DISEASE_Myositis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Myxoma,@DISEASE_Myxoma,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Nasopharyngeal Carcinoma,@DISEASE_Nasopharyngeal_Carcinoma,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Nasopharyngeal Neoplasms,@DISEASE_Nasopharyngeal_Neoplasms,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Nausea,@DISEASE_Nausea,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Neisseriaceae Infections,@DISEASE_Neisseriaceae_Infections,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Neoplasm Invasiveness,@DISEASE_Neoplasm_Invasiveness,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Neoplasms Bone Tissue,@DISEASE_Neoplasms_Bone_Tissue,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Neoplasms Second Primary,@DISEASE_Neoplasms_Second_Primary,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Neoplasms Vascular Tissue,@DISEASE_Neoplasms_Vascular_Tissue,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Neuritis,@DISEASE_Neuritis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Neurobehavioral Manifestations,@DISEASE_Neurobehavioral_Manifestations,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Neurocognitive Disorders,@DISEASE_Neurocognitive_Disorders,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Neuromyelitis Optica,@DISEASE_Neuromyelitis_Optica,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Neutropenia,@DISEASE_Neutropenia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Niemann Pick Disease Type B,@DISEASE_Niemann_Pick_Disease_Type_B,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Niemann Pick Disease Type C,@DISEASE_Niemann_Pick_Disease_Type_C,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Niemann Pick Diseases,@DISEASE_Niemann_Pick_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Non Radiographic Axial Spondyloarthritis,@DISEASE_Non_Radiographic_Axial_Spondyloarthritis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Noncommunicable Diseases,@DISEASE_Noncommunicable_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Noninsulin dependent diabetes mellitus with deafness,@DISEASE_Noninsulin_dependent_diabetes_mellitus_with_deafness,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Nonsyndromic Holoprosencephaly,@DISEASE_Nonsyndromic_Holoprosencephaly,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Nystagmus Pathologic,@DISEASE_Nystagmus_Pathologic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Ocular Albinism type 1,@DISEASE_Ocular_Albinism_type_1,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Ocular Hypertension,@DISEASE_Ocular_Hypertension,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Oculocerebrorenal Syndrome,@DISEASE_Oculocerebrorenal_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Odontogenic Cyst Calcifying,@DISEASE_Odontogenic_Cyst_Calcifying,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Opitz GBBB Syndrome X Linked,@DISEASE_Opitz_GBBB_Syndrome_X_Linked,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Oropharyngeal Neoplasms,@DISEASE_Oropharyngeal_Neoplasms,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Osteoarthritis Hip,@DISEASE_Osteoarthritis_Hip,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Osteogenesis Imperfecta,@DISEASE_Osteogenesis_Imperfecta,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Osteogenesis Imperfecta Type V,@DISEASE_Osteogenesis_Imperfecta_Type_V,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Osteopenic Nonfracture Syndrome,@DISEASE_Osteopenic_Nonfracture_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Otitis Media,@DISEASE_Otitis_Media,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Ototoxicity,@DISEASE_Ototoxicity,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Ovarian Torsion,@DISEASE_Ovarian_Torsion,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Pancreatic Diseases,@DISEASE_Pancreatic_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Papilledema,@DISEASE_Papilledema,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Paraphilic Disorders,@DISEASE_Paraphilic_Disorders,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Paraplegia,@DISEASE_Paraplegia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Parkinson Disease Secondary,@DISEASE_Parkinson_Disease_Secondary,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Patellofemoral Pain Syndrome,@DISEASE_Patellofemoral_Pain_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Pelger Huet Anomaly,@DISEASE_Pelger_Huet_Anomaly,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Pemphigoid Bullous,@DISEASE_Pemphigoid_Bullous,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Peptic Ulcer,@DISEASE_Peptic_Ulcer,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Periodic fever familial autosomal dominant,@DISEASE_Periodic_fever_familial_autosomal_dominant,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Peripheral Arterial Occlusive Disease 1,@DISEASE_Peripheral_Arterial_Occlusive_Disease_1,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Peripheral Nerve Injuries,@DISEASE_Peripheral_Nerve_Injuries,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Peripheral Nervous System Diseases,@DISEASE_Peripheral_Nervous_System_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Peritoneal Neoplasms,@DISEASE_Peritoneal_Neoplasms,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Phantom Limb,@DISEASE_Phantom_Limb,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Photosensitivity Disorders,@DISEASE_Photosensitivity_Disorders,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Pigmentation Disorders,@DISEASE_Pigmentation_Disorders,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Pneumonia Aspiration,@DISEASE_Pneumonia_Aspiration,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Polymyositis,@DISEASE_Polymyositis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Polyuria,@DISEASE_Polyuria,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Porphyria Erythropoietic,@DISEASE_Porphyria_Erythropoietic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Post Concussion Syndrome,@DISEASE_Post_Concussion_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Postoperative Cognitive Complications,@DISEASE_Postoperative_Cognitive_Complications,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Postoperative Complications,@DISEASE_Postoperative_Complications,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Postthrombotic Syndrome,@DISEASE_Postthrombotic_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Precursor Cell Lymphoblastic Leukemia Lymphoma,@DISEASE_Precursor_Cell_Lymphoblastic_Leukemia_Lymphoma,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Presbycusis,@DISEASE_Presbycusis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Protein Losing Enteropathies,@DISEASE_Protein_Losing_Enteropathies,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Ptosis Hereditary Congenital 2,@DISEASE_Ptosis_Hereditary_Congenital_2,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Pulmonary Atelectasis,@DISEASE_Pulmonary_Atelectasis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Pulmonary Heart Disease,@DISEASE_Pulmonary_Heart_Disease,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Pupil Disorders,@DISEASE_Pupil_Disorders,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Q Fever,@DISEASE_Q_Fever,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Rabies,@DISEASE_Rabies,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Radiation Fibrosis Syndrome,@DISEASE_Radiation_Fibrosis_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Recurrence,@DISEASE_Recurrence,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Reproductive Tract Infections,@DISEASE_Reproductive_Tract_Infections,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Respiratory Hypersensitivity,@DISEASE_Respiratory_Hypersensitivity,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Respiratory Sounds,@DISEASE_Respiratory_Sounds,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Respiratory System Abnormalities,@DISEASE_Respiratory_System_Abnormalities,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Respiratory Tract Infections,@DISEASE_Respiratory_Tract_Infections,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Retinal Drusen,@DISEASE_Retinal_Drusen,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Retinal Dysplasia,@DISEASE_Retinal_Dysplasia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Retinal Vein Occlusion,@DISEASE_Retinal_Vein_Occlusion,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Retinitis,@DISEASE_Retinitis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Retinitis Pigmentosa,@DISEASE_Retinitis_Pigmentosa,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Retinoblastoma,@DISEASE_Retinoblastoma,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Retroperitoneal Fibrosis,@DISEASE_Retroperitoneal_Fibrosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Rh Null Regulator Type,@DISEASE_Rh_Null_Regulator_Type,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Rhabdomyolysis,@DISEASE_Rhabdomyolysis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Rheumatic Diseases,@DISEASE_Rheumatic_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Rhinitis Allergic,@DISEASE_Rhinitis_Allergic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Right ventricle hypoplasia,@DISEASE_Right_ventricle_hypoplasia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Schizophrenia,@DISEASE_Schizophrenia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Sciatic Neuropathy,@DISEASE_Sciatic_Neuropathy,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Segmentation syndrome 1,@DISEASE_Segmentation_syndrome_1,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Sepsis Associated Encephalopathy,@DISEASE_Sepsis_Associated_Encephalopathy,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Sexual Dysfunctions Psychological,@DISEASE_Sexual_Dysfunctions_Psychological,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Shock Septic,@DISEASE_Shock_Septic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Shoulder Fractures,@DISEASE_Shoulder_Fractures,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Signs and Symptoms,@DISEASE_Signs_and_Symptoms,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Signs and Symptoms Digestive,@DISEASE_Signs_and_Symptoms_Digestive,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Simian Acquired Immunodeficiency Syndrome,@DISEASE_Simian_Acquired_Immunodeficiency_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Skin Manifestations,@DISEASE_Skin_Manifestations,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Sleep Deprivation,@DISEASE_Sleep_Deprivation,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Small Cell Lung Carcinoma,@DISEASE_Small_Cell_Lung_Carcinoma,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Smoke Inhalation Injury,@DISEASE_Smoke_Inhalation_Injury,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Somnambulism,@DISEASE_Somnambulism,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Spastic Paraplegia Hereditary,@DISEASE_Spastic_Paraplegia_Hereditary,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Spinal Cord Diseases,@DISEASE_Spinal_Cord_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Spinal Cord Ischemia,@DISEASE_Spinal_Cord_Ischemia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Spinal Muscular Atrophy Type IV,@DISEASE_Spinal_Muscular_Atrophy_Type_IV,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Spinocerebellar Ataxias,@DISEASE_Spinocerebellar_Ataxias,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Splenic Neoplasms,@DISEASE_Splenic_Neoplasms,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Staphylococcal Infections,@DISEASE_Staphylococcal_Infections,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Stomach Ulcer,@DISEASE_Stomach_Ulcer,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Stomatitis Aphthous,@DISEASE_Stomatitis_Aphthous,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Stomatitis Denture,@DISEASE_Stomatitis_Denture,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Subarachnoid Hemorrhage Traumatic,@DISEASE_Subarachnoid_Hemorrhage_Traumatic,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Subdural Effusion,@DISEASE_Subdural_Effusion,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Substance Withdrawal Syndrome,@DISEASE_Substance_Withdrawal_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Superior Mesenteric Artery Syndrome,@DISEASE_Superior_Mesenteric_Artery_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Supranuclear Palsy Progressive,@DISEASE_Supranuclear_Palsy_Progressive,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Sveinsson Chorioretinal Atrophy,@DISEASE_Sveinsson_Chorioretinal_Atrophy,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Sweat Gland Diseases,@DISEASE_Sweat_Gland_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Symphalangism C. S. Lewis Type,@DISEASE_Symphalangism_C._S._Lewis_Type,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Systolic Murmurs,@DISEASE_Systolic_Murmurs,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Tang Hsi Ryu syndrome,@DISEASE_Tang_Hsi_Ryu_syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Tendinopathy,@DISEASE_Tendinopathy,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Teratoma,@DISEASE_Teratoma,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Tertiary Lymphoid Structures,@DISEASE_Tertiary_Lymphoid_Structures,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Thoracic Diseases,@DISEASE_Thoracic_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Thoracic Outlet Syndrome,@DISEASE_Thoracic_Outlet_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Thrombocythemia Essential,@DISEASE_Thrombocythemia_Essential,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Thrombotic Microangiopathies,@DISEASE_Thrombotic_Microangiopathies,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Thyroid Diseases,@DISEASE_Thyroid_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Thyroiditis Autoimmune,@DISEASE_Thyroiditis_Autoimmune,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Tibial Meniscus Injuries,@DISEASE_Tibial_Meniscus_Injuries,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Tinea Pedis,@DISEASE_Tinea_Pedis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Tooth Loss,@DISEASE_Tooth_Loss,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Tooth Resorption,@DISEASE_Tooth_Resorption,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Triglyceride Storage Disease Type II,@DISEASE_Triglyceride_Storage_Disease_Type_II,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Tuberculosis Multidrug Resistant,@DISEASE_Tuberculosis_Multidrug_Resistant,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Tuberous Sclerosis,@DISEASE_Tuberous_Sclerosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Tuberous Sclerosis 1,@DISEASE_Tuberous_Sclerosis_1,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Ureteral Neoplasms,@DISEASE_Ureteral_Neoplasms,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Urethral Neoplasms,@DISEASE_Urethral_Neoplasms,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Urticaria,@DISEASE_Urticaria,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Uterine Cervical Dysplasia,@DISEASE_Uterine_Cervical_Dysplasia,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Uterine Cervical Neoplasms,@DISEASE_Uterine_Cervical_Neoplasms,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Uterine Diseases,@DISEASE_Uterine_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Uveitis,@DISEASE_Uveitis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Varicose Ulcer,@DISEASE_Varicose_Ulcer,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Vascular Malformation Primary Intraosseous,@DISEASE_Vascular_Malformation_Primary_Intraosseous,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Ventricular Dysfunction,@DISEASE_Ventricular_Dysfunction,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Ventricular Premature Complexes,@DISEASE_Ventricular_Premature_Complexes,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Vertigo,@DISEASE_Vertigo,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Virilism,@DISEASE_Virilism,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Vitamin D Deficiency,@DISEASE_Vitamin_D_Deficiency,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Vitreoretinopathy Proliferative,@DISEASE_Vitreoretinopathy_Proliferative,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Voice Disorders,@DISEASE_Voice_Disorders,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Warburg Sjo Fledelius syndrome,@DISEASE_Warburg_Sjo_Fledelius_syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Wounds Nonpenetrating,@DISEASE_Wounds_Nonpenetrating,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,X Linked Combined Immunodeficiency Diseases,@DISEASE_X_Linked_Combined_Immunodeficiency_Diseases,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Xanthomatosis Cerebrotendinous,@DISEASE_Xanthomatosis_Cerebrotendinous,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,Zellweger Syndrome,@DISEASE_Zellweger_Syndrome,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,gaze palsy familial horizontal with progressive scoliosis,@DISEASE_gaze_palsy_familial_horizontal_with_progressive_scoliosis,1026
+Atorvastatin,@CHEMICAL_Atorvastatin,von Willebrand Diseases,@DISEASE_von_Willebrand_Diseases,1026
+Atorvastatin,@CHEMICAL_2_hydroxyatorvastatin,Coronary Disease,@DISEASE_Coronary_Disease,1
+Atorvastatin,@CHEMICAL_amlodipine_atorvastatin_drug_combination,Hypertension,@DISEASE_Hypertension,7
+Atorvastatin,@CHEMICAL_amlodipine_atorvastatin_drug_combination,Dyslipidemias,@DISEASE_Dyslipidemias,7
+Atorvastatin,@CHEMICAL_amlodipine_atorvastatin_drug_combination,Angina Pectoris,@DISEASE_Angina_Pectoris,7
+Atorvastatin,@CHEMICAL_amlodipine_atorvastatin_drug_combination,Cardiovascular Diseases,@DISEASE_Cardiovascular_Diseases,7
+Atorvastatin,@CHEMICAL_amlodipine_atorvastatin_drug_combination,Heart Diseases,@DISEASE_Heart_Diseases,7
+Atorvastatin,@CHEMICAL_amlodipine_atorvastatin_drug_combination,Hyperlipidemias,@DISEASE_Hyperlipidemias,7
+Atorvastatin,@CHEMICAL_amlodipine_atorvastatin_drug_combination,Vascular Remodeling,@DISEASE_Vascular_Remodeling,7

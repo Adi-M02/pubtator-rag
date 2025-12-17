@@ -1,0 +1,34 @@
+drug_name,drug_id,disease_name,disease_id,pmid_count,total_articles
+Atorvastatin,@CHEMICAL_Atorvastatin,Inflammation,@DISEASE_Inflammation,100,711
+Atorvastatin,@CHEMICAL_Atorvastatin,Hypercholesterolemia,@DISEASE_Hypercholesterolemia,100,426
+Atorvastatin,@CHEMICAL_Atorvastatin,Atherosclerosis,@DISEASE_Atherosclerosis,99,401
+Atorvastatin,@CHEMICAL_Atorvastatin,Coronary Disease,@DISEASE_Coronary_Disease,100,355
+Atorvastatin,@CHEMICAL_Atorvastatin,Dyslipidemias,@DISEASE_Dyslipidemias,100,334
+Atorvastatin,@CHEMICAL_Atorvastatin,Diabetes Mellitus Type 2,@DISEASE_Diabetes_Mellitus_Type_2,100,337
+Atorvastatin,@CHEMICAL_Atorvastatin,Hyperlipoproteinemia Type II,@DISEASE_Hyperlipoproteinemia_Type_II,100,317
+Atorvastatin,@CHEMICAL_Atorvastatin,Acute Coronary Syndrome,@DISEASE_Acute_Coronary_Syndrome,100,295
+Atorvastatin,@CHEMICAL_Atorvastatin,Cardiovascular Diseases,@DISEASE_Cardiovascular_Diseases,100,315
+Atorvastatin,@CHEMICAL_Atorvastatin,Hyperlipidemias,@DISEASE_Hyperlipidemias,100,288
+Atorvastatin,@CHEMICAL_Atorvastatin,Coronary Artery Disease,@DISEASE_Coronary_Artery_Disease,100,289
+Atorvastatin,@CHEMICAL_Atorvastatin,Myocardial Infarction,@DISEASE_Myocardial_Infarction,100,277
+Atorvastatin,@CHEMICAL_Atorvastatin,Hypertension,@DISEASE_Hypertension,100,262
+Atorvastatin,@CHEMICAL_Atorvastatin,Diabetes Mellitus,@DISEASE_Diabetes_Mellitus,100,291
+Atorvastatin,@CHEMICAL_Atorvastatin,Stroke,@DISEASE_Stroke,100,206
+Atorvastatin,@CHEMICAL_Atorvastatin,Neoplasms,@DISEASE_Neoplasms,100,142
+Atorvastatin,@CHEMICAL_Atorvastatin,Plaque Atherosclerotic,@DISEASE_Plaque_Atherosclerotic,99,99
+Atorvastatin,@CHEMICAL_Atorvastatin,Infarction,@DISEASE_Infarction,88,88
+Atorvastatin,@CHEMICAL_Atorvastatin,Heart Failure,@DISEASE_Heart_Failure,90,90
+Atorvastatin,@CHEMICAL_Atorvastatin,Metabolic Syndrome,@DISEASE_Metabolic_Syndrome,89,89
+Atorvastatin,@CHEMICAL_Atorvastatin,Fibrosis,@DISEASE_Fibrosis,82,82
+Atorvastatin,@CHEMICAL_Atorvastatin,Kidney Diseases,@DISEASE_Kidney_Diseases,87,87
+Atorvastatin,@CHEMICAL_Atorvastatin,Ischemia,@DISEASE_Ischemia,82,82
+Atorvastatin,@CHEMICAL_Atorvastatin,Atrial Fibrillation,@DISEASE_Atrial_Fibrillation,81,81
+Atorvastatin,@CHEMICAL_Atorvastatin,Myocardial Ischemia,@DISEASE_Myocardial_Ischemia,76,76
+Atorvastatin,@CHEMICAL_2_hydroxyatorvastatin,Coronary Disease,@DISEASE_Coronary_Disease,1,1
+Atorvastatin,@CHEMICAL_amlodipine_atorvastatin_drug_combination,Hypertension,@DISEASE_Hypertension,7,7
+Atorvastatin,@CHEMICAL_amlodipine_atorvastatin_drug_combination,Dyslipidemias,@DISEASE_Dyslipidemias,2,2
+Atorvastatin,@CHEMICAL_amlodipine_atorvastatin_drug_combination,Angina Pectoris,@DISEASE_Angina_Pectoris,1,1
+Atorvastatin,@CHEMICAL_amlodipine_atorvastatin_drug_combination,Cardiovascular Diseases,@DISEASE_Cardiovascular_Diseases,2,2
+Atorvastatin,@CHEMICAL_amlodipine_atorvastatin_drug_combination,Heart Diseases,@DISEASE_Heart_Diseases,1,1
+Atorvastatin,@CHEMICAL_amlodipine_atorvastatin_drug_combination,Hyperlipidemias,@DISEASE_Hyperlipidemias,1,1
+Atorvastatin,@CHEMICAL_amlodipine_atorvastatin_drug_combination,Vascular Remodeling,@DISEASE_Vascular_Remodeling,1,1
